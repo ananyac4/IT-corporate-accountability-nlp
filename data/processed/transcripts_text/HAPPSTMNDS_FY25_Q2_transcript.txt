@@ -1,0 +1,598 @@
+Happiest Minds Technologies Limited
+Regd. Office: #53/1-4, Hosur Main Road, Madivala,
+Bengaluru-560068, Karnataka, India
+CIN of the Co. L72900KA2011PLC057931
+P: +91 80 6196 0300, F: +91 80 6196 0700
+Website: www.happiestminds.com
+Email: investors@happiestminds.com
+November 21, 2024
+Listing Compliance & Legal Regulatory Listing & Compliance
+BSE Limited National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers Exchange Plaza, Bandra Kurla Complex
+Dalal Street, Mumbai 400 001 Bandra East, Mumbai 400 051
+Stock Code: 543227, 974728, 974820 & 975101 Stock Code: HAPPSTMNDS
+Dear Sir/Madam,
+Sub: Transcript of Earnings Call held on November 14, 2024
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+read with SEBI (Listing Obligations and Disclosure Requirements) (Second Amendment) Regulations,
+2021, please find enclosed the transcript of the Earnings Call held on November 14, 2024, post
+announcement of financial results of the Company for the quarter and half year ended as on
+September 30, 2024. The transcript is also uploaded on the Company’s website
+(https://www.happiestminds.com/investors).
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For Happiest Minds Technologies Limited
+Praveen Kumar Darshankar
+Company Secretary & Compliance Officer
+Membership No. F6706
+“Happiest Minds Technologies Limited
+Q2 FY '25 Earnings Conference Call”
+November 14, 2024
+MANAGEMENT: Mr. Ashok Soota – Executive Chairman
+Mr. Joseph Anantharaju – Executive Vice Chairman and
+Chief Executive Officer – Product and Digital Engineering
+Services
+Mr. Venkatraman Narayanan – Managing Director and
+Chief Financial Officer
+Mr. Rajiv Shah – Executive Director
+Mr. Ram Mohan – President and Chief Executive Officer –
+Infrastructure Management and Security Services
+Mr. Sridhar Mantha – President and Chief Executive
+Officer, Generative AI Business Services
+Mr. Sunil Gujjar – Head of Investor Relations
+MODERATOR: Mr. Apurva Prasad – HDFC Securities
+Page 1 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+Moderator: Ladies and gentlemen, good day, and welcome to Happiest Minds Limited Q2 FY '25 Earnings
+Conference Call hosted by HDFC Securities. As a reminder, all participant lines will be in the
+listen-only mode, and there will be an opportunity for you to ask questions after the presentation
+concludes. Should you need assistance during the conference call, please signal an operator by
+pressing star then zero on your touch-tone phone. Please note that this conference is being
+recorded.
+I now hand the conference over to Mr. Apurva Prasad from HDFC Securities. Thank you, and
+over to you, sir.
+Apurva Prasad: Thank you, Steve. Good morning and thank you all for joining us today on the Q2 FY '25
+earnings call of Happiest Minds Technologies Limited. On behalf of HDFC Securities, I would
+like to thank the management of Happiest Minds for giving us the opportunity to host this
+earnings call. So today, we have with us from the company, Mr. Ashok Soota, Executive
+Chairman; Mr. Joseph Anantharaju, Executive Vice Chairman and CEO, Product and Digital
+Engineering Services, PDES; Mr. Venkatraman Narayanan, Managing Director and CFO; Mr.
+Rajiv Shah, Executive Director; Mr. Ram Mohan, CEO, Infrastructure Management and
+Securities Services, IMSS; Mr. Sridhar Mantha, CEO, Generative AI Business Services, GBS;
+and Mr. Sunil Gujjar, Head of Investor Relations.
+With that introduction, I'll hand it over to you, Sunil, for the Safe Harbor and to take the
+proceedings forward. Thank you, and over to you.
+Sunil Gujjar: Thank you, Apurva. Good morning to all participants in this call. My apologies for a delayed
+start because of a small glitch. Welcome to this conference call to discuss the financial results
+for the second quarter ended September 30th, 2024. I am Sunil, Head of Investor Relations. We
+hope you have had the opportunity to review the earnings release we issued yesterday.
+Now let me quickly begin the agenda for today's call. Ashok will begin the call by sharing his
+perspectives on the business environment and our results. Venkat and Joseph will then speak
+about our financial performance and operational highlights, after which, we will have the floor
+open for Q&A.
+Before I hand over, let me begin with the Safe Harbor statement. During the call, we would
+make forward-looking statements. These statements consider the environment we see as of today
+and carry a risk in terms of uncertainty because of which, the actual results could be different.
+We do not undertake to update those statements periodically. Now let me pass it on to Ashok.
+Ashok Soota: Good morning to everybody. I'm happy to inform you that Happiest Minds has delivered our
+best growth results since the last 2 years. We have had double-digit serial quarter-over-quarter
+growth, which is 12.7% and the year-over-year growth was 28.2%. The transformational
+changes we initiated this year are all gathering momentum.
+These changes include the acquisition of PureSoftware and Aureus, the creation of our GenAI
+business unit named as GBS, hiring a senior leader to expand net new sales, which we call as
+NN sales; and creating 6 industry groups, each headed by an industry manager. The full impact
+of all these changes on revenue and growth will become visible in the quarters ahead.
+Page 2 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+PureSoftware and Aureus teams, now part of Happiest Minds family, are geared up to drive
+synergies. We will expand into each other's accounts, cross leverage our complementary skills
+and capabilities. For instance, we took our GenAI services to a large global financial services
+provider, who is a customer of PureSoftware.
+Arttha our award-winning Banking-as-a-Service platform from PureSoftware, with a very strong
+brand recall in Southeast Asia and Africa, is now being taken to new markets such as Philippines.
+India is a large market and so far, unexplored for Arttha, and our combined teams will lead the
+entry of Arttha into India.
+Our GenAI business, or GBS, continues to take rapid strides in building a leadership position by
+being a thought leader through innovation, strong partnerships with technology tool providers.
+We see huge potential for replicable scales as a new class of solutions are becoming available
+through GenAI, and you can take that to many customers.
+We have such opportunities in areas like research, customer service, learning and contract
+management. Maninder, our Chief Growth Officer, who joined us in Q2, is now in charge of net
+new sales, and has already built a healthy new logo pipeline across our focus industry groups.
+We expect many more new logo wins, which will grow as the accounts are transitioned to the
+respective industry managers.
+Each of our industry groups are maturing, all of them are into engines of growth and you can
+see from the results that some are already leading the growth like BFSI and Healthcare. We have
+developed strong capabilities in bioinformatics, which are unparalleled in the industry, with in-
+house experts on areas like molecular biology, data scientists, engineers and health care domain
+specialists, we work with some medical research community from prestigious medical
+institutions in India and abroad.
+In the reported quarter, a European Health Research Institute shows Happiest Minds to build
+their AI and ML data platform. In another instance, for a leading medical care organization in
+India, Happiest Minds will leverage emerging analytics to review medical information and aid
+diagnosis. These are all very high end, very specialized areas, which I believe there is probably
+nobody within the country would ever be able to deliver because of the expertise we have built
+up.
+Let me briefly share my views on the outlook. The results demonstrate our continued ability to
+manage our business with rigor and discipline in a very dynamic business environment with the
+transformation in the agenda that I outlined, we are very excited about the future as the outlook
+has never looked better than what we see today.
+Before I pass this on to Venkat, let me congratulate him as he was recognized during the quarter
+as the leading CFO of the Year in the IT, ITeS sector at the CII CFO Excellence Awards for '23
+'24. I'm sure Happiest Minds will continue to be benefited by his leadership, and Venkat, along
+with his colleagues at the Executive Board and other senior leaders, including from the integrated
+teams of PureSoftware and Aureus, will play a very pivotal role in the exciting phase ahead for
+Happiest Minds.
+Page 3 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+With this, I conclude my commentary and pass this over to Venkat. Thank you.
+Venkatraman Narayanan: Good morning. Thank you, Ashok. Let me begin my commentary by sharing the financial
+operational highlights for the quarter, followed by the half year. For the quarter, our revenue was
+$62.4 million, showing a good growth in constant currency of 12.7% on a Q-o-Q basis and about
+28.2% Y-o-Y. The growth was driven by a stable pricing environment, higher volumes and the
+full quarter consolidation benefit coming from PureSoftware and Aureus.
+Our total income for the quarter was ₹549 crores, showing a growth of 12.1% over the previous
+quarter and 27.9% on a year-over-year basis. We reported an EBITDA of ₹119 crores, showing
+a growth of 1.8% over the previous quarter and 13.4% over the previous year. EBITDA as a
+percentage of total income stood at 21.7% this quarter.
+The drop from 23.9% in the previous quarter was primarily due to pay increases that we
+instituted for most of our people, which was rolled out effective July 1st, which had an impact of
+almost 230 basis points. The more important aspect is an investment of about ₹9 crores to ₹10
+crores that we have made in the quarter in our GenAI business, which is another 150 bps.
+We have also made investments into the new sales engine with Maninder and his team, and that
+also had an impact on the EBITDA. EBITDA for the quarter adjusted just for the pay increase
+and the GenAI investments would be about 24%+ and like the previous quarter, reflecting the
+fundamental strength in our business and our commitment to investment in new and current
+technologies.
+If we adjust for the pay increase and the investments that we are making as a services company,
+which gets consistently evaluated on profits into new technologies and expansion to new
+markets. Our EBITDA is slightly higher than the last quarter and maybe even similar to what
+we saw in the last year.
+It is pertinent to note that on pay increases, we have gone ahead with our regular cycles, backdrop
+of many of our peer companies who have either deferred or cancelled their regular cycles. So
+that's something that's on the press. We've made significant investments into our new-new sales
+force, and that too has impacted our margins.
+Our current sales and sales support team is now 62+. I'm happy to share that our margins of
+21.7% is within the guided range of 20% to 22% for the year. From this quarter, we have started
+showing operating profit, which is defined as EBITDA excluding other income over operating
+revenues. This has grown from ₹92 crores in the previous quarter to ₹93 crores in the current.
+It stands at about 17.9% of revenues compared to 19.8% in the previous quarter. The operating
+revenues takes out the slight noise that you can have due to other income. The drop in operating
+profit is primarily on account of the pay increases, investment in GBS, and the new- new sales
+team.
+Growth in subsequent quarters, both volumetric and in terms of selling higher-priced services
+like Gen AI and repeatable sales services like GenAI, we should be able to get back to our earlier
+levels of profitability.
+Page 4 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+Moving from operating margin to PBT. The meaningful change that has happened is the
+increased interest cost on account of borrowings made for acquisitions. Noncash costs, which is
+amortization of intangibles from acquisitions, continue to remain the same as last quarter. PBT
+despite these changes, remained at ₹67 crores.
+Now that the cost of acquisitions has stabilized, this would be the base for future quarters. We
+have, from this quarter, started reporting the metric of cash EPS, along with the normal diluted
+EPS in our presentations. I believe cash EPS gives an alternate and realistic view of shareholder
+returns shorn of noncash accounting charges, which one seems to take in larger proportions as
+we grow through acquisitions.
+Our cash EPS for the quarter was ₹6.18 per share compared to ₹6.11 in the previous quarter and
+₹5.64 in the previous year. Cash EPS for the quarter has just shown a growth of 9.5% Y-o-Y.
+Normal diluted EPS for the quarter was ₹3.29 compared to ₹3.39 in the previous quarter and
+₹3.90 in the previous year.
+Coming to our half yearly performance, our revenues for the first half of this year was $ 118
+million with a growth of 23.1% in constant currency. Total income for the half year stood at
+₹1,038 crores with a growth of 24.5% Y-o-Y. We have reached the ₹1,000 crores mark by half
+year-end. ₹2,000 crores for the year looks far from course.
+EBITDA has grown to ₹235 crores from ₹208 crores, showing a growth of 13.1%. EBITDA as
+a percentage of revenue is at 22.7%, which is in line with our forecast for the year of 20% to
+22%. Operating margin has grown to ₹185 crores from ₹174 crores, showing a growth of 6.5%.
+All the reasons shared earlier for the quarter, which are investments in GenAI business, new
+sales team, pay increases have had an impact on margins even for the half year and it's despite
+all of those that we have shown expansion in absolute terms. When we come to PBT, we have
+taken an additional noncash charge of approximately ₹17 crores.
+Cash and onetime acquisition cost of about ₹6.5 crores for the half year. These have pulled down
+our PBT from ₹157 crores to ₹136 crores. That's because of the acquisition amortization and the
+onetime acquisition costs that we had in the first quarter. So that's an impact of about ₹23.5
+crores, which has pulled down the PBT.
+Adjusted for that, our PBT continues to grow and expand in absolute terms. Here is why I said
+the cash EPS number gives a clearer picture of our financials and growth. Cash EPS for the first
+half year stood at ₹12.34 compared to the ₹11.83 in the last year, showing a growth of 4.5%.
+EPS for the first half was ₹6.68 compared to the ₹7.92 in the previous year.
+Switching gears to some operational metrics. Our DSO on a consolidated basis stands steady at
+83 days. Cash on our books stands at about ₹1,470 crores. We continue to report solid cash
+conversion ratios, and our half yearly free cash conversion was about ₹232 crores, which is about
+98.4% of EBITDA.
+Return on capital metrics of ROCE and ROE are at 23.1% and 13.5% respectively. We closed
+quarter with 6,580 Happiest Minds and during the first half, we had 144 Happiest Minds join us
+Page 5 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+from campus. Trailing 12-month attrition has inched up slightly to 14.4% from the 13.5% in the
+previous quarter.
+Our utilization during the quarter was 76.3% compared to 78.2% in the last quarter and the dip
+primarily is because of the campus hires and the GenAI continuing to be in the 20% to 25%
+utilization as in the previous quarter. We ended the quarter with 281 customers, 59 million-dollar
+customers, 82 customers who have got revenues of more than $1 billion, and average revenue
+per customer of $842,000.
+If you look at all these metrics and take it together with a repeat sale of 95%, it gives you a fair
+handle of the solid ground that we are currently on. We have made satisfactory progress in
+integrating the acquired entities, driving operational synergies, ERP, people and process
+integration plans and various other back-end support systems, which are in advanced stages of
+completion.
+Progress on deals is tracked and measured regularly. What is more important is the integration
+at the sales and delivery customer upsell, cross-sell standpoint, all of which is happening at a
+very fervent pace. As of today, we have about 700+ open positions, and this is in anticipation of
+both a demand builds and existing demand from our customers.
+We are building capacity across our delivery centre in Bangalore, Pune, and Noida and we've
+added about 500 in the first half of this year, and we are looking to expand into a larger delivery
+centre in Hyderabad.
+Finally, in line with our progressive dividend policy, the Board of Directors of the company
+have recommended an interim dividend of ₹2.50 per equity share. Record date for the payout
+has been fixed as November 27, 2024. Cash flow on discount will be ₹38 crores, very similar to
+the interim dividend paid out in the last year.
+Coming to the outlook for the rest of the year. We are hopeful of meeting our revenue growth
+projections of 30% to 35% for this fiscal. We are beginning to see positive changes in the
+demand environment and like the rest of the industry, expecting to see a fillip in the fourth
+quarter.
+While Q2 is a quarter with pay increases, Q3 is one with lesser number of working days due to
+vacations and furloughs by clients. We are also likely to see a small impact on account of the
+pay increase for the leadership team. On margins, both above, the lower working days and the
+leadership pay increases will have an effect and which we will address in Q3.
+With this, I conclude my commentary and pass this over to Joseph.
+Joseph Anantharaju: Good morning to all the participants in the call. Building on a strong and transformational Q1,
+we have delivered yet another quarter of strong performance across all fronts. The results
+demonstrate Happiest Minds commitment to its customers to deliver value at scale, our ability
+to keep ahead of market and technology shifts, add value to our customers' transformation
+initiatives and be the partner of choice in their strategic imperatives.
+Page 6 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+Our results and growth have been well rounded with all geos and verticals demonstrating
+excellent performance. We have expanded our base of deep client relationships through our
+strong account mining practices and proactively anticipating the needs of our customers. We
+received an industry-leading Net Promoter Score of 65, Extending the impressive NPS scores
+that we have received over the last few years, which is a validation of the commitment of our
+Happiest Minds through our mission of happiest people, happiest customers, and the drive to
+deliver value in our execution. During the reported quarter, our $ 3 million to $ 5 million
+customers have increased by 4 to a total of 6, while average revenue per customer picked up to
+$842,000.
+We worked with 59 customers who contribute more than $1 million in revenues, up from 58 last
+quarter. We worked with 82 billion-dollar corporations, which offers us scope to increase wallet
+share and drive growth through the efforts of our newly formed industry groups. I would now
+like to share some interesting work that we are doing with our customers.
+Our rich experience in Mobility, Analytics and IoT allow us to combine machine-generated data
+with human insights to help develop products that reengineer businesses to drive effective
+outcomes. In the reported quarter, this new win entails Happiest Minds to provide consulting-
+led solutions to develop unified IoT platform for a North American-based energy tech company.
+Customers are seeking to reinvent their business and looking at new ways of working by
+leveraging AI technologies to drive productivity. For a European health research institute,
+Happiest Minds is building their AI/ML data platform leveraging advanced analytical techniques
+to help them discover new paradigms.
+Our IMSS business enables agile infrastructure through a consult, transform and manage
+approach in hybrid and multicloud digital environments. I'm happy to share that during the
+quarter, we won our single largest multimillion dollar deal to provide cybersecurity services for
+one of the largest pharmaceutical contract manufacturers.
+During the reported period, we launched Happiest Minds Secure 360, GenAI-powered cutting-
+edge solution, designed to deliver unmatched speed and precision in identifying and responding
+to cyber threats. This solution enables organizations to address even the most complex and
+unprecedented security incidents at 3x the speed of traditional remediation processes.
+During this quarter, Happiest Minds was chosen as a strategic Cybersecurity partner to oversee
+end-to-end design and implementation of Cybersecurity program for one of the largest banks in
+India. Talking about our Generative AI business unit, which is enabling companies to accelerate
+their digital transformation by leveraging the part of GenAI, our 120 GenAI specialists, along
+with the larger 350+ AI specialized workforce, are working on 25 different projects, as we speak,
+with several of these POCs moving into production and starting to deliver business value.
+Happiest Minds is also co-creating solutions with our customers in the areas of employee
+productivity, audio sentiment analysis, information with stream and contextualization and
+persona-based virtual engagements. First is, a GenAI low-code, no-code test automation
+Page 7 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+platform, streamlines and automates the testing processes, enabling rapid development cycle and
+hence enhancing software quality.
+Happiest Minds is a proud member of the Microsoft AI Partner Council program, a recognition
+of our AI expertise and our commitment to driving digital transformation through Microsoft AI
+ecosystem. For large beverage makers, we are leveraging Microsoft Azure AI to implement a
+GenAI solution to drive workforce efficiency and improve utilization of customer-facing assets.
+For a world's leading digital print platform in the energy sector, Happiest Minds was chosen to
+drive their GenAI innovation in the field data collection and retrieval. Faster collection and
+retrieval give the possibilities of speedier resolution and lower downtimes. As an innovator and
+technology leader, Happiest Minds is also rapidly adopting GenAI internally to drive
+productivity.
+We have identified a list of areas and use cases across various corporate functions and have put
+together a plan to execute on these use cases, which is being driven by our GBS business unit.
+For instance, our recently rolled out SmilesBot has been trained on our people's policies and
+contact which retrieves and answers queries and questions related to our HR policies.
+Our talent acquisition teams are piloting the use of an in-house developed resume matcher with
+GenAI-based solution that automatically matches the job description to matching profile,
+enabling recruiters to search for files faster. Talking about our acquisition, we have established
+joint go-to sales with PureSoftware and Aureus teams with focused effort on cross-selling both
+ways. This initiative is being led by industry group heads.
+We are working closely with Aureus and PureSoftware sales and delivery teams to ensure
+expertise to leverage both ways to serve our customers better. For example, we were able to take
+our GenAI services to a large global financial service provider, who is a customer of
+PureSoftware. The sales teams on both sides are very excited about the value proposition of the
+larger Happiest Minds entity and are striving to spread their wings into each other's accounts.
+During the quarter, our award-winning platform, Arttha, was implemented for an Africa-based
+market leader in logistics and supply chain. Coming to the demand environment, we are seeing
+customers continue to leverage a wide range of digital technologies to reinvent their business
+and drive productivity and growth.
+While geopolitical uncertainties continue, the continued good performance of the U.S. economy,
+the resolution of U.S. election in a rather decisive manner and the cut in interest rates are acting
+as a tailwind encouraging customers to start planning new transformation initiatives for 2025.
+We've already seen trends of this in sectors like BFSI and capital-intensive sectors like
+manufacturing and expect other verticals to demonstrate a similar behaviour.
+Customers continue to look for ways to leverage the data using analytics and AI, while using
+GenAI to bring in operational efficiencies and drive revenue growth. Our expertise and
+ecosystem relationships, the significant investment and early leadership positions in promising
+technologies like GenAI, AI, Automation, IoT and other digital technologies will help us
+capitalize on these opportunities that we expect to come our way.
+Page 8 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+With this, I conclude my commentary. Operator, we can open the floor for Q&A. Thank you.
+Moderator: The first question is from the line of Apurva Prasad from HDFC Securities.
+Apurva Prasad: Good show on margins. If I look at the growth guidance, even at the lower end of 30%, that
+translates to over a 6% sequential growth in the next 2 quarters. I wanted to understand if that
+visibility is there in terms of deals, SOWs, especially as Q3 will be having furlough and working
+days impact.
+Venkatraman Narayanan: We realized that a significant amount of work needs to be done to reach that number to 30%.
+Today, we are at about 24% in dollar terms or constant currency of about 24%. So there is that
+growth that we have to bring in because we had acquired PureSoftware and Aureus.
+We had baked in a certain expectation coming in from Arttha banking. Arttha banking, is an
+award-winning banking platform. The revenue flow from there tends to be lumpy. So we have
+got a very good pipeline on that front, and there is expectation to close at least 2 large deals in
+the next 2 quarters.
+The second is, we had taken a little bit of an aggressive decision on the growth coming in through
+cross-sell, upsell, because that's the only way to drive integration. There is a significant element
+of cross-sell, upsell on both sides, and we have seen quite a bit of traction happening.
+The third upside that we are really looking for are some of the large deals that are in the pipeline.
+We did add 2 significant $5 million run rate customers during the half year, which we are
+expecting to ramp up.
+The fourth is for the GenAI POC to work, we are looking for a steady stream of work &
+repeatable sales. Finally, we have Maninder firing the new- new sales engine, but there has to
+be a certain amount of fairness, you can expect from a team which is just about joined. But while
+that be, so he is also contributing quite a bit to the pipeline addition.
+Ashok Soota: I'm just asking you Venkat a question here. Would it be fair to say on that question which said
+that we'll have a 6% average needed in the next 2 quarters that Q3 will be a little lower.
+Q4 where the bulk of the benefit of some of the large deals, including even that bioinformatic
+deal that we are working on, they will start generating revenue in Q4. Therefore, clearly, Q4 will
+be better than Q3, heading towards on a grand total basis along the lines we have indicated.
+Would you say that is correct?
+Venkatraman Narayanan: That is right, Ashok. Q4 is where we have deals and hoping for Arttha banking license deals
+also.
+Apurva Prasad: Just on the point of the seasonality, what is the normal seasonality on Puresoftware and Aureus
+through the quarters? Does it tend to get stronger Q3 on Arttha?
+Venkatraman Narayanan: What we have seen as a trend is Q4 tends to be the best quarter because that's when budgets get
+released and it's about a 6-month to 9-month sales cycle and it's a term license kind of a structure.
+Page 9 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+Last year, we saw that, and we are seeing the same this year as we go through the financials. Q3,
+Q4 is when the signoffs happen.
+To be very honest, as a services company we had IP-linked sales in the past and about 10%
+comes from that sort of a business. But the pure product business and the lumpiness is something
+that we will now start seeing as this starts growing, we'll have to plan to see how that will get
+factored into our revenue projections and flows.
+Apurva Prasad: The other question is with the restructuring done on the industry groups, the verticalized
+structure with the investments in building the sales engine. What opportunity do you see in the
+large client cohort versus the mid-market client segment over the medium term. How can sort
+of that revenue per client number look like over the next few years?
+Joseph Anantharaju: Our goal creating the industry group and then in sales was to ensure that we bring in more
+focused specialization and accountability to both functions. The charter for the new logo sales
+team has been to pursue larger deals and to target more of larger customers. We do have 82
+billion-dollar customers that I've already talked about. But I feel that going forward, we should
+be targeting more of these companies so that the initial deal sizes themselves pick up and become
+larger as this group starts functioning.
+The industry groups that we form, the industry group heads will be working closely with our
+account managers and client partners to further expand into our existing customers, especially
+the large customers, and increase our wallet of share, which should also again start driving
+growth. Both of these will lead to an increase in the number of million-dollar customers, $5
+million customers and $10 million customers, and also drive up the average revenue per
+customer.
+Moderator: The next question is from the line of Chirag from Ashika Institutional Equities.
+Chirag: As we aim for a $1 billion kind of top line post FY '30, what would be the thought process on
+this onshore/offshore mix? From an industry perspective, the companies which have crossed that
+milestone and have relatively high base revenue. The mix is around 60-40. Second, our margin
+is relatively higher on EBITDA, considering it from ex of wage hike impact.
+We have been aiming for a high growth of 20%+, for the next 3, 4 years. Is there any impact on
+margin or will we go in line with what industry standard is compared to the other similar size of
+companies? When do you think the Edtech vertical will be back to the normal growth trajectory?
+Ashok Soota: When you talk about our on-site/offshore ratios, we are very pleased with that percentage. Of
+course, we'd like to get more because it drives more revenue, and it helps to improve our margins.
+It's also giving much higher value to the customer because after all, they are bringing down the
+cost of their project. It's also an indication that in contrast with other people who've got a 60-40
+ratio, we are delivering lots more volume because we are charging at a lower rate for the
+offshore.
+Page 10 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+Therefore, the reasons why we want to increase on-site is to get more consulting-led business
+out there and use it as a front end for generating more business, which we finally drive offshore.
+We are not upset about the fact that some be 60 or 40.
+We are 15.5 down to 11.4 this half year simply because even our new acquisitions have got a
+very large proportion of offshore.
+Venkatraman Narayanan: Typically, you have a pay increase cycle and then you have dollar-to-rupee changes, which can
+go either way. And that's how the industry has been buffeted by ups and downs on the margins,
+other than certain other aspects like sales and delivery. Margin prediction is the most difficult
+part. So, to that extent, we are expecting to continue this margin range of 20% to 22% in the
+medium term.
+We will not hesitate because of margin constraints or margin that we must show in investing
+into new business, which we are now seeing that we have taken. Restructuring into verticals,
+getting a new-new sales engine and investing into GenAI, doing the acquisition for both
+capability, reach, competency, all these need investments, and it has a certain margin impact on
+the financials.
+But even with all of that, the focus will be to make sure that we are in the 20% to 22%. We pull
+all stops to make sure that the efficiency of pyramid is there, integration brings you certain size
+and scale, so the base increases, but at the same time, there is a possibility to bring down certain
+costs, common overlap costs, cross-sell, upsell, so that we get more bang for the buck.
+These are the areas that we are focusing and if you look into our financials right now, half year
+over half year, you will see elements of all of that coming out, some of this really gets muted or
+gets covered by lots happening, but you adjusted for all of the points that I mentioned, you will
+see certain benefits. If you look into the future maybe a platform like Arttha banking will require
+more investment.
+It's just not that it's completely ready. It's a plug-and-play situation and you have to continue to
+make investments to make sure that it becomes $40 million, $50 million, $60 million.One should
+not hesitate to do that if there is a market for potential and there is a reason to make that
+investment from a long-term financial standpoint.
+But yes, in the short term, medium term, quarter-over-quarter, there could be those ups and
+downs. But we'll rather explain it to the investor rather than not make the investment.
+Joseph Anantharaju: If you look the ed tech vertical, so on a quarter-on-quarter basis, it has shown growth, and so
+what we see is that which track the rest of the company performance, but if you look at the sector
+as such, you'll have to break it up into 3 segments. The first is higher ed, then K-12, and then
+professional education.
+And what we are seeing is that out of these 3, the higher ed segment has got impacted by some
+structural challenges that you're having, especially in the U.S. market, with the number of
+enrolments coming down and universities being under cost pressure. That is getting reflected in
+some of the business and traction that ed tech, higher ed companies are getting.
+Page 11 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+K-12 has performed well, but it's a slight statistical business because there's an upgrade, and then
+for the next few years, they tend to leverage some of the investments they made. Area that we
+are seeing a lot of improvement and investment happening is in the professional education space.
+There's faster evolution in how people need to constantly keep upgrading themselves and this is
+leading to multiple opportunities in the market that customers are stepping in. Our existing
+customers are extending their products, and we are focusing more on this segment to get more
+traction and grow this segment.
+Moderator: The next question is from the line of Apurva Prasad from HDFC Securities.
+Apurva Prasad: This is on the GBS unit. How are the conversions that you're seeing from pilots to production?
+What's the size of the GBS in terms of resources that are currently there? What's the expansion
+plan here or perhaps in terms of customer coverage? What's the scale that is being targeted here
+over the medium term in respect with the investments that you are making?
+Sridhar Mantha: I'll break it into two, three parts. The first one is the POCs to orders, of course, being constantly
+working with the digital technologies, we always understand it will take a few quarters for the
+customers to do the prototypes and then move them into production.
+The kind of work we are doing is working with the digital products and platforms to add
+generative AI oriented features, those are moving to the production much faster because they
+want to sell as part of either their SaaS solution or as part of the product generative AI features.
+However, the place where things are taking a little bit more time is on the IT organization where
+selective use cases are moving from the POCs to production.
+Whereas the other low priority use cases are staying in the POCs probably being deferred by a
+quarter or two, and then they would like to take it forward into the production. That's how the
+market is moving. Certain platform companies and like the organization with critical use cases
+and slow movers, who are waiting for the ROI to be.
+The second part of the question is in terms of the team size and the competency that we have, so
+when we form the GBS as a separate business unit, a few strong leaders from the organization
+we pulled out and put as part of the core team and we went to the market and also had additional
+people.
+We have, now, 120 people who purely work on generative AI-based projects, which are
+supported by 315+ AI and analytics Center of Excellence so that the others that have the
+dependency on generative AI, we can bring them together. Now in terms of the last point on
+how we are seeing as the work and the investments and the business growing.
+We continue to proactively develop our own use cases and repeat the solutions, because it is
+getting a new kind of opportunity where semifinished GenAI solutions can be taken to the
+market. Now the other area we are looking at is our internal strong solutions like Arttha, which
+are addressing various banking-related functions, of course, can benefit significantly from
+generative AI.
+Page 12 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+We'll add the way we are adding generative AI features to the customers' products, similarly,
+we'll add to the Arttha platform and other IPs and solutions we have also.
+Ashok Soota: . I had mentioned, for example, when a new application comes up, the moment you do one
+customer, you can begin to say, can I take the same application to multiple ones. I identified four
+areas in my opening talk, which are research, customer service, learning and contract
+management. I believe in almost all of those, we've already got our first customer. Now we begin
+to look for multiple ones.
+I'll give you an example in research. If we are doing a research application for an R&D
+organization. There must be at least 30 research organizations in India. Supposing you don't do
+30, maybe we'll do 8 or 10, now that repeat customer makes a lot of difference, a much quicker
+sell because we've been able to demonstrate that it has worked for somebody.
+The margins will keep improving on those sales because now your own incremental cost, you
+still charge the customer the same amount. These won't be giant-type orders. But if you then
+take 8 such orders, then it becomes a very healthy order, and executable with a really high level
+of efficiency as we go ahead.
+Apurva Prasad: The on-site resource reduction was steep this quarter and you also saw T&M go up substantially.
+Any explanation for this?
+Joseph Anantharaju: If you look at it overall, both, aureus and PureSoftware, are mostly offshore centric and that has
+led to a drop in the offshore/on-site issue. And the other thing that we are also seeing is that
+given some of the budget constraints, customers have been trying to get better bang for the buck
+and leveraging offshore more.
+COVID-induced remote working is also giving customers more comfort and got them used to
+having larger teams offshore and doing some of the work that they wouldn't have done earlier
+offshore, which gives them the benefit of managing the budget better.
+Venkatraman Narayanan: I think there is a typo in the numbers, because it is 211, it's showing 412. I think it's a typo on
+the page on the financial metrics. If that's what you're referring to, we'll have that checked and
+corrected. But just to continue, it has remained same quarter-over-quarter in terms of revenues
+and in terms of headcount because we look at the daily MIS as sent out.
+FY '24, 211, it has gone up to 412 as per our PPT in FY '25 Q1, and then come down in FY '25
+Q2 to 274. So that is something which is not right. We'll check it and get back to you and update
+the presentation.
+Apurva Prasad: On margins, puts and takes for the next 2 quarters, part of wage increases for senior leadership
+that should happen in Q3. But generally, from here on as a base level, how should we look at
+margins for the next 2 quarters?
+Venkatraman Narayanan: When I say margins, I'll now restrict it to EBITDA and operating margin first. EBITDA and
+operating margin should be stable except for the wage increases and we should see upsides. The
+dollar-rupee is a little bit of a joker in the pack. Hopefully, we have covered that for the next 12
+Page 13 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+months or 9 months on a weighted average with proper hedges. Arttha banking, while it has got
+that lumpiness in terms of sales, it also contributes to margin. I'm giving you all the pluses.
+On the minuses, it's a senior management wage increase that we are talking about and some
+more investments in the newer technologies that may be required, including investment into
+Arttha. For example, if Arttha must be sold in India, it requires a little element of investments,
+we'll go ahead and make it
+But it's a very tricky situation on margins because of all the things that happen simultaneously
+and now that we are a much larger company running at about a $280 million exit run rate for the
+year. It's becoming that much more final to maintain and predict margins with a greater level of
+accuracy than the 20%-22% that we have shared right now.
+Moderator: The next question is from the line of Vidyadhar Ginde from Sohum Asset Managers.
+Vidyadhar Ginde: In this first quarter, the hits from the amortization increase and intangibles was ₹6.8 crores and
+₹1.3 crores for part of the quarter, for the full quarter, it's going to be ₹19 crores. In Q2, the PPA
+has gone up by just ₹1 crores. What has changed?
+Venkatraman Narayanan: If you notice, we had about 15 days to close the books after integrating PureSoftware and
+Aureus last quarter. It was a little hurry to get the valuation. We closed it and we set provisional
+valuations and went ahead and closed the books.
+After that,we did an extremely intensive exercise of about 1 month, got multiple experts looking
+into the valuation, the allocation of PPA and looked at what the industry practice is.That's what
+we have done in terms of the allocation of PPA, the Monte Carlo simulations, assigning
+probabilities for earnouts, and we relooked at that provisional valuation.
+After getting 1 report, we talked to about 2-3 valuation experts, and revalue the whole thing, and
+have now plugged in the final valuation number. It has an impact on 2 aspects. One is there is
+this amortization unwinding interest, and one sets out the other. So last quarter, it was for 48
+days.
+This quarter is for 90 days. The number remains the same, given how the real-time value is
+treated.
+Vidyadhar Ginde: What was previously projected to be ₹19.1 crores for the entire quarter? What is the updated
+figure now?
+Venkatraman Narayanan: It will be ₹14 crores. What you're seeing in Q2 reflects the total for the full quarter.
+Vidyadhar Ginde: At least the amortization which is a major part is up by just ₹1 crores. It looks like ₹8.3 crores
+going to ₹9.3 crores.
+Venkatraman Narayanan: In the half year of last year, we had ₹11 crores. We have the amortization and unwinding cost
+coming from 2 acquisitions, which is PGS and SMI. Some of them will trail off. In the current
+quarter, in Q1 for about 50 days or 48 days, we had ₹14 crores with amortization and unwinding
+of all the 4 companies of PureSoftware, Aureus and the 2 other companies of SMI and PGS.
+Page 14 of 15
+Happiest Minds Technologies Limited
+November 14, 2024
+In Q2, the situation remains consistent. The only difference is that in Q1, there were 48 days
+accounted for the last two acquisitions, while Q2 reflects their full impact. However, Q2 did not
+show a sequential increase as anticipated, we expected it to rise to around ₹19 crores. This did
+not occur because we reassessed the provisional valuation from Q1.
+Vidyadhar Ginde: So the DVA which you had in this quarter is a sustainable one?
+Venkatraman Narayanan: But the impactful one, we don't know if we need further acquisitions. In fact, it will go down
+because I am expecting 1 or 2 to trail off. The Pimcore intangible write-off was done over 4
+years, so that's almost done, 5 years because the effective useful life is also something that we
+have to evaluate. PGS, Pimcore was over 5 years. SMI was over 7 years. PureSoftware, the
+assessment that has been done is 8 years, PureSoftware and Aureus. So Pimcore will slide off.
+So it will only improve in maybe in beginning of next year the 14.06 will actually reduce by a
+couple of crores
+.
+Vidyadhar Ginde: Will Q3 and Q4 be similar to Q2? Then, what will be the trend for next year
+Venkatraman Narayanan: That's the reason why we have started calling out cash EPS because we are a smaller company.
+Relative to our size, these charges can have an unnerving impact on your PBT and financials.
+So one needs to be aware of that, and that's why the cash EPS.
+Moderator: Thank you. Ladies and gentlemen, that was the last question for today's conference call. I would
+now like to hand the conference over to the management for their closing comments.
+Sunil Gujjar: Thank you all for joining us today. We thank HDFC Securities for hosting this call. We look
+forward to interacting with you. You can reach out to us on ir@happiestminds.com. Good day.
+Moderator: On behalf of HDFC Securities, that concludes this conference. Thank you for joining us, and
+you may now disconnect your lines.
+Please note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings.
+Page 15 of 15

@@ -1,0 +1,860 @@
+Q3 Results FY 2022 - 2023
+Q3 FY 23
+Investor Earnings Call Transcript
+Greetings and welcome everyone.
+Thank you for joining us today to discuss the Intellect Design Arena Ltd financial results for the 3rd
+quarter of the fiscal year 2022-23 ending December 31st, 2022. The investor presentation and press
+release has been shared with you.
+Arun Jain, Chairman and Managing Director
+Let me continue the deck which has the Safe Harbor Statement included in this presentation, which
+speaks about it, that this certain statements in this release concerning our future prospects are forward-
+looking statements. Forward-looking statements by their nature involve a number of risks and
+uncertainties that could cause actual results to differ materially from market expectations.
+The full Safe Harbour statement is part of the deck which Praveen normally reads out for all of you. This
+time we will not go to the presentation deck. We want to look at it since our business is monitored on
+the last 12 month basis. It's annualised business, so our data which shows for this quarter. We have last
+12 months revenue of 2126 Crs revenue that 21% growth on 1751 Crs Our platform revenue has grown
+at 43% for 464 Crs from 324 Crs Our License revenue has a dip. There's a slowdown of license revenue
+decision making and in Europe, which was the earlier point which made after the Ukraine war. There's a
+decisive slow down. It is -18%, so down from 360 Crs to 297 Crs AMC has held very close by 14% from
+316 Crs to 361 Crs in the last 12 months. Our PAT has come down substantially from 334 Crs of last 12
+months to 272 Crs. because of the investment which I mentioned for moving the business of platform
+which I will explain to you. Our EBITDA margin is -4% from 437Crs to 419 Crs While the gross margin is
+up from 1000 Crs to 1161 Crs Gross margin percentage has come down from 57% to 55%. EBITDA has
+come down from 25% to 20% and license linked revenue has grown by 12% from 1000 Crs to 1121 Crs so
+these are top line metrics number.
+The improvement side is healthily growing at 21%. EBITDA is having a constraint of the higher cost
+investment which is planned investment. The receivable days have moved from to 139 days, it is the
+other point which we need to be explained in this result, what is the basis of these three different
+elements our quarterly numbers are 555 Crs Our quarterly number is 105 Crs EBITDA. So these are 2
+major number and 139 days of the DSO.
+The first number is moving EBITDA from 25% to 20% is 5% reinvestment back from moving the business
+from product to platform. During my April presentation we mentioned about moving the business from
+25% to 20% that 5% will be reinvesting back for looking at a very positive number, what we are seeing in
+a platform based business. So, that's one important piece which we try to intact this last quarter number
+was much lower. This quarter we are close to 19% EBITDA. In this quarter, 105 Crs and we are looking
+next quarter will be better than this number. And second point, I want to make our investment in
+people is not linear, it is always happens on step basis. So step base are $45Mn to $60Mn quarterly run
+rate and $60Mn to $75Mn run rate. Now we are close to constant currency, our revenue $ 72Mn
+which we are close to $75Mn which we were looking at it to be doing it, so this number of $60Mn to
+$75Mn we looked at it in last October, released in 5 quarters. We reached from close to $75Mn and we
+are expecting Q 4 we were able to cross $75Mn on constant currency basis. On the DSO days we have
+something called contractually not due revenue when we sell a 5 year deal with the customer a long
+term deal with the customer the money gets due after certain milestones and those milestones are
+Q3 Results FY 2022 - 2023
+contractually not due number, including GEM because GEM also pay us X percentage upfront and Y
+percent after the product gets delivered when the payment is marked on the system. I shared with you
+the number of contractually not due out of the total is 648 Crs .That number, which is contractually not
+due is over 250 Crs so that's a distort my figure of DSO is of 139 days if you take it away that number of
+it's close to 108 days of DSO and then we look at geographically this number, in America DSO are 16
+days, in Europe our DSO are 28 days, APAC is 189 days, India is 177 days then India is 131 days if you
+remove the contractually not due number from the whole DSO reporting.
+So now let me come to the product versus platform strategy. The platform revenue are going healthily
+to 464 Crs., which is almost we started from 50 Crs. to 464 Crs. in last 3 years. We are able to move the
+platform revenue which is giving sustainability to the business. Now let me give a flavour of each
+business, in GTB we mentioned about 2 major main product lines liquidity product line and DTB product
+line both are leading quadrant products. We are winning 3 out of 4 deals in the marketplace. Both these
+products are performing very well. There was a delay in decision cycle time for last 2 quarters. There the
+decision slow down cycle we lost some of the revenue, like we lost Spur Bank , we lost during the date
+of signing, the contract would have been $20 Mn contract. When the team went for the signing it off on
+the 24th of February, unfortunately some war has happened. This doesn’t change the business scenario
+of the compelling business position, which is happening.
+In this area the GTB, if I look at liquidity we are now getting a good traction since interest rates globally
+are higher there's a good traction. We are announcing the second deal in France after SocGen Deal last
+year. Now we are announcing second largest bank in France is also selected iGTB and then we have
+another 3 to 4 deals in liquidity in France. Liquidity is now moving to Canada and then it can look at
+Spain, Italy and other countries. We are looking very much focused country by country to take a major
+market share. We spotted 2 or 3 banks, to take our liquidity and GTB then our leadership quadrant is
+established the way we did it in GTB . Same way we are doing it over here.
+In GCB business the 2 platform one core banking platform which is we call IDC. In last 6 months, our
+micro services based, API based, cloud native, event driven headless platform has been very well
+accepted in the marketplace. We are able to differentiate ourselves in Europe and America and for the
+Canadian market, this headless is a great proposition. We are working on at least 7 deals over there in
+Europe market on MACH compliant or MACH Born. I would not say compliant MACH born core banking
+system. One good thing for the investors is that now we are in top 3 players in core banking. And now
+when we are looking at survey and one RFP, we are participating along with Thought Machine. Thought
+Machine is a new competitor, but emerging as a new technology space and Temenos, a 900 pound
+gorillas sitting in Europe which has the large customer sites. So these are the 2 more competition but
+core banking market space, perspective getting qualified in top three is very big success from our view
+point and we are seeing that we are able to compete head on with Thought Machine and some other
+deals and Temenos is coming third is a very soothing proposition. Those deals may not have closed in
+last 6 months. Deal closing in core banking takes 12 to 24 months, so cycle time for changing the core
+banking when we are engaging the customer can go as high as 24 months. We implemented this
+solution for one of the German clients which we announced the deal two years back, the second largest
+retailer of Germany. That system is working smoothly in November they are processing 300,000 calls on
+a single day using our micro services architecture. I think that's the kind of power we are able to get a
+referenceable client in European market which is giving us an acceleration on this business.
+Q3 Results FY 2022 - 2023
+Second business of GCB is iKREDIT360 which is designing credit product. It's a comprehensive 360
+products where all the credit portfolio of the bank from retail loans to SME loan to credit card secured
+or unsecured loan can be processed on this particular platform. This platform deal we announced 3
+quarters back was from one of the Sweden’s largest financial institution Resurs had selected us and that
+platform has a very good traction because using the iKREDIT360 one can design their own solution. So
+that's a second platform. That’s the Second platform. The 3rd platform GCB has got Quantum. We had a
+good deal till June, last 2 quarters we had a slowdown. We are having a pipeline of more than 7 to 8
+deals which are there in central banking. The best part is we are fighting this battle in an advanced
+market now so central banking deals have moved from not only in the African market, it moved to the
+advanced markets. So this is very heartening to know.
+Then we look at intellect AI. We consolidate our business into 3 units from 5 units. So we had a RTM unit
+and a Wealth unit. RTM unit has been merged with GCB business. So Treasury business has been
+merged with the GCB business and Wealth business has been merged with Intellect AI. We renamed
+Intellect SEEC to Intellect AI. So there are 3 units now- GTB, GCB and Intellect AI. The thinking process of
+Intellect Design Arena, when we set up, Arena which was a piece when we say that there will be an
+incubation stage company and then there will be an ecosystem building company and will be a scale
+company. So when a product is getting created and first 5 customers are there, it is in the incubation
+stage which gives us quite a lot of freedom to the team. They work like a start-up company in that
+particular space. Once it reaches the first 5 customer, we believe that it's a time when we can use
+organisational resources at a scale level and the global reach of the company and that is the time when
+we merge with the larger units. So that's the strategy which we announced sometime in 2016, 2017,
+that's how it is done. Now, the major businesses in these 3 units, there are minor products in the retail
+space and some other space which are running and are non-significant so we will not be talking about
+these products in any of this conversation.
+The Intellect AI space, Magic Submission, which will be launched in the US, that Banesh has highlighted
+to you, does the extraction, enrichment, does transformation and validation. The entire piece which is
+there on the underwriting policy now has matured to a level where is moving in a Design Thinking
+vocabulary there are 3 circles are there. First, circle is called lean start-up, second circle is called
+ecosystem and the third circle is called scale. So, this business of Magic Submission is moving from Lean
+start-up where we are creating ten clients to be working on the platform now to the ecosystem space.
+The 3 elements for differentiating between start-up, lean start-up, and ecosystem is - in lean start-up it
+is desirability, feasibility and viability. Once viability gets established, then it moves into feasibility value,
+enhancability, and adaptability so it move to the value enhance ability and adaptively. In this space
+which is disrupting the VPO space significantly there is a very heavy pipeline and the here we will be
+hiring and investing more money in this business.
+Second business wealth, we took some time under the leadership of Jaideep Billa. I hope some of you
+know him after we did a lean start-up he handed over to the pattern to Banesh and Sudhir to run this
+business and this business now have a great traction. The largest Indian bank SBI is a customer of this
+which may be going live recently. And other 2 large wealth managers have also chosen us. One of
+them we are announcing in this quarter deal with the largest bank, and there's a pipeline of almost 80%
+of banks is constraining to replace Myles with our Intellect Wealth Cube. So that's a second line of
+business and we are very excited about the journey because we are focused on our RM Office as a key
+strategy there and third thing is the AI platform and that's why the Intellect AI names come from and in
+this platform we have a 2 core technology which I mentioned to you during our technology day. Both
+Q3 Results FY 2022 - 2023
+the technologies are now getting combined to deliver ESG. At end of the presentation 10 minutes time
+we'll just demonstrate one of the outcomes of this product. We launched Magic Invoice and also ESG on
+this platform. This platform and 3rd product on the same platform is Sherlock. Sherlock demo I will be
+giving you in the last 10 minutes of the session. Anybody who wants to stay back for asking questions
+they can stay back. It is a preview. Very small previews we have been working on it. It will take another 6
+months to go to the market, but will do the preview at the end of the presentation. So with this I leave
+the platform for question and answer.
+Praveen Malik
+Now we are opening the session for Q&A. I request to please click on the raise my hand so that your
+question can be taken. The first question is from Mr. Pratap Maliwal from Montera Finance. Please
+unmute him. Ask your question.
+Pratap Maliwal, Montera Finance
+Hi, am I audible please? I just had one question that last quarter; I believe that we had a contract of
+around 3Mn$ that the revenues had not flowed in. So have we started booking those revenues now in
+this quarter?
+Arun Jain
+Yeah that revenue have been booked into this quarter for getting the current numbers.
+Pratap Maliwal, Montera Finance
+And those venues are flowing into which part of our business that platform revenue, license revenue,
+and perhaps if you could just maybe tell us the quantum of how much we booked out of the 3MN.
+Arun Jain
+Entire 3 Mn$ are booked in license revenue. There are 2 deals in which it was there.
+Pratap Maliwal, Montera Finance
+OK Sir, thank you!
+Praveen Malik
+Thank you Sir, the next question is there from Pradhumna Choudhary from JM Financial.
+Pradhumna, Please ask your question.
+Pradhumna Choudhary from JM Financial
+Hello Sir, can you hear me?
+Praveen Malik
+Yeah, yeah.
+Pradhumna Choudhary, JM Financial
+Yeah, so I'm just trying to get a basic understanding here, like traditionally my understanding is that the
+BFSI focused product industry has been very slow growing like they've been phases when there's been a
+lot of investment and the growth has accelerated, whereas in other phases because of the tendency of
+these banking customers to stick to their old software’s. The growth has been slow, so I just wanted to
+understand, currently, are we entering into a high growth stage like because of the entire COVID which
+Q3 Results FY 2022 - 2023
+has led to digital transformation? Are we entering into a higher growth stage and is the demand coming
+back for the industry as a whole? I understand you guys have grown at a much healthier pace, but
+overall for the industry, is it coming back?
+Arun Jain
+I did not say it's coming back for the industry. The product space will be slow growth only because
+decisions around changing the platform are very difficult decision in a bank the cycle time of decisions
+are very long and they are long because they are more than in some other contractors to highlight to
+you we have 21 signatory in one single contract, even contract requires 21 signatory for one single
+contract that are changing the platform.
+It's a difficult business.
+Something that there are some tailwinds for us. One is we invested into cloud technology way ahead of
+time, so in 2017, 18, 19 when our stock was lowest we were investing phase of the product and then
+when we are moving to the cloud technology and micro-services technology we kept on highlighting
+that this is the investment Phase of the company, but that's what we did it cold call to say that we will
+build up this cloud technology and because of we build this cloud technology today, we are in very
+healthy position where entire GTB business, GCB business, AI business is all can be consumed and
+composed to deliver a specific solution with the contextually built in. So we promised the customer
+three things- compos ability to design their own solution, contextually, to make appropriate decisions
+for themselves and for their customer by using AI, and we help them extend their solution using our
+Turmeric work bench. And that's helped us out in growing better than our promise to the market was or
+our design of the organisational promise. Internal design was 20% growth year on year. These are design
+of the organisation and we always mentioned that it can be. Last year we grew 25%. This year will be
+going slower but 20% is our design strategy is around 20% Year on year.
+Pradhumna Choudhary, JM Financial
+OK, just a couple of follow-ups so one so as such COVID hasn't really been that big of an inflection for
+the industry is what I understand from your commentary, and second, so other players that we have,
+like we have Temenos the likes of even Oracle Financial services, the Flexcube Company. They are not
+really offering this cloud based solution, is it?
+Arun Jain
+They are having a lot of legacy sitting there. They are communicating in the market that they have cloud
+based technologies. But when architect sit down with them there’s we should not comment on
+competitor but it's more of a white wash than a core cloud born solution. There are 2 kind of thing cloud
+born solution or you make some solutions compatible to cloud.
+Manish Maakan, CEO, iGTB
+I think we saw the trend ahead and invested ahead and they are on a catch up game. That's why they
+didn't challenge. We are viewed along with Thought Machine or similar companies. So that's the
+difference.
+Pradhumna Choudhary, JM Financial
+Ok, understood and second on the competitive intensity. Definitely quoted from your commentary as
+well it's clear we've been doing well, but overall, even if we look at like somewhere I had read that
+Q3 Results FY 2022 - 2023
+Oracle had won a customer where initially we were serving in Uganda, I believe. So like what is really
+happening in those terms like are we witnessing significant competition in the industry as a whole, and
+are we gaining market share? Especially in the consumer banking product, are we gaining market share
+or are we maintaining or are we losing market share?
+Arun Jain
+We have won core deals over there in core banking now in Uganda, Zimbabwe over there or any other
+African country. But I think our focus is more towards Europe to fight the battle. I don't know whether
+you are tracking the company, if you are tracking the company you should track Thought Machine.
+Thought machine has invested $550Mn investment in last 7 years in building the product for our cost
+corresponding investment is less than $50Mn in core banking. They invested $550Mn at a valuation of
+2.7 Bn $ only on core banking by the last investor deck which came in there. So that will help you in
+positioning the right understanding.
+Pradhumna Choudhary, JM Financial
+OK, I understood that's really helpful. Thank you.
+Praveen Malik,
+Thank you so much. Next we have Mr, Moez Chandni from Syndrome Broking. Moez, Please ask your
+question.
+Moez Chandni, Centrum Broking
+Hi, thank you for the opportunity. Two questions from my side. Firstly, you've mentioned that you're
+seeing decision cycles recover in Europe and that Q4 looks visibly better. So could I just get a little more
+colour on this? What exactly are we seeing in the European markets right now in the short- term, at
+least for Q4?
+Arun Jain
+Rajesh, would you like to answer?
+Rajesh Saxena, CEO, iGCB
+Sure, so I think as you look at Europe. What we are seeing actually we are seeing there is a play for let's
+say tier one banks and large regional bank players where what Arun talked about our IDC platform
+which is MACH and based on compos ability and extensibility. Is what is seeing traction and we are
+competing in many deals in Europe as we speak where we are competing three competitors we are in
+last three where we would have Thought Machine, Temenos and us. So we are seeing us and our
+solution and the way we have architected resonate with most of the banks in Europe. So that's the good
+news. We also as we have implemented and created references in Europe. We are seeing more and
+more opportunities from Europe's banks coming to us customers are recognising us and the word of
+mouth and the references is building the brand image for us, so we seeing more opportunities come to
+us. We are seeing that in these opportunities we are in a head-to-head fight with one of these two other
+competitors that I talked about. So we are seeing a good traction from a Europe perspective both in UK
+and in continental Europe.
+Q3 Results FY 2022 - 2023
+Moez Chandni, Centrum Broking
+OK, thank you for that. My second question was on the US so I did notice that we've won a large deal
+with a U.S. bank. So are we seeing more traction in the US? And could you, maybe little give us a little
+more colour in the US market.
+Arun Jain
+Yeah, we consider US and Canada market as a common market and we call it North American market.
+With this solution, which we mentioned about liquidity, virtual accounts, platform on the banking side,
+magic submission is on insurance side and our digital solutions on GCB side as well as on GTB side there
+are 4 product lines here, putting in Canada, US our entry strategy was Canada and then going to US. So
+now we are getting in good traction in US now. US is for next, for incremental growth perspective within
+US is definitely will be growing at 20% plus next year. So that's the kind of a number we can put on the
+table, but it can be faster than 20% of the US market. So, and U.S. market in insurance Magic
+Submission, Banesh if you want to cover highlight how the US market is playing with you.
+Banesh Prabhu, CEO, IntellectAI
+So I think we're seeing a very strong traction on Magic Submission. We already this year have over 8
+clients and it is a very good healthy pipeline of customers. Magic Submission in most of these are 2 of
+these clients are insurance companies. We're also seeing the replacement of; you know one or 2 of our
+key competitors. And therefore this sort of gives very good insight into how we will be disrupting the
+space around AI related to Magic Submission, where we are effectively eliminating, the BPO companies
+are improving the speed of being able to process transaction very well. As a matter of fact one of our
+clients came back and shared his number after our implementation of Magic submission where his
+revenue is almost tripled for that month. There is a very positive capability of AI tools available to help
+customers take decisions around submissions of underwriting documents in a much more efficient way
+and much faster and accurate way to help the underwriting decisions quicker, so they seem excellent
+traction in the US and that side.
+Moez Chandni, Centrum Broking
+What is the contribution of US of the total revenue for Intellect?
+Arun Jain
+We are not publishing that number. Coming years it will be good.
+Moez Chandni, Syndrome Broking
+And, my last question was on margins so you have seen a sequential improvement in EBITDA. So what is
+your outlook on margins moving forward to you? You have seen more scope for improvement in any
+steps that you are taking for further improvement?
+Arun Jain
+Yes, next quarter will better
+Moez Chandni, Centrum Broking
+Any specific drivers for this?
+Arun Jain
+Q3 Results FY 2022 - 2023
+Our license has come down QoQ from last quarter as it was 14.8 million and this time 8.8 million that is
+the 6 million shortfalls in the margin. So for us one has to be look at it what kind of a license deal we win
+if one has to chase the margin. Events took at the margin behind operational efficiency which have we
+investing is stepwise investment. So between last Q2 and Q3, our operational cost above the EBITDA line
+moved from 442 Crs. to 450 Crs. only on the operational cost, while the cost was increased between 375
+Crs. to 443 Crs. for the three quarters over there. So the three quarter is the phase of January to
+September for a phase of substantial investments. So this cost will suffice us for 80 Mn $ run rate of
+around 320 Mn$ run rate the cost will suffice us. Then if you are shooting for another 100 Mn $ from 80
+Mn $ we may require another step up cost and that cost will bear for two or three quarters and we take
+a decision. It will be subside quarter this cost increase will be there and the margin will come down. So
+you will observe the company will get into higher margin space and reinvest that money back to step up
+business.
+Moez Chandni, Centrum Broking
+Ok thank you for that.
+Praveen Malik
+Thank you Moez. Next we have Mr. Mohit Jain from Anand Rathi Securities. Mohit, please ask your
+question.
+Mohit Jain, Anand Rathi Securities
+Sir, two questions and both related to revenue growth only. So one is that is there a slowdown or some
+sort of softness you guys are seeing on the SAAS growth for this quarter or nine months. And, second
+related question is when we do see revenue momentum building up again when we look at a Q2 y-o-y
+perspective. Last nine months have been not so good. And, we are way behind the 20% trajectory that
+we often spoke about to the last 2 years. When do you think we can catch up to that? TCB wise also it
+appears that our deal wins quarter on quarter are sort of stagnating specially the large ones. So, in that
+context, what should be expectations for the top line?
+Arun Jain
+Our projections are the same 20% on design when we had last year 29% we didn’t change up anytime
+we celebrate the 25% growth. Said they still we are looking for 20% so 20% when we design the business
+few quarters will be 15%. The purpose will be 25%. That variation is a part of the business. So we are
+going on that trajectory.
+Mohit Jain, Anand Rathi Securities
+Sir with license revenue going down, you still think 20% is something we should target?
+Arun Jain
+You have seen in the LTM basis is still 21% growth, Mohit
+Mohit Jain, Anand Rathi Securities
+You are referring to rupee growth probably; we are looking at dollar growth.
+Arun Jain
+You need to pick up some points which is to be coming down but it is the 21% growth .We are not
+investing in dollars.
+Q3 Results FY 2022 - 2023
+Mohit Jain, Anand Rathi Securities
+No. no, no we are not. So we should basically get agree 20% rupee growth is the point?
+Arun Jain
+That’s right.
+Mohit Jain, Anand Rathi Securities
+Perfect sir. Thank you very much and sorry I missed one part on the SaaS growth. Is there any slowdown
+in Saas revenue growth?
+Arun Jain
+In this quarter or last quarter we have come to higher slab, hence the pricing has come down. So the
+GEM growth which is normally should have been much higher has come down. It has crossed one lakh
+Crs.. After crossing one lakh Crs. discounting is much higher.
+Mohit Jain, Anand Rathi Securities
+And, outside GeM we do not see any slowdown in Saas right?
+Arun Jain
+No. Only in GeM we have slowdown.
+Mohit Jain, Anand Rathi Securities
+Perfect sir. Thank you very much.
+Praveen Malik
+Thanks Mohit. Next we have Ms. Sugandhi Sood from InCred. Sugandhi, you are there?
+Sugandhi Sood, InCred
+Yes, hi. Thank you for taking my question. I just wanted to verify as you mentioned in your initial
+remarks that you are looking at a 75 Mn$ run rate if I got that number correct. And then you know the
+coming quarter and also just looking at your disclosures that you have made on funnel and I wanted to
+get this sense in terms of deals wins is there any extension in the term of contracts that you are
+experiencing. Because you know our deal win momentum on the larger deals has been improving at the
+margin but on the revenue growth front I understand there are offsetting factors in traditional license
+probably but is there any change in the tenure of contracts. Yeah, those two questions to begin with.
+Arun Jain
+There are two kinds of a deal. The deals are based on license plus AMC which we offer term license, so
+earlier we were using perpetual licenses. Now we have started offering only the term license which is of
+five years or seven years. The incremental revenue after seven years can be accrued to the company.
+That’s the one policy change we have made in a company policy of during a term license rather than a
+perpetual license which are the upswing of seven years which will not be visible now but this will give us
+a future protection to our revenues. Second is we have platform based revenue which has got two kind
+of a pricing strategy we call it B1 is my license revenue we call it B2 is my subscription based revenue
+where I give the platform to the customer and charging a 50,000 dollar per month to 200,000 dollar per
+month is a variation of the platform when I offer to the customer which means between 600,000 dollar
+Q3 Results FY 2022 - 2023
+to 2.4 Mn is a kind of a number which variation which is there and this is on a subscription basis as long
+we use this. For that we need to make a very high upfront investment of Proof of Concept (POC) to the
+customers to sell it. Once you sell it at 2.4 million dollars for 10 years then we will become 24 million
+dollars and after the third year on margin on those deals goes up to 70% on third year time. But the first
+two years are margin would be as low as 20% of those deals. These are two constructs which are there.
+Sugandhi Sood, InCred
+Saas contracts, is there a contractual duration for these and is there you know beyond which point we
+renegotiate terms?
+Arun Jain
+Initially, typically Saas contracts are three to five years. But, normally Saas contracts are lifelong. As it is
+difficult to move out from one software to another in the banking system.
+Manish Maakan
+These are core infrastructure, to not discretionary, not to switch on switch off.
+Sugandhi Sud, InCred
+Sure sure. My question is mainly on you know just trying to correlate the traction in deal wins with the
+revenue recognition based on you know the tenure of the contracts basically what we are saying is in
+fact the tenure has shortened because of the policy change. Is that correct?
+Manish Maakan
+No Sugandhi, it was perpetual now and it’s five to seven years so the company actually makes more
+money, in the second slide we were seeing the funnel is growing that means the demand is just the
+frequency of the closure with this those are a bit of challenge. So there is demand its getting business
+case approved which is taking time at banks.
+Sugandhi Sood, InCred
+And sir, would it be possible to any idea of the AMC revenue how much of it is on account of the legacy
+and how much would be from platform?
+Arun Jain
+AMC doesn’t go to platform.
+Sugandhi Sood, InCred
+It’s only for the non-platform revenues.
+Arun Jain
+That’s right.
+Sugandhi Sood, InCred
+Sure. Thank you.
+Praveen Malik
+Thanks Sugandhi. Next we have Harshil Sethia from AUM Advisors. Harshil, please ask a question?
+Q3 Results FY 2022 - 2023
+Harshil Sethia, AUM Advisors
+Am I audible?
+Arun Jain
+Yeah
+Harshil Sethia, AUM Advisors
+Sir first part which I had was on slide 15 of our presentation where you mentioned that our current
+funnel is around 70,000 Crs. and how do we calculate that?
+Arun Jain
+855 Mn$ is the funnel we are looking at it. Yeah. 855 million dollar, not Rs70,000 Crs. or just 7,000 Crs
+Sorry for the Typo error. 7000 Crs 70,000 million is the number. When we are moving between million
+and Crs this kind of errors happened So, the explanation is 7000 Crs is the final size, what we have
+enough now which has got maybe qualify the deal where we know clients needing a solution there were
+criteria for bank criteria the client has the budget, the client has the authority, the client has the need,
+and client has the timeline. When the four parameters get established, that may finally bring into 855
+Mn $ funnel a platform system which we had. Then there is a lead pipeline which we do not report here,
+lead pipeline which is of similar size we have the budget for timelines for the customer is not defined.
+Harshil Sethia, AUM Advisors
+But, it is the 7000 Crs. or 70,000 million this contract in our hand executable or do we have to bid for it
+and then the client will select out of the top three of whatever it is?
+Arun Jain
+We are saying these are in the pipeline. This is not contracted.
+Manish Maakan
+These are bids out there. Prospects, we need the given bid or you going to be giving bid shortly.
+Harshil Sethia, AUM Advisors
+And, how much is generally the conversion ratio for us?
+Arun Jain
+The conversion ratio varies. We look at it. Conversion ratio on destiny deals in the next slide 57. Deals
+are there. We look at it the. 68year deals in this time . There were 57 deals last year same
+period. Order 68 deals you package 6 deals you closed this quarter. Every time and every
+quarter 10 to 15% is a closer rate.
+Harshil Sethia, AUM Advisors
+Ok. So, secondly you know where one of the previous participants asked about that we are building a
+20% growth rate company and you said you know the LTM number for us is 21% out of which I guess
+10% is due to the Forex exchange rate. Do we also take a call on Forex rate to justify growth?
+Arun Jain
+we have a hedge loss of 9 cr this quarter we do take a 3 year hedge call. We take 60% of the forward on
+the hedge call and 40% we leave it open.
+Q3 Results FY 2022 - 2023
+Harshil Sethia, AUM Advisors
+Sir actually my question was not on the hedging of our business or how do we hedge our revenue.
+Question is that when we say a 20% growth company so shouldn’t us be a product and dollar wise
+company. Shouldn’t we take it on CC basis?
+Arun Jain
+We are taking constant currency basis, so constant currency revenue this time is 72Mn. But since. We
+are comparing all the earnings, everything on the road. We want to just simply simplify our
+Communication one Indian currency otherwise multicurrency confuses the systems.
+Harshil Sethia, AUM Advisors
+Ok.
+Arun Jain
+Because several chances are there, it’s keep on moving from one currency, so we had a lot of large
+exposure to Europe currencies which has got a large fluctuation from 1.24 to 1.03. GBP has
+Fluctuated , so that’s it’s a huge reporting issues.
+Harshil Sethia, AUM Advisors
+So, when we say that it is a 20% growth company or that the company that you are building that should
+we take it that in terms of constant currency only going ahead that you know like on a longer term
+period we will be able to deliver 20% on constant currency basis?
+Arun Jain
+That’s right.
+Harshil
+Ok.
+Praveen Malik
+Thank you Harshil. Next we have Mr. Rahul Jain from Dolat Capital. Rahul, please ask a question. Rahul,
+you are there?
+Rahul Jain from Dolat Capital
+Hello, am I audible?
+Praveen Malik
+Yeah Rahul. Please go ahead
+Rahul Jain, Dolat Capital
+Sorry for that. So firstly, my question is related to your profitability. As you see your pipeline right now
+and you already have you know fair bit of hang in terms of where the mindset moving in terms of Saas
+versus a license kind of a deal. So, isn’t it a optimum time to understand the gradual shift toward you
+know the Saas model and the eventual impact of that on the profitability to arrive at the potential
+Q3 Results FY 2022 - 2023
+profitability of the business because initially I think that the growth led operating leverage was obvious
+factor and, now since growth may be slightly slower than what we were thinking earlier, given the
+macro and also because of the mix of the Saas both could come as a headwinds. So, is there are a
+realignment that we need to do to our margin band?
+Arun Jain
+Yeah, that’s a good point out we have to work it out. But the impact is still the jury is not clear because
+we are getting a client which is asking for license when you’re in Europe and Americas as well as license
+when you in Asia Pacific. So this is a still a jury is not fully out. We have just 50-50 kind of a jury we have
+few customers are in CapEx space and few customers are OpEx space so it’s difficult as an immediately
+but you’re suggestion is good that you’re working out all the impact of Saas model versus. License
+model.
+Rahul Jain, Dolat Capital
+Right. Of course I know you don’t know which deal within the pipeline you end up winning and the mix
+could be eventual mix could be very different. But any range you wish you give for next year and be
+potential swing in the Saas revenue that can happen versus this year?
+Arun Jain
+We can only say that magic submission has a very good pipeline which can go to 50% plus YoY.. So that
+is the one thing that you know that SaaS deal of magic submission can grow. 50% in the US market. The
+rest of it I will not able to give it a gross level.
+Rahul Jain, Dolat Capital
+Right, and just one more question if I may. Regarding the growth of course lot of people had asked in
+different way but the way this year started and what we were expecting out of this year in terms of a
+growth. And the way it has shaped and also based on the minimal input that you have this point of client
+conversation, Is it fair to assume that next year at this point also looks like at best be at the current
+pace? Or you think there are some reason to think positive more positive than this year was?
+Arun Jain
+Yeah, more positive with the MAT compliant software and AI solutions. So, we are differentiating on
+two things for architecture and intelligence. We are the company which is architecture based and
+intelligence based and these are the two keywords to which we are helping the banks to grow faster.
+Exact number in the next quarter we call looking at the first three months of the financial year new
+calendar year and financial year for clients, we can guess it better that time.
+Rahul Jain, Dolat Capital
+Sure, sure, just one last bit on the if you are aware about this development in Temenos where the CEO
+and executive chairman are about to leave the organization and If there's any opportunity for us, or you
+think that these are part and parcel of the business and there's not major advantage or disadvantage
+because of that?
+Arun Jain
+These are the part of the business that people sell; buy a company, merge etc it’s like that only.
+A heat into this need to be good in ourselves. Create value for our customers. All these things will
+happen.
+Q3 Results FY 2022 - 2023
+Rahul Jain from Dolat Capital
+Great. That’s it from my side. Thank you so much.
+Praveen Malik
+Thanks a lot Rahul. Next we have Mr. Anil Sarin from Centrum Broking. Anil, please ask your question.
+Anil Sarin, Centrum Broking
+Hi, am I audible?
+Praveen Malik
+Yes. Please go ahead.
+Anil Sarin, Centrum Broking
+So, I think first half it’s been a good kind of a recovery in this quarter coming off the base of the previous
+quarter so congratulations on that. My first question on the Banking as a Service. I think there was an
+initiative along with a large tech company to go in the US. Is there any update you would like to provide?
+Arun Jain
+Sorry, Banking as a Service. Manish can you update?
+Manish Maakan
+Now, that’s the demand in US we are working along the cloud providers. It’s still on one of the growth
+journey right now. And that’s where US you were saying between this banking as a service as well as
+magic submission. We feel positive in the coming days.
+Arun Jain
+There is a platform called vitual accounts. There is a embedded finance.
+Anil Sarin, Centrum Broking
+Thank you. On magic submission there is a fair amount of enthusiasm. First of, it’s a platform its a Saas
+solution or a license software?
+Banesh Prabhu
+It’s a SaaS solution it operates completely on AWS, and offering to the client and AWS fully host it magic
+submission which includes ingestion of documents spread from AWS through fulfilment in the under the
+Underwriting platforms. Some of them will use underwriting platforms, some use other underwriting.
+The ability to enrich the quality of data and do the whole AI. Capturing of information from documents
+or helping people in from various commercial line businesses of insurance process faster and more
+accurately is the heart of the suite. It is fully a SaaS based solution subscription solution. And it's
+normally charged at a minimum subscription level depending on the number of submissions the client
+wants to start with.
+Anil Sarin, Centrum Broking
+Q3 Results FY 2022 - 2023
+Got it. And, Is it like you know there is we have GTB, and GCB, so one license sale of magic submission,
+how would it relate to a one license or one kind of subscription base of a sale of a GTB or a GCB? Like
+how big is this product?
+Arun Jain
+Yeah, so initially we launched its magic submission last year, we were looking the deal value per client
+could be close to half a million dollar. Now we are getting it with the magic submission. It can go up to
+$3Mn ARR not even deal value. So we have a deal in the pipeline which is a year of $3Mn dollar
+submissions ARR single deal. 200 million submissions again. Single deal, single client
+Anil Sarin, Centrum Broking
+Single deal
+Banesh Prabhu
+US for insurance is two hundred million submissions just to give you a picture of the size of the market.
+Arun Jain
+We are pricing per subscription.
+Anil Sarin, Centrum Broking
+OK, so that's very helpful. again Still going on with US. I mean, an earlier participant had also asked this,
+but I just wanted a little bit more clarity. Is that generally when we when we speak of Intellect, you
+know there is a feeling that oh very strong in Asia pack and Africa, getting, you know quite strong in
+Europe but US is a WIP and on the other hand now we have this magic submission. So how would you
+sort of at an overall level describe your progress recent progress in the US?
+Arun Jain
+It is a Part of the strategy communicated from 2017. The strategy that we will strengthen Europe and
+then we enter into the US. The US we started focusing only 2 years back so we are getting a very good
+traction once we are able to master the technology in Europe. So it was part of 2015 strategy. Nothing
+changed.
+Manish Maakan
+Now it’s good as U.S. business is being billed as platform subscription business, so it's not eating into any
+of our license business. These are new products and new markets being grown.
+Anil Sarin, Centrum Broking
+OK, so again on the on the core banking that that process that is going on which can be a lengthy
+process as explained earlier you were mentioning Mambu also within those top 3. Now the name has
+been dropped, is that? I mean if you can just throw some light on that.
+Arun Jain
+Mambu is losing out. It is losing the thump. Rajesh can answer it
+Rajesh Saxena
+Yeah. I think what we see we have a when we are competing at the kind of opportunities that we are
+seeing and you know typically a bank would start with the long list and then go to a short list and as I
+Q3 Results FY 2022 - 2023
+said in most of the cases specially in Europe and advanced markets we are seeing Thought Machine and
+Temenos are competitors. We do see in one or two opportunities in Mambu also. But we are finding is
+Mambu more tuned for a start-up digital bank with limited user journeys so we are not really seeing
+them as a big at least at this point of time as a big competitor as we go and compete in some of these
+markets and some of the clients we are competing with.
+Anil Sarin, Centrum Broking
+Ok so first of all congratulations on making it to the elite group especially since the kind of funding that
+is gone into one of your competitor and the size of the other competitor and the history of the other
+competitor for you to move into the top three is something for all of us to be proud of. Given the I mean
+the there was a reference that Arun made about valuation of ‘Thought Machine’ also so would you
+would you just attribute it to the frothy nature of the previous you know funding round or is this an
+indication of what ‘Thought Machine’ can actually achieve? And from that I am trying to draw some
+conclusions regarding Intellect also?
+Arun Jain
+We don't know the difference between the two. For this funding and have very late in the last 2 to 3
+months frothy point was not there and we are also making the business case that business case of core
+banking is so large. The markets are like today FIS, FISERV they run into 5 billion, 7 billion kind of a
+market size and that is what we are attacking. Obviously it is difficult to attack America companies like
+FIS and FISERV are embed in system, the Temenos robust systems and local system are there but it is
+1000 bank of Market at 5 Mn dollar each if you take it’s a five billion dollar market. That’s an every bank
+needs a core banking and the liquidity can be taken by top 300 banks but core banking can be taken by
+all 1000 banks.
+Manish Maakan
+5000 banks.
+Arun Jain
+5000 banks, Manish corrected it.
+Anil Sarin, Centrum Broking
+5000 banks. So good you made an entry into the things of I just have two more questions if I may speak .
+One is your Saas to platform run rate is now crossing 100 Crs Now there is GEMs component in that
+you just explained. But I can say that’s a 400 Crs. kind of a revenue run rate. So based on the momentum
+that based on especially magic submissions will be contributed to that I mean when does it start
+becoming 100 million per annum such that you can absorb the POC cost like it is very it is very strange
+that Saas firstly you take a revenue hit second you take a margin hit because the business acquisition
+cost remains the same but the revenue is a fraction so to the naked eye an outsiders, it appears like, oh
+my god, the business is suffering, whereas you feel the business is doing very well. So where is that
+inflection point where you know there is enough money? Coming in from SaaS high margin revenue
+coming in which pays for the PoCs and the all the you know beauty parade that you have to do it?
+Arun Jain
+We are now coming to $50Mn as you say, 400 crore, which is coming to 50 to 100 million dollars in the
+journey in around 8 to 12 quarters, to get into that journey of 100 million dollars run rate
+Q3 Results FY 2022 - 2023
+And but I really appreciate Anil, understanding the nature underlying dynamics the business kinetics of a
+SaaS business. SaaS business is having a kind of kinetic energy which drives the growth of the business.
+So what are the POC cost that has a double whammy on us. That gets countered by the size of, so when
+we have a Magic Submission, if we have 20 clients or 25 clients then we'll able to get into the 50%
+margin growth as soon as it becomes 50 clients we will be getting to the 70% margin growth.
+Anil Sarin, Centrum Broking
+Thank you for that and my last question is you had started this journey of enrolling partners in Europe
+and a few quarters ago you had mentioned. But the way I look at it, I mean there are very powerful
+Indian system integrators. So why have you not gone with Indian system integrators which can really
+lead to faster sales growth for you?
+Arun Jain
+We are working with them, as of now with Indian as well as global player we don't have a differentiation
+between Indian and Global. But, I think it's global and client relationships are important. So our core
+value for the partner is client relationship and delivery capabilities and their competence. These are the
+two factors are looking at and we are not saying Indian is different from international. But, Accenture or
+IBM has a deeper relationship in influencing a core system or a strategic system versus some other
+service providers who have a deep relationship with CIO's so; we are looking for both of them.
+Anil Sarin, Centrum Broking
+And as a corollary, I mean has there been any progress? I mean you've gone into relationship; you have
+committed people on to that relationship? Have they also committed senior leaders? And is there any
+traction?
+Arun Jain
+Yeah, Microsoft has committed senior people, AWS has committed senior people into this relationship.
+We are doing the event in Bombay on 21st February, where the senior most person from AWS is flying
+down for that event.
+Anil Sarin, Centrum Broking
+OK. And is there a pipeline building as a result of all that senior management attention onto that?
+Arun Jain
+It takes time. I think I would say pipeline is building in direct - there's a direct pipeline and the
+referenceable pipeline so the referenceable pipeline you start building in phase one. And then direct
+pipeline you start building in phase 2.
+Anil Sarin, Centrum Broking
+OK, great congratulations. Once again, thank you very much.
+Praveen Malik
+Thank you Anil.
+Arun Jain
+We will have a small demo for one of the AI businesses, since you're there and you're looking at Indian
+market, we just want to give a preview of 5 minutes to the investors on one of corporate governance,
+Q3 Results FY 2022 - 2023
+ESG corporate governance, we call this product under wraps right now. We named it, the internal name
+right now is Sherlock which is for corporate data investigation. Banesh will take over for some 10
+minutes time for you.
+Banesh Prabhu
+So, with Sherlock - what we've been doing with the ESG business clients that we're dealing with and has
+probably mentioned earlier one of them is the world 's largest sovereign wealth fund.
+They basically use data to be able to access questions related to ESG which is all the three elements of
+environment, social and governance. So, we are going to sort of touch on one governance capability that
+we have also available. Deepak Dastrala who is the CTO for Intellect AI is on the call. He's gonna take us
+through quickly. So he will relate to this very easily. This was done obviously for investors. So it's people
+like you actually be able to relate to it in an easy way. So, he's going to sign in and show it to you. And
+then I will if there any thoughts or questions feel free, if you don't have the time, send it over to us
+please also send any feedback also.
+So, basically what it will do is it will take an ISIN number or a company name and it will give you a lot of
+specific information about governance of a company. He is right now typing in Tata Steel. And that's
+already something we have access so that you get an idea. Deepak go ahead.
+Deepak Dastrala
+Here looking for the company details from a corporate due diligence perspective. Every information that
+you require. It is as simple as doing a Google search looking for the company. Here you can search
+either on the company name or company unique identification number. So, I just typed on a Tata Steel
+Limited and I got a CIN number and based on that I selected. This is typically when you search for that
+for the first time. It will take anywhere between 3 to 10 minutes depending upon the size of data that is
+required to be acquired across and we connect the multiple data sources, largely both public free
+sources and other sources, and here what you can look for is the company information and basically
+where the company, what the DUN number of the company, tax identification number, way it’s
+registered and also the charges. Basically, what are the loans that company has on?
+So in this case, Tata Steel has loans from the various banks like Central Bank, Industrial Development
+Bank, Andhra Bank and everything and also the status of that particular loans, whether they're open,
+closed. So, you have a complete book of loan information of that particular company, and also the
+financial statement. Probably whatever is the recent statement that they have we have. And we also can
+do a historical statements also. And what the ownership looks like either from a mutual funds
+promoters and everything. And also the subsidaries of the companies. Again, there could be domestic or
+international and then also the related companies, especially if there are any. The related need not be
+direct, it could be from indirect also where the directors of this particular companies are also directors in
+another company so we'll be able to kind of a triangulate and arrive at that particular information.
+And then finally moving on to who are the existing directors of this particular company. If you look into
+that, generally, if you want to just take an information, for example Kaushik Chatterjee who's an existing
+director, you also can get an complete view of where else Mr. Kaushik Chatterjee is a director. There is
+Centennial Steel company, Tata skill so, we can get into the complete view. This is just a pickled view,
+but we also can get into the details of where else Mr. Kaushik Chatterjee, as director at present. Also in
+the past, when the directorship has started and ended. We can get a complete download of that
+Q3 Results FY 2022 - 2023
+particular information and what it’s also possible here is in this case, to get not only the present
+directors of this particular company and also the past directors of this particular company and their
+nationality and all other particular details we can get.
+Another important information is we will be continuously doing a social listening about this particular
+company. And whether there is any governance related thing that needs be flagged out and it could be
+positive or it could be negative. This is where we use our sentiment analysis to understand if there is
+again that is specifically on the governance thing, anything that probably requires an attention, so that
+also we can do. This gives a complete end to end aggregated information of the company on the
+financials and their subsidiaries, the directors and their current relationships of the directors of various
+other company and also the news about these companies.
+Banesh Prabhu
+This is a picture you get across all of these dimensions in a single place. Because we've already actually
+access and put together data both from various data sources as well as documents, etc. to pull this and
+this is done on the fly just like a Google search.
+Arun Jain
+Just take Paytm. They may not have many subsidiaries.
+Deepak Dastrala
+So again, similar information of Paytm. I took a subsidiary already, so but it could figure out the related
+companies of the Paytm like One97 and everything. Paytm payment bank is the one that I took. While it
+didn't have the subsidies but again here, similarly for Paytm who are all the directors, who are the
+existing ones. For example, Mr. Madhur is actually director in many other companies and, so we can see
+all the company details of that part particular director. Again, similarly, where exactly he is already a
+director and at this moment he's present directorship at One97 and the parent company and many
+other companies and again past directorship is also with various other companies.
+So this is an example of Mr. Madhur Deora. Again, simply similarly looking into the social listening feed
+right a while, probably nothing happened recently, but agin it picked up in the past year. If any other
+incident happened on this particular thing, so we can, for example, in last year, March, RBI has taken
+action on against the payment of Paytm Payments Bank under Section 35A and also anything that comes
+into the governance related thing, either positive or negative, again our orders will pick up and give the
+alerts to the end user.
+Banesh Prabhu
+So this is just an example of course obviously. We'll keep building on the capabilities as we go.
+But this is a very, very comprehensive way for everybody who wants to govern a particular status of a
+company or something else. And obviously we know there's a lot of noise around governance building
+up quite aggressively across the world. So this is just one way we can take Sherlock as a platform and
+help various people. Either government companies, whether they are banks or asset managers or even
+investors and so on and so forth. Or even regulators or auditors. So I think it's a very broad based
+capability. Thanks Deepak.
+Q3 Results FY 2022 - 2023
+Arun Jain
+Thank you, Deepak. So idea was just to show a small preview of it. This can be the national ESG
+compliance, we can have a ESG score tomorrow, but will be converted into the score, credit score. The
+capabilities aready there, which is the intelligence. Any comments or anybody has ? Or we can move to
+the final question.
+Praveen Malik
+There are a couple of more questions. Can we go ahead?
+Next we have Mr. Vivek Kumar from BESTPALS RESEARCH Please ask the question.
+Vivek Kumar, BESTPALS RESEARCH
+Arun Jain, I'm just asking from your commentary. Your last con-call you have mentioned that the 3 wide
+areas like banking as a service, GCB, where we are becoming one of the top 3 players and then intellect
+AI. You asked us to look at these 3 as a new growth area. You've been giving extremely good
+commentary qualitatively, so my questions are like you have mentioned in this result press release that
+there are almost 10 deals that you're very confident of signing up in next 6 months in intellect AI. So
+how much of your other participants are about that you are being the top 3. And also how confident are
+you that this will turn into quantitative? I'm not saying immediate quarters, but how confident are you
+about your qualitative commentary turning into this quantitative in the coming 1-2 years?
+Arun Jain
+Yeah I have to just tell you that the when I show the same symptoms where we are showing in the deck
+the 2 places where Aite has given us a leadership quadrant to get into that corner quadrant of payment
+among 20 companies of payment of two leadership quadrant. I think you need to judge based on that.
+These analysts are not recognizing us just based on some money we paid to them.
+In the payment space, how many companies are there in payment space which is there, in the last slide,
+number 29 of the deck. They are all the respected companies including IBM which is there on the
+extreme end of the quadrant, outside circle. There are only 2 companies they are putting in inside circle,
+which is a intellect and Finastra, and in other liquidity management - it's only one company in that inside
+circle. If you don't make it on this, then it's your call, as an investor.
+Vivek Kumar
+So second question I'm following on this last sentence that you asked, Intellect payment has been
+implemented is India’s largest private bank with cross country corporate payment coverage of 60% and
+expected to scale to 100% of transaction. Can you just because I really couldn't understand what do you
+mean by 60% of the country or corporate payments in the country or I'm not asking the name, but can
+you explain?
+Manish Maakan
+The 60% of their payments have moved on to this platform and it's going to grow. It's migrating from the
+other platform and it's going to grow 100%. That's just to talk about the scale. But it's also at a country
+level. Our game plan in India is to reach to that level basis what we have signed or what's in pipeline so
+that much amount of corporate payments will flow in our network, in the next 12 to 18 months.
+Q3 Results FY 2022 - 2023
+Vivek Kumar,
+So corporate payments of the country are what you're saying based on whatever?
+Manish Maakan
+That is our goal and this is for this specific pack.
+Vivek Kumar
+Thank you.
+Praveen Malik
+Next, we have Mr, Nishid Shah, Ambika Fincap. Please ask your question.
+Nishid Shah, Ambika Fincap
+Congratulations on a good set of number Arun and your team and also special congratulations for the
+Fifth third Bank deal win. Now with this how many banks in US we have on the platforms? And how
+many we have in the pipeline?
+Manish Maakan
+With this, we have in North America 10 banks on platform. And then we have enough number on the
+insurance side. Another 15 odd on the insurance side, 10 are on the banking side. So we would be close
+to 25 customers in North America.
+Nishid Shah Ambika Fincap
+So would we say that We will be at an inflection point in terms of penetrating the banking customers in
+US with these number of reference sites?
+Arun Jain
+Not any inflection point, I think we're building the pipeline.
+Manish Maakan
+Becoming referenceable right now.
+Arun Jain
+We believe that 18 - 20 months, we will come to inflection point.
+Manish Maakan
+I think our previous references were a lot of global banks. Now we're getting US domestic banks as
+reference. That's the journey. Like Arun said, 18 months more. There's some in implementation, we will
+win more. That's when we'll get to become a local domestic player.
+Nishid Shah, Ambika Fincap
+And how is our partnership with Microsoft and Accenture and AWS progressing? That's not just confined
+to US, I understand it's global, right?
+Manish Maakan
+All 3 are global.
+Q3 Results FY 2022 - 2023
+Arun Jain
+With all 3 of them we are working on multiple deals. With each of them IBM we are working in one of
+the large central banking deal in Accenture and we are working in other few deals. We are also working
+with Azure, the annual commitment is there with AWS. So all the 4 of them are.
+They're all playing positive for us because they cross reference us in major deals. So sometime we are
+directly working with them. Sometimes we work as they do cross reference in the market.
+Nishid Shah Ambika fin cap
+That's great, and on the GCB side we had a lot of deals in the pipeline, especially in Europe where we
+were in the top 2. Are we closer to the kind of fructification there? Or are we still away on that?
+Arun Jain
+Europe is slowing down, the decision cycle is slow, so that's the only issue.
+Manish Maakan
+I think you've seen we have announced a very large European bank of 3 trillion dollar where we have
+closed a deal this quarter - a French bank.
+Nishid Shah
+Thanks a lot and always you, thank you.
+Praveen Malik
+OK. Thank you Nishid, we can have Arun one more question. Vibhu Gupta from GSS.
+Please go on.
+Vibhu Gupta, GSS
+Hi Sir, it's a very good quarter this time. Sir, are you planning for a buyback?
+The stock price has fallen from 950 to 450. It's a good time to buy back.
+Arun Jain
+Sir, if you're suggesting something, this is a board decision. If you are suggesting we can put to the board
+Vibhu Gupta, GSS
+OK, thank you.
+Arun Jain
+Thank you very much. Thank you for advising us on some of the strategies. It's good dialogue with you,
+so I would call this investor conversation as an investor dialogue in the coming months. Because this
+time we had more time for conversation than presentation, since you know the company well , Track
+the company well. No point in wasting half an hour time, critical time. Give us a feedback on Sherlock
+whether this market will be looking at it, you write email to Praveen and if anybody wants to have a
+more detailed understanding of AI, we may do some session, a technology session. Also if you see any
+of your customer meetings.
+Yes, thank you very much.
+Praveen Malik
+Thank you everybody. Now we're closing the call. Thank you.

@@ -1,0 +1,669 @@
+“Mastek Limited
+Q3 FY '23 Earnings Conference Call”
+January 17, 2023
+MANAGEMENT: MR. HIRAL CHANDRANA – GLOBAL CHIEF EXECUTIVE
+OFFICER – MASTEK LIMITED
+MR. ARUN AGARWAL – GLOBAL CHIEF FINANCIAL
+OFFICER – MASTEK LIMITED
+MODERATOR: MS. ASHA GUPTA - E&Y LLP, INVESTOR RELATIONS
+Page 1 of 15
+Mastek Limited
+January 17, 2023
+Moderator: Ladies and gentlemen, good day, and welcome to the Mastek Limited Q3 FY '23 Earnings
+Conference Call. As a reminder, all participants lines will be in the listen-only mode, and there
+will be an opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing ‘*’ then ‘0’ on your
+touchtone phone. Please note this conference is being recorded. I now hand the conference over
+to Ms. Asha Gupta from E&Y Investor Relations. Thank you, and over to you, ma'am.
+Asha Gupta: Thank you, Rutuja. Good evening to all of you. Welcome to the Q3 FY '23 earnings call of
+Mastek. The results and presentation have already been mailed to you and you can also view
+them on the website at www.mastek.com.
+To take us through the results today and answer your questions, we have the top management of
+Mastek, represented by Hiral Chandrana, Global CEO, and Arun Agarwal, Global CFO. Hiral
+will start the call with the business update, which will be then followed by Arun providing the
+financial update for the quarter.
+As usual, I would like to remind you that anything that is said on this call that reflects any outlook
+for the future or which can be construed as forward-looking statements, must be viewed in
+conjunction with risks and uncertainties that we face. These risks and uncertainties are included,
+but not limited to what we have mentioned in the prospectus filed with SEBI and subsequent
+annual report that you can find on our website.
+Having said that, I will now hand over the call to Hiral Chandrana. Over to you, Hiral.
+Hiral Chandrana: Thank you, Asha. Good evening everybody and wishing everyone a very happy new year.
+Hopefully, you all got time with your families during some of the holiday period in December
+and we are looking forward to the discussion.
+We'll keep our commentary to a minimum but looking forward to the interaction and questions
+on the second half of the call. The feedback that we have received from some of the investors
+and analysts and our well-wishers and supporter is to provide a very transparent view of the
+business as well as specifics around some of our organic and inorganic business. So we're going
+to be providing some of those details in the call today.
+Let me start off with a summary of the financials and give you some view of the business health,
+particularly as it relates to some of our major markets. We'll talk about some of the client deal
+wins and the momentum that we see and a little bit about the strategic investment that we made
+in December as well as some flavor of the outlook that we see going forward.
+At an overall group level, at the integrated business globally, we grew 20% year-on-year on a
+constant currency basis and 3.1% on a quarter-on-quarter basis at constant currency. Our
+operating EBITDA was 17.3%, just a marginal improvement from Q2 to Q3. We also had a
+strong order book backlog, almost 30%, 29.7% year-on-year growth backed up with some good
+deal momentum towards the end of Q3. I am personally, as well as collectively; we are
+disappointed with our organic growth. We had some good momentum towards the end of the
+quarter, but we are disappointed with the core business globally and the momentum that we
+expected. Having said that, our strong order book and some of the movements that we are seeing
+on the deals give us a lot of confidence going into Q4.
+Our inorganic acquisition that we made of MST Solutions has performed above our expectations
+and is delivering some very strong results. And we'll talk about some of those financials when
+Arun goes through specific numbers.
+Page 2 of 15
+Mastek Limited
+January 17, 2023
+I'd like to share some flavor of the markets that we operate in, in particular with some of the
+verticals and key customers. Our UK market, as most of you know, has three main components:
+Secure government services, which continues to do really well. And we feel that our
+infrastructure that we support with respect to Home Office, HMRC and some of the key
+institutions has been very resilient even though macroeconomic environment was uncertain. As
+we look at private sector, which was a relatively small portion of our business, it has shown good
+deal momentum in Q3, particularly in the order book side and we feel that some of the strategies
+that we had put in place earlier in the year is starting to pay off.
+The health accounts that we have discussed in the last two calls, have continued to be a challenge,
+because of the government in the UK with the particular healthcare account. Having said that,
+we feel that as even commented last time that it has bottomed up and we feel that there's a little
+bit more stability going forward.
+Europe, which is a small portion of our business, which is Europe outside of UK, has shown
+some softness in terms of deals, although we do have some interesting large global enterprise
+accounts, particularly in the manufacturing space where we are shaping some interesting
+conversations globally.
+The US market, which is critical for us at an overall level, obviously aided by the acquisition
+and MST and the Salesforce business, has helped us move from 18% of our overall business mix
+about a year back to close to now 27.5%, of our overall business mix. This is a direction that we
+want to continue to take. While we continue to grow in the UK and other markets, we still feel
+very buoyant about how we can take the US growth at a faster pace compared to the overall
+average. Having said that, our organic business in US has still not completely kicked in. And
+even though our account mining strategies are starting to pay-off, we see this as greater than one
+million accounts in the US as well as our market share within our top 25 accounts, has grown,
+but we would like to see much faster growth in our organic business as well.
+MST Solutions, we’re expecting them to do roughly about $9.5 million in this current quarter,
+in Q3, but they have actually crossed double digits and greater than $10 million in Q3. So that's
+a very positive momentum beyond expectations, and we see a fairly strong outlook going
+forward into ‘2023 calendar year.
+Middle East has been interesting for us. While we have lower margins in that geography, because
+of the nature of the customers, but it has been very steady for us last two or three quarters, and
+we continue to see some large spend, particularly in Saudi and UAE, which will continue to help
+us grow in specific verticals, including healthcare, financial services and public sector.
+From a vertical perspective, other than the health account in UK, which is a government
+institution, we're now starting to see the healthcare strategy pay-off in US and with Oracle's
+acquisition of Cerner and with our Salesforce business also strong in the healthcare sector, we
+believe that will continue to be a bet for the coming quarters in the US market, in particular.
+Let me highlight a couple of deal-wins just to give the flavor of the business and then also talk
+about some of the recognition that we have received from our clients as well as from the industry.
+The Home Office account, which is a strategic UK account, the future borders and immigration
+work that we do out there has been extended with certain biometric matching capability, which
+is very strategic on how borders, immigration and trade is managed by the UK government. One
+of the Blue Cross Blue Shields in the US, which is an existing customer of MST, this is one of
+the feedback that we have received from you to share about some of the synergies that we have
+between Mastek and MST, which is now our Salesforce business. We've been able to grow those
+accounts. This particular example is the Blue Cross Blue Shield healthcare customer, where
+Page 3 of 15
+Mastek Limited
+January 17, 2023
+we've been able to take Mastek services into that account and penetrate beyond the Salesforce
+business. Similarly we've taken Salesforce services and penetrated some of the accounts in the
+Mastek portfolio that existed. So synergies both ways are starting to pick up.
+Our cloud commerce business, which was a key part of our US business in the past, if you rewind
+about a year back, has been under pressure because Oracle dismantled that entire portfolio of
+CX and CRM and commerce, which hit our US business, but we've been able to recover from
+that, managed to convert many of the accounts into Managed Services. And now we are starting
+to provide cross-platform services when it comes to digital experience and commerce, partly
+because of the sense we have in Salesforce, but also with other commerce platforms like Adobe,
+Magento and some of the new generation alliances like MACH Alliance in the e-commerce
+world.
+Another interesting example is account in Middle East called Pure Health, which is a healthcare
+technology platform company where we're completely looking at their cloud ERP financials and
+cloud HCM with Oracle and transforming the entire digitization of that platform in terms of how
+they serve their customers.
+There are some interesting examples that we have included in our press release as well as in our
+investor presentation. But one key customer that I'm very excited about is a customer called
+Banner Health. Again, this is one of those customers which we acquired as part of our
+acquisition. Combined along with Salesforce and the customer, we are going to be doing a
+webinar together. But the key part here is we've created a solution which includes shop and
+enroll for the broker portal and the patient experience, which we believe can be replicated across
+multiple other clients.
+ISG recognized this as a standout case study, which gives us industry recognition on the work
+that we're doing in addition to the validation that we received from the customer as well as from
+Salesforce.
+We made a very strategic investment in Q3. Volteo Edge, the platform which actually is an IoT
+platform, but works in the context of data and connected devices, is a pretty interesting way to
+look at how data can be extracted in the edge to service world, particularly with discrete
+companies like manufacturing, healthcare, medical devices, retail. And we believe that this
+solution, combined with some of the services that Mastek has, can be an interesting overall
+proposition for our ServiceNow ecosystem. As you know, we are very strong in the Oracle Cloud
+space. With the Salesforce acquisition, we are very strong now in the Salesforce, customer 360
+degree space. And this Volteo Edge investment gives us an entry into the ServiceNow
+ecosystem, which is also a very large growing ecosystem, particularly when it comes to customer
+service and field service.
+As we look at the next few quarters, and there is continuous cautiousness with some customers
+and with certain markets, the cost optimization and the ability to create more efficiencies and
+effectiveness in the organization is becoming a key part of some of the conversations. While
+client budgets have not necessarily reduced at all, they are definitely repurposing and
+reprioritizing their initiatives so that they balance out between discretionary and cost. One of the
+other trends that we are seeing is that the customers are breaking down larger deals, while some
+large deals are still happening, but they're breaking down larger deals into smaller chunks. And
+that potentially is an interesting proposition for us because we can get some market share with
+our existing accounts.
+There's a few examples of those discussions we've started having in the last few months where
+customers have come to us to look at their portfolio. And we are also revamping our entire
+proposition to make it much more holistic so that while we look at front office to back office
+Page 4 of 15
+Mastek Limited
+January 17, 2023
+transformation, from a portfolio perspective, we're also looking at managed services, cloud
+enhancement services so that it can give us some continued stickiness as we mine customers,
+which is the account mining strategy that we have commented on in the last two quarters, three
+quarters, where we've looked at our top 40 accounts globally, and we want to penetrate those
+even further. While we will continue to open new logos, we do want to get a lot more market
+share in our existing accounts.
+With that, I look forward to the Q&A and discussion, but I'm going to hand it over to Arun to
+give some details on the financials.
+Arun Agarwal: Thank you, Hiral. A very warm welcome to everyone here. Wishing you all a very happy new
+year. The deck was circulated ahead of the call and which contains much more elaborate
+information about the financial performance. I will focus on key prefix on our financial and
+business highlights for the quarter, followed by Q&A session.
+Getting into operating revenue. Operating revenue for the quarter stood at INR 659 crores,
+reflecting quarter-on-quarter growth of 3.1% in constant currency, which reflects 5.3% growth
+quarter-on-quarter and 19.3% growth year-on-year in INR terms. The quarter-on-quarter growth
+includes full quarter consolidation of MST. We have consolidated MST for three months in this
+quarter versus two months in the previous quarter, which has led to growth which we have seen
+in the second quarter. However, in terms of organic revenue, it's flat, quarter-on-quarter in INR
+terms, which is impacted due to the furlough and the holiday season, which Hiral alluded to, in
+UK, US and some of the other geographies as clients and their employees went into holiday
+place. Public sector in UK, excluding health customer, continues to do well and private sector is
+building momentum.
+Order book closes during the quarter is encouraging and providing confidence that there's a
+positive momentum, which is building, and it is getting reflected in our 12-month order backlog,
+which has grown quarter-on-quarter and year-on-year, both. We added 31 new customers during
+the quarter. And again, as we mentioned, our focus is on large customers, which we can mine
+more-and-more, despite maybe the acquisition of the customer who went out of services, but we
+mine them for multiple tower of services. So six customers out of 31 have their revenue more
+than $1 billion. It means their IT wallet share is quite significant and gives a lot of opportunity
+of mining to us.
+MST continues to do well, as Hiral alluded too, we are seeing a lot of synergistic benefits. The
+planning of integration is going well and progressing to give multiple opportunities of selling
+Mastek services into MST and MST services into Mastek.
+Our operating EBITDA stood at 17.3%, it's a 10 bps improvement quarter-on-quarter. Easing of
+supply side challenges as we are focusing on the operating levers, including utilization, we
+believe the operating EBITDA will continue to improve. PAT stood at INR 67.1 crores during
+the quarter, which is down 19.6% year-on-year. It is primarily led by a one-time gain, which we
+had in the previous quarter by sale of non-core assets. However, most critical, with the MST
+acquisition, now we have PPA amortization, which is a part of, whenever we acquire any asset,
+there's an intangible calculation, which has to be done as per accounting requirements and which
+is amortized over the period of the life of that asset, which could be between one year to six
+years. So that cost is included into depreciation and amortization, which has led to reductions in
+PAT percentage as well.
+PAT without minority stood at INR 64.2 crores versus INR 73.6 crores in Q3 last year, down
+12.8% year-on-year. Our gross cash stood at INR 325 crores versus INR 352 crores in the
+previous quarter. We have paid roughly INR 40 crores for the purpose of CCPS buyout, which
+is one part of the overall CCPS, which we are going to complete the acquisition in this current
+Page 5 of 15
+Mastek Limited
+January 17, 2023
+quarter. Total expected payout was INR 120 crores in cash and then balance was in equity shares.
+So INR 40 crores, as I mentioned, has been paid in quarter 3 and balance INR 80 crores will be
+paid in the current quarter.
+Our DSO has increased to 98 days. We are working consistently to improve the profiling of our
+DSO. However, due to holiday season, we saw some of the impact coming because of the
+collection, which was supposed to happen in the last 15 days, has not happened. But the focus
+continues to improve it on a consistent basis. Our borrowing stood at INR 397 crores as of
+December 31, 2022, which includes the money which was borrowed for the purpose of MST
+acquisition as well.
+Our headcount stood at 5,687 for the quarter. It reflects a net reduction of 123 headcount.
+Consequently, we have seen utilization improving by 150 bps on a net basis on quarter-on-
+quarter despite very high leaves during the quarter due to holiday and furlough. We have seen
+good improvement coming on the supply side, specifically because of the attrition pulling down.
+We have seen 400-plus bps improvement on LTM basis in the attrition profile as well. On a
+quarter basis, the improvement is much larger, but as we had higher attrition in the initial H1,
+we believe the attrition profile will continue to cool down and will have a better reflection in our
+supply side challenges.
+Thank you, everyone, for your continued support and trust. With this, let me open the call for
+Q&A, and we can get into much specific questions that you have.
+Moderator: The first question is from the line of Mohit Jain from Anand Rathi.
+Mohit Jain: Sir, if you could share the commentary on verticals adjusted for Metasoft, because some of it
+would be overlapping across. So this minus 2%-odd that we've delivered in this quarter, which
+verticals you're most positive on and which verticals sort of dragged during the quarter? And
+second was, given Meta Soft has done $10 million, US seems to be down like 10% year-on-year.
+Is that number correct? And how should we expect this number to behave, let's say, from a 2, 3
+quarter perspective?
+Hiral Chandrana: Thanks, Mohit. This is Hiral. Let me start, and then Arun, please jump in. So the vertical split
+that we normally give is overall, but let me try to comment on two or three specific verticals that
+we are most proud of and confident about where a couple of them are struggling, right?
+Government and education, while historically there has been a UK specific presence for us, with
+the recent movement, there has been a couple of deals on the Oracle side, which we have won
+both in Middle East as well as in US. The city in the State of Florida, which is one of the deals
+that we announced is an example of that. MST also, incidentally, as we've shared earlier, has a
+state and local government presence in the US. So collectively now when we look at that industry
+cluster, it becomes a global vertical, which clearly we are focused on. And this, of course,
+includes UK, but also Middle East and US markets.
+The healthcare sector, which has been hit organically with the NHS account, has impacted our
+overall growth momentum in that particular industry cluster. But as you can see, we're starting
+to sort of rebound back in organic terms as well as combined with the acquisition in both cases.
+So that particular vertical will continue to be a strong focus for us going into next year as well.
+Retail and consumer has been a mixed bag and particularly with the December quarter, that tends
+to have even further slowdown because of the furloughs as well as some of the customers are
+struggling. Some of them are doing really well. So it's a little bit of a mixed bag out there.
+But if you ask, Mohit, the top two verticals that we'll continue to stay bullish on, that will be
+public sector as well as the healthcare sector. Some specific components of manufacturing and
+Page 6 of 15
+Mastek Limited
+January 17, 2023
+technology, we're seeing interesting momentum. And there's a couple of deal wins, one is
+semiconductor manufacturing, one an auto parts distributor, not large deals, but small to
+midsized deals, where we're starting to see some pickup organically as well as inorganic. So
+that's the vertical commentary. Arun, if you want to add the US specific growth numbers as we
+look at year-on-year as well.
+Arun Agarwal: So Mohit, as you rightly observed, there's a reduction in the US overall numbers in the organic
+side because, as you recollect, in H1, there was a delay in the order booking, which led to some
+of the reduction. But with now MST coming into the fold, there is a significant cross-sell
+opportunity because digital business, despite of this Oracle discontinuing their CX business, we
+are able to transfer that particular profile to more Adobe Magento, Salesforce, Commerce and
+others, that gives one of the opportunities. But at the same time, as we said earlier, there were
+some of the order book delay in H1, which we saw in the Oracle side, specifically in the US
+which has led to some of the impact in the organic revenue profile of the US. But with Salesforce,
+now we feel very confident that as a combination, that creates multiple opportunities to do cross-
+selling and a lot of integrated selling options as well.
+Hiral Chandrana: And the last part of the question very quickly is, looking forward. So since we've been able to
+convert some of those accounts into managed services, and we have a slightly broader portfolio
+with the Salesforce, a little bit of ServiceNow, which is now more recent and our digital and data
+services, along with Oracle, is starting to complete our service line portfolio strategy when we
+go to these customers in the US. And as we look forward, clearly, we are behind. And like I said,
+I'm personally, but we are collectively very disappointed in the organic performance. But as we
+look forward, there's confidence going in because of the deal momentum that picked up in Q3,
+and we're seeing that in the order book backlog as well.
+Mohit Jain: Just one thing on the government business, like when we look at the vertical revenues, the
+sequential growth, that is primarily on account of UK or that is primarily on account of
+acquisition?
+Hiral Chandrana: It has got both. Although it is UK, which is the heavier part, the state and local government
+business of MST is very small, although we see some interesting momentum in specific states,
+about six states that we've identified, which have started to have conversations with us. But
+relatively speaking, the secure government services in UK has continued to do very well, Mohit.
+Mohit Jain: And the bulk of MST is in manufacturing. Is that correct?
+Hiral Chandrana: No. It's actually a combination of those three verticals. It's a combination of health care,
+manufacturing tech and a little bit of state and local government. There is one interesting large
+Fortune 100 financial services customer, which is part of the portfolio. And we want to still
+spend some more time on that customer. And hopefully, we can announce some interesting wins
+out there later in the year, in the calendar 2023. But that's one interesting customer that is part
+of the portfolio as well. But mostly it is those three verticals, government, healthcare and
+manufacturing.
+Moderator: The next question is from the line of Debashish Mazumdar from B&K Securities.
+Debashish Mazumdar: So before starting my question, I have a request that if you can make the constant currency
+sequential Y-o-Y organic growth as part of your main debt, it will really help us to get some
+sense that in what direction the company is moving. Because my sense is that over a period of
+next two, three years with a $1 billion target that we have, we'll do a at least a couple of more
+acquisitions. So that will help us to track better the organic health of the company. So that is one
+request that I have. If we can follow that, that would be really helpful.
+Page 7 of 15
+Mastek Limited
+January 17, 2023
+So apart from this, I have two questions. One, if you see the healthcare and life science business,
+we have touched around $17.6 million, $17.7 million of peak, which is Q3, Q4 last year. And
+we have touched a bottom of $11.6 million, which was Q2 this year. Now we have kind of
+recovered to $13 million. So just trying to get some sense that whether this $11.6 million to $13
+million is completely by MST? Or there is some other component into it, whether the NHS
+bucket is completely behind us. So some color around that, please.
+Hiral Chandrana: Sure. That's a good observation, Debashish. And we've noted the request that you made. But to
+your question, and then again, we've been super transparent on this with NHS at a budget level
+and where we are in terms of performance on that one single account, we are $24 million short
+based on the plan that we have, right? So when we had planned in February of 2022, during the
+budgeting process, the number that we expected in dollar terms, while some of it was currency,
+but a big part of it was a huge shortfall. And this is significant change that happened in NHS
+England, NHS Improvement, NHS Digital, some of the leadership changes, some of the
+programs were paused. So in that one single account, we saw $23 million to $24 million of
+shortfall based on the expectations that we had. Now we have been able to recover some of that
+in other cases, but that's a very big number for us, right? So you've seen some of that impact in
+H1FY23. Having said that, the healthcare uptick that you're seeing in Q3 is not just because of
+MST, MST is part of it, we also have a very strong Oracle healthcare value proposition. In fact,
+the US acquisition that we had made, their entry into US was through the healthcare business.
+And we have some interesting solutions that we have re-architected as part of our platform
+strategy. So we're starting to see good uptick in the hospitals in the provider space in US as well
+as some of that in Middle East as well. King Faisal Hospital, American Hospital in Middle East,
+Cleveland Clinic Abu Dhabi, Pure Health. These are referenceable customers, which is why I
+can name them. And these are also healthcare Oracle customers. So it's a combination of both
+MST as well as our Oracle footprint. NHS is a tough one. It's a tough nut to crack, because
+there's so much uncertainty that the organization is going through. Having said that, we believe
+that most of those reorganization changes and instability is behind us. And as we look into FY
+'24, we would start to see uptick even in that account. So that's our hope and time will tell, but I
+think the worst is behind us.
+Debashish Mazumdar: Thank you very much for answering that, and the second question that I have is, if I see the
+Oracle Cloud and enterprise app segment that we report, which my sense is that large part is
+coming from Evosys only. So just to get some sense that over the last two quarters, we are seeing
+a good amount of slowdown there. Obviously some amount of currency conversion has
+definitely impacted that. But apart from that, also there is a good amount of slowdown. We don't
+see that number when we see the parent Oracle's reported number, their cloud business is
+growing at least 25% in organic terms. So, any particular reason that we are kind of slowing
+down here? It is largely to do with any specific team, any specific area, any specific segment?
+So, some color on that, please?
+Hiral Chandrana: The deal momentum did right shift on some of the deals on the conversion side. And that's clearly
+impacting the revenue in Q3. But some of those deals, which we were expecting to close in Q1
+and Q2 are -- a couple of them we have closed. I think we have said there are certain, four or
+five deals, which are greater than 5 million and two or three of them are still in the pipeline for
+Q4. So, all is not lost in that, but it's definitely been delayed in terms of converting those pipeline
+into wins. We had one or two customers, specifically, that did pause projects as well, right? So
+that clearly impacted. One of them in the transportation and logistics industry, which we had
+mentioned last time. As well as in Europe, which is not a big part of our business, I'm talking
+about Europe outside of UK, we did see our order book and revenue momentum on the Oracle
+side, that geography is completely Oracle as of right now for us, right? Eventually we want to
+obviously cross-sell digital services. But Europe outside of UK had a slowdown in some of those
+deals and accounts as well. So those are the three main factors that are feeding into this. The US
+deal momentum that we have in Oracle and some of the upticks that we've seen in Middle East
+Page 8 of 15
+Mastek Limited
+January 17, 2023
+in Oracle should hopefully bring that back in the right trajectory going forward in Q4 and
+beyond. But we definitely had seen a slowdown last one or two quarters on the Oracle side.
+Debashish Mazumdar: The question is if you see the other income for us, it has increased around INR 40 crores Y-o-
+Y, if I do the Y-o-Y comparison quarterly numbers and it has become almost 30% of my revenue
+now. So, any specific onetime recognition that we have in this quarter in other expenses? And
+some more color on margin, please, because we were expecting some improvement in margin
+as salary hikes are behind us. And some part of large currency headwinds are behind us. So what
+is the kind of direction that you can think that margin will go from here?
+Arun Agarwal : Very quickly, Debashish, when you see the other expenses year-on-year, maybe it's not apple-
+to-apple comparison because MST acquisition full impact is there in the current quarter, which
+was not there completely in the previous quarter of the last year. So, it's not apple-to-apple. But
+yes, so while there are multiple cost lines, which gets into it, one of the important line subcontract
+expenses, which is one of the focus areas, but some of the UK government projects, which are
+more security cleared in nature, you can't avoid those subcontractors spend as such. So that
+continues there. However, in terms of onetime, we had on PDD expense provision for doubtful
+debts for one of the collections, which we anticipated did not happen. On a conservative practice
+which we follow in the company, we provided for it and has been reflected in the other expenses.
+Other than that, it's business as usual.
+Getting into margin profile, 17.3% is the range as we speak, Debashish, and if the currency
+headwinds and we expect it to continue more than INR 100 rupees and USD 1.22 GBP. If that
+is the range that's going to be there, then definitely some of the losses which we had in the margin
+dilution will come back, definitely. On top of it, we are working with the margin improvement
+plan, some of the operating levers like utilization and other levers. We believe all of those levers
+are playing out as we anticipated. However, at the same time, we have to keep making
+investment into the growth as we clearly laid down as part of our strategy. So we believe high
+teens is a good range we want to operate. So 17% to 19%, you can anticipate at which, we'll be
+operating subject to currency.
+Debashish Mazumdar: So, this you are talking about FY '24 numbers, right, 17% to 19%?
+Arun Agarwal : I think 17%, already, we are here, right? So we are talking about the improvements from here in
+the short to medium term.
+Debashish Mazumdar: And this write-off that you have or provision that you are talking about, if you can quantify that?
+And is that the reason that your receivable days have jumped up so significantly sequentially on
+Y-o-Y?
+Arun Agarwal : So there is a delay in collection which has happened, Debashish, as I mentioned in my initial
+commentary, some of the collection which we anticipated to happen, because of the holiday
+season, we couldn't convert them into the cash. That was one. And second, at the same time,
+there is an unbilled cycle. So as we are getting into more and more of the larger contracts, the
+cycle is also changing. But we are working very closely with our billing team, with our collection
+team to ensure we are able to convert those unbilled into billable and billable to cash as fast as
+we can. So you will see improvement down the line as well into that particular area.
+Moderator: The next question is from the line of Mihir Manohar from Carnelian Asset Management. Please
+go ahead.
+Mihir Manohar: Yes, sure. Thanks for that. I mean, largely I wanted to understand on the NHS side, you know,
+given the fact that NHS is facing employee shortage issues and even wage issues. So funds are
+going to be diverted towards that, then how would the technology spends and technology
+Page 9 of 15
+Mastek Limited
+January 17, 2023
+budgets would pan out at NHS for this particular calendar year and maybe for next year as well?
+And my second question was on the organic business of the Oracle side. I mean with now Oracle
+discontinuing their CRX and CRM part of the business. I mean do we see still pressure
+continuing from current levels? because, I mean, the business has already come down from $28
+million to $23 million. So how do we see that part of the business?
+Hiral Chandrana: Yes. So Mihir, the first part, just to expand on that a little bit, like you rightly pointed out, NHS
+unfortunately is going through some challenges as an organization, right? And in addition to
+what you said on the shortages of workers, there is long wait times, there is even simple surgeries
+that are taking very long. So, there is a lot of leadership uncertainty as well as consumer
+sentiment that is getting impacted. So yes, there's obviously discussions of how they prioritize
+and how they repurpose their budget. Having said that, right, one of the things which we did
+focused on is to look at areas across NHS. So, the NHS has NHS England, NHS improvement,
+NHSBSA, which is their shared services and see how we can de-risk some of the dependency
+that we had on NHS Digital, because it was going through a leadership and consolidation. And
+unfortunately, even though we won three specific deals, which we had mentioned in the previous
+quarters, those deals, we've not been able to ramp up because the customer has not still released
+those budgets, right? Even though the order book and, not the order book, but the deal was won.
+So, we didn’t recognize the order book and it’s not flowing into the revenue. But those are areas
+that we are still present in.
+As you look forward, I think it's a little bit of a tough one. Although as you might know, there's
+discussions happening at the very highest level in UK government on how they look at spend
+and technology focus in NHS because some help is needed to automate, to look at certain
+digitization as well as cancer waiting times, which we are present in, Pathways, which is another
+program that we have won. So we are hopeful that some of the focus that we have continued to
+put in, in spite of challenging times out there, will pay us off in the medium to longer run. We're
+also looking at the downstream portion of NHS or health, which is social and private care and
+some of the downstream elements of the health sector in UK, where the impact can still happen
+with some of the services that we deliver. Historically we've not been present in some of those
+areas, but that's another way to de-risk. So there's a few different strategies that we are adopting,
+but it's a little bit of a mix in terms of outlook of spend from NHS as such.
+So Oracle, like you rightly said, on the CX and the Oracle cloud commerce, the CR and CX, the
+Oracle Cloud Commerce business was deprioritized by Oracle. And so obviously that impacted
+directly, particularly our US business and the US organic business. But we have been able to,
+with Salesforce, with Magento, with a couple of other investments, establish an overall
+proposition in the commerce space that eliminates our dependency that we had in Oracle Cloud
+commerce. Oracle at a broader level, which is where majority of the business exists, which is
+cloud ERP, cloud HCM, cloud supply chain and EPM, do continue to have potential. We have
+had some challenges on the deals like I mentioned earlier, which has impacted our Q2 and Q3
+revenue growth. But those areas, the cloud value realization of our clients is still a big, high
+priority. And we do believe that as Oracle continues to grow, we are well positioned as a
+platinum partner to grow with them.
+Moderator: The next question is from the line of Ravi Menon from Macquarie.
+Ravi Menon: First off, I'll ask you about the plan, but you have about taking the industry solutions to market.
+I already see that you want to be with in healthcare, to set up an offshore delivery center for what
+seems to be a health plan? Could you talk a little bit about that and also help understand why
+despite this offshore ODC that's going to come up in India, we've seen offshore headcount
+decline?
+Page 10 of 15
+Mastek Limited
+January 17, 2023
+Hiral Chandrana: So Ravi, your voice was not fully clear, but I think we got the gist of it. One was the customer
+win that we announced and the second was on the offshore headcount, right? Those were the
+two questions, correct?
+Ravi Menon: Correct, yes. Thanks.
+Hiral Chandrana: So this is actually an existing MST customer. In fact, we have a CEO relationship with this
+particular Blue Cross Blue Shield, which is health insurance payer, provides Medicare and
+Medicaid services as well. And as we start looking at a strategic relationship with them, they
+wanted us to help them in defining an overall shared services strategy. And that's where this
+whole offshore development center came into play. And we started looking at specific services.
+It's not a very large deal. It's a sort of a medium-sized deal to start with. But we start looking at
+how we can provide them more digital and cloud services beyond the Salesforce business that
+we did with them. So that is a specific example of that customer.
+As far as the headcount is concerned, earlier in the middle of 2022, we had done significant
+fresher hiring as well as trainees by design to some extent where we wanted to make sure that
+we infuse fresh talent and make them more deployable. Some of those take time. So over the
+last three months, we have been able to get some of them deployed. And we wanted to ensure
+that our utilization is improved. So we were filling a lot of the open positions that we had and
+open demand that we had through our internal headcount and internal fulfillment. So that was,
+again, a by-design strategy where we wanted to get to a certain level of optimization in our
+internal fulfillment as well as a repurposing of talent internally before doing new hiring. I think
+we're at a point where we feel comfortable now on the internal fulfillment that we have done
+and the new demand, can now start looking at lateral hiring as well. So that's where you see
+some reduction in offshore headcount because there's some natural attrition, even though like
+Arun mentioned, our attrition has been trending down actually last three, four quarters. But as
+we look forward, we would expect the headcount to continue to increase given the demand and
+the order book that we have.
+Ravi Menon: And what would you think about utilization? Should we see this go back to 73%, 74% levels or
+even higher than that? You operated even at 77%, but I would assume that this is a much stronger
+demand environment and you would probably want to operate below that. So how should we
+think about margins and utilization?
+Hiral Chandrana: Yes. Let me comment on utilization. Arun feel free to add here and cover the margins as well. I
+think 75% is our minimum benchmark actually, Ravi. We're not happy with the number that we
+have right now. So I think we feel comfortable getting to that. I think that's a range that we can
+operate within the 75% to 78% range while looking at, of course, the supply side challenges
+slightly cooling off like Arun said. But 75% is the minimum expectation, would rather be in
+between 75% to 80%. If you could add.
+Arun Agarwal: Absolutely. And that's one of the operating levers we believe. And see, the reflection of
+utilization is predominantly because of the supply side challenges which we had earlier. As it's
+kind of cooling off or you can say softening, there's no reason not to expect between 75% to
+80%. But we’ll take some time to reach there, because the strategy is to ensure we have the
+adequate headcount in bench to support the growth at the same time.
+Ravi Menon: And just going back to the BCBS deal, should we think about this as sort of the template where
+we start seeing more annuity-oriented contracts and that’s how we start seeing customer
+accounts grow?
+Hiral Chandrana: Absolutely, Ravi. I think that is the key part of our strategy. In fact, we believe that there is a
+fairly high degree of spend that these Blues are having, the various Blue Cross Blue Shield in
+Page 11 of 15
+Mastek Limited
+January 17, 2023
+different states in the US. So we're not there yet. I think if we can establish some level of
+credibility with one or two of these states, it could very well become a template for other states
+as well.
+Ravi Menon: And one last question on the US, are you doing any sales hiring and all of that to take this whole
+-- now you have increased size, you have nearly $100 million in revenue number, then do you
+think that you have critical mass to start ramping up? Should we invest in sales now?
+Hiral Chandrana: Yes. In fact, we're planning to even make some leadership changes in the US. There is clearly
+account mining, which has been a focus for us. And if you look back one year or 18 months
+back, we didn't have too many client partners or account managers. So that's one area of focus
+that we provided.
+Now as you rightly said, hopefully, in Q4, we get closer to $24 million, $25 million quarter run
+rate in the US combined business, and that's a good stepping stone for us to do a little bit more
+hiring. So we're going to be very careful about the type of people that we bring in because we
+want sales who can actually do large deals, but also some account management and account
+mining as well. But yes, we will ensure that there's adequate coverage there in the market
+because it is quite spread out in terms of certain regions and certain accounts. And there's a set
+of people that we need as architects and solution leaders as well, which is another area that we
+plan to invest in.
+Moderator: The next question is from the line of Ravi Naredi from Naredi Investment.
+Ravi Naredi: Sir, quarter 3 profit after tax margin drastically reduced from 15% to 10%. Any chance to
+improve same in next few quarters?
+Arun Agarwal : Yes, Ravi. So as we said, there was a onetime reason of income, which was booked last quarter.
+And because of the acquisition, there is a notional PPA intangible calculation, which has to
+happen and which gets into amortization line and impact your PAT. However, with the EBITDA
+improvement, which we are planning and with the help of both operating levers and currency,
+as we operate in high teens, the same will get reflected into PAT as well.
+Ravi Naredi: No, it is okay. But how much the amount which you are telling this is you have charged from
+profit and loss account?
+Arun Agarwal : So again, for example, if I give you a simple data. The PPA amortization, which has impacted
+is roughly INR 7 crores, which is 100 bps reduction, which has just happened because of this,
+you can say, non-cash item of accounting. With this EBITDA improvement of 100 to 200 bps,
+as we said, 17% to 19% is where we want to operate. With that improvement, you can assume
+100 to 200 bps improvement in PAT, which we came close to.
+Ravi Naredi: 100 to 200 points.
+Arun Agarwal : 100 to 200 point in the short to medium term, depending upon how the operating levers played
+out, including the currency and the same will get reflected into PAT as well.
+Ravi Naredi: A small question. You are earning 23.5% margin in quarter three financial year '21. Now it is
+17.3%. So any chance to, again, regain that 23% in any one year, two year, three year period or
+not possible at all?
+Arun Agarwal : So again, the whole philosophy is since we are looking for high growth, we need to reinvest
+back into the business. As we said, US is one of the area of growth, Europe is another area of
+growth. And as you get into multiple capability and multiple solutions, right, you need to build
+Page 12 of 15
+Mastek Limited
+January 17, 2023
+those capabilities in. So it's a fine balance between revenue growth and the margin. And we
+believe anything more than 19% or that's the range we are looking for. Anything more than that
+will be reinvested back into the business.
+Moderator: The next question is from the line of Pratap Maliwal from Mount Intra Finance Private Limited.
+Pratap Maliwal: I had a question around the employee count as well. I think last quarter, ex-MST, I think we had
+a decline in the headcount as well. Last quarter we had said that we are not backfilling the
+attrition, which is not matching with the pipeline. So I just wanted to ask in terms of our four
+practice lines, where are we not maybe backfilling that attrition? And then a related question
+here is that how is the pipeline changing for you? You said that cost optimization is becoming a
+focus area for the client. So which one of our active clients are seeing a buildup due to this? And
+which can be the growth trigger going high?
+Hiral Chandrana: Yes. So Pratap, I'll start this is Hiral, and have Arun can add as well. The Oracle Cloud area and
+business is one place where we wanted to deploy the freshers, make them billable as well as
+leverage internal fulfillment. So that's one area that we had focused on in looking at internal
+resources to backfill some of the attrition. The digital experience area, which, of course, includes
+some bit of Salesforce or a large part of Salesforce, but also other areas is another place where
+we continue to look at investing into skill transformation because this is where the entire
+customer front office journey gets mapped in from marketing to sales to service with the various
+cloud. So, this is a place where we are building capacity, and we are retraining some of the
+Oracle Cloud Commerce experts that we had into different technologies, which include
+Salesforce, Adobe as well as some of the new generation alliances. So other than that, the data
+area, we had seen a little bit of an impact because of these two accounts, and NHS had a big
+presence out there that got impacted. But as we look at pipeline for the future, we're seeing a lot
+more data opportunities across the globe, particularly in the US. So that would be another area
+that we would continue to invest skills in. Arun, if you want to add.
+Arun Agarwal: No, you covered that.
+Pratap Maliwal: And just one more clarification I had that you said in Europe, excluding UK, it's mainly the
+factor that we provided Oracle, that's it?
+Hiral Chandrana: I mean in UK, we have a very strong digital engineering business, right?
+Pratap Maliwal: No, in Europe?
+Hiral Chandrana: Yes. You're right. Pratap. So I would say 90% to 95% of our business in Europe outside of UK
+is Oracle.
+Moderator: The next question is from the line of Ashis Dash from Mirae Asset Capital Markets.
+Ashis Dash: Thank you for giving me opportunity. So last year, you were mentioning that your strategies in
+Middle East region was basically cross-selling down your total accounts in the Middle East
+region. Now in your presentation, you are saying that you want to expand in the Middle East.
+So I just wanted to understand your strategies in the Middle East region.
+Hiral Chandrana: So Ashis, it's a great call out and question. So let me expand on that a little bit because it's a key
+part of how we had to adapt and adjust during the course of the year, right? During this whole
+war situation with Russia, there is a lot of funds and budgets that used to go to Russia that has
+started going into Dubai and in Saudi. And we've seen some interesting uptick on the size of the
+deals as well as the interest from our customers because in Middle East we do have a particularly
+on the Oracle side, a reasonable market share, almost 25% of the licenses that are sold in Middle
+Page 13 of 15
+Mastek Limited
+January 17, 2023
+East is serviced by us. Having said that, we also had a very long tail of accounts and almost to
+the tune of 150 to 180 accounts. So that's just way too many accounts that we had in the Middle
+East. So by design, our strategy was to lower the number of accounts, and we were okay to get
+impacted by some amount of revenue because these were not high-quality accounts and low-
+margin accounts. So that we continue to do. We continue to reduce. You'll see that we're not
+increasing our net account by design because they're focused more on deeper account mining.
+So there's a little bit of a combined strategy there in the Middle East, right? Europe, which is
+outside of UK, Europe business slowed down in the last couple of quarters, and we started to
+see a little bit more uptick in Middle East. So we made the right adjustments there, but we still
+want to reduce the number of accounts that we service in Middle East and go deeper into the top
+10, 15 accounts while looking at expanding our Oracle accounts into digital service accounts.
+For example, ServiceNow, Snowflake as well as Microsoft are three specific areas that we're
+seeing in the Middle East. So we'll stay focused on that in addition to Oracle.
+Ashis Dash: Okay got it. So my next question is, like, I can see some issues in every regions you operate, like
+UK, you are having issues in your top accounts. So US you want to hire sales people. So can
+you just guide us which region are you expecting to outperform in FY '24?
+Hiral Chandrana: UK and US, we will outperform in FY '24, those two regions. Those are our biggest markets and
+the biggest spend, the biggest customers, we're starting to see some traction in Fortune 500
+customers and account mining, like I mentioned before. So UK as well as the US is where we
+are focused on.
+Moderator: Thank you the next question is from the line of Hussain Kagzi from Ambit Asset Management.
+Hussain Kagzi: So I had one question with regards to our government business, and I know you did talk about
+what all are included there. So I'm still confused that we grew 3.2% in INR terms and around
+0.5% in USD terms. And I believe that earlier you had indicated that in UK we are not seeing
+much challenge in other government businesses apart from NHS. And this government portion
+will also include MST, right? So shouldn't it have grown like much better than the company
+average? So what else is dragging it down? If you can throw some light on that?
+Arun Agarwal : So Hussain very quickly, there are two things. While they say UK public sector, which is a very,
+very important part of our business and to reconfirm, that's growing. We are not seeing any kind
+of challenge in the public sector other than the health care customer, which we spoke about.
+There are two impacts predominantly in this quarter, what we are seeing in UK is because of
+furlough and holiday season, specifically all the government accounts completely shut down for
+a week to 10 days, and you can't do anything out there. But in the private sector, still there's a
+combination which we do. On top of it, the combination of MST is very small into the overall
+numbers under public sector. It's predominantly driven by the UK for public sector.
+Hussain Kagzi Understood got it sir and lastly, my question would be in continuation to what the earlier
+participant asked? And call it, like maybe unfortunately, that most of our segments have seen
+some challenge or the other, which of course, NHS was not in our hands. Now if you see going
+ahead in FY '24, so like you alluded that healthcare is getting back regardless of how that NHS
+thing pans out, but healthcare should get back. But what is the outlook? And by when would you
+expect even the organic part in the US to kind of show results? Because in earlier calls also, you
+had said that you were taking some initiatives on turning it around and that we're seeing some
+delays. But according to you, your internal assessment, what would be the timeline that you
+would like to give yourself? And then what could be the expectation of the organic business
+going into FY '24? That's my last question.
+Hiral Chandrana: Sure, Hussain. So when we were asked this question again last quarter, right? We had said that
+three to six months is the timeframe where we see this bouncing back in terms of organic
+Page 14 of 15
+Mastek Limited
+January 17, 2023
+business. In terms of NHS, leaving that aside for a second, from a US perspective, we believe
+that the steps that we have taken longer than anticipated. So we underestimated the time it would
+take to implement some of the account mining strategies and some of the growth strategies. But
+the capability areas that we're investing in, the customers that we're starting to gain, combined
+now with, of course, the acquisition, is definitely coming together. And I think as we look into
+FY '24 Q1 or even in this current quarter, Q4, we do see organic growth momentum going
+forward.
+Hussain Kagzi: All right thank you wish the best that’s it from my side.
+Hiral Chandrana: All right. So it looks like that was the last question, and I, again, appreciate everyone's
+interaction, excellent questions and perspectives as well. While we do have some challenges in
+a couple of pockets, as was rightly articulated, we have a decent deal momentum. And going
+into Q4, a lot more confident with the order book 12 months backlog. Some of the investments
+that we've made, both organically as well as inorganically, will definitely allow us to
+differentiate us with our customers as well. We do, as an organization, a lot of other things on
+the ESG side, the environment, social, governance side, and we've started getting recognition in
+those areas as well. Having said that, like I said, our organic business could have definitely
+performed better and was below our expectation. But as we look at this quarter and going
+forward, there is a lot more confidence, both organically as well as with our combined business.
+Again great performance by our MST Solutions' acquisition and good momentum going into the
+next few quarters as well. And again, thanks everyone for your support, your interactions and
+also your commitment towards Mastek. We appreciate all the questions, and have a great
+evening. Thank you.
+Moderator: Thank you. On behalf of Mastek Limited, that concludes this conference. Thank you for joining
+us and you may now disconnect your lines.
+Page 15 of 15

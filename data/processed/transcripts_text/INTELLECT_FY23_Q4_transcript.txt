@@ -1,0 +1,1388 @@
+Intellect/SEC/2023-24 May 19, 2023
+1. National Stock Exchange of India Limited, Scrip Symbol :
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, Bandra Kurla INTELLECT
+Complex,
+Bandra (E), Mumbai – 400 051.
+2. BSE Limited, Scrip Code :
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers, 538835
+Dalal Street, Fort, Mumbai – 400 001.
+Dear Sir/Madam,
+Sub: Regulation 30 and 46(2)(oa) of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations 2015 – Disclosure of Transcript of the Investors’ Concall
+In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find attached herewith the transcript of the Investor Earnings Call
+held on May 12, 2023 on the financial results for the quarter and year ended March 31,
+2023.
+The Transcript of the earning call is also available on the website of the Company.
+Kindly take the above information on record.
+Yours truly,
+for Intellect Design Arena Limited
+V V Naresh
+Company Secretary and Compliance Officer
+Encl: As above
+Q4 Results FY 2022-23
+Q4FY23
+InvestorEarningsCallTranscript
+PraveenMalik
+Thank you for joining us today to discuss the Intellect Design Arena Limited financial results for the
+fourth quarter of the fiscal year 2022-23 and the full year ending 31st March 2023. The investor
+presentation and press release have been sent toallofyouandarealsoavailableonourwebsiteaswell
+astheStockExchangewebsite.
+Ourleadershipteamispresentinthiscalltodiscusstheresults.
+We have withustodayMrArunJain,ChairmanandManagingDirector,MrManishMaakan,CEOofiGTB,
+Mr Rajesh Saxena, CEO of iGCB, Mr Banesh Prabhu, CEO of IntellectAI, and Mr Venkat Saranu, CFO.
+Besides some other very senior members of the Intellect management team are present in thecall.Mr
+Arun Jain will brief you on the results, followed by thebriefingofMrBaneshPrabhu,MrRajeshSaxena,
+andMrManishMaakan.
+Thereafter, there will be having a Q&A session where your questions will be replied to by the senior
+managementteam.OncetheQ&Astarts,youcanaskaquestionbyclickingonthe“raiseyourhand”and
+wewillunmuteyousothateveryoneisabletolistentoyou.
+On safe harbour, I would like to remind you that anything which we say refers to our outlook for the
+futureisaforward-lookingstatement.Thismustbereadinconjunctionwiththeriskcompanyfaces.
+Withthis,IrequestAruntogivehisbriefing.
+Arun.
+ArunJain,ChairmanandManagingDirector
+Good evening to everybody who has joined this conference call. Today we are celebrating the annual
+resultsofIntellectfortheyear2022-23.
+This is a culmination of the last nine years of our effort when we de-merge Intellect DesignArenafrom
+Polaris Software During these nine years, we built up this institution of high-quality product
+development, deep reach in marketdevelopment,andcutting-edgetechnologydevelopment,whichhas
+gettranslatedtoputthecompanyontheglobalmapforBankTechWave5.
+We mentioned in a release two words which may be new to the investors. One is called eMach.ai and
+thesecondoneisBankTechWave5.Iwouldliketoexplainthetwoerasseparately.
+ArunJain,ChairmanandManagingDirector
+Yeah. So let me start from the positioning of the company at the right place, about nine years of our
+efforts have broughtuswhatarewetoday.TheBankTechWave5startedsometimein1965,whichwasa
+mainframe-basedtechnologiesbankstartusingforregisters.
+Q4 Results FY 2022-23
+Sometime in 1985, the Minicomputer came in and the 2nd wave started using computerisation in
+banking. But in the back end for calculations, andsomewhatfront-endapplications,branchapplications
+startedhappening.
+BankTech Wave 3 happens when distributed computing started happening sometime in the 90s when
+many product companies emerge, whether Teminos or Flex Cube or the players in a similar domain.
+Terminosemergedinthe90to95eras.Thiswasthedistributedcomputingcompanystartedhappening.
+In 2000-2001, when internet technology disrupted the industry, there are next generation ofcustomer
+experience started totakesomeshapeintheBankTechWave5.NowintheBankTechWave,wehaveand
+that was the BankTech Wave 4 and BankTech Wave 5 is about when cloud disruption and AI disruption
+happens, so it means whenever the technology disruption happens, there's a significant way that
+companies have to realign themselves to the new horizon and that investment has to be done at least
+three to four years in advance and we could able to pick up the right signal early in enough that cloud
+and AI is going to disrupt the technology industry, which you are all of you areseeinginlastsixmonths
+more dominantly versus when we picked up in 2017 and invested inateamofcloudtechnologyinNew
+York and then AI technology in India and New York. We invested the moneyoverthere.Withthesetwo
+investments, we made one fabric platform and 2ndisaMachcomposableplatformturmeric,whichwas
+atechnologyplatforminwhichweinvestedintoit.
+eMACH.ai thatwhye-mail.AIiscreatingwavesinthemarketplacewherewearebringingalltheproducts
+which we have built over the period of time in retail banking,corporatebanking,inthewealtharenaas
+the micro services. So there are 285 micro services which can be assembled to design the product
+related to a particular market. let's say HSBC Bank has to design an offering in a specific country for a
+specific SME segment, they would like to offer certain featuresandfunctionalitywhichtheyusedtouse
+services company to build those products. Today weareabletodisturbthatpatternsayingyoucandoit
+using a composable platform. With iTurmeric where there they'll be almost zero code and it will be a
+composable platform. So we define an A to F of eMACH.ai which is architecture which is all our micro
+services which revolve around composability which is all around datawhichrevolvesaroundembedded
+AI and it is flexible and extensible for the bank andthat'swhatgivesagivingusgoodmomentumtothe
+customers globally.so this is our story, which has changed and this is the 4th foundational principle for
+our distribution. Now this technologycanenableourpartnerstobuildthetechnologyorthistechnology
+can help financial institutions to use by their own IT teams by using our eMACH.ai platform. So the
+problemwhichyouarediscussingasaninvestorthatwhenarewesigningpartners
+I think this is the right action we were preparing for. butitismucheasierforapartnertogetsignedup
+for eMACH.ai and that's what during the call Manish may update you about what progress we have
+madeinapartnershipsite.
+So today the purpose of the call is to take you throughtheresultswithlastyearatthesametimeinthe
+month of May, we saidthatwe'vebeenreinvesting5%ofourcashmarginstobuildupanext-generation
+technologyandwe'llensurethecashismaintainedatthesameplaceaswhatwehad.
+We could even deliver the same cash as last year in spite of investing in eMACH.ai, for the
+next-generation platform. The second thing, we looked at itthismarginshouldbeitwas24.5%lastyear
+we were looking 5%. So our annual margin thistimeis20%,whichisalsoinlinewithwhatwediscussed
+with you. Third thing is we always looked at it that Intellect can only be measured by last 12 months
+Q4 Results FY 2022-23
+revenue not quarterly revenue. Our business model doesn't permit for us to get evaluated on
+quarter-on-quartermargin.
+I want to insist againthatpleasestoplookingatcomparingIntellectwiththeservicecompanies.Thereis
+a completely different model. There's no comparison from serviceindustryversustheproductcompany
+or technology company. So Intellect is a technology company. So please look at it last 12 months we
+consistently in last four quarters we maintained our growth rate more than 20%. Even in quarter one,
+two, three,andquarterfour,thelast12monthsgrowthratewas20%.
+So that is what we designed our businessforandthisbusinessisacceleratingourCAGRoflastfiveyears
+is 16%. Our CAGR last three-year is 18% and our CAGRoflasttwoyearsisover20%.Soit'saccelerating.
+CAGRinlastit'sfiveyearsofourjourney.
+The first is how to grow and the Portfolio model is the one critical model where we chose 4 LOB's to
+growsimultaneously.NoweachLOBishavingtheirownportfolioforthegrowthofthebusiness.
+Second is we have presence in 57 different countries, our business is not dependent on particular
+geography and we are the large and the most diversified company which are operating in the largest
+client in Asia, the Middle East, Europe and Americas.Lookingatit,whatnewchallengesare now?Like
+3.0isaboutdistributionwhichwillgiveusheadroomtogrow.
+The second question is headroom for margin growth.Ourlicencelinkmarginrevenuecomesfromthree
+sources, Direct licence, Platform revenue and AMC. All three are growing healthily in the business
+assurance or growth assurance were growth comes from our client quality, our technology
+differentiationandarewesolvingtherightproblem.
+Manish, Banesh and Rajesh will take you through. They will, they will try to assure you that there's a
+huge growth potential they are seeing. Related to risk, the 4th question is, yes, the geopolitical risk we
+have seen over the lastsevenyears.StartingfromBrexittoTrumpwintotheUkrainewartonowUSand
+Americacrashonthebanks.Thosearepartandparcelofourbusinessportfolio.
+Itdoesimpact2to3quarterswhentheindustrystartassimilatingtheimpactofsuchkindofrisk.
+Second risk is deal cycle closure cycle time that is not predictable in a large deals like what witness we
+are in so which cannot be quarter on quarter. And the 3rd risk is coming in now, where the banks are
+becoming more committed for the payments to be milestone-driven.sothesearethethreeriskwhichis
+there.Whichwillidentifyandwewilldiscussitifyouhavesomemorequestionsregardingit.
+At this point of time I want to hand over to Banesh to sharewithuswhatisexcitingstoryofAIwiththe
+combination ofwealthandinsuranceplayingoutinthemarketovertoBanesh.Afterthat,Rajeshwilltell
+you the storyofhowthecorebankingsystemswhichiswhythebanksarelookingforthetransformation
+of core banking systems now by the BankTech Wave 5 is so critical for core bank systems,whichwasto
+someextentslowingdownandhowtheThoughtMachineandTeminosiscompeting.
+Manish story, you know more of you will store the GTB story but the GTB story has migrated to
+significantly in the consumerisation of corporate banking. It's an amazing story what we are.
+Differentiation is coming in the global market space. Manish will share you that storyand then I
+summariseitlater.
+Q4 Results FY 2022-23
+OvertoyouBanesh.
+BaneshPrabhu,CEO,IntellectAI
+Yeah.CanIPraveen.
+canIrequestyoutosharetheslide?RajeshSaxena,CEO,iGCB
+letmetakeitfromhereandletmejuststartbysharingmyscreen.
+RajeshSaxena,CEO,iGCB
+SoIhopeyoucanseemyscreen.
+First of all, good morning, good afternoon and good evening and thank you for joining this conference
+call and it'sgoodtobetalkingtoyouagain.Soletmestartandtalkabouttoday'spresentationandreally
+in four sections. So in sectionone,I'lltalkaboutthemarketopportunity,somekeytrendsandtalkabout
+ourcompetitors.
+WhileArunhasalreadytalkedaboutthefinancialsofyear2023FY2023,I'lltrytoputalittlebitofcolour
+bygivingyouaqualitativefeeloftheyear2023.
+The third section we'll talk a little bit about growth strategy, which is very similar to what Ihavesaidin
+the past, but I'll just recap that again and we'll talk about a little bit more about marketing. I think this
+year we are focusing more on marketing from distribution and marketing. So I'll talk a little bit about
+that. I think when we look at the market size from a TAM perspective, FY 23,theretailbankingspaceis
+about $23 billion which is growing at a CAGR about 8%. So that takes from23to$29billion.Butwhat's
+interesting about this market is while it's growing at an 8% CGAR. The shift in the SaaS piece of this
+market is really growing by 34%, while the in-premise business is only growing by 8%. So the SaaS
+business which is about 14% of the total market spendrightnowinFY29isestimatedtogoto30%.And
+that's where our business model, our eMACH.ai, is the space that we are playing in. Also, from
+non-traditional players these are players likespecialistbanks,digitalbanksandotherfintechplayers.We
+areseeingthatcomponentofthebusinessisalsogrowing.
+So that's a little bit about the market from an Intellect perspective, we should look at the Intellect
+service, addressable market, it's about $11 billion growing at about8to10%CAGRandthereforefroma
+retail banking space, we believethereisahugeheadroomforustogrowandourbusinessinthecoming
+years.
+Talk a little bit about some of the trends that we are seeing in the market.SoIthinkthefirsttrendthat
+we are seeing really is about digital transformation especially relating to the bank's customers and
+specifically customer on boarding. We are also seeing that customers are expecting the banks to
+participate in embedded finance user journeysasthecustomergoesthroughtheirjourney,forexample,
+to just to make thisalittlebitclear,let'ssayabankcustomerisanAmazonisbuyingaproduct,let’ssaya
+white good product. Suddenly he doesn't want to pay in full, he wantstotakealoan.Heorsheexpects
+the bank to be a part of that journey and be able to offer that loan during that journey. So that's the
+embeddedfinanceandweareseeingthattrendgrowing. andthat'sthefirsttrend.
+Q4 Results FY 2022-23
+The second trend I think I already talked about it, it's an accelerated shift to SaaS and cloud. We are
+seeingthattrendgoinginallmarketsacrosstheworld.
+The third trend is really about how banks can use data insights and embedded AI's in the customer
+journeystocreatehyperpersonalisedcustomerexperiencewhichislifestyleorientedandcontextual.
+The fourth trend is really about how banks can work withpartnersandfintechstocreateanecosystem,
+and through this ecosystem, everyone plays. I think a couple ofyearsbacktherewasalwaysthisdebate
+about banks and fintechs. I think banks have now understood how to play in this gameandalsoweare
+seeingthetrendofhowbankscanbecomemarketplaces.
+In certain advanced markets, we are seeing ESG as a very key driver, especially on the environmental
+pagespaceandinthecentralbankingspacethatweplay,weareseeingdigitalcurrencies.
+We are seeing many centralbankseitherdoingPOC'sorlaunchingdigitalcurrencies.Sothesearethesix
+key trends that when we talk to the bankCEO's,retailbankheads,CIO's,chiefdigitalofficersthistrends
+that the banks talk about and it is important because our business model is built around those six key
+trends.
+I think from a technology perspective, the kind of investments that we have done in the last couple of
+years, whether it's relating to cloud SaaS, API, micro services, DevSecOps, Insights, data AI and
+distributed DB and I think 2025-2030 we expect these technologies to further evolve. So from an
+Intellect perspective, the good part is that we have already started our journey a couple of years back
+andwe'vemadesignificantprogressinsomeofthesetrends.
+So talk a little bit about year 2023. I think we were wellcoveredfromananalystperspectiveforthe6th
+consecutive year IBS rated us as the number 1inRetailBanking.TheyalsoratedusasaGlobalLeaderin
+ProductBreadthaswellasRetailLending.
+From a Forester perspective we were rated as a leader in theForresterWaveDigitalBankingProcessing
+Platform for Retail Banking. We are in Gartner 7-time leader in the Gartner's Magic Quadrant, and
+ChartisalsoratedourDigitalLendingSolutionasthe“BestofBreed.”
+So I think we gotalotofqualityanalystcoverageduringtheyear.Wealsodid,youknowinthemonthof
+February. I think Arun talked about it, we had our first BankTech Wave 5 event in Mumbai and during
+that time we were very happy to launch iKredit 360, a specialist credit platform built for India and I'll
+show a couple of pictures around that and talkalittlebitaboutthevaluepropositionthatwehavebuilt
+foriKredit360inIndia.
+We believe that this platform, which is a specialist great platform, can really help democratise credit in
+this country. So let me talk. I think the key proposition of iKredit360 that we have in a nutshell is it's a
+complete 360 asset platform. What that means is that any credit product, whether you want to launch
+an SME financing, or credit cards, or agricultural loan, gold loan,everycreditproductcanbeconfigured
+onthisplatform.
+It is built on eMACH.ai architecture, which means that it's microservicesAPI,cloud,headlessandevent
+driven architecture. The model that we have is really on pay as you grow, so you payasasmallupfront
+fee and you pay as you grow based on the number of transactions and what's very critical is that it is
+inbuilt in India ready that. What it gives is that all the key partners fintech government agencies are
+Q4 Results FY 2022-23
+already integrated with this platform, which significantly reduces time to market for banks as well as
+makesthisplatformregulatoryready.
+During that event, we launched 2products,SMELending,SMEfinanceandlendingplatforminIndiaand
+thesecondplatformthatwelaunchedwasaboutDigitalCards.
+So on SME financing, the platform actually takes care of 16 types of SME financing thatyoucandoand
+it's a model which is completely India ready and onthecardspiece,it'sacompletefronttobackmodel,
+whichalsohasthepotentialtolaunchagreencard.
+Following India's event, the 2nd event that we did was in UK where we really launched our UK Open
+Finance platform and we show youalittlebitaboutwhatwedidinLondon.OursecondeventinLondon
+and in that event we actually which was done in collaboration with the Celent and AWS Banking for
+London, we actually launched the Open Finance platform, which is UK and Europe ready based on our
+eMACH.ai architecture, it was very well received. We had about more than 60 banks, customers and
+prospectslookingatourplatformandwearecontinuingtoprogressonthisfromaEuropeperspective.
+I wanted to not talk a little bit about two used cases, so I think this is the first used caseisreallyabout
+our central bank. Used case where we launched the commercial portal for these banks and just talk a
+little bit about what this portal does for this commercial bank. So this is serving about 240 commercial
+banks which has about more than 15,000 users and this is the first time we've builtaplatformwhichis
+multilingual. We have actually started with English and Hindi, but it has the capability of going into
+regional services. The platform offers 120 plus banking services and 175 PDO services. And for the first
+time any central bank has actually gone on an enterprise cloud, so this platform is on VMware Tansu
+Cloud. It is the first time where we have gone throughveryseveresecurityclearancesandwehadtogo
+through a professor at IIT Kanpur because security is a very bigconcernfrombeingacommercialportal
+and the first time we have thought our iTurmeric platform. We have ensured 100% coexistence what it
+means is that we have the oldplatformekuber1andthenewplatformekuber2andwehavetheability
+for a user for a certain bank to be on ekuber 1 and certain banks on ekuber 2 and within a bank also
+someuserscanbeonekuber1andsomeuserscanbeonekuber2.
+Sothisisagreattoolfrommigrationandreducesanyriskfromamigrationperspective.
+The second use case that I wanted to talk about is the SME marketplace that we havelaunched.Thisis
+for one of the largest private banks in Indiaandthisisabankwhichoverthelastoneyearhasimproved
+its market share from 19% to 24%.and the platform is really about a cloud native solution which is
+implemented on a private Google cloud where the customer the SME can self on board. So prior to
+pandemic, the process in this bank used tobethataSMEwouldgotoanRM,sitacrosstheRMandgive
+allthedata.Andthatprocessofapprovingcouldtakeanywherebetween7to10days.
+Now what the bank has done is that SMEcanonboardhimselforherselfbyusingamicrositewithvery
+little data entrywithveryfewfieldsofdataentryandthroughmultipleAPIcallsthatwemakewithmany
+important fintechs and partners. We are able to get that information and make almost real time
+decisions,sothiswedothrough129API's,11PBC.Webuild67interfacesforjustapprovingthisRMS.
+Today, the bank is processing about 70,000 applications thatdispersesboththe7000croresamonthon
+this platform. This is, we believe this is a hot space in India at this platform can really democratise the
+SMEfinancingfromatechnologyperspectiveinIndia.
+Q4 Results FY 2022-23
+Moving on, I think I'll talk a little bit about our strategy. Our strategy continues to be built around our
+product and platform focus, continued focus on Europe, our principal solution, provider strategy and
+destinydealsthatfocusontalent.
+I think this is an important slide and I'll spend a couple of minutes onthisslide.Ithinkwhenwelookat
+ourbusiness,wearelookingatourbusinessasfourproducts,threeplatformsandonetechnology.
+The four products that we talk about is IDC and when we talk about IDC, this is core banking lending
+credit cards, AML, Treasury, etc. It's the most from a breadth perspective, it is the widest productsuite
+thatisavailableinthemarketandthedeepestfromthetypesofuserstoriesthatwehave.
+The second product whichwesellisDigitalLending.Thethirdproductisreallyaboutourcentralbanking
+proposition, our Market Leading central banking product which we call as Quantum and the 4th is on
+CapitalCube,whichisourTreasuryandALMproduct.
+As we had originally had products, we are now moving in thatjourneyfromtoaplatformandthethree
+platforms that we have is eMACH.ai. This is our open finance platform. iKredit 360, it's a creditcurated
+credit platform. The digital experience platform, this is the front end layer and iTurmeric, which is our
+technology.
+I want to spend a couple of minutes talking about the key valuepropositionsofsomeofthese,someof
+the products and the platform. So from a product perspective. I think if you look at IDC,thekeyUSPor
+IDC, it's a composable and extensible business components. ItisbuiltoneMACH.aiarchitectureandasI
+said from a breadth and depth of the solution, it is the widest and includes end to end loan life cycle,
+credit cards and treasury. And from a product perspective, in our strategic markets, we have country
+ready model banks platforms for targeted countries. What helps is that it enables us a shorter
+implementationtime.
+From a lending perspective, what we are seeing in the market space is a great need foroneorigination
+platform and one originations platform is really a single platform which can take origination for retail,
+commercialaswellascorporate.
+Thedigitallendingsuitethatwehavehasacomprehensivecreditlifecyclemanagementandhasmultiple
+channelaidssuchasMicrosoftCustomerOffice,RMOfficeetc.
+From the Quantum perspective, which is a central banking solution, we look at our key USPS or digital
+transformation how we can enable central banks to implement policies faster to keep pace with ever
+changing interconnected global landscapes. It seamlessly connects 4 pillars of the nation: the
+government, the centralbank,FIs,andthepublic.Ithelpsthecentralbankstoprovidereal-timevisibility
+ofoperationsanditreally,whilethisisafullproduct,itactuallyhas12differentpillarsinthisplatform.
+From a Capital Cube perspective, this is a product which seamlessly integrates the front office middle
+office at back office with inbuilt ALM and RFR and it has a realitcangivethebanksareal-timevisibility
+ofcashflowandriskandportfolioriskanalytics.
+Fromaplatformperspective,IthinkeMACH.aiisthe.AsIsaid,thisisouropenfinance-enabledplatform.
+It is already an integrated ecosystem; it is regulatory compliant in the marketsthatweareworking.Itis
+availableonPaasandit'soneMACH.aiarchitecture.
+Q4 Results FY 2022-23
+From our iKredit360 perspective, this is a complete 360 assets platform where banks can curate
+innovative credit experiences over the cloud.IthastheeMACH.aibuildingblocksandithasmulti-tenant
+credit as a service platform and this comes pre-integrated with best-in-class Fintech partners to offer
+differentiatedsolutions.
+From a digital experience platform, it's about composable, contextual and collaborate from a
+composable perspective, the banks can design their own UIs. It has domain services across acquisition,
+banking services, engagementservices,beyondbankingservicesandfoundationservicescontextualised.
+We are using embedded AI and ML for building propensity models and collaborate. It works in an
+ecosystemwithintegrationwithmanyfintechsandpartners.
+Sothat'sreallyaboutourproductplatform,buttechnologystory(lostaudionvideo)
+I think I just wanted to talk a little bit about Europe. I think we have reinvigorated our team in Europe
+with the senior persons induction. Wehavebuiltcontinuingtobuilduppre-salesanddeliverycapability.
+We have 3 referenceable clients which have gone live, Cater Allen, Otto and Resurs in the process of
+goinglive.WenowhavefullyhostedsolutionsinAWSGermanyandtheUKwehavebuiltagoodpipeline
+in UK, Europe, and Canada. We are, as I said earlier, we are now hosting multiple events in the UK and
+Europe.SoIthinkthatwasreallyaboutthisthing.
+I think a little bit about principle solution provider. So what we are looking at is really looking at 5
+accounts in this year to see how we can build a principal solution strategy around lending with these
+banks and we continue to remain focused on the destiny deals. Destiny deals are very important forus
+andwe'llcontinuetoremainfocusedonthat.
+I think on the last piece, which is really our about talent, I think we are in the talent business and
+therefore we are focusing on, wecontinuetoremainfocusedontalentandfromatalentperspectivewe
+are really looking at talent development, cost and efficiency and people engagement and learning. So
+thesearethethreepillarsthatweareworkingonfromatalentperspective.
+So that's really what I had. I think from a marketing perspective, I can just quickly talk about saying we
+areveryhappyforthefirsttimewehavedecidedtoparticipateinMoney2020.
+We are participating in the Money 2020, which will be held inJuneinAmsterdamandwherewewillbe
+showcasing our signatures, how banks can build their own solution, a signature solution on an on our
+open finance platform. We're looking at that a Digital marketing course,thewaywhereiGTB,doesiGTB
+Oxford and we're looking at increasing our marketing participation in our marketing events in our key
+markets and along our key products. So that'sreallywhatIhadandIthinkwiththat,letmehanditover
+toBanesh.
+ArunJain,ChairmanandManagingDirector
+Beforehandingoverwhatisthecompetitivelandscape,Rajesh?
+RajeshSaxena,CEO,iGCB
+Q4 Results FY 2022-23
+Yeah. So I think it is a very interesting question. And I think from a competitive landscape,whatweare
+seeing is that if you really look at markets in Europe and you look at Tier-1 banks or even ifyoulookat
+large banks in the regional space the competitors that we face are really Temenos, Thought Machine,
+and Intellect. So in many deals, we are in the last three with these banksandtheseareverylargedeals
+and these could be Tier-1 bank deals, this could be regional tier bank deals etc. So I think we are
+uniquely positioned when we compare ourselves with Temenos which we think is a little bit of an old
+legacy platform. If it has a verymonolithicarchitectureandThoughtMachinewhichisreallybuiltonthe
+latest technology but doesn't have thedepthandthebreadthwhichisrequiredfromafinancialservices
+perspective.
+So I think with the eMACH.ai architecture as well as the depth and breadth that we already had in our
+solution,weareuniquelypositionedtobeabletolookatthismarketspace.
+And I think Arun talked about this a couple of years back. We were themarketwaslookingatfollowing
+thecoreorbuildingaroundthecoreandnottouchingthecore.
+What we are now seeing from a market trend perspective is that most of the banks are lookingatcore
+transformation because theyarenotabletogetthebenefitsbyusingonlythesurroundingsystem.AndI
+think with the newarchitecturethatwehavethecloudtechnologiesaretheeMACH.aiarchitecture.This
+has become lower and therefore we are seeing a good market opportunity in large core banking
+transformation. That's the trendweareseeingandweare,asIsaid,TemenosandThoughtMachine,but
+we believe that we are well positioned because of our latest architecture as well as the depth and
+breadththatwehavefromafinancialperspective.
+ArunJain,ChairmanandManagingDirector
+Thankyou,overtoyouBanesh.
+BaneshPrabhu,CEO,IntellectAI
+Ithinksomeissuewithmyscreenbeingabletoshareonzoomsothey'regoingtopresent.
+So hi, good evening. This is Banesh. I'm going to sort oftalktoyouaboutIntellectAIbusinessandsome
+of our learnings, the Intellect AI business has had in 2023-24 beforeandhowIntellectAIhaspositioned
+itselfverywellfortheevolutionthatweareseeingintechnology.
+I mean, we are moving very rapidly at a fast maturing page pace from a digital age to as of you know
+informationageevolutionandhowIntellectAIactuallyispositioned.Ithinktheapproachthatwe'vehad
+from the beginning using data and AI as a first approach along with our eMACH.ai architecture for
+creating AI and data models. I'm gonna actually have a few slides, and talk to you about each of the
+themes.
+To start with, I think our business trajectory during the year 2022-23wasverypositive.Weexperienced
+growth and expansion across our customers. And also in many of our geographies for our wealth
+business, our continuous innovation in products and platforms using embedded AI has now started
+providing us with some unique edge to quickly fulfil our varied customer demands and there is a lotof
+demandcomingoutontheembeddedAIsolutionsforspecificareasintheirbusiness.
+Q4 Results FY 2022-23
+So I'm going to touch on three businesses. One is the Insurance Business, which isprimarilyfocusedon
+the US, but is slowly expanding into the UK, and Europe. Our WealthBusiness,isinseveralgeographies
+rightnowandisexpandingquitequicklyI'malsogoingtotalktoyouabouttheveryexcitingareathatwe
+are seeing for our iESG business that we have started with a few clients and also the potential of what
+we had launched as Magic Invoice in India. You know, eventually occupying the accounts payable
+opportunity, which is also very large. All of them use our same embedded AI platformsthatIwilltouch
+on eventually as the technology and how we've investedinthistechnologythroughvariouswavesusing
+dataandAIfirstasanapproach.Sonextslide.SoI'mgoingtohaveacoupleofslidesontheUSinsurance
+business, which I'm going to Start with first. Firstly, North America, as we all know, has been pretty
+challenged economically for financial institutions. However, our insurance business actually is
+progressing. Most of the insurance businesses are progressing very well in the economy and with the
+present risk scenario, we actually see great opportunity for the insurance business, specifically the
+insurance business related to next-generation underwriting efficiency. They do want to underwrite risk
+more efficiently in this very high risk environment. So if you see this slide, you know we are oneofthe
+few providers who focus on a combination of datausingriskanalysisasaproduct.Foringestion,weuse
+our Magic Submission I'm going to touch on that a little bit later. And a very successful completely
+MACH-architected intelligent underwriting platform exponent. We also have partners,sowedon'tbuild
+policy admin systems, but we are partners in policy admin. So wherever a client wants to specifically
+focus on a particular type of business, we would give them our partner systems for policy admin. You
+know, if we can move to the next slide Magic Submission and exponent end-to-end underwriting with
+enriched data coming from our risk analyst product is actually creating a comprehensive underwriting
+ecosystem. There are clients are actually now very interested in implementing slowly for different
+businesses. So we've built data models through AI to enable various business lines such as property,
+general liability, workers com, and business auto and right now we're working with many clients on
+putting together specialitylinesandexcessandsurpluslinesleveragingintellectsiTurmeric,nocode,low
+codeplatform.
+So our deep customer-centric focus actually provides us both cross-product and cross-business
+ecosystem, so what this really means is that we are in a position to get into a client,maybewithMagic
+Submission in the earlier slide you saw the ingestion capability and then extend it to specific lines of
+business. There are many lines of business. Some insurance companies do few lines of business, some
+others do many lines of business and we actually enter into a specific area either a business, either a
+specific function of just Magic Submission ingestion, then we use data as a separate product, and
+sometimes we add to it. The ability to even takeitendtoend,tounderwriting.Ithinkthatcombination
+has worked extremely well and has given us a strong focus on landing and expanding with our clients.
+Our plan this year would be to exceed 1,000,000 submissions throughMagicSubmissionandthepricing
+is based persubmissionandthisisdoneeveryyear.Weareabout80%fasterinprocessingtimeand20%
+higher data quality. But are enhanced capabilities of multi-channel ingestion. We can take data from
+multi-channels. We can take different kinds of data. We can enrich the data and thenwhatwedoiswe
+embed AI to provide things like submission prioritisation, so I will touch on this first point on
+decision-makingtime.
+Many of our systems are actually helping the client prioritise submissions much faster and choose
+through our AI embedded platform faster submissions for underwriting compared to the old BPO, you
+Q4 Results FY 2022-23
+know model which had lot of processing delays and human limitations. So our target is actually to go
+aftertheBPOindustryforMagicSubmission.
+And actually we therefore, if you saw the competition slide, we had convert and ground speed, which
+are the two competitors, this combination of puttingtogetherintelligenceofAIembeddedissomething
+thatmanyofthemdonothave,whichiswhywe'regettingalotoftraction.
+The market time is expectedtobeabout100millionsubmissionseveryyearandourpositioninthisvital
+area in underwriting shows enormous growth to be able to process with all of these operational
+capabilities for our customers going ahead. We continue to obtain an edge over competition such as
+guide wire and Duck Creek, now Guide wire and DuctCreekarethebigpolicyadminproviderswhoalso
+do underwriting. But I think the capability of our underwriting ecosystem makes us a lot stronger than
+Duck Creek and Guidewire and actually don't, you know, most people are slowly moving away from
+those platforms or many of them have been doing underwriting outside of those platforms and we
+actually are the best solution to be able to use our eMACH architecture along with the embedded
+intelligence to be able to help them, Manage the end-to-end process and with partners who we have
+partners. For example, to do rating of risk, we have partners to dopolicyadmincapabilities.Ithinkthat
+ecosystemproviderisattractingalotofattentionfromsomeofourclients.
+To this effect,ourGTMfocusnowincludes3aspects.One,it'sexpandingtheTAMtoallthosebusinesses
+I mentioned, property, casualty and so on. That is number one. Second, a custom offering leveraging
+intellects, proprietary low code platform iTurmeric in specialty insurance. This iswherewewritespecial
+insurance for a particular need. And we have not normally done that in the past and this is something
+now we built the capability along with our underwriting platform and iTurmeric fulfilling that
+requirement.
+So that's expanding our TAM in a new area and thirdly we moved away from carriers to support MGAs
+wholesalersandreinsurers.AndwebelievethattheTAMofapproximately5billionyearsperyearonjust
+the technology side for US and UK's is where we believe is the opportunity. I think our specific target
+withinthatissomewhereinthe3billionrange.
+Now we have 13 customers on boarded a very healthy pipeline and quite a few in contracting as this
+stage with our newly created OPS team we deal with thatexceptionprocessingthatwehave.youknow
+for some amount of our AI capability brings exceptions. We've created an end to end capability todeal
+with that operations capability and what that operations capability learning does is that it helps us
+furtherinourdeeplearningandmachinelearningalgorithms,furtherimprovingperformance.
+So those are a few of the things I wanted to touch on the insurance business. I'm going to nowtalkto
+youaboutthewealthbusiness.
+OK, so wealth interesting space I think I'll start with saying that global market trends are showing that
+we've almost tripled the assets under management and many of you are investors and you know the
+growthinassetsundermanagementinthepastdecadehasbeenenormous.
+There's a continuous increase in liquid assets and number of high net worth all over the worldinmany
+places. Wealth management firms and banks are struggling to provide new-age AI-driven technology
+experiencesandrenewedproductstoadapttothesenewbusinessmodels.
+Q4 Results FY 2022-23
+So you'll see over here we are focusing on a variety of segments right down from the ultra-high net
+worth and private bank on one hand and to the mass wealth on the other hand.Andthereisaneedto
+actually enhance the capability to provide scale for the relationship managers and the investment
+managers to be able toservicemorecustomersandtoknowmoreaboutthecustomersandmoreabout
+their risk appetite to be able to provide them the right products and there's an enormous amount of
+wealth transfer taking place to new people, so the ability to bring in new customers and at the same
+timeretainexistingcustomersisverycritical.
+I think, one thing I wanted to touch on here is that we've started sort of pioneering a differentiated
+experience for wealthmanagersandbanksandasuperiorserviceforbothclientsusingaplatformwhich
+wecallwealthforce.ai.
+We believe technology role is to complement the RM and not compete with it. It is a very emotive
+businessandwedigitisewithembeddedintelligenceallthosebusinesstasks.
+In the daily life of the financial advisor they can provide the personal touch in the digital age and help
+them have embedded AI-powered analysis to supplementtheirskills.SoI'mgoingtotouchalittlebiton
+wealthforce.ai. So, wealthforce.aithatwearenowintheprocessofimplementinginquiteafewmarkets
+we you know that it has got three keymodels.Firstly,it'sgotaneMACH.aiwhichwe'vealreadytouched
+onarchitecture.
+We use our fabric data platform and this new offering is the most comprehensive no touch, lowtouch,
+financial advisor or RM solution and it's built on these three pillars hyper-automation to absolutely
+reducetheoperationsfriction.
+There arecustomersthatarelationshipmanagerandacustomerfaceintheirtransactions.Thesecondis
+hyper-personalisation. We believe that there is an enormous need to be able to match the right risk
+products to the right customers at the right time and normally the relationship manager doesn't just
+have all that capability. Andhowdowesupplementhisskillswiththecapabilitytodothatandtherefore
+resultinamoderncustomerexperience.
+Wherever we've implemented this, it's actually helped the wealth business grow their relationship
+manager performance significantly. We hope that we could scale this up in several other geographies
+goingfor.Sowhataresomeexamplesofthat?
+Contextual recommendations differentiator with this product is its hyper-personalised embedded AIfor
+contextual portfolio recommendations. It actually helps clients increase their wallet shares. It helps the
+business not just with the wallet share increase, but italsohelpsindividualinvestmentvaluesystemsto
+be tailored to suit the customer requirements. So very often the customer needs a tailored solution to
+suit what he wants and the ability to understand the customer and to tailor the right solution tohimis
+really the focus of providing. These are some examples ofhowtheAIisembeddedinthisparticularyou
+knowthisparticulararea.
+Next slide talks about nudges. How do we create smartnudges?Thesearepersonaltriggerscustomised
+whether a person wants to be socially responsible investmentorhewantsthenextGenanalyticsforhis
+portfolio and for their business performance. It is a deeper analysis of the portfolio that we do and
+thereforeweprovidetherightnudgestothecustomerattherighttime.
+Q4 Results FY 2022-23
+And then we provide this end-to-end portfolio performance evaluation that we can help the RM have
+available on his desktop at any point when he's dealing with the customer and we have collaboration
+tools between the financial advisor and the customer. So that we can actually retain and deepen our
+customer relationships to provide them the engagement and collaboration at therighttime,andIthink
+the whole focus is about making the RM successful. We have about 20 customers between wealth and
+capitalmarkets.
+And active pipeline discussionsinvariousgeographiesrightnowinprogressandwealreadyworkedwith
+three of the top five banks for mutual fund wealth distribution in India and almost all of the local
+custodians in India use our custody platforms. In addition, we sort of managed 20% of India's mutual
+fundvolumesonourexistingplatformthatwehaveimplementedwiththemutualfundassociations.SoI
+think our combination of MACH and our embedded AI for wealth is coming together very strongly,
+focusedonthefinancialadvisorandtherelationshipmanager.
+Wanted to talk very briefly on the fact that wealthforce.ai can be implemented independently or
+together with our core wealth platform called wealth cube. This wealth cube really covers thefullsuite
+ofsixofficersand23deskscovering150toolstohelpcompletewealthmanagementforacompany.Now
+some organisations only wanttoimplementtheirfinancialadvisor,whileotherswouldliketoactuallydo
+theend-to-endwealthimplementation.
+Some of them want to start with wealth and then move into a progressive transformation of their old
+platforms because theydon'twanttodoeverythingtogether.SoIthinkourcapabilitytobeabletofocus
+on that forwealthisvitallyimportantandIthinkwehopethatwewouldbeabletolaunchverysoonthe
+wealthforce.ai in most of the key wealth hubs around the world that we are actually analysing at this
+point and finding out whowewillcompetewithinthesemarkets.Webelievewealthforceinthepresent
+3 pillars I talked about hyper Automation, hyper-personalisation, a superior customer experience is not
+actually in its exact shape. Having a lot of very clear competition, they're different fintechs doing
+different pieces of this, but the complete architecture along with MACH can be verywellpositionedfor
+ourselvesgoingforth.Sothat'swhatIhadonwealth.I'mgonnatouchonESG.
+So as you know lot of folks,whenwetalkaboutESG,thinkimmediatelyaboutenvironmentandclimate.
+Butthisslidewillsortofshowyouenvironment,socialandgovernanceandthevarioussub-components.
+The platform is already live,withoneoftheworld'slargestsovereignwealthfunds,andwe'reactuallyin
+the process of implementing and upgrading it to cover all these various blocks and a lot of other data
+around.
+ItbutpresentlyitrunsonAWScloudanditalreadyhasacoverageof6500companiesglobally.
+A few 100 India listed companies are already present and we want to expand that to cover the whole
+index in India very soon and we know that there are regulatory mandatesbothfromSEBIandofcourse
+withalltheotherglobalcountrieswhetherit'sUKorregionssuchastheEuropeandtheUS.
+So iESG uses the power of machine learning to delivercontextuallyrelevantinformationaroundeachof
+these blocks of environment, social and governance. It is unlocking intelligence that is required for
+enablingmuchbetterriskanalysisthanjustlookingatfinancialrisk.
+Q4 Results FY 2022-23
+I think people, organisations want to look at environment, social and governance in some markets,
+governance becomes very critical as we've seen the combination of looking at risk in a holistic way to
+look at all elements beyond financial risk is what this suite really offers for usandthisiswhatwearein
+thepositiontodaytoprovide.
+So iESG is built on the foundations of explainable AI for ultimate transparency and auditability. Now if
+you see this slide and you see there are four rating agencies which are the different blocks for each of
+these. So if you look at whether apples and you'll see 4 rating agencies rating ESG overall or even
+elements of ES&G at different levels, the same rating agencies and all these are very largeglobalrating
+agencies we're talking about. OK, now this has been a concern that you can't justacceptthebestscore
+but you should be able to have explain ability of where the datacamefrom.SoourexplainableAItakes
+youdowntodrillfromwherethedatasourcescomefrom.
+So this wholecontextuallyrelevantenvironment,socialandgovernance-relateddataofclientstounlock.
+Intelligence is done in such awayasthatwegiveyouamuchbetterviewtoriskanalysisthanyouwould
+have before. So this is an explainable AI lots of ESG ratings are today providing scores, but all of them
+lack thegranularityrequiredtomakethisintoaneffectivebusinessgreatdecision.Nowwhetheryouuse
+ESG for risk or you use ESG forimpact,itactuallyhelpsassetmanagersandfundstomakecompetitively
+differentinvestmentdecisions.
+And allows banks to incorporate sustainability,riskandimpactintotheirpricingandlendingoffersandit
+greatly simplifies the financial service-related reporting activities that are required by most regulators
+aroundtheworldandthoseregulationsareevolvingasweknow.
+So iESG vision that we have, this is Intellect’s ESG Edge product, is to create a world driven by
+transparent and sustainable ethical financing within the context of an ever-shifting regulatory and
+customer preference landscape. We aim at cracking the problem of non-exposed data lineage limited
+andcontradictoryindustryscoresandmanuallyintensiveinvestigativeprocesses.
+So the differentiation in our product comes with customisable ESG data. So we actually help you take
+that data and score it. Now when I say you, I wouldmeanassetmanagers,banksthatwanttodealwith
+different company. We wouldactuallygivethemtheabilitytocreateascoringframeworkthatistailored
+according to them on all the data risks that weprovidethem,alongwithwherethedatacomesandthis
+actually creates an explainable AI situation to help clients derive accurate insights and this is done in
+nearrealtime.
+So iESG is a very powerful enough to run company sustainability reports on custom metrics against
+thousandsofcompaniesatonetimebothfortheportfolioaswellasattheindustrylevel.
+It is clearly eMACH, and it's an eMACH architecture. It's hosted on an AWS cloud. It uses fabric data
+platformthatArunmentioned.
+It's got 40 plus ESG topic categorieswithrealtimecomprehensivesustainabilityinsightsforyou.Andwe
+can show you some of these reports on a separate discussion. We plan to have about 150 data points
+represented in the next few months, Needless to mention today, iESG will cover investment portfolio
+that is over 1.3 trillion dollars as assets under management. So very, very comprehensive addressing
+present issues in data and data explainable and is already being used for many companies around the
+world and we thinkwewillbeinapositiontoprovidepeopletheabilitytoaccessthisESGdataandthen
+Q4 Results FY 2022-23
+to help them score it and manage the trail of scoring it through a record ofhowtheyscoreditandwhy
+theyscoreditatthatpointoftimeandtogetinsightsintowhentheyneedtochangethiscall.
+So that's a bit of a picture on ESG. It is something that's very important right now and evolving quite
+rapidly and we've actuallybeenabletoleverageourdataandourAIplatformstohelpserviceit,whichis
+why the world's largest sovereign wealth fund shows us compared to competition, which was pretty
+muchallthemajorplayersthatdoESDscoringtoday.
+I'm going to touch on one more new business area. So I want to touch on another cutting-edge AI
+solution which leverages both eMACH architecture and our DOC2API Intelligent document processing
+automation platform. It was implemented for Magic Invoice which is now in the accounts payable
+automation space. IthinkMagicInvoiceintelligentlyautomatestheend-to-endaccountpayableprocess.
+Some key differentiators of Magic Invoice include smarter handlingofformatvariations.Multimodesof
+invoicesbecauseasyouknowinvoicescomeinmultimodes.
+We ingest that data from those invoices, we integrate it across internal and external ecosystems and
+accounting providers. We provide quality improvement to documents in case documents need to be
+further improved on. We improve the quality of some of those documents resulting in higher accuracy
+andvalidationandthereafter,verificationofallpurchasingdata.
+This multi hierarchy approval process also means that the right people canapprovetherightthingsand
+end to end this approval process, the processing process again we are targeting lot oftheBPOindustry
+that does this. Ithinkitssignificantlyupgradedwiththiscapabilitywehavesevenclientsandwehopeto
+signmanymorewhichareinthepipeline.
+So some ofthesecompetitiveadvantagesasacombinationofbringingtogetherareagainourfabricdata
+platform again rolled out on a cloud and a WSisrapidlyeliminatingoperationalprocessesintheinvoice
+management flow and the value proposition if you didn't look at it, the Magic Invoice enterprise can
+expect to eliminate data entry of invoices, reduce cost of processing, significant reduction in fraud
+overall operational efficiency. Ultimately freeing up a lot oftimefortheCFOandthefinancefunctionto
+leverage the data as a source of financial insights so that they can improve the cash flow for the
+company, attract vendor discounts where appropriate and faster payment cycles and better visibility
+across the overall function. We expect in the next few months to also add sophisticated capabilities of
+matching the invoices with POs. and a real time comprehensive insights to further strengthen the
+productcapabilityanditsvalueproposition.
+So these are four businesses we spoke about. you know, at a high level there was insurance, therewas
+the wealth business, there was the ESG side of the business connected in a way to wealth aswellasto
+banks that want to use it and the final one thatItouchedonistheaccountspayable,invoiceprocessing
+business.
+I'm going to touch a few minutes on the technology of how we implemented this AI. So a shift from
+products to a data and AI as a platformwithintelligentdocumentanddataprocessingcapabilityhouses
+a variety ofdatamodelsforspecificAIoutcomesacrossrightnow,wealthandinsurance,butmanyother
+businesses and intellect are bringing to tap on these capabilities. These capabilities allow users to gain
+thatextraintelligence.
+Q4 Results FY 2022-23
+And capability,youknow,weallknowhowpeopledoitinChatGPTacrossareastodayandI'msuremany
+of you are using it. But this is very specifically related to a specific business outcome and thereforeour
+products and intelligence come together along with the right workflow to fulfil whether it was
+underwritingortherelationshipmanagerthatIspokeabout.
+So specific tasks and over time isgoingtobeutilisedbymanyproductsbecausethisplatformisevolving
+quite rapidly. It has fabric data services as well as intelligent document processing platforms. The four
+systemsthatyouseeonthetopItalkedtoyouaboutthreeofthem.
+So the first stage, if you see this, is a progressive sophistication of our product and platformecosystem
+will create a differentiated customer service ability to entities to build and configure their own
+capabilities. I think between2015and2018,wesawthefirstwaveofwhatintellectinvestedinanAIand
+data platform both for sentiment analysis and dataaggregation.InWave2,between2018and2020,we
+started using this platform for one of the largest wealth providers in the UK and for all our insurance
+businesses in the US from the data side, with our product risk analyst, which has now been upgraded
+many times, that takes input from multiple data sources and then actually helps you underwrite more
+efficientlywhichItouchedon.
+The third wave which has come now between 2021 and 2023, I already touched on Magic Submission,
+Magic Invoice, ESG and risk analyst. I didn't touch so much on iSherlock. This will be a variant that will
+help under ESG focus only on governance and improve thequalityofpeople'sgovernance.Ithinkinthe
+last call we had a brief demo on what is the potential of iSherlock and how it can give you governance
+information.
+So the vision is to have a ecosystem of data and AI that is open and innovative to help customers and
+fintechs develop and deploy their own AI models on our fabric platform. Eventually that will take a
+combination of data and intelligence and actually help you implement thisatscaleforyourbusinessfor
+different areas that we will already enable you across the various areas of financialservices.Sothisisa
+very interestingevolutionthat'sbeginningtotakeplaceontheAIside.Ourplatform'sabilitytodealwith
+data and intelligence is coming together very strongly on this fabric platformand Intellect AI is using it
+very strongly for insurance and wealth, but there's several other businesses that will be using it in
+different ways. You saw Rajesh talk about data and ESG in his slides and I'm sure Manish has a lot of
+similar areas that he's already working with us on in the trade supply chain payments areas.Ithinkthe
+Intellect AI I thinkwillbepositionedverywellandhasaverystrongpipelinegoingforward.Thanks.Ican
+handovertoManish.
+ArunJain,ChairmanandManagingDirector
+Thank you Banesh. I think thisistheentirefabricplatformthatRajeshhascoveredcomposableplatform
+of eMACH.ai where the retail banks can compose their own solution.BaneshunitIntellectAIcoversthe
+entire fabric as a core platform on top of it. We are bringing an API at embedded points, a lot of
+questions are there onChatGPTandotherthings,butthisisthefinalnatureofembeddingtheAPIintoit
+processes. It's not generative AI. This embedded AI, which is different from it and this is what is this?
+What are we disrupting? We are disrupting the BPO industry today. BPOorKPOindustry,tomakeitthe
+next levelofroboticautomation,whichwasbeingpromisedfiveyearsbacktowebringtorealitywithno
+touch, low touch decision making. With this third business unit, which is Manish will take you through
+Q4 Results FY 2022-23
+the newavatarofGTB,whichisevolvedinlastsevenyearsofhisjourneytoaverydistinctiveproposition
+forthemarketacrosstheworld.OvertoManish.
+ManishMaakan,CEO,iGTB
+Thanks,Arun.Myscreenisvisible?
+ArunJain:
+Yeah,allperfect.
+ManishMaakan
+Thank you very much. Now, so thanks for I think a very powerfulpresentationBanesh.It'sverystrongly
+aligned to the AI future. He's definitely inspiring all of us. I'm going to tryandinthenext20minutesor
+give a shape of whereweareandhowwearedrivingprofitablegrowthwithmarketleadershipasacore
+agenda and how we help our customers, our associates, our partners win with iGTB. That's the core
+mantra fortoday'ssession.I'llgiveaquickhighlightonwhatarethebankingtrendsandwhattechnology
+spends are there because this becomes an input for where we invest and where wegrow.Andthenwe
+look at our products aligned to it, our customers winning with it. And how do you support with the
+partner ecosystem and what are the analysts continuing to say aboutuswhichwehavesharedmultiple
+timesbefore.
+To begin with, if you look at this data from McKinsey, the commercial payments is continuing to grow
+and they grew 11% globally and if you look at the cross, the 1 trillion mark and 53% of them were
+commercialpayments.
+So that's the space we aresupportingandthisspaceiscountinginfromatransactionvolumehasgrown
+19%. So there's high growth and the value, velocity and volume. All three variables are continuing to
+growaswebecomemoreandmoredigital.
+From what are the industry analysts looking at from trends to support this growth, thiskindofvolume,
+what they're forecasting is what you need is a customer engagement, which is hyper-personalised and
+has gotleveragingAItooffertreasurycapabilities.ThepaymentshavetoberealtimeandwithISO20022
+formats being rolling them out. How you going to adapt to that? So there is a common pattern. What
+sensewillyoumakeofthatdatatomonetiseit?
+The thirdwavewhichwehaveconsistentlylookedatisthedigitaltransformation.WherearetheAPIfirst
+and cloud native technologies which we all have been talking about and delivering to. It is getting to a
+next level where ecosystems have to be open so that you can embed and be part of a larger network.
+You get consumed and you consume something so that everyone gets the network effect. For that you
+need embedded banking capabilities and the product innovations are for real time treasuries,
+commercial loan originations and how do you make tradereally3.0digitalandsupportthesupplychain
+growth.
+This is what Celent says are the core needs which they are seeing corporates demand off of the
+corporate banks. Then we looked at what is the technology spend happening around the growing
+volumes and the new capabilities which are required. So it's about its growing at a 6.5% CAGR. It's
+Q4 Results FY 2022-23
+growing from 7.1 to 10.3 billion. and it is a corporate banking application only spend. This is the area
+whereweplay.Thisisnotthefullcorporatebankingspend.
+Thatnumberismuchlargerandoutofthat2/3rdofthatisinthetransactionbankingspace.
+So weasIntellect,iGTBisfocusedonanaddressablemarket,whichisabout$7billion.Thisjustgivesyou
+a perspective. I'll connect back to this towards the end of the slide. So the transaction volumes are
+growing,capabilitiesarebecomingrealtimeandcloserandtheirspendsforthatisgrowing.
+So how are we leveraging that in our product leadership journey, we defined our mission is the
+consumerisationofcommercialbanking.Whatdoesitmeaninaverysimplelayman'slanguage?
+We as individual retail customers, we get instant gratification of what we want and we are getting
+hyper-personalised. Why would a commercial bank be any different where we as individual corporate
+managers need to consume a technology anydifferently?WhywouldweexpectanythingtobeT+1kind
+of a thing So all of that is what we are trying to leveraging our technology, bring down the two
+commercial banking which is a hyper personalisation real time connected journeys action triggered
+insights, immediate gratification, friction-free experience at scale and a desire and trust-based decision
+making. So we've looked at all these six tenets and we are continuing to leverage our technology to
+deliverusecasestothecustomerjourneyswherethiscanbedelivered.
+Today, we very proudly feel that there's we are only singleglobalecosystemforconsumerization,which
+can offer the entire corporate banking exchange. A full digital transaction bank for mid-sized banks,
+liquidity investment deposit, virtual accounts, cash management, payments, trade, supply chain, all
+organicallybuiltonasingledataarchitecture.
+I've got a lot of my peers, some very respectful, some very big, larger than me, but they have all gone
+through acquisitionsandwehaveseenlackofconsistencyinarchitecturewhatitdoesandthat'swhywe
+are seeing some of them fall out. So remaining organic self-funded like Arun called out, this iswhatwe
+have been driving and the scaleofIwillgiveyouexamplesofwhileonthescreenitshowswhatwehave
+managed to do. I will show that in individual products how we have scaled that up. All ofthishasbeen
+built on an eMACH.ai architecture, which is the best comment Igotitfromoneofmylargestcustomers
+based out of UK, there group CIOs saying, Manish this architecture is wonderful. Every architect
+promises me every sales company promises me. But what I am proud to is you have landed it in my
+environmentandweareliveonthis.
+That's the difference between an aspiration, a sales pitch and having in production-grade ready
+architecture, serving close to a trillion dollar of deposit base. So that's the scale it serves with 50 plus
+countries.
+This is a large best-selling platform on corporate treasury with now56countriesand54customers.And
+out of this 24 are amongst thetop100banksofthesizeandscaleofmorethan$100billionassetsize.A
+digital transaction banking for all growth markets and emerging markets, we are in seven markets. We
+are practically the de facto standard with more than 70% marketshareinthosemarketsandcontinuing
+togrowdeeperwitheachoneofthem.
+Q4 Results FY 2022-23
+Virtual accounts are what is we're helping banks to manage their deposits rightnowbetter.We'veseen
+how flight of deposits has happened in US and how solutions are can be offered where you can offer
+reconciliationrealtime.Sovirtualaccountisaveryimportanttoolaswegoforwardinourjourney.
+Payments has been there consistently and there are many players over there and we are also amongst
+them. One of the common things all of us will say we have these many rails and we are across these
+many countries but not anyone else right now says is that we've got cloud-based contact-sensitive
+corporate payments, which means I understand the context of your transaction and I help you take a
+recommended decisionforyou.Whatisthebestrouteandwhat'sthecheapesttransactionforyoutobe
+abletoexecute?Sothat'sadifferentiationbecauseofAI,we'vebeenabletobringin.
+CBX has our largest footprint now with 78 customers. We started this journey taking the assets off the
+city, which all of us know and having built that for more than a hundred countries, that journey
+continuesandwe'vebeenabletoreplicateitacrossnow78customerswith55countryfootprintandthis
+comeswith100plususerjourneyspre-builtwith450plusopenbankingAPIscreatingtheintegration.
+The youngest platform, which is fortunately born in an age which was micro services and AI, so which
+leverages iColumbus.ai for trade and supply chainandwe'venowgotabout24customerssupporting11
+countriesandwebuiltitaroundhowtoleverageAItosimplifytrade.
+Trade is a lotofpaper-basedprocesseswhichhappensandhowlikewhatBaneshpriortomeshowedon
+Magic Invoice. How we leverage that on magic LCs and magic invoices and we make all of this work
+which is so much paper-based defect prone and needs a lot of manpower and how we automate and
+make it trustworthy? So that's a significant differentiator leveraging AI we brought in trade and supply
+chain. I hope to continue to share more wins around this platform like we've been sharing across all
+otherpreviousplatforms.
+So with this five products,what'sbeenourcustomerleadershipjourney?Ithinkthisisthebiggestproud
+moment for me personally and for all of us at Intellect, a current corporatebankingleadershipjourney.
+Now more than 60% of the world's topbanksacrosseverymarket,ifyouwillseefourbanksoutof10in
+North America, sevenoutof10inEurope,nineoutof10inMiddleEast,sevenoutof10inIndia,fiveout
+of 10 in Asia and APAC. These are the scale of customers who are leveraging our technology, who are
+trustingIntellectandwhoaregrowingalongwithusandwearealsogrowingalongwiththem.
+I don't thinkthereisanothervendoroncorporatebankingwhocandemonstratethisdepthorthiswidth
+of customer base across the board.Ithinkit'sourmomentnow.It'saboutgoingdeepinthemandgoing
+into deep in each of these markets and continuing to scale what we managed to do. Last quarter, we
+crossed the 100 mark of number of customers for us, which is where continue to focus on crossselling
+moreproductstothemtogrowourjourney.
+I think all of us cherish looking at this picture and hopefully,allofyouwillbecomebiggerpromotersfor
+Intellectorthisisthekindofcustomerbasewhichwehaveacrosstheworldtoday.
+So when you have that customer base, what becomes very important is do the customers trust you or
+are they promote us. So thisisacoremetricwhichItakeverypersonallyandconsistentlyfocusonifyou
+deliver first time right to the customer, if you put the customer at the center, if you are solving his
+problems, business will come to you. The business will come in terms of same customer, business will
+Q4 Results FY 2022-23
+come in him recommending to others, andastheymovetheyjustcallus.Liquidityasaplatform,70%of
+oursalesarebuyerswhoarenotbuyingitfirsttimetheyhaveboughtatleasttwicebefore.
+So that's the kind of network effect it creates because of the NPS focusonandhowwedrivethisinput.
+This has been led by a customer experience very passionatelydrivingit.InterestingtoseeMcKinseyput
+that down in a statistical form in what it does and we've experienced it. We focus on the customer
+experience; the growth is two times. It's all about knowing the customer person personally and having
+that one-on-one relationship at all levels. Focus on medium to long term versus trying to make a
+short-term buck from them and consistently measure and improve the customer experience. This is
+wherethemagichappens.
+This is an example of my top 10 customers how overthelast10years,theyhavecontinuedtogrowand
+consistently are delivering revenues to us. It's about $450 million in the last 10 years from these ten
+accounts we've managed to grow and its continuing focus on goingdeepereachofthesecustomersare
+the marketplace and not an individual customer and we will just focus onGTBandwemanagedtotake
+some bits of the consumer into it. We're now taking AI into it. So taking all Intellect assets deeper into
+thesecustomers,thoseareourgoldennuggets.
+This is a slide I've shown multiple times. Last time I showed we were at 2.7 products percustomerand
+we've reached 2.9 products per customer. So the continuous focus on cross-sellingtothecustomerand
+going deeper is showing up a target for FY26 is to get 150 customers which can help and get to four
+products which can simply by that mathematics grow to twice our revenue and grow our market share
+from2.9to6%.
+Now 6% of the market share, if I can extrapolate that to a $7 billion, all I need to do keep showing my
+valuebetter,bettercustomerexperience.Youcanallmultiplythenumberswhatitcanpossiblydo.
+To support all of this, we built a very strong power sage brand along with iGTB Oxford. Next week we
+have our eighth session happening in Oxford, London. This is where the world's best come in network
+and contribute to each other on what's happeningintransactionbankingandhowwearedriving.Again
+if you will see every such measure has an NPS core or what itmeansandwhywedriveandthisisagain
+an example of the banks who come and design solutions with us. We build a joint desire of where the
+transaction banking is coming and we trust each other or where we going. I'll Keep this for 10 more
+seconds so that we can all absorb and see the company we keep, and this is our pride and this is our
+somethingwereallylivefor.
+To serve and grow along with each of these customers and all of this is supported by our 8012 FinTech
+Design Center. We bring them here after we drive desire. We bring them here, we do POCandwehelp
+theminnovateanddeliverwhattheywanttodoit.
+Now going forward,averysignificantfocusonlast18monthshasbeentobuildtwoverystrongstrategic
+partnerships. I've shared Microsoft before the second one. We're now working alongwithisAccenture.
+So one strong cloudpartnerandanAIpartnerandonestrongdigitalpartner.Alongwiththem,thethree
+of us, we arelookingatcreatingmagicinthemarketplace.Thisiswheresomethingdifferentwillhappen
+inthenextthreeyears.Sokeepaneyeonthisandwe'llkeepsharingmorewiththis.Thisisthevisionwe
+built along with Microsoft to build anetworkforcommercialbankingandthisiswhatweintendtobuild
+and scale up to be able to support across the world in these manymarkets.Finally,ontheanalysts,I've
+Q4 Results FY 2022-23
+reduced the number of presentations, but youcanlookateachoneofthem.Everycustomerratesus#1
+byfarineverything.
+One platform iColumbus, which is trade finance, istheonlyonewhichisnotnumberone.Itis#2.Sowe
+livebythatvaluebe#1or#2orgetoutofthebusiness.
+And we're continuing to live up and due to that with all the teams committed to take trade andsupply
+chainalsotoanumberoneplatformoverthenextthreeyears.Andwe'llkeepsharingthatjourney.
+And this is the leadership management team which you have all seen consistent since inception. All of
+theseindividualsyousee,theyareallbeenpriorcustomersofIntellect.
+Andthat'swhyIsayit'sbeenbuiltbycustomersforcustomers.Thankyouverymuch.
+ArunJain
+Thank you, Manish. You finished in 20 minutes' time so it's nice to have it. So now let's leave for the
+question-answersession,Praveen.
+PraveenMalik
+OK, thank you, Arun. Now we are starting a question and answer on the Q&A. Please click on theraise
+yourhandtoaskaquestion.PleaseclickonRaiseyourhandtoaskaquestion.
+WefirsthaveRuchitaKadgeefromiWealth.Pleaseaskyourquestion.
+Pleaseunmuteher.
+ArunJain
+Oursecondmember?Puttwopeopleintherow
+PraveenMalik
+Next,wehaveMrMohitJainfromAnandRathiSecurities.
+Mohit,pleaseaskyourquestion,pleaseunmutehim.
+MohitJain,AnandRathiSecurities
+Yes.Sothreequestions,Sir.Oneisonthelicencerevenuenowthisobviouslyhasbeenaveryvolatileand
+extremely strong quarter versus what we thought. But how do we look at licenced revenues going
+forward? Do you still see that shift to SaaS happening impacting growth or do you think most of it is
+doneandnowthiswillbemaintainedinproportion?
+That is one and the second related question is on SAS/ platform growth. Thisnumber-YOY,appeareda
+littleslowercomparedtotheexcitementthatisthereinthemarket.
+So what is happening there?AndrelatedthingiswhatistheupdateonGeM?Isitstilldrivingthebulkof
+itandisitupforrenewalnextyearandwhatdoweplantodothere?
+ArunJain
+Q4 Results FY 2022-23
+OK, so as we mentioned in the past that Licencing SaaS are the two options we havetobegiventothe
+customer based on their preference. Some people prefer licence model and some people prefer SaaS
+model,sothere'sabalanceofthetwooptions,whichisthere.
+Some companies have decided to only offer SaaS but as the intellect we are aligned to customer
+centricity and that's why we areofferingbothsolutions.So,predictingaparticularyear,howmuchSaaS,
+how much licence, is not our agenda. Our agendaishowmuchlicencelinkedrevenuecanwegrowyear
+onyear.Onlastfive-yearbasis,ourlicencingrevenuegrowthIscloseto34%yearonyear.
+That'swhatwewanttodriveit.
+MohitJain,AnandRathiSecurities
+But Sir, do you see licence revenue also growing year after year like initially, we thought over last few
+quarters that now shift ishappeningtowardsSaaS,solicencegrowthshouldslowdownandSaaSshould
+accelerateandyoualsospokeaboutsomeslowergrowthforfewyearsbecauseoftheshift.
+Soisthatphasebroadlybehindintermsofcustompreferencesordoyoustillthinkthatwayout?
+ArunJain
+You cannot predict anything on this moment. You just look at it all of them together - 3 elements
+together.
+MohitJain,AnandRathiSecurities
+OK.
+ArunJain
+And then for an investment perspective, allthreeelementsgiveyouthelicencelinkrevenues,whichisa
+high-marginprofit.
+MohitJain,AnandRathiSecurities
+Right.AndsosecondwasontheSaaSplatformgrowthbyYoYandthenthecontributionofGeM?
+ArunJain
+Yeah, so SaaS growth YoY - IthinkGeMisthere,butit'snotmaincontributor.Lotofcontributioncoming
+from AI platform which Banesh has highlighted, Rajesh has highlighted on the customers in Europe, so
+those all SaaS platform customers. The revenue builds up in SaaS is back loaded when wesignthedeal
+by the time we come to the SaaS revenue stream it is 12-18 months, sometime 24 months’ delaycycle
+betweenwhenwesignthedealandtheactualSaaSrevenuewhenyoustartgettingbooked.
+Butthat'saboutSaaS.GeMiscomingforrenewal,sowearefightingtheRFPbattlefortherenewal.
+MohitJain,AnandRathiSecurities
+Last actually on the finance side, so our cash generation for this year was very low. So what happened
+thereandhowdoweseeitgoingforwardinFY24?
+ArunJain
+Q4 Results FY 2022-23
+We mentioned that all our internal transformation happened because of our internal cashgeneration,I
+think reinvested back. So in the month of April last year, we mentioned that we'll be using our internal
+cashtodrivethechangeratherthantakingafundingfromoutside.
+So all this eMACH.ai hashappenedwiththecashsoit'sagreatsuccessforustohavethemandmaintain
+thiswithoutdilutingasinglepenny.Wecouldabletotransformtheorganisation.Obviouslynextyearthe
+cash will be higher in our kitty because major investment of eMACH.ai is behind us, socashgeneration
+willbebetter
+MohitJain,AnandRathiSecurities
+Sir, on the receivable side like it was also stuck in working capital, some of it apart from the
+capitalisation.Soisthereanyimprovementseenthere?
+ArunJain
+It's not quarter on quarter or year on year, sometime the project completion happens that Price
+contractednotduehasgrownto300crore,that'sabignumberinthisreceivablecycle.
+Where this back ended projects I mentioned in the beginning that it's milestone based payments.
+Because of milestone based payments, it becomes due only when a particular milestone is completed.
+Sothatiswehavealoggedin,it'sakindofabusinessmodelwearein.
+MohitJain,AnandRathiSecurities
+Okay,capitalisationforthequarterwashowmuch?
+ArunJain
+Similar34-35.
+MohitJain,AnandRathiSecurities
+OK,perfect.Sir.Thankyouverymuchandcongratulationsongettingbackto20%.
+Thankyou.
+ArunJain
+Yeah, not getting back to - it's a 20%. We are not getting back to anything. We are on same trajectory,
+expectationsaredifferentfromyou.
+MohitJain,AnandRathiSecurities
+Yes,Iunderstand.
+Itwasaverystrongquarterindeed.Thankyou.
+ArunJain
+OK.
+PraveenMalik
+Q4 Results FY 2022-23
+Thankyou,Mohit.Next,wehaveMrAnilSarinfromCentrum.
+AnilSarin,Centrum
+Sorry,Iwasonmute.Ididn'trealiseit.So.SoArunandteam,fantastic!
+And you've just sort of, you know, lived up to our expectations and you've gone beyond. So
+congratulationsondoingwhatyou'redoing.
+Everybody is talking about AI and you arenow,youknow,Ithinkalotofinterestwillcome.Tellusabout
+what you are doing in AI. So congratulations on your foresight and your positioning.Imean,peopleare
+justdoingchatandyoufindingsolutionsthroughAI.
+So, a lot of foresight involved in that. Sorry. I'll just come to the question without wasting everybody's
+time - One wasgrowthhasalreadybeenaddressed.Butthis,ifyoucanjustelaborateontheontheSaaS
+side, we get the combined thing SaaS as well as GeM andtheearlierparticipanthasalreadyaskedthat.
+But I just wanted view on where you see this as given all the banking turmoil that is happening in US,
+Europe,etc.,howdoesImeantwothings.
+One is how do you see SaaS growing as apercentageofyourrevenue?Thatispartoneandsecondwith
+all this negativity that is surrounding, I mean therecessionisfine,butbanksinparticulararegettinghit.
+Sohowdoyougetimpactedbythat?
+ArunJain
+OK, so you're asking two question basically banking and what when banks are getting impacted, they
+wanttoreducetheiroperationcost.
+There are two agendas banks have-somepeoplehaveveryoldtechnologyarchitectureislikemanaging
+aairconditioninginanoldbuildingwhichis100-yearold.
+So it cost you more, so you need to change the architecture of the building to commit to the newer
+buildingwhereallthecostefficienciescanbebuiltin.That'swhatRajeshisdoingoreMACH.ai,Manishis
+doing to create architecture. Second part is where the SaaS playsaroleinourjourney.Weplayarolein
+specific services to be given, like Banesh has highlighted magic submission. Magic Submission is an
+underwritingpolicy.
+So now we are able to provide a unit pricing per policy for end toendprocessingofthepolicyfromthe
+e-mailwhenthepolicycomestothepolicygetstothetableofunderwriter.
+Weaddallthevalueaddition,validation,dataentry,everything,andthere'saunitpriceofit.
+So great opportunity for us to grow SaaS revenue is the way GeM revenue grew first two years - itwas
+slow, third year, fourth year start growing. Similarly, Magic submission is one area where we are
+expecting this revenue. Today. the US has a close to 200 Mn policy submissions everyyear.And,weare
+able to price our submissions between $10 to $20 per submission and having a 5,000,000 policy, it's
+closeto$50-100MnSaaSbusinessaroundit.
+Similarly, there's a magic invoice businesswhichisaccountspayablebusinesswherethesimilarkindofa
+equation is there, that per invoice processing, we have multiple companies have no. of awesome and
+manycompanieshavecomeinthatspace.SothisisthesecondspaceinSaaSwhichyou'relookingat.
+Q4 Results FY 2022-23
+Third space in SaaS you're looking at is ESG. ESG to be offered as a service with a complete ESG wheel
+available to it which is third SaaS service. Fourth SaaS service is hosting core banking, hosting iKredit is
+thefifthserviceinSaaSbusiness
+So, these are the five SaaS services which are there. Then we are looking VAM to be hosted - Virtual
+Accounts Management, embedded finance to be hosted. So thesearethemultipleplatforms,whichare
+being highlighted in this presentation. So there are close to 8 platforms where we have clear
+go-to-market strategy but thetractionwillnotbequarteronquarter.Tractionwillbeoverthethree-year
+period. So we have a 3 year plan and two quarter visualisation or planning. So we are working on now
+three-year horizon with two quarter focus on ensuring that we are abletomeetthenumbersaswellas
+have the visualisation of three years. So that's a long answer toyourshortquestiononwhatisourSaaS
+strategy. And, U.S. banking industry is in turmoil, but such turmoil do happen. As I mentioned Brexit
+happened,threequarterdelayhappened,Ukrainehappened,wehavetwodealslostsimilarlyintheUS.
+Andthiscrisishappened.Welosttwodealsagainoverhereandotherthings,whichwillhappenasapart
+ofourjourney.
+But after 2-3 quarters it comebacktothesamethingbecausetechnologyneedscannotgoawayneither
+frombanknorfrominsurance.
+AnilSarin,Centrum
+OK, thank you. I just had one follow up question that you know in the earlier calls, I think Rajesh had
+mentioned that in core banking you were in the last three in a couple of tenderswhichtendtobeover
+more than a year long process. So if you can provide an update as to where we are, are thosetenders,
+arethoseprocessesstillonandifyes,whereareweinthat?
+RajeshSaxena
+So I think now we continue to be in the same process.IthinkasIhadmentionedearlier,therearelarge
+couple of deals that we are in the final stages and in the next couple of quarters we should be able to
+announce the results of these tenders. So I think to answer your specificquestion,wecontinuetobein
+the process and actually we've addedacouplemoreinthesefromthatperspective,andweshouldhave
+theresultsinthenextcoupleofquarters.
+AnilSarin,Centrum
+And we are still in the top three or is it being further pruned down tomaybetoptwoorsomethinglike
+that?
+RajeshSaxena
+Incoupleofdeals,Ithinkwearestillintopthreeinonedeal,Wearenowintoptwo.
+So I think deal by deal this is varies, but we continue to be there, as I said, we continue to face these
+three cover in the Europe and the large field now continues to be Temenos, Thought Machine and
+Intellectfight.
+Q4 Results FY 2022-23
+AnilSarin,Centrum
+OK,thankyou.Andwishyouallthebestinthisinininthesebids.Thankyou.
+PraveenMalik
+Thankyou,AnilNext,wehaveSugandhiSoodfromInCred.
+Pleaseunmuteher. Sugandhi.
+SugandhiSood,InCred
+Congratulationsonthegoodresultsandthanksfortakingmyquestion.
+So I just wanted to continue from that point where the last speaker left. I noticed that in your current
+version for last quarter you have among your destiny deals 13 deals in the greater than 50 Crs bracket
+and you know I'm just doing simple maths. I understand is it down to the tenure of these deals?Could
+you give some flavour of the tenure or the nature, whether it's SaaS orlegacy?Orlicenceortraditional
+licence and you know withwhetherthiswillflowthroughincomingquartersandyouknowwhatkindof
+timeframewe'relookingat.
+ArunJain
+Sugandhi, I think you are doing too much of math, analytical mind while looking at it on when it will
+happen.Ithinkit'sasImentionedthatallofitislicencelinkedismoreimportantthanthe50Crdeals.
+In this quarter, these destiny deals which have signed up, I think 2 are licence. One is more on SaaS
+revenue. But you will not able to forecast that particular model so much Sugandhi. I think more
+important is to just listen to the presentation, which three leaders have presented and look at what is
+the potential of these presentations for next year prospective,whethertheycangrow20%yearonyear
+onthatthosepresentations.Sothatwillgiveyouthemuchbetterwaytoforecast.
+SugandhiSood,InCred
+Yeah, sure. Ofcourse.No,that'saveryinsightful.Andalsojustonthe,ifInoteditcorrectly,yousaidthat
+your intensity of spending on platforms will lower here on. YouknowmostoftheplatformsspendandI
+speak in the last yearandI'mjustreferringtothecashconversionthatwashighlightedearlierinthecall.
+So is that correct because there CapEx intensity has gone uplastyear,soisitexpectedtogodownfrom
+here.
+ArunJain
+That's right. So this quarter our profit has come back to 23%. EBITDA margin come down come to 23%
+from 18% last quarter. So that's the improvement is happening there. On cash side, improvement will
+happen. This quarter has more cash to be spent for the pay out of the bonus for the year. But for the
+wholeyearweshouldhaveahealthycashgeneration.
+SugandhiSood,InCred
+Q4 Results FY 2022-23
+So are any margin range that you would point us towards you know considering that are kind of
+stabilisingandyourgrowthoutlookisalsohealthy.
+ArunJain
+Wementionedourbusinessisdesignedontheprinciplesof20%growth,25to30%marginlevels.
+Few quarters few months we will be reinvesting back thatwillbebasedonthehowthemarketbehaves
+withthetechnologychangeshappening.
+But our design is alwaysaround25%plusforthemarginbutfewquarterswillhavealessermarginwhen
+the investments will be higher or some licence is not signed or some investment we aredoingwiththe
+clients.
+Sothatthatshiftwillbethere.
+That'showwehavedesignedthebusiness.
+SugandhiSood,InCred
+So that'sveryencouraging.Onefinalquestion-IsmyunderstandingcorrectwithSaaSbecomingabigger
+mix and we've seen that happening over the last two years, the revenue to cash conversion and I'm
+talking about you know the working capital here and not in the you know in investment that we do in
+R&D.
+Is that something that should improve because, you know gap between the timing of recognition of
+revenues and payments would be more aligned in in a SaaS environment compared to a licenced
+environment.
+IsthatsomethingthatwecanexpectgoingforwardahighercashconversionasSaaSbecomesabigger?
+ArunJain
+It's as of now it's SaaS model is not fully mature, so I would not say anything as of now. We are some
+dealswehaveaupfrontpayment,somedealswehaveaback-endedpaymentonamilestonebasis.
+Sothecashflowandworkingcapital,Ithinkthat'snotaseriousconcern.Thecompanyhashealthycash.
+So that's not such a critical issue for us right now. My purpose is how much we canwinandhowmuch
+couldberepeatableSaaS.
+SaaSinahealthysituation,inamaturemodelgivesyoua70%plusmargin.
+That'sthekindofhealthoftheSaaSbusiness.Butthattakesalmost4-5yearsoftheworkwhichhappens
+afterwearegettingfirstfewclients.
+Like Banesh issayingthe13clientinMagicSubmission,thereare7clientsinMagicinvoice.Theseclients
+takesome4-5yearstogetstabilised.
+SugandhiSood,InCred
+Sothankyou.Sir,that'sveryhelpful.
+Q4 Results FY 2022-23
+PraveenMalik
+ThanksSugandhi.Next,wehaveMrMajidKhanfromCapitalX.
+Pleaseunmutehim.
+MajidKhan
+Good evening, everybody. Thank you for giving the opportunity. This is the first time I'm joining the
+conference call and first of all, I would like to congratulate Arun Sir for giving thisopportunityandvery,
+verygoodsetofnumbers.SoIwant,Iwouldliketoaskmysimplequestions.
+With regards to the results quarter 4, my question would be - Where you can see Intellect in thethree
+years?
+And my second question will be - I would like to congratulate all the Teams that have seen all the IT
+companies in in the sector. But Intellect is the only product which I am proud investor of it. And since
+three years I have invested continuously invested inthecompanyandIhaveseenthedrawdownof50%
+butstillIhavetrustonourcompany.
+Because we aretheuniquecompanyinthewholeIndiawhichhasaproductandwearetheleadersinall
+the sectors in all our business platforms and that is a great thing which definitely soon the market will
+realiseandIhopeandIbelieve.Thankyouverymuch,Sir.
+ArunJain
+Yeah. Thank you for your trusting the company. I think and there's a hugescopeisthere.Wewantedto
+showthathowtherevenuegrowthwillhappen,eachofthespaceweareworkingon.
+We are competing on the companies which have to invest $100 MntocreateaplatformcalledLet'ssay
+MagicInvoiceequivalentplatform.
+Our cost of leveraging fabric to meet the same expectation is 1/10th of it. It is between $5-10 Mn, we
+areabletogenerateaqualityofthetechnology,whichmycorrespondingcompanylikeThoughtMachine
+invested $550Mnforcorebanking,whichisstillnotcomplete.Forustodothatjobittakesmuch,much,
+much lower money from our perspective and that's very unique company. That's a unique strategy.
+That's the kind of the people wehave,thekindofacommittedteamwehave,isamazinglysatisfyingfor
+allofusasashareholder,andallofusastheassociateofthecompany.
+MajidKhan
+Thankyouverymuch,Sir.
+PraveenMalik
+Thankyou,Majid.NextwehaveMrRahulJainfromDolatCapital.
+RahulJain,DolatCapital
+Q4 Results FY 2022-23
+Yeah. So first of all, Congratulations for the strong numbers and just want to need some moreinputon
+someofthecommentsthatweremadeduringthecall.
+Imean,ofcourseyousaidthatwhatisyourviewontheUSbankingissuethatwearefacingrightnow?
+But you also need to consider the fact that weanalystsdoattendsomanyITservicescallandtheykeep
+talkingaboutadelayinrampupdelayindecisionmaking.
+So since you have also run that kind of a business,anythoughtyouwanttosharethatinsuchsituation,
+do you see that people prefer more transformation because that that they seethatasasolutionoryou
+think it's just matter of time that we may see better decision making on the other side of the business
+also.
+First,clarityonthatwouldbehelpfulandthenIhaveonemorequestion.
+ArunJain
+First of all, our business is very well diversified. US exposure tousismuchlowerthanCanada,aremore
+businessesinCanadathanUS.
+U.S. banking business is verysmallinsingledigits,whileinsurancebusinessisgrowingintheUSandthat
+isalsosingledigit.ButsingledigitistheonlyexposurewhichwehaveinUS.
+So US is not impacting us significantly for the slowdown, but to answer the general question,sinceyou
+attendotherservicesconferences.
+Obviously such failure of three banks in a row will have an impact on the psychology ofthetechnology
+investments,whichwillgointheboardrooms.
+So every boardroom will be worried about it, but do they have an option to adopt Bank Tech Wave5?
+Theydon'thaveanoption.
+It's a question of some delay - one or two quarters delay where they have to choose some platform or
+sometechnologyfortransformation.
+And there we are providing kind of a technology which is Do-it-yourself technology, eMACH.ai. Where
+we are pitching in our value propositionmoresharplyforthosebankswhoarewellcapitalised.Sothose
+banks are stilllookingbecausethesebankswhohavebeenintheproblemwhichhashappened,theyare
+gettingmergedinthelargerbank,theportfoliosaregettingsubmerged.
+So, to me it's a two quarter, three quarter agenda where slowdown will happen. Services will get
+impactedbecausepeople,banksarelookingfortheoptionwherebuyandbuildcanbetogether.
+RahulJain,DolatCapital
+Right, thank you. And one more question regarding the comment about what Rajesh said that
+incrementally banks are looking for core transformation project. So are you seeing a sizable increase in
+the deal that you are pursuing that is point 1? Secondly,yousaidthattherewasacompetition,whichis
+now limited to two relevant players and we know that Temenos is struggling with lot of leadership
+changes and our Thought Machine is there, but their return on investment may not beasattractive,so
+thecompetitivenessonpricecouldbefarbetter.
+Q4 Results FY 2022-23
+So how you see a change in the landscape from competitive perspective as well as from a deal size
+perspective?
+RajeshSaxena
+So I think to answer your question, I think and these are some early trends is that we are definitely
+seeinglargebankscominginforcorebankingtransformation.
+And that's definitely something that we have seen inthelast18to24monthsisthemarketopportunity
+around large banks, large regional banks coming foracomposable eMACHtypeofanarchitecture.That
+trendisdefinitelyaccelerated.
+I think to your second question, yes. We see Temenos, we see thought machine in most of these
+opportunities or let's say that we start with a long list andthenwecometothesethreeplayers.Weare
+seeing that space and we believe, and I believe that we are uniquely positioned because of the kindof
+investments that we have done in the last couple of quarters on our architecture front and with a
+pedigreeofthedepthandthebreadththatwehave.Weareuniquelypositionedtocapturethisspace.
+Sothatismybeliefandthat'swhatourteamisstrivingfor.
+RahulJain,DolatCapital
+Right. And just one final question for Arunji. I think we have a lot of variety of offerings in the Banesh
+portfoliowhichareveryexcitingopportunities.
+Any number you want to give them when they can become of some reckoning size, let's say100Mnor
+anyotherbenchmarkyouwanttosetforitinatimelinethatyouthinkitcanachieveit.
+And secondly, you said about the business, which is all set to deliver 20% growth and 25-30% kind ofa
+margin. Withthekindofapipelineyouhavethekindofstarttohaveforthisyear,youthinkandthekind
+ofinvestmentofcourseyouenvisageforthisyear,youthinkwearegoinginthatzoneinFiscal24
+ArunJain
+Yeah.Sowedon'twanttogiveguidance,Rahul,weunnecessarily don’twantthis
+We keep repeating, we designed the business in last three years. We are able to show more than 20%
+business.Ourdesignmodelis20%,sowestayedwiththat.
+The opportunity for Banesh business to grow the three or four areas, which is there, Sherlock, ESG H,
+still,areattheearlystagesoflookingatit.Thepotentialcanbebetween$50-100Mninnext5years,but
+theywillbecomingatamarginof$30Mnif50-60%marginor70%marginbusiness.
+Soitwillbehighlyvalueaccretivefromthebottomlineperspective,butweneedtogiveItsometime.
+RahulJain,DolatCapital
+Interesting.Thankyouforthecolourandbestofluckfortheyear.
+ArunJain
+Thankyou,Rahul.
+Q4 Results FY 2022-23
+PraveenMalik
+ThanksRahul.ThennextwehaveMrChiragfromAshikagroup.
+Chirag,AshikaGroup
+Congratulationonagreatexecutioninchallengingtime,Sir.AndItrackedyourcompanysincelastcouple
+of quarters. So, I have two broader question particularly in product and platform business, very few
+companieshavegotsuccessatglobalfrontalsoandIndiaveryfewcompaniesaretherewhichhavedone
+good job. Soyourcompanyisoneofthem.SootherthanBFSI,fromdiversificationpointofviewifIwant
+to know what are the areas where our application will find place later on? Because these last three
+regional bank crisis, you also thinking some way that if we have some diversification then definitely in
+future, let'ssaythistimewesaveourselves,butlet'ssaysomeotherunforeseendevelopmenthappened
+later part oftheyearorinfuture,soanythoughtsonthatwhereweseeforadiversification?Andalsoto
+sustain such kind of margin, what are the levers are that that the 5 or 10 years down the line we will
+haveasimilarmarginprofile.That'sthetwobroadquestionIhave.
+ArunJain
+Yeah, so Chirag, first of all, five years down the line, margin should be in the range of 40%, because if
+you're looking at from the perspective of Flex cube numbers, EMC continuously grows so the margin
+improves as the product company grows. So first of all, that's a 5-10 year type of horizon when you're
+looking at it and you are looking for the investment for 5-10 years, you have appetite for that. The
+marginisthere40%levels.Whetherit'stheTemenosoranyothercompany.
+The beauty of what we have done is weembedthegrowthcurveonthosemarginsandourITteamand
+technologyteamsareverydifferentiated,whichisensuringthegrowthhappens.
+Marginisnotabigdealinaproductbusinessbecauseoncethecustomersignsitup,heremainswiththe
+customer for the next 15-20 years. The margin maintenance is much simpler Job. Growth is the key,
+importantpart.
+Yourquestioniswhetherwewanttodiversifyitoutofthefinancialindustry.
+See, I don't think so. I think the market scope today when you look at it, Manish puts it $10 billion
+market size, and Rajesh puts $20 billion market size. Banesh puts it, we have a $50 billion market size
+and we are still $300 Mn kind of a ballpark picture till the time we have a billion dollars. We are not
+lookingforanythingtobeworriedaboutgoingleft,rightandcentre.
+Chirag,AshikaGroup
+OK.Soonefollow-upquestionintermsofgeographicdiversification,isthereanyplantoincreaseorstart
+apenetrationinIndiabecauseoneofourpeerinthelistedspacegettinggoodbusinessfromIndianBank
+andFinancialGroup?Yourthoughtsonthesame.
+ArunJain
+Yeah,yeah,yeah.DeeplyentrenchedinIndia.AlotofdealsareinIndianow.
+Chirag,AshikaGroup
+Q4 Results FY 2022-23
+Thankyou,alltheverybest.
+ArunJain
+Thankyou.
+PraveenMalik
+Thankyou,Chirag.Next,wehaveMrRaviMehtafromDeepfinancial.
+Canyoubealittlelouder?
+HelloRavi.
+Sorry,areyouabletohearme?
+Raviisnotabletoconnect,itlookslike.
+RaviMehta,DeepFinancial
+Isitbetter?
+PraveenMalik
+Now,yeah,yeah,notnow.Pleasegoahead.
+RaviMehta,DeepFinancial
+Sorry for that. So just I heard in the opening remarks regarding some branding strategy for the iGCB
+vertical, something similar to what we did with iGTB on the Oxford School banking kind of course. So
+wantedtoknowwhatkindofactivityareweplanningandhowitcancatapulttheproductvisibility.
+ArunJain
+It'sanoverallmarketingstrategy.Ithinkallofitwillnotbesharedinaninvestorcall.
+It's the one part of the strategy that iGTB Oxford did it.Itisanindicationisgiventhatthebigmarketing
+focusongettingintothestageandIthinkit'snottherightplatformtosharethestrategy.
+RaviMehta,DeepFinancial
+Sure, sure. And probably any, so the kind of you know actually you've seen in iGTB probably with this
+branding activity, I think it really picked up well. So, we can expect something similar, kind of a thing
+happeningherealsoyeah.
+ArunJain
+Obviously. All the three brands now consolidated into 3 LoBs andallthreebrands,IntellectAI,iGCBand
+iGTB are now having a very, very structured branding methodology around eMACH.ai as a common
+brandwhichisdrivingglobalaccess.
+RaviMehta,DeepFinancial
+OK. And since that, we are harping on this eMACH.ai platform. So do we have any joint go-to-market
+strategywiththecloudpartners?
+Q4 Results FY 2022-23
+ArunJain
+Yeah, yeah, we have.That'swhatManishhashighlighted,ifyounoticedMicrosoftandAWSboth,weare
+verycloselyworkingwithit.
+So some products are working on AWS, some products are working on Microsoft, so both of them we
+haveaverystrongrelationship.ImetthePresidentofAWSwhenhewasinIndia.
+Soit'sadeep,deeprelationshipwithbothofthem.
+RaviMehta,DeepFinancial
+OK,OK.Andjustonemorequestion.
+And onesmallbookkeepingquestion,ifIcanasktheDSOdaysmentionedinthepresentation,itincludes
+theunbilledrevenue?
+ArunJain
+Yes.
+RaviMehta,DeepFinancial
+SomehowIdon'tknow,somaybeI'lltakeitofflinebecausethedaysarenottallying.
+ArunJain
+Yeah,yeah.
+RaviMehta,DeepFinancial
+Wewillworkitout.Sothat'sfine,sure.
+ArunJain
+Well,wedon'tincludecontractedbutnotdue.
+RaviMehta,DeepFinancial
+OK,OK.Sure.Thanks.
+PraveenMalik
+ThanksRavi.Thankyou.
+RaviMehta,DeepFinancial
+Thankyou.
+PraveenMalik
+Next,wehaveMr.HarshilfromAUMAdvisors.
+Lasttwoquestions,Arun.
+ArunJain
+Q4 Results FY 2022-23
+That'sright.
+PraveenMalik
+Harshil,areyouthere?
+HarshilSethia,AUMAdvisors
+Hi Sir. When we see on a quarter-on-quarter basis, the order funnel size that you mentioned in the
+presentationhasbeenaround7000croressincethelastthreequarters.
+So,isitsomethingliketheNewDealwinshavebeenveryslowforthelastthreequarters?
+ArunJain
+7000crorequarterfunnelIthinkisagoodfunnelforustolookatthat10-12dealsaquarter.
+Ifwewin,it'stherightfunnel.Soweprefermoretherightfunnel,thanthequantumofthefunnel.
+So our win ratios are higher and our sales effort and free sale effort as Rajesh mentioned it takes1-1.5
+yeartoclosethedeal,youdon'twanttoincreasethefunnelsize.
+It's not a consumer business where the funnel is directly proportional to the enterprise sale. The 7000
+croreisagoodnumberonwhichweareworking.
+HarshilSethia,AUMAdvisors
+OK.AndcanyoubreakupthewholefunnelintermsofhowmuchwouldbeSaaSinit?
+ArunJain
+Wedon'tdoit.
+HarshilSethia,AUMAdvisors
+OK.Thankyou.
+ArunJain
+Thankyou.
+PraveenMalik
+OK,thanksHarshil.Next,wehaveMrVivekKumarfromBESTPALS.Vivek.
+VivekKumarfromBESTPALSResearch
+Yeah. Thanks, Arunji. Uh, see, you've been highlighting this is regarding the revenue recognition policy,
+you're doing the percentage of completion method and you have also been highlighting every con call
+about the execution capital, how you have disruptedorinQ4FY22youandPrabalhavementionedhow
+you have put down the work into 4 hours or 2 hours work packet and very few defects in our
+implementation. So whyI'maskingthisistherearefewcompanieswhichfollowedthesamemethodbut
+because of the implementation problems they had to re-writeoffcertainkindsofrevenuethatiswhere
+thedoubtiscomingfrom.
+Q4 Results FY 2022-23
+It's not about how much is build or un-build,butifyoucangivemorecolouronwhyyouthinkwhatever
+is recognised, the write off would be really less and we don't. Even with the kind of customers we are
+having,theexecutioncapitalthatyouhavebuiltwillmakesurethatwewillnothaveahugewrite-off.
+SomaybeI'm,Idon'tknow.IthinkI'vemadeitclearright?
+ArunJain
+Andthat'saverygoodquestionyouhaveaskedIthink.
+We implemented 43 digital transformations last year. I think this is our core pride why we are winning
+the business andwhyManishissoconfidentonNPSscore.ThisisacorefocusManishhasdriven.Rajesh
+hasdriven,BaneshhasdriventhatnoneoftheprojectsofIntellectgoesbad.
+My competition, when it goes bad, it becomes difficult to do it. We choose a strategy to implement
+ourselves,nottogivepartnerstillthetimeeMACH.aihascomein.
+Because of that strategy, we cannot allow any failure on the field because this is a business which is
+execution-focused business. We need to have, we need to design success for our customers and that's
+where the core value of Intellect is there and that's what we discussed about the work packet today.
+Now we have iTurmeric where we are saying our coding requirement will be less than 5%. Withthat,it
+willfurtherimprovethedeliveryquality.
+VivekKumarfromBESTPALSResearch
+No, this is comingbecausethepercentageofcompletionhasthisriskthatifimplementationisnotgreat,
+youwillhavewrite-off.
+The second question is on Intellect AI here. You mentioned in the last con call that you'relookingat15
+deals and with this banking crisis, Idon'tknowwhatishappeningintheUSsomuch.So,anyclueonthe
+15deals.Wearestillthereandhowtheycanbeabletoclosethemorwhatisyouroutlookonthat?
+I'm not asking about the number of deals, but the outlook on the Intellect AI insurance business inthe
+US.Becauseyoutoldlastyearitwillgrow50%.
+ArunJain
+Okay.Insurancebusinessisdoingthatmuch,Ithink.Banesh?
+BaneshPrabhu
+Yeah, I think a pipeline and as a matter of fact, as I mentioned in my discussion, we have very deep
+contractingdiscussionsinprogresswithseveral.SoIcanjustleaveitatthat,yeah.
+VivekKumarfromBESTPALSResearch
+Yeah.ThankyouArunji.Thankyouverymuch.
+PraveenMalik
+Therearethreemorequestionsactuallyleft.
+Q4 Results FY 2022-23
+ArunJain
+OK.Yes,quickly.
+PraveenMalik
+Socanwetakethem?
+ArunJain
+Yeah,justputitonachatbox,justcombineitotherwise.
+Justtakeituphere.
+PraveenMalik
+OK,nextwehaveJagdeeshan.
+Jagdish,you'rethere.
+Jagdeeshan
+Yeah.Hello,areyouabletohearme?
+So thanks for good set of numbers. I'm following this for the past few years. So thisisonthepartright,
+youjustexplainedaboutGSI,right?
+So we are implementing the solution ourselves, rightandwesendthepartnerwithAccenture,right?So
+whatisourfutureforthisGSIcollaboration?
+So I could see Finastra is collaborating with a few service providers in India, so they are increasing. So
+othercompaniesarealsocollaborating.So,inmaybenotnowmaybeinfuture.
+HowisthecollaborativestrategywiththeGSIthisisthefirstquestion.
+ArunJain
+Yeah.SothisisthequestionabouteMACH.ai?
+Jagdeeshan
+ImeaninthegeneralsenseI'masking.
+ArunJain
+Yeah.SobecauseofthateMACH.ai,wearecreatingopenfinanceplatform.
+And because of this we can now offer more partners to come in, GSI partners to come in to have a
+predictableoutput.
+Earlier, we were not giving it to the partners because we wanted a predictable outcome. Now with the
+technologyweplay,wecangiveIttothepartners.
+Jagdeeshan
+Q4 Results FY 2022-23
+InregardstothepartnershipwithIBM,anyupdatesareonthatpart?
+ArunJain
+Yeah, it's going on very well. Strongly. We have multiple dealswithIBMalsothewayAccentureisthere,
+IBMisalsothere.
+Jagdeeshan
+That'sitfrommyself.Thanksalot.
+PraveenMalik
+NextwehaveMrAnubhavMakkarfromDruckerInvestment.
+LookslikeAnubhavisnotthere.
+ArunJain
+Sure.Justlastone.
+PraveenMalik
+Andthenwehavejustonequestion,thisisDarshilJhaverifromCrownCapital.
+Darshil,pleaseaskyourquestion.
+DarshilJhaverifromCrownCapital
+Hello Sir. Thank you so much for taking my question. And I wanted to congratulate on the great set of
+resultsandthankyousomuchforgivingussomuchtime.
+So I just wanted to-Ihadsomeconnectivityissues,andImissedsomeofyourstatements,sorryforthat
+being repetitive.Ijustwantedtoask,whetherourrevenuepanningoutandoursustainabilityintermsof
+revenueandmargingrowthwouldbethebasicquestion.Sorryifrepetitive.
+ArunJain
+Yeah. The entire last two hours we wanted to say that we can do growth margin, why should we grow,
+how the margins should grow and what is the growth assurance we are seeingbecauseoftheportfolio
+and what are the risks. So I think, I don't have to repeat whatI'vereallydiscussedinthelasttwohours,
+soifyourecallandlistentotherecording,you'llfindyouranswers.
+DarshilJhaveri
+OK.Thankyousomuch,Sir.
+PraveenMalik
+Arun,thatis.Yeah,thanks.Soweareclosingthecall.
+Thank you very much forparticipatingincaseanyfollow-upquestionsarethere,pleasedowritetousor
+callus.Thankyouverymuch.Nowyoucanlogout.Thankyou.

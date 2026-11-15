@@ -1,0 +1,937 @@
+“Coforge Limited
+Q3 FY '24 Earnings Conference Call”
+January 22, 2024
+MANAGEMENT: MR. SUDHIR SINGH – CHIEF EXECUTIVE OFFICER –
+COFORGE LIMITED
+MR. JOHN SPEIGHT – CHIEF CUSTOMER SUCCESS
+OFFICER – COFORGE LIMITED
+MR. SAURABH GOEL – CHIEF FINANCIAL OFFICER –
+COFORGE LIMITED
+MR. VIKAS JADHAV – VICE PRESIDENT, INVESTOR
+RELATIONS – COFORGE LIMITED
+Page 1 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+Moderator: Ladies and gentlemen, good day and welcome to the Coforge Earnings Conference
+Call for the 3rd quarter FY24. Please note all participants’ lines will be in listen only
+mode and there will be an opportunity for you to ask questions after the management’s
+opening remark. Should you need any assistance during the conference call, please
+raise your hand from the participant tab on the screen. While asking questions, request
+you to please identify yourself and your company. Please note that this conference is
+being recorded. I now hand the conference over to management for opening remarks.
+Thank you and over to you Sir.
+Vikas: Thank you Vandit. Good evening to all. You would have received our Q3FY24 results
+by now. They have been filed with the stock exchanges and are also available on the
+Investor Section of our website.
+We have with us today our CEO – Mr. Sudhir Singh; our Chief Customer Success
+Officer – Mr. John Speight, and our CFO – Mr. Saurabh Goel. We'll begin the call
+with opening remarks from the Management Team, and post that we’ll open the floor
+for the questions. Before we begin, please note that some of the statements made in
+today’s discussion relating to the future, should be construed as forward-looking
+statements and may involve risk and uncertainties. Please refer to the disclaimer to
+this effect in slide number two of company’s Q3 results presentation.
+With that, I would now like to hand it over to our CEO – Mr. Sudhir Singh. Over to
+you Sudhir.
+Sudhir Singh: Thank you Vikas. A very good evening, good morning, and good afternoon to all of
+you across the world. At the outset, I would like to wish your loves ones and you a
+very healthy, happy and successful 2024.
+Despite Q3 being a very tough quarter for the industry, Team Coforge has once again
+turned in a strong performance. During the quarter we faced higher than normal
+headwinds because of unusually high furloughs in the Banking and Insurance
+industries. We also confronted a depressed demand environment generally. Despite
+these challenges, I am pleased to report that at the end of Q3 Coforge has registered
+an organic YTD growth of 14.7% in cc terms and we have logged a sequential growth
+of 1.8% during the quarter. The firm closed three large deals during the quarter with
+our twelve-month signed order book now hovering around the USD 1 Billion mark.
+With an organic YTD cc growth rate of 14.7% in a tough year like this, we continue
+to remain amongst the fastest, organically growing IT firms.
+Finally, and importantly, before I delve into detailed numbers, I do wish to point out
+that Coforge this year is likely to be one of the very few firms that gave a clear growth
+guidance at the beginning of the year and shall deliver within that revenue guidance
+range. Our ability to deliver on annual revenue guidance commitments in such a
+tough year is a testament to the tenacity of Team Coforge and in our ability to execute
+against plans. If anything, our performance this quarter reflects the execution
+capability of Team Coforge.
+With that context, I shall now take you through the quarterly performance and our
+assessment of the outlook.
+QUARTERLY PERFORMANCE – REVENUE ANALYSIS
+I am pleased to report that during Q3FY24, Coforge reported revenue of $282 million,
+registering a sequential growth of 1.8% in Constant Currency (CC) terms, 1.4% in
+USD terms and 2.1% in INR terms. With a strong CC revenue growth of 1.8% in a
+seasonally weak Q3, a similar CC growth would suffice to meet our lower end of CC
+Revenue growth guidance for FY24.
+Page 2 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+On a YoY basis, Q3 revenues was up by 12.0% in CC terms, 12.0% in USD terms and
+13.0% in INR terms.
+I shall now detail vertical-wise growth for the quarter under review.
+Despite very high furloughs in the BFS vertical, it reported a sequential growth of
+3.1% in CC terms and contributed 32.2% to the revenue mix. The Insurance vertical
+was flat in CC terms and contributed 22% to the Q3 revenue mix. The Travel vertical
+grew 1% sequentially in CC terms and contributed 17.8% to the total revenue.
+Other/Emerging Verticals saw a sequential growth of 2.5% in CC terms and
+contributed 28.1% to the total revenue mix.
+During the quarter under review, Top 5 clients contributed 22.7% to revenues, while
+top 10 contributed 34.3% to the revenues. A majority of our Top 10 clients are from
+the Banking and Insurance sector which was impacted by unusually high furloughs
+during the quarter.
+Offshore revenues contribution continued to climb and stood at 52.2% of the total
+revenues. Revenue from Fixed price projects contributed 51% to Q3 revenue.
+With that I shall now move onto to the margins and operating profits discussion.
+QUARTERLY PERFORMANCE - MARGINS AND OPERATING PROFITS
+During the quarter, we delivered an adjusted EBITDA of $50.6 million in USD and
+Rs. 4,170 million in INR terms. This reflects an adjusted EBITDA margin of 18.0%
+for the quarter, an expansion of 39 bps sequentially. The current quarter saw unusually
+high furloughs which had a higher than anticipated impact on margins.
+SG&A as a percentage of revenue stood at 15.1% and saw an increase of 20 bps QoQ.
+We continued to invest strongly in our S&M capabilities to ensure continued and
+robust growth in the years ahead. We are investing very heavily in newer sub-geos
+like California and New York as standalone market regions and in scaling up newer
+verticals beyond the Banking, Insurance, Travel and Public Sector verticals with a
+focus on Healthcare, Retail and CMT. Investments on scaling up the Alliances,
+Advisory and Analyst channels continue unabated. We expect SG&A moving
+forward to stay at around the 15% level.
+Reported EBITDA Margin stood at 17.3% and saw an expansion of 201 bps QoQ.
+Reported margins have also expanded on account of ESOP costs getting normalized
+in this quarter.
+Consolidated profit after tax (PAT) for Q3FY24 stood at Rs. 2,380 million and was
+up 31.5% QoQ.
+ORDER INTAKE
+We recorded an order intake of $354 million during this quarter under review. This is
+the eighth consecutive quarter where the firm has reported an order intake of more
+than $300 million. In terms of geographic regions, Americas contributed $110 million,
+EMEA $172 million and Rest of the World $72 million to the Q3 order intake.
+While the macros and IT spend environment continues to remain challenging, we
+signed three large deals in Q3, taking number of large deals signed to 8 in this fiscal.
+Our executable order book, which reflects the total value of locked orders over the
+next 12 months, stands at $974 million and is up 15.8% on a YoY basis.
+Coforge also signed 7 new logos during the quarter.
+PEOPLE
+At the end of the quarter three, headcount stood at 24,607 and saw a marginal decline
+Page 3 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+of 31 sequentially. We have added 1,383 employees until now in this fiscal.
+Utilization, including trainees, during the quarter stood at 79.4% compared to 80% in
+Q2FY24.
+Last Twelve-Month (LTM) IT services attrition during the quarter stood at 12.1%.
+I shall now request John Speight, Customer Success Officer Coforge, to walk us
+through capability and Delivery highlights.
+John Speight: Thank you, Sudhir.
+We continue to embrace our position as an AI-first organization, we cleared a critical
+Microsoft AI Cloud Partner Programme audit which has positioned us as a
+recommended partner for shared clients and unlocked dedicated growth funding.
+I will now share a few examples of delivery execution in our key verticals.
+In BFS, we enabled a leading global bank to “go-green” as part of their initiative to
+become paper-free in retail banking operations. We have also started successfully
+delivering AI based solutions to our BFS clients – a good example being a global
+banking product organization where Coforge is now a strategic partner in their AI
+Acceleration Hub program.
+For a leading middle east commercial bank, we have executed a major legacy
+modernisation transformation encompassing their HR and financial processes, driving
+workflow processing efficiency and improving user experience. For a tier 1 Australian
+bank, we are partnering on their strategic programs to re-imagine and transform their
+Financial Crime, Fraud, Lending, Corporate and Institutional banking business
+processes.
+In Insurance, we recently built and deployed a Gen-AI-based service for a major
+“supplemental insurance” provider to supply competitive intelligence for product and
+policy feature comparisons across client segments. We also added a major brokerage
+firm as a new logo, one of the world’s largest Managing Agents.
+In Travel & Transport, we secured an enterprise testing contract with a globally
+recognized cruise liner firm. We executed a UI modernization program for a leading
+Middle East Airport, enhancing customer experience across their websites. We have
+also created a new nearshore engineering capability for a prominent US airline.
+In Public Sector, a growing business for Coforge, we secured a $27M TCV deal to
+implement a unified data hub providing a golden source of data to enable monitoring
+and provisioning of state welfare benefits to citizens.
+In Europe we collaborated with a major Talent Advisory customer to develop their
+career support system. Using Quasar, our AI platform, we have integrated over 20
+LLMs across cloud platforms to help streamline processes and improve client reach.
+I will close with couple of notable mentions - HFS positioned us as an “Enterprise
+Innovator in Low code services, 2023” with a special designation of Trailblazer; while
+IDC recognized Coforge as a Major Player in their 2023 Worldwide Managed Public
+Cloud Services report.
+With that I will pass over to our CFO, Saurabh Goel for further details on financials.
+Saurabh Goel: Thank you John. Let me now provide some more detail on the financial statements.
+So, profit after tax for quarter 3 witnesses a substantial increase of 31.5% quarter on
+quarter reflecting 229 bps improvement on profit margin. This was on account of 3
+reasons. One, improvement efficiency resulting in increase in gross margins by 60 bps
+in a very tough quarter which was impacted by very high furloughs. No.2, lower ESOP
+cost as compared to quarter 2. And no.3, lower ETR (Effective Tax rate) of 17.5% on
+account of higher profits that got realized in the current quarter in the lower tax
+Page 4 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+jurisdiction although we expect the quarter 4 ETR to be normalized at levels of 21odd
+percent. As of quarter ended 31st December 2023, our total cash and bank balance
+today is $57 million as compared to $43 million in the previous quarter reflecting an
+increase of $14 million than the bank balances. Q3 OCF to EBITDA jumped to 70%
+or $33.5 million as compared to 50% in quarter 2. We expect to deliver 65-70% OCF
+to EBITDA for the year which also means that there is a significant ramp expected in
+Q4 and which is in line with the past trend of the organization.
+The debtors at the end of quarter stood at 63 days of sales outstanding compared to 64
+days in Q2 of FY24. Capex during the quarter stood at $6.7 million.
+With that, I will hand over the call back to Sudhir for his comments on the outlook.
+Sudhir Singh: Thank you, Saurabh.
+I am satisfied that we ended the first nine months of the current fiscal with a CC
+revenue growth of 14.7% YoY in a difficult year. We expect continued revenue
+growth in Q4 and a sharp margin improvement as well during the quarter. The margin
+improvement shall be on the back of new business ramp-ups from our recently signed
+large deals and the reversal of the significant furloughs that we have seen.
+We gave a very explicit annual organic cc revenue guidance range at the beginning of
+the year and we remain confident that we shall deliver within that band. That should
+make us one of the very few firms that have been able to deliver upon their yearly
+guidance commitment. We also expect to be around the adjusted EBITDA margin
+range of last year given the sharp margin uptake we anticipate in Q4.
+With that, I conclude my prepared remarks, and I look forward to hearing your
+comments and addressing your questions.
+Moderator: Thank you Sir. We will now open the call for Q&A session. We will wait for a few
+minutes until the queue assembles. We request participants to restrict to 2 questions
+and then return to the queue for more questions. Please raise your hand from the
+participant tab on the screen to ask a question. The 1st question is from Sulabh Govila
+from Morgan Stanley
+Sulabh Govila: Thank you for taking my question. My first question is around the opening remarks
+that you made with respect to some of the additional environment issues in which you
+mentioned that it was depressed additionally in the December quarter. Just wanted to
+understand what has additionally come in and if you could provide some context
+around which areas and which verticals? When would you expect this to reverse or
+would it be a headwind in the coming quarters. And the furloughs that you mentioned,
+are they reversing completely in the coming quarter?
+Sudhir Singh: Thank you Sulabh. Let me answer the questions in the reverse order. Let me take
+furloughs which is the shorter answer and then let me take up environment which is
+likely to be a longer answer.
+Furloughs have stopped in our context, at least in the context of our clients. We have
+lost close to 40-50 bps by our estimate in Q3 margins because of higher than
+anticipated furloughs. We expect to recoup all of it back in quarter 4. That’s answer 1
+to question 2.
+Answer 2 to question 1. I think it’s going to be slightly more involved. Your question
+was around “how does the environment look”.
+The demand environment continues to be tough. Clients have finished their budgeting
+cycles for the calendar year 24. We finished our global sales workshop, a five-day
+meeting in Princeton between Jan 8th to 12th. Everything that we picked up about
+budgets from clients globally, does not represent any significant uptick in budgets in
+CY24 over CY23. Having said that, that’s the broad macro environment. We have
+Page 5 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+been investing very significantly on the SG&A side. We talked about the investments
+even in quarter 3. Given the SG&A increase, given the capability built, given the brand
+salience now, given the growth momentum, we feel confident that we can continue to
+eke out robust sustained growth next year and the quarters to come because of where
+we stand.
+More specifically to your immediate question around “how do things look” across the
+three core verticals that we have - banking and financial services, the tightening of
+expenses mainly around run-the-bank continues. There is no change that has happened
+there. In some of the recent studies, I have seen talk about IT budgets in banking go
+up by about 4-5%. The budgets increasingly are focused on the transformation space
+and we believe that we are well placed to capitalize on this. The top three drivers
+within BFSI as we see in terms of budget spends going in are going to be agility in
+software delivery, it’s going to be new product proposition or innovation and it’s
+going to be compliance and regulatory. So those three areas we continue to focus on.
+Insurance is a little more nuanced. Most estimates around global insurance premiums
+being talked about has them going up by about 2.2% annually. But it’s spread all over.
+US is expected to be flat. Asia Pacific, ANZ etc. is expected to grow by about 6% and
+the focus there continues to be, the spend continues to focus on legacy modernization,
+cloud migration, digital transformation and also supplier consolidation. What we are
+doing there is, we are continuing to invest in our core platforms, partnership
+capabilities with Duck Creek, with Bond Pro, with Origami Risk and One Shield.
+That’s where we expect growth to come from.
+And finally the 3rd core vertical for us is Travel. The demand in Travel across the
+segments is mixed. Airlines, Airports are leading the spend when it comes to Travel.
+With the kind of spends that are being seeing right now, what we are seeing is,
+relatively lower demand across Logistics and Hospitality. Within these sectors, these
+four sub-sectors, the demand is driven out by cost take-out initiatives, it’s driven by
+IT productization and it is driven by focus around security, Cloud and data solutions.
+There is, and this is important to note, there is we are seeing new interest in insourcing
+activity from some of the travel mid-caps for Global Captive Centres. Within the
+Aviation sector, there are new initiatives around One Order and around Digital
+Retailing which again are areas which we focus on. That Sulabh was the answer to
+question number 1 that you posed.
+Sulabh Govila: Thank you for the comprehensive answer. My 2nd question is on the margin outlook
+for Q4. If I understand your Q4 margins were closed to 19.5% last year and 19.6%. If
+I take that as the exit margin, then hopefully your margin will be close to 17.8% on an
+adjusted EBITDA basis which is 50 basis points lower than last year versus our initial
+expectation of flattish years, So is that the correct understanding that we have for now?
+Sudhir Singh: We intend to not just replicate what we did last year in Q4. because last year Q4 we
+were not coming up with the tailwinds, the margin loss that we had in quarter3. Why
+don’t I step away. Saurabh, would you like to answer that?
+Saurabh Goel: Thank you Sudhir. Sulabh, we are looking at, at least around 150-200bps margin
+improvement so as Sudhir pointed out, it was a 50bps impact of furloughs in the
+current quarter. Not only that, the same accounts, we were ramping up and ramping
+up people for the demand that was there for Q4. So that put together along with the
+furloughs that were there in the current quarter, we expect the margins to significantly
+go up from the current quarter and also higher than the levels of what we delivered
+last year. If you go even 2 years before, so our exit rate that time was more than 20%.
+So over the last 2-3 years, our exit rate has been an average of 20% in Q4. So it was
+20.4% in FY22, in FY23 it was 19.6%. I think we target somewhere in between that.
+Sulabh Govila: Understood! Thanks for taking my question. I will get back in the queue.
+Page 6 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+Moderator: Thank you. The next question is from Vibhor Singhal from Nuvama
+Vibhor Singhal: Ya, hi! Good evening Sir. Thanks for taking my question and congrats on a great solid
+performance yet again in a difficult quarter. So Sudhir, just wanted to pick your brain
+on the BFS vertical. I think that is one vertical which has been the most talked about.
+One of the larger players mentioned in their commentary that you see bottoming out.
+Then we had some weakness not just…..but in many other place also because of the
+higher furloughs. But yes, you said that of course you expect furloughs to reverse in
+the next quarter. But from an overall demand perspective, are you seeing any kind of
+conversations, there are no changes in budgets but any kind of things coming back
+into the sector or by your experience, when do you think we could see some green
+shoots in the banking segment down the year?
+Sudhir Singh: Thanks for your question. There are green shoots in the context of going for growth
+in the driving agility in software delivery, the new product proposition/innovation,
+and the Compliance and Regulatory requirements space. The overall macros are
+depressed but these 3 sub-segments within the BFS space continue to see increase in
+spends. Banks, you and I both know this, do their budgets normally around October
+to November time frame. Budgets now seem to be locked and loaded. Aggregate
+budgets have not increased. We suspect that if there is going to be a reversal in that
+situation, it will take another 4-6 months. Somewhere around the middle of the year,
+we will know in the 2nd half, there is more money to be released into projects. But for
+now, aggregate spends seem to be flattish. Agility in software delivery, innovation,
+compliance and regulatory seem to be spaces where money is getting prioritized.
+Vibhor Singhal: Got it! Maybe 4-6 months down the line maybe you might seem some pickup but does
+it ever happen like that, that in the beginning of the year, the budgets have been frozen
+and locked in but if the situation improves, the client enhances the spend or fix it up
+by a couple of percentage points or whatever the number is? Does it actually ever
+happen or is it like because the current scenario is such that you are expecting like
+that?
+Sudhir Singh: I am not expecting it. It very rarely happens. And as we finished our planning for next
+year in Princeton in the week of January 8th. We had 268 of our leaders and we spent
+5 working days just working numbers up, account by account, prospect by prospect.
+We are not baking-in any improvement in macros into our next year plans from where
+things are. Unless things change drastically, the macros we are looking at are the
+macros we should be baking into our planning and we have baked into our planning.
+Vibhor Singhal: Got it. That was quite comprehensive. I just have a 2nd question for Saurabh if I may.
+Saurabh, we have had good cash generation in this quarter and our cash balances also
+seems to be quite robust. Any plans on reducing the debt that we have in the balance
+sheet that we have taken up or maybe refinancing in some manner to reduce the
+interest cost?
+Saurabh Goel: So Vibhor, there are non-convertible bonds which are there on the balance sheet of
+$41 million and there is an offshore debt, rupee debt and the average cost of that debt
+is 9.9 percentage points. It’s an offshore debt. We are looking at, we will pay that off
+from the cash accruals and in case if needed, we will take a working capital which will
+come at a 300bps lower than that, 350 bps lower than that cost. So I think we are
+looking at restructuring the loan in next quarter 1 of next financial year. So the
+payment is expected in April 2024.
+Vibhor Singhal: So that should bring down our interest cost by almost….
+Saurabh Goel: The interest cost will come down and the working capital optimization anyways is
+happening so we will have a significant cash OCF coming in, in quarter 4. So I think
+interest rates over next quarter 1 because of the structural changes that we are trying
+to do in the overall debt profile of the firm, one. 2nd, the better cash management will
+Page 7 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+lead to lower interest cost next financial year.
+Vibhor Singhal: Thanks a lot. Thanks Saurabh, thanks Sudhir. Thanks for taking my questions. I wish
+you all the best.
+Sudhir Singh: Thank you Vibhor.
+Moderator: Thank you. The next question is from Dipesh Mehta from Emkay Global
+Dipesh Mehta: Thanks for the opportunity. Couple of questions. Just wanted to get some clarity about
+the ESOP plan. I think ESOP 2005, again we have raised some scheme. So any
+implication on likely ESOP cost. 2nd question is about, earlier during the year we
+always used to maintain that FY25 is likely to be better than 24 in anticipation of some
+recovery in demand. Considering where we are today, do you think it holds true or do
+you think some recovery needs to play out for us to see that outcome and last question
+is about capital allocation. If you look, we hardly have cash on the balance sheet and
+if in the next 2-3 years, we intend to do some M&A as part of growth strategy, so if
+you want to tweak some of the capital allocation policy? Thank you.
+Sudhir Singh: Dipesh, why don’t I request Saurabh to take question no.1 on ESOP and no.3 on
+capital allocation. After that, John and I will address, FY25 versus FY24. Saurabh, all
+yours.
+Saurabh Goel: Dipesh, currently the ESOP plan for which was created 5 years ago, that’s all
+exhausted and there are no material stocks left in the pool right now. So Board has
+now approved 3% of the pool to be created which we will come for the shareholder’s
+approval as a part of the postal ballot and after that, the grants will be given for,
+basically it’s for the leadership team for over 5-7 years. So that is where we are on the
+ESOP cost. Otherwise without that, the cost will remain at where we are at the current
+levels. So once the new ESOP pool is created, grants are being issued, only then we
+will determine what the cost will be. We will come back on that once we are there.
+No.2 on capital allocation, at least the current intent is that we will continue to pay
+dividends and we discussed that within our Board today but a formal plan for the next
+financial year, we will come back end of quarter 4 but as of now, the plan is to continue
+to pay dividends at the current levels that we have been paying.
+Sudhir Singh: Thank you Saurabh. John, would you like to comment on FY25 outlook versus FY24,
+what we saw?........ John, I can’t hear you.
+John Speight: Sorry! On the FY25, my view is that there will be continued headwinds with all the
+macro dynamics going on. Because you mentioned Sudhir a number of times, we are
+focused on actually do ...inaudible... We are in those areas where banks for example
+are investing, the the regulatory space and there is lot of regulatory change that is
+coming on the downstream in the next 12 months. For example, consumer protection
+in the US is a good example. T+1 the payment transformations, all of those areas
+which we are heavily invested in. Other areas obviously, our conversation about
+talking about Gen AI and again that is an area where we consciously decided to invest
+heavily and we have seen an awful lot of pickup on what we are doing there, which
+we see driving a lot of growth.
+Sudhir Singh: And the only piece I will add beyond the details that John added Dipesh is, growth
+will have to be clawed out next year like it had to be this year. And those headwinds
+are real. I don’t see them, at least we don’t see them abating anytime soon.
+Dipesh Mehta: Thank you Sir.
+Sudhir Singh: Thank you.
+Moderator: Thank you. The next question is from Girish Pai, from Nirmal Bang.
+Girish Pai Ok. Thanks for the opportunity. Sudhir, just wanted some comments on what you said
+in the analyst’s meet in June of last year. You talked about a competitive situation
+Page 8 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+where there was a lot of price based tussle going on between various players. Has the
+competitive situation improved or worsened or it still remains the same?
+Sudhir Singh: (Laughs) I don’t know how to classify improved or worsened. All I can tell you is that
+it’s highly competitive out there. Everyone is trying to, and I used the word
+consciously in the last answer, everyone is trying to claw growth out. This year we
+had to claw growth when I talked about a 14.7% year to date growth, organic growth
+that we have delivered so far at the end of the first 3 quarters cumulated. It’s literally
+growth that had to be clawed out from competition and as you can imagine in that
+context, pricing pressure tends to be acute. It continues to be really competitive out
+there. Nothing has changed over the last 5 quarters. We have seen the same scenario
+played out and because demand is depressed, pricing pressure has been high. It has
+happened over the last 5 quarters. I suspect in the next 2-4 quarters, it will likely
+continue.
+Girish Pai: The other comment that you made in that analyst meet was about Generative AI where
+you kind of hinted that potential deflationary pressures coming from there. Do you
+see that panning out in the immediate term or do you think it’s going to be like
+somewhere down the pipe?
+Sudhir Singh: No, we are not really seeing Generative AI bringing in deflationary pressures at all. If
+I were to look at what we have been doing, and if I look at just the last 6 months,
+forget a longer time horizon, last 6 months, we have engaged with 60 customers. For
+a firm our size that’s material. We have undertaken somewhere around 22 to 23 pilots,
+workshops, assessments, consulting, live revenue generating engagements now. The
+point that John was making, there has been a clear step-up that has happened. We are
+not seeing deflationary pressures at all. What we are seeing is, especially in financial
+services, which is our sweet spot active revenue generating small projects kicking off
+over the last few quarters. If I were to give you an example around this, there is a very
+large bank in the US, we did a very successful pilot with them where we used the Gen
+AI based product called Querier and because of that pilot, it’s now part of the
+enterprise workflow. What that in turn has allowed us to do is, its propelled us to join
+their customer acceleration hub. So in many ways, what Gen AI is doing is., It’s not
+just the Net New revenue services that’s coming in, it’s also it’s integration into
+existing revenue stream that is helping us drive growth. We have done something very
+similar for a US based investment management organization where we actually
+worked with them on Gen AI in 10 different use cases collaboratively and we have
+been leading the entire analysis and recommendation. The work that follows may not
+necessarily be Gen AI only but there is going to be downstream revenue that would
+keep coming in. We have done something building on that, something very similar for
+another bank. We have come up with a very novel solution to check fraud detection
+using Gen AI and that again, is positioning us well for downstream revenues, not just
+from Gen AI service line but from cross service lines also.
+The short answer to your question is ‘no,’ we have not seen a deflationary impact. We
+do see a revenue creation exercise at play here. John did talk about the fact that we
+invested for a firm our size very heavily. When we finished the Princeton meet we
+decided that 40% of the incremental investments next year will be in AI. And I said
+that from the stage with 268 of our leaders present there. I think, and I just build on
+what John said, the work that we have done in creating our own platform ‘Coforge
+Quasar’, the work that we have done in terms of creating Gen AI accelerators- the
+Document AI, the ML Ops, the Predict Graphs, the Speech AI, the Vision AI, so on
+and so forth, the 120+ jump starter use cases that we created has just proven to us
+that, a. in the short term, this is not deflationary and b. in the medium term, this can
+be a significant credibility booster and also potentially a downstream revenue
+enhancer.
+Girish Pai: If I may squeeze in the last question. This regarding leakage of in your TCV numbers,
+Page 9 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+are you seeing any leakage and if there is one, is that higher compared to what you
+saw 12 months back?
+Sudhir Singh: No. If there is one thing that I think we do well, Girish it is that we execute. And if
+there's one thing that we pride ourselves on as a team, it is execution. Once we bite
+into a project, once we land at a client site, the one thing that always sets us apart ,and
+John can talk about it because he's led global delivery. is our ability to deliver on our
+commitments. It is the nature of our resources and the employees and the SME's and
+the architects - and so we do not see that leakage. You can look at our order executable
+numbers over the last four quarters and you will, I suspect, not see that leakage., John,
+do you want to build on that?
+Mr. John Speight: Yeah, that's a good Segway. Execution, execution, execution, and I'll give a couple
+of examples. In this last quarter, we had one program where there was a large cloud
+migration going on in a major airline, 18 months this program had been going on, not
+delivered. We stepped in; eight weeks, done. Another case, which again shows the
+commitment of our teams. Our team stepped in, even though we weren't contractually
+obliged to, but as a partner we did and with the teams, we worked nonstop 96 hours,
+to resolve the problems and turned around saving the plus land to make a major fall
+back invocation and I think that is key to us, key to our delivery.
+Girish Pai: Okay. Thank you.
+Sudhir Singh: Thank you, Girish.
+Moderator: Thank you. The next question is from Sandeep Shah from Equirus.
+Sandeep Shah: Yeah, thanks. Thanks for the opportunity. First question is, looking at the demand
+commentary, it's slightly mixed across verticals. So, is it fair to assume with the
+headwinds which we are still witnessing in the macro versus some of your consulting
+peers are actually talking about discretionary spend revival which could happen in the
+BFS as a vertical? Is it fair to assume in a worst case scenario also what we achieve
+in a constant currency growth in FY24, it can actually replicate that in FY25? Why I
+am asking Sudhir is at the end of last calendar year, the 12-month executable order
+book has grown at 20% versus this time we are at the end of the calendar year, it is
+growing at 16%?
+Sudhir Singh: Correct. So, what we'll do, Sandeep, is we give our guidance at the end of the year
+and we've done that over the last three years. We'll talk about guidance after factoring
+in everything that we see, with hopefully demand settling down a little bit more by the
+time we have a conversation end of April. At this point in time, I can just tell you
+what we’ve always said. We believe that the #1, #2 and #3 objective of Coforge is
+driving growth as a commercial enterprise. And that is an idea to which we have
+adhered to very, very, strongly. We expect to leverage the execution that John talked
+about to continue in the years, not just the quarter or the next year to drive robust
+growth, sustained growth, and profitable growth. I will, along with John and Saurabh
+try to give you hopefully, try to give you a broader range next quarter when we give
+our annual guidance for next year.
+Sandeep Shah: Okay, okay. The second question is in terms of margins. I agree there has been a
+good pickup in terms of the gross margins, but the kind of utilization increase, the
+kind of offshore increase, is it fair to assume FY25 could see slightly higher tailwinds
+in terms of average resource cost as well as some amount of SG&A leverage versus
+the investment which we are doing in S&M?
+Sudhir Singh: Absolutely. I think the one thing we’re very clear on and we can say straight off the
+bat without waiting for next quarter end is, next year margins will clearly be higher.
+They'll be higher because when we start off next year offshore revenue percentage as
+a percentage of total revenue would have gone up. We've already hit the 15% mark
+around SG&A, which is where we said we wanted to be at and then stop further
+Page 10 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+investments as a percentage of revenue. And there are clearly tailwinds around what
+we internally call the average resource costs. Next year margins will be higher, no
+question about that.
+Sandeep Shah: Okay, Just the last bookkeeping observation. One suggestion, please don't stop giving
+a separate line item on cost of revenue as well as the ESOP cost because we guide on
+our adjusted EBITDA margin. Yeah.
+Sudhir Singh: Point taken. Alright. Thank you, Sandeep.
+Moderator: Thank you. People who wish to ask questions can click on the raise the hand button
+on the bottom of the bar. The next question is from Shraddha Agrawal from AMSEC.
+Shraddha Agrawal: Yeah. Hi, Sudhir. Congrats on good quarter. A couple of questions. First is on the
+three large deal wins that we've spoken about. Can you quantify, is it more of renewals
+or is there some new deal component involved in it? And if yes, what could be the
+quantum of new deal signed? And what verticals are they spread across?
+Sudhir Singh: Sure. Let me take both questions, Shraddha. Out of the three deals, one is 100% NN,
+Net New. The second one is EN, but most of it is new revenue, incremental revenue.
+The third one was an interesting one where we had a certain amount of real estate at
+an insurance client and we were able to push out the second largest partner there. So,
+half of that deal is new for us. Just summarizing, one is clearly just new business, the
+second one again is largely new business and the third one, half of it is new business.
+Verticals for these three would be Insurance, Banking, and Public Sector in UK.
+Shraddha Agrawal: Got it, got it. In terms of our performance geography wise, it seems that the following
+impact in Europe this time around was not as significant as what we saw in the US.
+So, if that was the case and if at all in general, how are the growth dynamics between
+the two geographies?
+Sudhir Singh: Furloughs were as always very client specific. So, I won’t generalize our experience
+across what's happened in the broader industry across the two continents. I would say
+as we finished the first cut of our planning in the week of Jan 8th, I haven't seen our
+teams come up with materially different numbers across the two continents. They've
+come up with growth numbers and those growth numbers are not very different from
+each other, right.
+Shraddha Agrawal: Right, that's helpful. Saurabh, just one question. Would it be possible for you to give
+the breakup of other income?
+Saurabh Goel: I will not have that handy, but I'll share that separately.
+Shraddha Agrawal: Sure. Thanks.
+Moderator: Thank you. The next question is from Ravi Menon from Macquarie.
+Ravi Menon: Hi. Thank you very much. Sudhir, you talked about how BFS continues to be having
+a difficult time, but last four quarters you delivered good growth and BFS. So, could
+you give us some idea about what sort of programs are you seeing and what's the
+pipeline looking like over there?
+Sudhir Singh: The pipeline from our end continues to be good Ravi. One of the three deals that we
+signed this quarter was from the Banking space. We continue to see spends, and I
+think I spoke about this earlier as well, in the Innovation space. We are seeing a lot
+of interest around introducing Agility in Software Delivery in Banking which is
+somewhat new for this sector. And we continue to see…. one of the three deals we
+signed is from Banking. It actually came from the Compliance and Regulatory space
+with one of the central banks in Europe. So, innovation, speed and agility in software
+delivery, and compliance reg those are the three spaces where we are finding happy
+hunting grounds from our vantage point.
+Ravi Menon: Thanks. It looks like Europe turned really well this quarter and I think even year-on-
+Page 11 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+year Europe is up a lot better than the US. So, again any color on the verticals what's
+really contributed to growth there and can to sustain?
+Sudhir Singh: Europe for us is essentially a Banking and a Travel play. The Travel vertical for us
+on the Europe side has done significantly better than it has across the States. Banking
+has been slightly better than it's been in the US. So that's how I would call out the
+things that have worked for us. Europe for us has been a very happy hunting ground
+in the Public Sector space. And that continues to be a growth driver. We are not present
+in that vertical in North America. If I were to contrast our four key verticals, that's
+how three out of the four had been now.
+Ravi Menon: On utilization, how much headroom do you think you have to improve that?
+Sudhir Singh: Best case maybe another 150 bps. Because the way we calculate utilization is we also
+count our trainees into our calculation. We think we're not going above 81% anytime
+soon. We're at about 79.4%, so maybe another 150-160 bps.
+Ravi Menon: Thank you so much and best of luck.
+Sudhir Singh: Thank you, Ravi.
+Moderator: Thank you. The next question is from Abhishek Kumar.
+Abhishek Kumar: Yeah, hi. Thanks for taking my question. This is Abhishek from JM Financial.
+Sudhir, as you rightly mentioned, the story of Coforge has been to eke out growth in
+a challenging environment, but when I look at the performance across verticals even
+if I look at the nine months of this year, it seems to be again driven predominantly by
+BFS, while I think at the beginning of the year you had said that probably most of the
+verticals will grow in a narrow range. So, just wanted to understand, is the demand in
+other verticals are kind of surprised us negatively or we have not been able to eke out
+the growth in other verticals as well as we have been able to do in BFS, any color?
+The question really is because if this trend continues, does it become a headwind next
+year?
+Sudhir Singh: Alright, let me start off by saying, let me just step in there. (Laughs) In our defense,
+we haven't eked out growth, we've clawed it out and it's been tough. But it's been far
+better than “eking” it out. Answering your immediate question Abhishek. If you look
+at our growth…Banking, you're right year-to-date at the end of quarter three is
+growing 15½%, but insurance also is doing extremely well. Year-to-date at the end of
+the third quarter, CC terms insurance is growing 11½%. And to that extent, in the
+environment that we have today, both Banking and Insurance are doing well. Travel
+is growing 3% and that's largely because of issues that we've seen with some of our
+largest travel clients, most of whom are based in North America. I would suspect that
+Travel, especially Airlines, the softening that we saw, in the Travel Tech and the
+Airline space in North America has bottomed out. Travel should only be rebounding
+from here. Hard numbers show banking having grown YTD cumulatively the first
+three quarters 15½%, insurance 11½%, and travel 3%. Travel we would expect to
+start amping up from here on.
+Abhishek Kumar: Okay, that's helpful. Thank you and all the best.
+Sudhir Singh: Thank you.
+Moderator: Thank you. The next question is from Kawaljeet Saluja from Kotak.
+Kawaljeet Saluja: Hey, hi. Thanks for giving me the opportunity and Sudhir congratulations on once
+again a robust quarter. A couple of housekeeping questions and then a question for
+you Sudhir, but first Saurabh for you. Saurabh, the couple of questions are like first
+is that have you locked in on the type of instruments ESOP that you want to give out,
+you know because the accrual that you're taking is 3% which seems to be largest. So,
+are you going for an RSU structure or more of a ESOP structure, which is a discount
+Page 12 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+to the market price?
+Saurabh Goel: So, Kawaljeet it's not locked in right now. I think before we come for the postal ballot,
+I think we will have a response to that.
+Kawaljeet Saluja: Okay. #2, basically, I have a preference between the two is where would you - what
+would you prefer?
+Saurabh Goel: So, it will be a mix of both this time. So, last time it was more of a heavily discounted
+ESOPs, this time it will be a mix of both. So, but whatever it will be once it is
+finalized, we will come back to shareholders with the proper explanation as part of
+the postal ballot.
+Kawaljeet Saluja: Okay. Thanks for that, Saurabh. The other questions for Sudhir. Sudhir, I just saw a
+couple of changes at the board level, is the board refresh complete post the change in
+post exit of a bearing or that's something which will materialize or complete at a later
+date? 2nd is that if there are going to be additions, right, what sort of type of additions
+you would love to see here? Of course, you will for the board, but nonetheless, I under
+that. Go ahead.
+Sudhir Singh: Sure. The immediate board size that we will be going forward with will be a board
+constituted of six members. At this point in time, we have line of sight to all six.
+Yesterday, we announced Mr. Anil Chanana who has joined in as the Audit
+Committee Chair. He shall take over from Mr. Ashwini Puri, who retires after his
+second term with the firm on March 31st. Mr. Chanana is already on the Board. He
+attended the board meeting today and once Mr. Puri steps down, he will take over as
+the Audit Committee Chair. Mr. Pradhan, as everyone knows, will be stepping down
+after his second term at the end of June. Mr. Pradhan and the NRC have been working
+very closely together and we have a clear line of sight to an identified candidate who
+is going to be stepping in as the Chair after Mr. Pradhan steps down. He will of course
+be onboarded before Mr. Pradhan steps down. And the third Non-Executive Director
+that we need, again we've identified the gentleman. He's based in the United States
+and he is in all probability going to join us in the next - over the next three weeks. So,
+the immediate plan was to have a Board with six members and everyone has been
+identified and we should be good to be in that configuration over the next two months.
+Kawaljeet Saluja: Okay, fantastic. The third question again for you Sudhir is that, when I look at the
+composition of our revenue mix, of course you always had a different mix courtesy
+that strength in Europe, but when I look at the growth in ROW that's been quite
+remarkable. Just wanted to get a little bit more what I would say insight into type of
+program that you are winning in the ROW world. This question is more in the context
+of the fact that for the industry, ROW has never been a very happy hunting ground
+there, so?
+Sudhir Singh: Yeah. So, for us, ROW has compared to other firms, been a happy hunting ground.
+Because Travel for us has always been a very strong vertical in ANZ. I mean all the
+way from the Middle East, all the way down to Australia, New Zealand. APAC,
+ASEAN and ANZ have also done extremely well for us on the Banking side.
+Especially given our partnership with Duck Creek, we’ve found Australia to be a very
+happy hunting ground for insurance as well, increasingly. So, our growth is coming
+A - from insurance largely off the back of our partnerships with the platform players.
+It's coming in banking largely off the back of our DPA capabilities and also from the
+fact that a lot of the European banks have very strong interconnects with ASEAN and
+ANZ banks and of course, travel has always been a strong space for us in that area.
+So, that's how ROW is playing out.
+We have taken increasingly a very strong geo sales-based approach to how we operate.
+Verticals continue to be prime, but we're also trying to set up geo-based pods and the
+establishment of these pods across the world including what we call Middle East,
+Page 13 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+India, ASEAN, ANZ is working well for us.
+Kawaljeet Saluja: Thank you so much and all the best in future.
+Sudhir Singh: Thank you, Kawaljeet.
+Moderator: Thank you. The next question is from Manik Taneja from Axis Capital.
+Manik Taneja: Thank you for the opportunity and once again congratulations for the steady
+execution. Sudhir, while you already answered a few questions around the outlook,
+let me try my luck once again. So, given the macro backdrop, given the exit
+arithmetic’s this year heading into FY25 and both looking at your order in executable
+order book, how sure one be thinking about FY25 growth compared to FY24, any
+initiative marks on that front? That's question #1. The second question was for
+Saurabh, with regards for segmental margins, while you've provided some outlook
+around the Asia Pacific business mix, but when I look at your segmental margins, both
+India and Asia Pac essentially are a drag on, on margins, if you could talk about what's
+ailing that and how should we be thinking about the trajectory going forward?
+Sudhir Singh: Alright, let me take #1 and you take #2 Saurabh. Outlook. (Laughs) You're clearly a
+betting man, Manik, and I'm a very mulish man. Let me just repeat what I said. I
+think, we'll wait till the end of next quarter and then we will endeavor to provide the
+best possible guidance that we can for FY25. And I'm sure Saurabh, you want to pick
+up question #2.
+Saurabh Goel: So ROW, Manik continues to be a drag. It is lower than what we call is Americas and
+EMEA region and it's coming because of two reasons. #1, there is significant
+investments that have gone in building the geography because you have ramped up
+the sales team in Australia. It used to be a geography which was operating with one
+or two resources and over the last one year or so, we have hired 9 to 10 people there
+and with Australia head and along with him, we have now a full sales team ramped
+up across insurance, across travel, across BFS, and focusing on newer sectors as well.
+So, it's largely coming in from the point that these are ASEAN, Australia, and Middle
+East. These are three regions wherein we are investing and these are identified as
+growth levers. So, that is why you're looking at lower margins there. So, initial
+investment phase and the margins will not be as good as the Americas or Europe, but
+you will see margins uptick happening over the next six months or so.
+Manik Taneja: Thank you and all the best in the future.
+Sudhir Singh: Thank you, Manik.
+Moderator: Thank you. The next question is from Sudheer from Kotak Mutual Fund.
+Sudheer: Hi, Sudhir. Congrats on yet another good quarter. On the budget comments that you
+said, you were saying budgets in CY24 may be flattish versus CY23, but in CY23, the
+complete amount budgeted at the beginning of the year would not have been actually
+spent throughout the year by many clients given some of the macro shocks like SVB
+or Credit Suisse happened three to four months into the year. So, even if the amounts
+budgeted at the beginning of the year look optically flattish on a year-on-year basis,
+is there a possibility that the actual amount spent may see an increase?
+Sudhir Singh: Yeah, I hope it does. And of course, our intent, despite whichever way the budgets
+fall, is not to be flattish when it comes to driving growth from the banking sector.
+You're right, the scenario that you talked about might play out, but there's a might
+attached to it, Sudheer. If it does, it'll be great. Even if it doesn't, we'll have to figure
+out a way of driving growth even in a flattish demand scenario.
+Sudheer: Okay, Sudhir. All the best. Thank you.
+Sudhir Singh: Thanks very much.
+Moderator: Thank you. The next question is from Jalaj from Swan in Investment.
+Page 14 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+Jalaj: Am I audible?
+Sudhir Singh: Yes, you are.
+Jalaj: Thanks for the opportunity. Saurabh, so I have two quick questions with regards to
+the numbers. So, I see that there is a drop in people cost to an account of almost 70
+crores. Could you please break down between ESOP cost and the otherwise what is
+the other component?
+Saurabh Goel: Yeah, so ESOP cost has gone down by roughly $4½ million, which would be, Rs 35-
+40 crores, maybe almost 50% of that.
+Jalaj: And the balance would be?
+Saurabh Goel: Balance would be obviously we are looking at ARC correction. So, there are levers
+wherein we are controlling bench, we are controlling average resource cost (ARC) of
+the people. There was an initiative that we started in the beginning of the year wherein
+we were looking at controlling the average resource cost because it has gone up very
+significantly over the last two years or so post first phase of COVID and the balance
+reduction is the function of that.
+Jalaj: Great. In the notes to accounts, it mentions that there is almost Rs 13.7 crores of
+reversal from an Indian client which has come, so where does that amount sitting?
+Saurabh Goel: Yeah, so it is not a reversal. It was an exposure to the firm was sitting at and the
+amount was not provided in the books of account because there was a dispute with
+one of the clients and the dispute is resolved. So, there is no more exposure. So, it's
+not an upside, it's not a downside. There was an exposure to the firm was sitting at,
+it's gone now. The settlement is done.
+Jalaj: Yeah, so no impact on the P&L?
+Saurabh Goel: No impact on the P&L in the current quarter.
+Jalaj: Thanks a lot and best of luck.
+Sudhir Singh: Sure.
+Moderator: Thank you. The next question is from Rahul Jain from Dolat Capital.
+Rahul Jain: Hello.
+Sudhir Singh: Hi, Rahul.
+Rahul Jain: Yeah, hi. Just two questions. Firstly, on the travel, of course you gave some insight
+to us, but would appreciate if you could help us reconcile that why this spends would
+have taken hit? Is it because there were a lot of one time spend they did in the past
+there was not getting in this year or this is higher market competitiveness or any other
+factor that you could highlight?
+Sudhir Singh: I'm sorry, I don't think I got the question clearly, Rahul. Would you mind repeating it
+please?
+Rahul Jain: Yeah. So, I'm saying that, in the travel vertical that we have seen relatively weaker
+performance or flattish performance, is it because there were a lot of spend that
+happened in the previous calendar, which were like one off / one time in nature and
+that's why we could see this? Or this is simply a function of higher competitiveness
+that we observed in the previous calendar, otherwise this has been our strength area,
+so what explains that?
+Sudhir Singh: Yeah. I mean, clearly, competition continues to be high across the space and also
+equally clearly, you're absolutely right when you say that last year there was a
+significant rebound in spends and there's been some normalization since. But having
+said that we didn't expect to be only at 3% YTD growth at the end of quarter 3 when
+BFS is growing 15½% YTD organic, and insurance is growing 11½% YTD organic.
+Page 15 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+A lot of it has to do with the two of our largest clients in North America. One of
+whom has had significant budget cuts and the other one also is currently going through
+a potential merger. So tech spends are under pressure. That's the fundamental reason.
+Rahul Jain: Right. Secondly, since we are at the end of the quarter three, would it make better
+sense to narrow down on the top end of the band for our guidance given the visibility
+that we may have for the Q3?
+Sudhir Singh: Yeah. We are very clear it's 13% to 16%, but we clearly aren't coming in at 16%. We
+are equally explicit about the fact that we will come towards the lower end of the
+margin band. So, it's going to be somewhere around 13% or 13% plus. We are clear
+that it's the lower end of the revenue guidance band that we gave at the beginning.
+Rahul Jain: Sure. That's helpful. Thanks a lot, and best of luck for the future.
+Sudhir Singh: Thank you, Rahul.
+Moderator: The next question is from Ashwin Mehta from Ambit Capital.
+Ashwin Mehta: Yeah. Can you hear me?
+Sudhir Singh: Clearly.
+Ashwin Mehta: Thanks for the opportunity. Just one question, Saurabh, in terms of other expenses,
+there was a Rs. 69 crore increase this quarter and this was more than a revenue
+increase. So, I just wanted to get a sense in terms of the nature of this increase, it more
+any bought out items or pass through elements which are driving this?
+Saurabh Goel: So, Ashwin, what we are doing is in the current quarter, so we are, we actually won
+contract wherein we are actually building up the treasury module for the clients for a
+bank in India. So, that's the reason. So, there is a subcon part included into it. There
+is an implementation cost which is going into the other expenses. There is infra
+buildup needed for the treasury module that is being implemented for a bank within
+the India and the ASEAN region. So, that's why you saw even after the furloughs the
+banking revenue for the current quarter was higher. There was a growth in the current
+quarter. So, it is to do with couple of contracts that we have got within the banking
+space in the APAC region, ASEAN and India region.
+Ashwin Mehta: Thanks Saurabh, that explains. All the best for the future.
+Moderator: The next question is from Ashish Das from Mirae Capital.
+Ashish Das: Hi, good evening. Thanks for the opportunity. So, my question is when your top
+accounts, so last two consecutive work quarters, I see that your top five, top 10
+accounts declined sequentially and now though you explained that furloughs follows
+is one of the reason and also you mentioned that BFS is doing well, your TTH vertical
+has bottomed out. So, can we expect that these top accounts will start growing in
+coming quarters?
+Saurabh Goel: Ashish, just to correct you, quarter to our top accounts did grow. It's only quarter
+three that you've seen a very marginal decline. Please don't conflate revenue
+contribution from top accounts with actual growth, correct. The revenue contribution
+can come down, but in a growing firm that doesn't mean the accounts have degrown.
+Only in this quarter, there's been a marginal, very marginal I think for the top 10
+accounts -1.2% degrowth and that is largely because the majority of our top 10
+accounts are from financial services and the furloughs have been very extreme. It will
+100% come back in the next quarter, which is quarter 4.
+Ashish Das: Well, thank you.
+Sudhir Singh: John, do you want to add anything you that. You might have some more perspectives
+there?
+John Speight: I mean the only other comment I would make on that was the, you've mentioned on a
+Page 16 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+number of other prior questions that we have within the TTH industry a number of US
+based customers that have struggled a bit which have had a slightly negative effect,
+but that's it. And I agree what you said.
+Sudhir Singh: Sure.
+Ashish Das: Okay. Just last question on the gross margin check. In the Investor Day you
+mentioned that there is a possibility that if I'm not wrong so gross margin would
+improve 100 bips in FY25. So, that guidance, that aspiration continues?
+Sudhir Singh: Are you talking about FY25?
+Ashish Das: Right.
+Sudhir Singh: Yes, and I said this earlier also revenue, we will wait for another quarter to give a
+guidance. Margin, we are very comfortable giving a guidance. There will be a
+significant increase in FY25 over FY24. John, any views on that?
+John Speight: No, no other comments on that one.
+Sudhir Singh: Saurabh anything from you?
+Saurabh Goel: Sudhir, I think we had mentioned that we will grow, we will improve margins in the
+current - gross margins in the current year and also expand margins next year, so not
+just at a gross level, but EBITDA level and EBIT level, we will look at coming back
+with a formal guidance, but yes, the expectation is that gross margin will improve and
+it will flow down to the bottom line, because the SG&A is now peaked out at 15%,
+we don't plan to expand SG&A beyond 15% levels. So, it will grow in line of the
+revenue growth now going forward.
+Ashish Das: Thank you.
+Sudhir Singh: Thank you.
+Moderator: Thank you. The next question is from Chirag from Ashika Group.
+Chirag: Hello.
+Sudhir Singh: Hi, Chirag.
+Chirag: Yeah. So, Sudhir if we exclude the furlough then what will be the sequential growth
+if you give some rough idea like?
+Sudhir Singh: I'm sorry, are you talking about sequential growth in quarter four?
+Chirag: In quarter three, let's say furloughs were not there then what would be the numbers
+look like?
+Sudhir Singh: I can't give you a hard number around what the revenue growth would have been. But
+I can tell you that our margin clearly would have been about 40-50 bps higher in Q3
+if the furloughs had not happened.
+Chirag: Okay. And for fourth quarter, what we are expecting, is it similar or we might see
+some recovery in terms of revenue?
+Sudhir Singh: No, revenue is still pretty robust. So, I don't think we're talking recovery after a
+decline.
+Chirag: No, I'm asking like a normal trajectory on sequential basis. will be there or will be the
+repetition of 3Q?
+Sudhir Singh: Chirag, we don't offer quarterly revenue guidance normally, but overall, when the year
+is over, as we've said, we will come within that 13% to 16% band. Towards the lower
+end of that band.
+Chirag: Okay. Thanks.
+Page 17 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+Sudhir Singh: Thank you, Chirag.
+Moderator: Thank you. We have a follow up question from Manik Taneja from Emkay.
+Manik Taneja: Thank you again once again for the opportunity. So, Sudhir, just tracking question,
+when you mentioned that we should be coming in closer to the lower end of included
+range, that implies almost only about a 1.2% sequential growth, which is going to be
+lower than what we achieved in Q3 and in the backdrop of what you are suggesting in
+terms of furloughs going away, some improvement etc. etc., what is dragging the
+implied or what is dragging the Q4 performance for us?
+Sudhir Singh: Right. I haven't said we'll come in exactly at 13%, Manik, but we clearly aren't coming
+to 16%, right? It is a very broad range that we started the year with, 13% to 16%. We
+will be towards the lower end of that range. The intent will be to do the best possible
+of course. We think 1.2% is eminently possible, which is why we started out the call
+by saying that we are possibly the only firm that gave a revenue guidance which was
+clear at the beginning of the year and that we have met that guidance. Having said
+that, within the 13% to 16% band, we will be at the lower end. Exactly where we will
+be is not something that we can call out very explicitly, but clearly the intent is not to
+just touch 13%. We might be slightly higher. Difficult to quantify that slightly at this
+stage.
+Manik Taneja: Sure. Thank you for that help me.
+Sudhir Singh: Thank you, Manik.
+Moderator: Thank you. We have one more follow-up question from Girish Pai from Nirmal Bang.
+Hi Girish, requesting you to unmute please.
+Girish Pai: Okay. Thank you. So, I just a question on color on the spending slowdown that we've
+seen industry. How much do you attribute this to macro worsening versus the
+normalization of heightened spending that we've seen during the pandemic and what
+does this have in terms of implication for a pent-up demand driven pickup in growth
+say in FY26?
+Sudhir Singh: John, do you want to take a stab at that?
+John Speight: I actually do believe that both levers had an impact. Certainly, the macro situation
+has had a significant headwinds and yes, there has been a shift away following the
+spending during the COVID and post pandemic period. So, to my mind, firms
+especially BFS, TTH that they're all watching a bit and that is being a bit conservative,
+but the areas as I said we're focused on are areas in which many of our customers have
+to invest and then the overlaying all of that is the AI space which is generating
+significant traction for us. In one area and I'll give one good example, a lot of our
+customers are actually looking at AI and what they're now realizing is for them to
+leverage the benefits of that. They're having to relook at their entire engineering
+platforms, their data layers because those have to be in place and that's where we're
+seeing quite a lot of traction and growth. Hopefully, that answers your question.
+Girish Pai: I was just asking what is the - suppose it's like 100%, how much of that is contributed
+by the heightened spending that we saw during the pandemic versus the macro
+concerns that you kind of seen, broadly?
+John Speight: Sorry, Sudhir?
+Sudhir Singh: No, it wasn't me, John. Go ahead. If you want me, I can step in.
+John Speight: No, I would say now significant impact is more on the macro situation.
+Sudhir Singh: And I would second what John is saying. We have passed the stage where we can
+point to normalization as a reason for it. There is still a lot of tentativeness around
+spend. Macros from a growth etc. perspective clearly are not stressed. But there's just
+a lot of ambiguity that clients are dealing with in terms of what they believe might be
+Page 18 of 19
+Q3 FY’24 earnings call
+January 22, 2024
+future scenarios. That's what we would point.
+Girish Pai: Thank you. Thank you.
+Sudhir Singh: Thank you, Girish.
+Moderator: Thank you. I now hand over the call to Mr. Sudhir Singh, CEO, Coforge.
+Sudhir Singh: Thank you very much folks. I have always said this, and we've always meant it
+sincerely, that we learn a lot from our interactions with you, from your questions, from
+your comments, from the follow-ups that you do. Thank you very much for making
+time for us. Thank you very much for following us and we look forward to seeing
+you once again three months from now. Happy New Year and I hope it's full of health,
+it's full of meaning and it's full of success for all of you. Thank you. Bye, bye.
+Goodnight.
+____________________________________________________________________________________
+Note: - This transcript has been edited for readability purpose.
+Forward Looking Statements Safe Harbor
+This presentation contains forward-looking statements. In some cases, you can identify these forward-looking statements by the use of words such as
+“outlook,” “believes,” “expects,” “potential,” “continues,” “may,” “will,” “should,” “could,” “seeks,” “predicts,” “intends,” “trends,” “plans,”
+“estimates,” “anticipates” or the negative version of these words or other comparable words. Among other things, the outlook for the full fiscal year
+2022, the business outlook and quotations from management in this announcement, as well as Coforge’s strategic and operational plans, contain
+forward-looking statements. Coforge may also make written or oral forward-looking statements in its periodic reports to regulators, in its annual report
+to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties.
+Statements that are not historical facts, including statements about Coforge’s beliefs and expectations, are forward-looking statements. Forward-
+looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those contained
+in any forward-looking statement, including but not limited to the following: the performance of the Coforge's clients; the successful implementation
+of its business strategy; its ability to compete effectively; its ability to maintain its pricing, control costs or continue to grow its business; the effects
+of the novel coronavirus (COVID-19) on its business; the continued service of certain of its key employees and management; its ability to attract and
+retain enough highly trained employees; and its involvement in any disputes, legal, regulatory, and other proceedings arising out of its business
+operations. All information provided in this presentation is as of the date of this presentation, and Coforge undertakes no obligation to update any
+forward-looking statement, except as required under applicable law.
+Disclaimer
+This communication and the information contained herein is not an offer to sell securities in the United States or elsewhere. The securities of Coforge
+or any of its subsidiaries and affiliates may not be offered or sold in the United States or to, or for the account or benefit of U.S. person (as such term
+in defined in Regulation S under the U.S. Securities Act of 1933, as amended (the “Securities Act”)) absent registration pursuant to the Securities Act,
+or an exemption from registration. Any public offering of securities to be made in the United States will be made by means of a prospectus that may
+be obtained from the issuer or selling security holder and that will contain detailed information about the issuer and management, as well as financial
+statements. A Registration Statement on Form F-1 relating to certain securities of Coforge has been filed with the U.S. Securities and Exchange
+Commission but has not yet become effective. The Form F-1 Registration Statement and all subsequent amendments may be accessed through the
+SEC’s website at www.sec.gov. Such securities not be sold nor may offers to buy be accepted prior to the time the registration statement becomes
+effective under the Securities Act. Nothing in this communication shall constitute an offer to sell or the solicitation of an offer to buy securities in any
+jurisdiction in which such offer or sale would be unlawful.
+Page 19 of 19

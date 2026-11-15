@@ -1,0 +1,688 @@
+“Coforge Limited
+Q1 FY '24 Earnings Conference Call”
+July 20, 2023
+MANAGEMENT: MR. SUDHIR SINGH – CHIEF EXECUTIVE OFFICER –
+COFORGE LIMITED
+MR. JOHN SPEIGHT – CHIEF CUSTOMER SUCCESS
+OFFICER – COFORGE LIMITED
+MR. SAURABH GOEL – DEPUTY CHIEF FINANCIAL
+OFFICER – COFORGE LIMITED
+MR. VIKAS JADHAV – VICE PRESIDENT, INVESTOR
+RELATIONS – COFORGE LIMITED
+Page 1 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Moderator: Ladies and gentlemen, good day, and welcome to the Q1 FY '24 Earnings Conference Call of
+Coforge Limited. As a reminder, all participant lines will be in the listen-only mode and there will
+be an opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing star then zero on your
+touchtone phone. Please note that this conference is being recorded. I now hand the conference over
+to Mr. Vikas Jadhav, VP Investor Relations. Thank you, and over to you, sir.
+Vikas Jadhav: Thank you, Yashashri. Good evening to all. You would have received our Q1 FY '24 results by now.
+They have been already filed in the exchanges and also on the Investors section of our website.
+I have with me today, our CEO, Mr. Sudhir Singh, our Chief Customer Success Officer, Mr. John
+Speight; and our Deputy CFO, Mr. Saurabh Goel. Mr. Ajay Kalra, our CFO, was unable to join us
+today because he's indisposed. He's thankfully well on the road to full recovery and we expect him
+to rejoin work by next week. He should join us, for the next quarterly call.
+We'll begin the call with opening remarks from the management team. And post that, we'll open the
+floor for the questions. With that, now I would like to hand over the call to our CEO, Mr. Sudhir
+Singh. Over to you, Sudhir.
+Sudhir Singh: Thank you, Vikas, and a very good afternoon. Very good morning, very good evening to all of you
+across the world folks. Thank you very much for making time to attend our quarter 1 investor call.
+I shall start off by reading from my prepared remarks and shall lead with a quick summary of our
+performance in quarter 1 before we get into section-wise details. And then, as always, we'll take
+questions. On with the prepared remarks that I shall make now.
+Exceptional execution by Team Coforge in a testing environment allowed us to deliver another
+quarter of sustained, robust and profitable growth. We have registered a CC growth of 2.7% quarter-
+on-quarter and 18.4% year-on-year in quarter 1, the quarter under review.
+This continued growth follows our performance in the last two quarters where we had recorded
+sequential CC growth of 3.7% and 4.7%, respectively. Growth in Q1 also came on the back of a 5-
+year USD300 million TCV deal and yet another 5-year USD65 million TCV deal in the BFS vertical.
+During the quarter, we increased our net headcount by 1,000 employees exactly to support future
+growth. We fully rolled out the annual salary increments for all our employees on the first of April.
+We honoured all commitments to onboard all campus and lateral hires.
+We met our commitment to distribute around 21,500 iPads to employees to mark our USD1 billion
+milestone. We paid out in full the annual bonuses of fiscal year '23, and we saw our attrition dropped
+down further to 13.3%.
+The quarter saw a record quarterly order intake of USD531 million and has set us up very well for
+meeting our annual revenue guidance of 13% to 16% CC growth and the annual adjusted EBITDA
+guidance of around 18.3% adjusted EBITDA.
+With those opening comments, from my prepared remarks, I shall now take you through the quarterly
+performance and our assessment of the business outlook.
+Page 2 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+QUARTERLY PERFORMANCE – REVENUE ANALYSIS
+Start with revenue analysis. I'm pleased to report during the first quarter, Q1 FY '24, the firm
+registered a sequential revenue growth of 2.7% in constant currency terms, 2.8% in U.S. dollar terms
+and 2.4% in Indian rupee terms, respectively. You will recall the last 2 quarters: we've grown
+sequentially CC by 3.7% and 4.7% respectively. On a year-on-year basis, our revenues grew by
+18.4% in CC terms, 13.9% in USD terms and 21.4% in INR terms.
+During the quarter, our BFS vertical grew 3.1% quarter-on-quarter in CC terms, and it contributed
+31.1% to the revenue mix. The insurance vertical registered a second consecutive quarter of strong
+growth, and it grew 4.3% Q-on-Q in CC terms. It contributed 22.6% to the revenue mix.
+The Travel portfolio grew 1.3% Q-o-Q in CC terms and contributed 18.5% to the total revenue. The
+others vertical portfolio saw a growth of 1.8% in CC terms in Q1 and contributed 27.8% of the total
+revenue mix.
+Within the regions, Americas grew by 5.6% sequentially in CC terms, the EMEA region remained
+flat, and the Rest of the World grew by 1% sequentially in CC terms.
+We saw strong growth across our top customers during the quarter. During the quarter under review,
+our top 5 and top 10 customers grew 12.2% and 9% sequentially, respectively. The top 5 clients
+contributed 25.1% to revenues, while the top 10 contributed 37.7% to the revenues. Our resilient
+performance under an uncertain macro has been underwritten by our continued ability to expand our
+footprint within our key accounts.
+During Q1 FY '24, the offshore revenues saw a further pickup and stood at 51% of the total revenues.
+Once again, as noted earlier, the shift towards higher offshore revenues over the last 2 years has been
+an important structural margin support for the firm.
+With that, I shall now move on to the margins and operating profits discussion.
+QUARTERLY PERFORMANCE – MARGINS AND OPERATING PROFITS
+During the quarter, we delivered an adjusted EBITDA of USD43.4 million and INR3,544 million in
+INR terms. This reflects an adjusted EBITDA margin of 16% for the quarter. Our gross margin in
+the quarter has gone up by 30 bps year-on-year, and our SG&A has increased by 80 bps year-on-
+year reflecting in a 50 bps decrease in adjusted EBITDA Y-o-Y.
+The margin decline quarter-on-quarter in Q1 is in line with our usual quarterly margin progression
+through the year where we see a decline every year in Q1 over Q4 (of the previous year), and we see
+a strong subsequent ramp up thereafter. Based on our performance in Q1 on adjusted EBITDA
+margins, we remain confident of delivering on our annual margin guidance of around 18.3% adjusted
+EBITDA for fiscal year '24.
+The decrease quarter-on-quarter in adjusted EBITDA in this quarter, Q1 was on account of 4 key
+factors. They are, and I'll walk you through those. Global salary hikes, which were effective from
+day one of quarter one. It has to be noted that we have taken a conscious call not to defer annual
+Page 3 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+salary hikes. It is pertinent also to note that Coforge has dispersed the annual variable pay for all its
+eligible employees in quarter 1 with absolutely no cuts.
+Second, the firm's net headcount has increased by 4.3% during the quarter and it went up by exactly
+1,000 employees. This has been done to support our efforts to deliver an annual CC growth of 13%
+to 16% for the year, which is our current revenue guidance and which we feel confident about.
+Third factor with a year-on-year reduction in the margins -- for the margins was on account of hedge
+gain and losses, which we take in revenue. Adjusting for hedge gains in quarter 1 fiscal year '23
+versus the losses in quarter 1 fiscal year '24, the impact of hedge loss in the quarter would be around
+60 bps.
+And finally, fourth, we book all our annual visa costs in Q1, and we have done so in this year as
+well. Lastly, our Q1 consolidated PAT adjusted for the USD1 billion milestone celebration costs
+stood at INR1,818 million, which reflected a year-on-year increase of 21.4% in INR terms.
+I shall now move on to the order intake commentary.
+ORDER INTAKE
+I'm very pleased to report an all-time high order intake of USD531 million during the quarter under
+review. This was a tough quarter. And yet, this was a record order intake. This is the sixth consecutive
+quarter where the firm has reported an order intake of more than USD300 million. An unimpaired
+large deal signing velocity based on an exceptional focus on execution, has allowed Coforge to
+deliver continued growth even in a tough demand constrained quarter like Q1.
+In terms of geographic regions, Americas contributed USD155 million, EMEA USD346 million and
+the Rest of the World, USD30 million to the order intake. As mentioned earlier in my commentary,
+we signed a large deal of USD300 million TCV with an existing BFS customer. With this signing,
+we have locked the business over the next 5 years period with a minimum commitment of USD60
+million per annum.
+Furthermore, another USD65 million TCV deal with more than 50% of it representing new business
+was signed with an existing customer, again in the BFS space. The first win that I talked about was
+a consolidation opportunity that we led discussions around and the second was a proactive cost
+takeout deal where we have taken over the wallet from an existing vendor. We believe that signing
+these 2 large BFS deals in a challenging environment like Q1 reflects the strength of our capability
+stack and the execution intensity that marks our concern.
+Our executable order book, which reflects the total value of locked orders over the next 12 months
+stands at USD897 million, almost USD900 million, and it is up 20.4% year-on-year.
+PEOPLE
+On the people front, at the end of the first quarter, our headcount stands at 24,224 and we've seen a
+net addition of 1,000 people, as I said earlier. Utilization, including trainees, during the quarter stood
+at 81% compared to 81.5% in quarter four fiscal year '23. Last 12-month attrition during the quarter
+stood at 13.3%.
+Page 4 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Employee attrition at Coforge and I've said this many times, continues to remain amongst the lowest
+across the Indian IT services industry. I should now request John Speight, Customer Success Officer
+at Coforge to walk us through capability and delivery insights. Over to you, John.
+DELIVERY OPERATIONS & CAPABILITY BUILD
+John Speight: Thank you, Sudhir. Today, I'll be focusing just on our AI capabilities. Over the last 4 years, we've
+invested significantly in building out our capabilities in areas such as natural language processing,
+NLP, machine learning and deep learning. During this time, we've developed and deployed in excess
+of 100 solutions to more than 45 solutions in areas such as investment recommendations, fictitious
+travel bookings, and underwriting decisioning.
+To make this real, I will talk you through one of our AI implementations.
+For a leading airline, we implemented graph AI and machine learning to enable a leading airline to
+capture analytics, highlights inefficiencies and proposed changes that could reduce the gate
+turnaround times for their airplanes.
+We believe the effective application today of generative AI using large language models known as
+LLMs, such as ChatGPT, can drive exponential value for our customers. As such, we are accelerating
+our AI strategy to position Coforge as an AI-first organization. We are embedding AI into all of our
+service offerings, including EPO, software engineering, product engineering and quality
+engineering.
+Our AI strategy consists of 6 levers.
+One, we are leveraging our partnerships with leading U.S. universities working together on AI
+research and training.
+Two, we are co-innovating, developing and monetizing solutions with our customers.
+A good example was Quasar e-BOL, where we've actually used AI to automate the end-to-end
+processes for tracking data latency, and we're going to market this.
+Three, we are creating accelerators that allow us to build, train and implement AI solutions at speed.
+Four, we are focusing on relationships with the hyperscalers and the low code no code devices such
+as Salesforce, Pega, ServiceNow, we've identified as infusing AI into their platforms. For example,
+today, we are the first partner to have solutions available on the Azure marketplace.
+Five, we are ramping up our training and certification programs. We have a core team today of
+around 1,000 trained AI specialists across the hyperscalers in the part of that business. We plan to
+train in excess of 1,000 more over the next few quarters.
+Sixth, we are investing in our AI innovation labs to build out more industry-specific use cases.
+I'll quickly highlight our recent implementation using generative AI.
+Page 5 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+For U.S. health care provider, we have actually integrated GPT large language model for triaging
+incoming patient requests then summarize and storing the findings within their electronic health
+records or EHRs, as I know.
+Lastly, we've recently developed a solution using smart glass for insurance clients. It helps property
+inspectors in the field capture videos and convert to documents, then provide risk scoring related to
+policy issuance and claims adjudication.
+I would now like to hand over to Saurabh for further details on the financials.
+BALANCE SHEET
+Saurabh Goel: Thank you, John. Let me now talk about the balance sheet. So, cash in bank balances at the end of
+quarter 1 stood at USD45 million as compared to USD73 million previous quarter. And this reduction
+in cash actually was on account of additional stake that we took over in Coforge BPS, which was
+20% and for which USD41 million was paid out. The borrowings in the quarter stood at USD110
+million as compared to USD41 million in the previous quarter.
+Capex during the quarter stood at USD8 million, bill debtors at 61 days as compared to 72 days same
+quarter last year. Unbilled was same at 14 days as in Q1 of last year and in the last quarter, it was 12
+days. OCF stood at negative at USD20 million, which actually reflects the total bonus payout that
+we have done in Q1, and the payout related to the USD1 billion celebration. And this is pretty much
+in line with what we see every year in Q1. For the full year perspective, we expect the OCF to be
+70% of EBITDA.
+With this, I would now like to hand it over to Sudhir for the comments on outlook.
+Sudhir Singh: Thanks a lot, Saurabh. Summing up an outlook. We came into Q1, ladies and gentlemen, you know
+this, on the back of two very strong quarter growth with the previous two quarters having seen the
+firm registered a CC growth of 3.7% and quarter four was actually 4.7%. Q1, the quarter under
+review, was a challenging quarter for the industry but record intake, strong deal conversion,
+continued strong growth in key accounts, an exceptionally committed global team that we continue
+to invest in, and you've heard about what we've done. And upfront investments that we made with
+the addition of 1,000 more employees to service future growth, has set us up well for the remainder
+of the current year.
+To conclude, we reiterate our annual revenue growth guidance of 13% to 16% in constant currency
+terms fiscal year '24. We reiterate our conviction that our gross margin will improve by 50 bps over
+FY '23 in FY '24, and we do reiterate that we remain committed to delivering an adjusted EBITDA
+of around 18.3% in FY '24 basis the performance that we've already clocked as a firm in FY '23.
+With that, I conclude my prepared remarks that I just read out, and I look forward to hearing your
+comments and to addressing your questions. Thank you very much for listening in.
+Moderator: We have a first question from the line of Dipesh Mehta from Emkay Global. Please go ahead.
+Page 6 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Dipesh Mehta: So just want to get a sense about the USD300 million deal, which you suggested. If you can provide
+some more detail about the kind of work and whether any new component into it because you
+indicated about consolidation deal.
+A related question is if I look next 12 months order intake, it is showing relatively moderate growth
+despite USD60 million ACV kind of addition. So, if you can provide some detail on that.
+Second question is about the overall demand environment. compared to last quarter when we entered
+into Q1 and now compared with it when we are entering into Q2. Any change in demand
+environment, either positive or negative or whichever, if you can provide some colour?
+And last question is about the vertical wise, if you can provide some strength about underlying
+demand momentum. I understand because of very strong deal intake in BFS. Obviously, near-term
+growth may be strong, but if you can provide some sense about underlying demand drivers.
+Sudhir Singh: Thanks, Dipesh. Just noted down the questions you came out with. I understand you have four
+questions. The first one, specifically, the question that you had was around the USD300 million deal.
+Obviously, a very welcome deal from our perspective, as you can imagine, this came from a client
+relationship, which started less than three years back, hence, the importance of this deal.
+The other aspects of the deal that I do want to share with you is, that it is in the banking space. It
+ensures that USD60 million minimum from the specific client is locked in. A lot of what we've
+started with is consolidation of revenues that were already aligned with us or were about to be aligned
+to us. But we plan to use this as a bedrock around which to grow further revenues on a go-forward
+basis.
+It clearly establishes us within this client in that specific country as the preeminent partner for them.
+And hence, this is of our value to us. So USD60 million per year, over the next 5 years as we see it,
+is assured from a client relationship that started less than 3 years back. And deal also interestingly
+and finally is not one that is margin dilutive. It's been done at running margins, which again ties back
+to my assertion around a lot of confidence around delivering on the adjusted EBITDA guidance for
+the year.
+Second question that you had was around order executable. Order executable actually is very strong.
+Dipesh, if you look at our numbers at about USD897 odd million, that's almost USD900 million, our
+order executable year-on-year is 20.4% higher than the same number in the same quarter last year.
+So, we feel very good and solid about the order executable.
+Third question that you had was around the demand environment. I said this in the last quarterly call,
+and I maintained that in an investor conference that we did in Mumbai in the middle of the quarter.
+The demand environment continues to be stressed. That’s one factor cannot be denied.
+The second thing that we think is, again, as immutable as the fact that we remain confident that we
+will continue to find avenues for growth to deliver on the annual revenue guidance that we've given.
+Those are the two assertions that I will make around the question around demand environment,
+continues to be tough and yet, we will deliver on 13% to 16% CC revenue growth for the year.
+Page 7 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Fourth question that you had, I believe, was the BFS vertical-specific commentary. BFS vertical, we
+continue to see banks struggling with coming up with decisions in the short to medium term, given
+these somewhat uncertain macros and maybe macros that are resolving somewhat, but macros that
+they continue to observe very clearly and closely for the time being.
+Certain segments, Retail and Commercial outside mortgages do seem to be seeing a slight uptick.
+Asset Wealth Management continues to be resilient. But overall, the sector is still in our wait-and-
+watch mode. I trust I answered all 4 of your questions. Those are the 4 that I have noted down.
+Dipesh Mehta: Sir, just one follow-up about the next 12-month order book, I was referring to more from a quarter-
+on-quarter perspective because USD60 million yet if added. So, is there any material incremental
+component part of the ACV?
+Sudhir Singh: I mean if you look at last quarter, Dipesh, our order executable was 20% higher than the same quarter
+-- the same corresponding quarter. This year, it's 20.4% higher than the same quarter last year. Our
+guidance is only 13% to 16%. Our track record over the last 6 years has been that our order
+executable growth, very closely mirrors the actual revenue growth that we deliver in the subsequent
+12 months. So, 20.4% is the number that we feel good about.
+Moderator: We have a next question from the line of Abhishek Pathak from HSBC. Please go ahead.
+Abhishek Pathak: So, my question was BFS for Coforge has grown by almost 5% last quarter and again, 3%
+sequentially despite an industry-wide slowdown and you also have a pretty healthy deal activity here
+as well. So are the offerings for Coforge meaningfully different as compared to peers, that's number
+one. And the other bit to look at it is what's the split for discretionary versus nondiscretionary in our
+portfolio, if we may look at it that way?
+And the second question is most IT companies have talked about deferrals or discretionary cuts in
+BFS clients. But the technology spends expensed in the P&L for most large banks reporting have
+not seen any such dip. So, I mean, could you help us reconcile these two things? And what's missing?
+Sudhir Singh: Sure, Abhishek, thanks for the questions. I noted down what I believe are three questions. One is
+BFS, the continued strong growth in the driver thereof. If you look at us, Abhishek, for seven quarters
+running before for us, 5% and 3% sequential growth is actually slow growth. Because if you go back
+seven quarters before that, we were growing double digits sequentially for seven straight quarters.
+So, the 5% and 3% in relative terms, I suspect, is very solid performance. I would submit it's not
+great performance by the yardstick that we hold ourselves to. So, we have, like the rest of the industry
+slowed down, of course, we slowed down from a higher base, hence, 5% and 3% right now.
+The second question that you; had was, is there something about our client offerings in the BFS
+space that sets us apart? I suspect it's less about client offering. It's more around the strategy that
+we've built over 6 years. This isn't something that's happened over the last 2, 4 or 6 quarters.
+This firm, Coforge, materially with roughly about 24,000, 25,000 consultants across the world
+largely focuses on BFS, essentially Financial Services and Travel only. Everyone across the
+organization or at least 2/3 of our organization, 3/5 of the organization, whatever cut you take. The
+Page 8 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+graduate engineer trainee all the way to the front-end consultant, they keep moving around the
+financial services space itself.
+The client experience, the relationship depth that we have, is what allows us not just to sustain
+volumes but to actually go and start eating up wallet share at a time like this, when consolidation
+deals are in play. We are stepping out there.
+We've carved out some of them and we keep winning them. The USD65 million second deal that I
+talked about. More than half of that was new revenue for us. It was revenue that we've rested away
+from another partner that the bank has, and it's largely come because of the acute focus that we have
+on BFS across segments. It's across the full 9 yards, asset wealth management, payments,
+commercial, retail, mortgage.
+So that's number two. Number three, the question was around deferrals. And do we seek deferrals?
+The answer is yes. And as I said, that's why our growth has slowed down to 3.3%. And number four,
+I think your question, if I remember that right, was around expense cuts are not very visible in the
+financial statements of large banks and why is growth slowing down. I won’t know the answer to
+that. We aren't really slowing down too much, and I would need to hypothesize about it.
+We feel good about BFS. I said this at the beginning of the year. We said we'll grow 13% to 16%
+CC as a firm and we said that all our three core verticals, BFS, despite the slowdown, Travel with
+the tailwinds, Insurance with the resilience that it has and the differentiated offerings we have, all of
+them will broadly be also again, evenly balanced in terms of growth and deliver the same. We
+continue to maintain that.
+Moderator: We have our next question from the line of Rishi Jhunjhunwala from IIFL Institutional Equities.
+Please go ahead.
+Rishi Jhunjhunwala: Sudhir, can you give some colour in terms of the 2 large deals that you have separately talked about
+USD300 million and USD65 million, I guess, since it's 5 years, effectively, the ACV is almost
+USD73 million. So, in terms of ramp-up and contribution, say, to the next 12 months, is the entire
+USD73 million flows through? Or these are deals where there is a step-up every year in terms of
+revenue accrual?
+Sudhir Singh: All USD73 million is going to be more or less evenly spaced out, Rishi. I mean there's going to be a
+little bit of an up and down, but this isn't the kind of construct where we'll start off very slow and
+then ramp up over time. Out of the USD73 million, USD60 million, as I said again at the outset, has
+been a consolidation deal where a big element of what we've talked about was already with us.
+So, it's not going to be a step jump. The step jump will be from the remaining portion that comes in,
+but the revenue stream is going to be uniform almost right through over the next 5 years. We do
+expect on top of that USD60 million revenue stream every year over 5 years to build a lot more
+because now we end up being the primary partners.
+Rishi Jhunjhunwala: Understood. So sorry, if I missed out, but have you called out how much of that USD60 million was
+already there versus new scope?
+Page 9 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Sudhir Singh: No, we haven't, and we don't do that for large deals. But what we did call out was the USD65 million,
+more than half of it was taking over the wallet share of another partner we were competing with at
+that specific bank and a significant chunk of this USD300-odd million was revenue that was with us
+already or was about to be aligned with us already.
+Rishi Jhunjhunwala: Understood. The other thing is on the margin trajectory through the course of the year, effectively to
+maintain guidance, you need probably a 400-basis points margin expansion through the next 3
+quarters. So just trying to understand, given that some of the large deal ramp-ups that you have and
+the hiring that you have done in that backdrop, what will be the key levers which will drive such a
+meaningful expansion? I know that you typically have this kind of a trajectory on an annual basis,
+but are there any specific tailwinds that you can call out beyond the normal expansion that you, see?
+Sudhir Singh: Rishi, we are not expecting to do anything spectacular this year compared to what we've already
+done in the last 2 years. If you look at the last 2 years, quarter 1 has always been between 16% to
+16.5%. Quarter 4 has been around 19.5% to 20.5%. That's the natural ramp. It's also a function of
+how we are set up. We ensure that the full annual increment happens on the first of April.
+We ensure that the full annual visa cost is taken up in quarter 1 itself. We ensure that all our
+investments in terms of setting up a bench for future growth is taken at the beginning of the year,
+which is again something that we've done by doing a net headcount addition of 1,000 people in this
+quarter itself.
+So, hereafter, it's not going to be something that we haven't done operationally, repeatedly over the
+last 2 years. The ramp will be more or less in line with what we've talked about. 2 years back in
+quarter 1, if I remember right, our margin was 16.1%. That year, we closed the full year with an
+adjusted EBITDA of 18.7%.
+This year, in quarter 1, our adjusted EBITDA is 16%, we plan to follow the same ramp. Guidance
+we've given is only 18.3%, around 18.3%. So, the trajectory is going to be the same. The levers will
+again continue to be the same. The fact that offshore revenue is going up as strongly as it is. This is,
+I guess, the ninth or the 10th quarter of offshore revenue expansion.
+It is again going to be the fact that our pyramid will continue to get flattened. Out of the 1,000 people
+that we added this quarter, 200 are graduate engineer trainees, fresh campus hires. And I said this
+earlier, we honoured every offer that was there in the market, for campus, for lateral, because we feel
+confident about the growth.
+The same ramp, as always, nothing new. Quarter 1 margin also has been more or less in line with
+what we've done in the last 2 years. Overall margin for the year will also stay in line, Rishi.
+Rishi Jhunjhunwala: Understood. And just last question on Travel and Transportation. So basically, we have seen some
+bit of moderation in growth over the past couple of quarters. More I'm talking about from a Y-o-Y
+and even Q-on-Q this quarter was slightly soft. And we have some of the industry research firms
+have talked about contracting activity in Travel and Transportation slowing down. Given the kind of
+exposure that you have, which is more around, say, airlines, airports and all that, can you give some
+colour in terms of how the underlying demand environment in that segment is?
+Page 10 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Sudhir Singh: Sure, Rishi. When we look at Travel, airlines and airports, the demand environment continues to be
+strong. Those sectors continue to be more supply constrained. When we look at surface logistics and
+hospitality, we are seeing initial signs of softening. Clubbing all of this together, we still maintain,
+and we still believe that our Travel and Transportation, Hospitality growth will be more or less in
+line with the company's growth. This year, all 3 core verticals should be fairly evenly balanced.
+Moderator: We have a next question from the line of Saurabh Sadhwani from Sahasrar Capital.
+Saurabh Sadhwani: I just wanted to understand what are your hiring plans going forward for this fiscal? And has the cost
+reduced for the talent. So basically, we have seen attrition go down, but also has the cost reduced for
+skilled talent?
+Sudhir Singh: Sure. Saurabh, our hiring plans for the year continue to be in line with the growth that we anticipate.
+You can work out the growth numbers to land between 13% to 16%. What we need to do is lock a
+growth number of sequentially, somewhere between 2.5% to 3.5% for the remaining 3 quarters.
+Going forward, we continue to hire. We've already built up a solid bench to provision for the growth
+that we see, especially to service some of the large deals that I was talking about.
+Our hiring will continue in [inaudible] because we feel confident about the fact that the growth will
+continue as per the plan that we've shared with you. As far as cost is concerned, yes, you're right.
+Attrition has fallen, gives us more leeway in terms of how we operate. Though how we operate
+doesn't change and never will. We continue to be employee centric. We continue to make increments
+on time, pay bonuses on time, honour every commitment that we make to the market on time.
+We have initiated cost containment exercises. We finished the first tranche. We feel good about the
+plans that we made to take cost out for the rest of the year. And that's also another place where a lot
+of the confidence around replicating what we've done in terms of margin ramp through the year, last
+year and the year before last, comes from.
+Moderator: We have our next question from the line of Vibhor Singhal from Nuvama Equities.
+Vibhor Singhal: Congrats on a very solid performance once again. So, sir, a couple of questions that I have. One is,
+of course, if you look at the executive order book that we have, it is around USD897 million at this
+point of time. I know you've mentioned it before that this is basically -- I mean, we have rarely seen
+any slippages in this.
+So given the kind of uncertainty that we are facing at a macro level at this point of time, could this
+very well be assumed as the minimum amount of, let's say, the executable that we will have in the
+next coming 12 months. And there's a fair degree of certainty about none of the deals in this part
+being put on hold or being pushed out in future.
+Sudhir Singh: Yes, Vibhor, if you look at our record, not just over the past few quarters, but over the last 6 years,
+the reason why our declared order executable number growth, has a very strong correlation with
+actual revenue that we delivered in the subsequent 12 months is largely because of, A, how we
+calculate that order executable. We don't take framework contracts, generic contracts and put that
+into order executable. We only look at signed contracts when we aggregate this.
+Page 11 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+We believe that, despite what is happening in the macro, almost all of the signed contracts that we
+have, their integrity will hold. It's obviously clearly getting augmented over time. So, we feel
+confident that we will not see slippages, and we have not seen material slippages over the last 6
+months even.
+Vibhor Singhal: Got it. That's definitely a lot reassuring. My second question today was just on the Banking segment.
+I know I think maybe we start before -- I'm sorry -- I maybe I probably want to spend a little bit more
+on this. How do you -- I mean, for us, the banking continues to do well in this quarter also and has
+been quite stable. Just wanted to check what is your outlook on the overall banking industry per se,
+not just specific to our clients.
+Look, our clients are doing good for us. But overall, do you think there is still a lot of uncertainty or
+hesitancy and volatility in the banking segment, which could impede the overall banking sector
+spend. Our business clients might continue to do well for us, which is a great thing as we are seeing
+that in the results as well. But for the overall industry, do you see that continuing? Or how have you
+seen that change over the past 3 months, if I could maybe ask that.
+Sudhir Singh: Well, if I look at what we saw a quarter back, versus what we see today, I would say things haven't
+changed materially, though anecdotally basis client conversations that I've had as recent as Thursday
+last week, the CIO of a large bank, there do seem to be silver linings that seem to be appearing. I
+talked about it earlier in the call, retail and commercial outside mortgage, spend confidence, seems
+to be increasing, especially for next year.
+So, the CIO, who I had a conversation with last Thursday, seemed far more confident. I'd say far, far
+more confident than the same gentleman was 3 months back. I know it's anecdotal. I'm sorry, I can't
+give you something that's more targeted, but that's how I would characterize the demand and the
+macros as we see it.
+Vibhor Singhal: Got it. Just one last bit on that. Mortgage, you mentioned that outside of mortgage, things are looking
+still maybe at least some bit of silver lining, mortgage rates, I think last month reported, 6.97%, do
+you see more pain in the mortgage business for maybe some more time?
+Sudhir Singh: Well, our mortgage business is, A, extremely small. B, in many ways, we think it's bottomed out.
+The volumes there crashed and burned last year. So, we really can't see a worst-case scenario than
+what exists right now. Anything that happens, we suspect can only be for the good, given what's
+already happened to mortgage volumes.
+Moderator: We'll take our next question from the line of Shradha Agrawal from Asian Market Securities.
+Shradha Agrawal: So, I have two questions. One is on your insurance verticals. So, it's been two good quarters, two
+good consecutive quarters in insurance. What really is driving growth for us in this space? And are
+there any material differences between demand trends in U.S. and Europe? So, these are my 2
+questions.
+Sudhir Singh: Sure, Shradha. We are seeing strong growth, particularly in the P&C, SMB sector of our Insurance
+Services business. A lot of it is getting driven by the alliances that we have in this space, the older
+Page 12 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+ones that we have like the one with Duck Creek, also the newer ones that we formed, which are
+doing well for us, like the alliance that we have with Bond-Pro in the Surety space.
+So, P&C, SMB clearly doing well. Some of our partners are foraying aggressively outside North
+America, and we're traveling along with them in those journeys and picking up new clients and new
+revenue streams that, again, is doing well for us. Our AdvantageGo business revenues again have
+rebounded and that, again, is adding to the momentum that we see in Insurance.
+Insurance, I've said this three quarters back, and there were a lot of questions around what is the
+outlook. We had maintained that the insurance business will grow in tandem with the firm's growth
+in FY '24. And we'd also said that because of the uncertain macros, it was very important not to bank
+on any one core vertical to make sure all 3 were growing to offset any unexpected issues, which are
+likely to crop up anytime, anyhow, anywhere in 12 months. That's how I would characterize
+insurance.
+U.S. and Europe at the current point in time, for us, both seem to be doing well. I've seen a lot of
+commentary around the fact that demand in the U.S. is subdued. But if you look at this quarter
+numbers, our U.S. geo grew 5-plus percent. While Europe was flat, but Europe was flat after some
+very strong quarters, and Europe is likely to rebound again. So, for us, both continue to be happy
+hunting grounds.
+Shradha Agrawal: Right. And just one last question. I don't know if I missed it. But your balance sheet showed your
+other borrowings, the number has moved up quite a bit. So, what is it related to?
+Sudhir Singh: Saurabh, can I request you to take that?
+Saurabh Goel: Yes. So Shradha. This is related to the additional stake that we have bought in Coforge BPS. So, this
+was an acquisition which was done in 2021. We had only bought 60% stake then. So USD41 million
+has actually been paid out to buy additional stake in Coforge BPS. So largely that amount.
+And then in quarter 1, typically, our bonus payout happens. And then there are other capital
+commitments that get paid out. So, I think more around that, but a large portion gets allocated to
+Coforge BPS.
+Moderator: We have our next question from the line of Abhishek Bhandari from Nomura.
+Abhishek Bhandari: Sudhir, I just had one question. You shared a lot of details around your initiatives on AI. Thanks for
+that. But in terms of revenues, when do you see a material contribution coming from this particular
+line of business? And also in the Analyst Day, you had hinted at initially an inflationary kind of
+scenario possibly in voice based BPO, BPO in general and also sometimes somewhere in testing?
+Do you still think the opportunity is going to be on a net basis positive from a revenue perspective?
+I mean happy to hear your thoughts on when do you think we could see a real contribution from this
+AI-related business for us?
+Sudhir Singh: So, Abhishek, there's a lot of commentary around AI investments. Let me just put it this way, the
+line that I see between AI, automation, analytics is very diffused. So, specifically to call out
+Page 13 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+something and call it out as pure play AI is a little difficult. I think, it's still early stages for doing it.
+If I were to go back to my leaders and ask them what is the revenue that they're deriving from AI?
+You would be surprised that how high the number would be because everybody in the automation
+service line, everybody in the AI service line, everybody in the analytics service line would raise
+their hands and talk about, even the cloud service line, and the product engineering service line would
+talk about how they're going with an AI-first approach.
+I wouldn't get into the investment piece of it just yet. Have we delivered, GenAI or cognitive AI-
+based engagements? The answers are very clear resounding yes. Cognitive AI-based work that we've
+been doing has been going on for the last four years. GenAI, there are four projects. Small projects,
+AI-only projects that have been delivered, but everything else that you touch. When you look at
+cloud, the business that we have around Helios, that whole thing is AI-first. When I look at product
+engineering, again, there's a very strong injection of AI-based technologies, the Copilot equivalence
+that is going on.
+As far as the deflationary piece is concerned, the second question that you had, we believe overall,
+from a company perspective, AI should be a growth enabler. We feel very, very solid about growth
+on a go-forward basis. Certain aspects will obviously get impacted more. We do maintain the BPO
+industry. Even our own BPO business, we're keeping a very strong eye out for, what impact, AI
+interventions can have around processes that we handle. Testing again continues to be an area where
+we believe AI-based interventions have a way and a possible route to disrupting a lot of revenue
+streams.
+So, we're keeping an eye out for it, but if you ask me, overall, how do we feel about AI coming into
+this space? Do we see more opportunities than deflationary impact? The answer is net, we do expect
+it to be positive. But what is the investment? I think it's still very premature for us to be calling out
+numbers.
+Abhishek Bhandari: Thank you, Sudhir. Sudhir, my second question in the final question is while you've addressed, you
+are very confident of this 20% growth in 12-month executable order book translating to 13% to 16%
+growth. My question is, given all this uncertainty what is prevailing, which is beyond anybody's
+control, what kind of stress testing have you done amongst your clients?
+Do you think this 4% to 5% gap what you've kept between your growth of order book to revenue is
+enough to manage those exigencies. Things are evolving fast, and we have been seeing certain
+guidance cut by some of your larger peers. So, just want to ensure that the stress testing is strong
+enough for you to maintain that 13% to 16%?
+Sudhir Singh: Trust me the stress testing is about as strong as it can be. And our view of the world doesn't come
+top down from order executable. It goes grounds up from projects/accounts and then we start
+aggregating it. When we look at our numbers, last quarter was a 4.7% sequential growth. This quarter
+has been a 2.7% sequential growth. When I look at 13% to 16%, we really need to do very badly to
+come anywhere below 13%.
+And I don't think -- and you can see that from the net headcount addition that we've done in the deals
+that we’ve signed; we will come there. Even at about 2.5%, Saurabh, please keep me honest on this,
+Page 14 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+even at a 2.5% sequential growth for the next three quarters, only 2.5% we will still come to about
+14.5% CC growth. So, we've tested this just about every which way as you can imagine.
+And most years, the guidance that we give is more or less in line with the executable growth. This
+year, we are trying to be extremely conservative given the uncertain macros and giving a lower
+guidance, that guidance we maintain and that guidance we will deliver on.
+Abhishek Bhandari: Thank you and all the best for the whole year.
+Sudhir Singh: Thank you.
+Moderator: Thank you. We have our next question from the line of Ravi Menon from Macquarie. Please go
+ahead.
+Ravi Menon: Thank you for the opportunity and Sudhir congratulations on good numbers in your top accounts. I
+want to check, what's giving you confidence on this guidance? Is it that there is less of from I'd say,
+project-based, application maintenance sort of deals that you have where there is a possibility of
+some of those being seen as discretionary and the kind of work that you're doing, it's a lot more from
+some might say quick ROI. Is that what gives you confidence that clients will continue with these
+programs?
+Sudhir Singh: No, I mean, what gives us confidence is our track record over the last 6 years. This is not a new team.
+We came together 6 years back. Quarter-on-quarter as a firm, even through the pandemic, when 30%
+of our business was in travel, we gave a guidance and we delivered, actually over-delivered on it.
+So, our confidence stems not from the nature of the breakup of the project-based business versus any
+other cut you can apply.
+It comes from a grounds-up aggregation of the SOWs that we have signed. It comes from daily
+conversations that we have with our clients. It comes from the fact that our large deal velocity has
+continued to be unimpaired. It's actually accelerated even in a quarter like Q1. And it comes from
+the fact that, I think, more than to anyone else, we've proven to ourselves that every time there's a
+consolidation, we come out on the right side of that mix USD300 million was a classic example of
+it.
+Our confidence doesn't stem from forward-looking plans. It comes from our past record. It comes
+from the experiences that we, as a team, have gone through repeatedly over the last 6 years, it comes
+from the fact that every time we've given a guidance, we have met it and in almost every case,
+exceeded it. This time, we are being, by our standards, very conservative.
+Our executable is 20.4%. We're giving a guidance of only 13% to 16%. This year, Quarter 1, we've
+done 2.7% after doing 4.7% growth in Quarter 4. All we need to do is 2.5% to come at the midpoint
+of our guidance. So, I mean, we really can't, having stress tested our numbers, think of any scenario.
+We will not deliver on our revenue guidance. That's how I would put it.
+Ravi Menon: Thank you so much, Sudhir, very happy to hear that. Best of luck. And one more if you can just add
+that good decision to give the wage hike now. And it looks like the quantum is also normal, right? I
+mean you've not really cut back on this, saying that overall, the hiring environment is not great?
+Page 15 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Sudhir Singh: I'm sorry, Ravi, can you repeat that question once again, please? I'm sorry, I lost...
+Ravi Menon: I’m just asking about the – that it looks like the wage quantum, the wage hike seems to be a normal
+year wage hike rather than you looking at the demand in the hiring market and kind of toning it down
+a little bit compared to normal years?
+Sudhir Singh: We've toned it down, but only a little because the low attrition rate that we have helps us in just about
+-- in more ways than just financial computation, right? The fact that our employees are staying longer
+with the clients that we assign them to delivers growth for us. So, we've just dialled it down a little
+bit, not very materially.
+What we have ensured is that we haven't delayed it, which is the point that I made. And what we've
+also ensured is that we haven't paid only a part of our workforce and not the other part. So, everyone's
+got it. Not just the increments, but their full annual bonuses with no exceptions.
+Moderator: Thank you. We have our next question from the line of Abhishek Shindadkar from InCred Capital.
+Please go ahead.
+Abhishek Shindadkar: Thanks, and congrats for a good quarter. I just have one question. The new client addition number
+has moderated substantially. Now I know, we are signing large deals, but is this a function of more
+about the environment or is it a conscious effort to pursue smaller number of clients, but the large
+deals within those clients?
+Sudhir Singh: I mean, let me make sure I get this right. We've been signing and Saurabh feel free to jump in and
+come up with numbers. We've been signing -- if you look at our record, we normally sign about 8 to
+11 large clients every quarter. Over the last 4 quarters to 6 quarters, ever since John took on his role
+as the Customer Success Officer, we've talked about very consciously focusing equally on the
+farming side of the business and making sure that the clients that we sign are only high-quality clients
+with large wallets where we think we can scale up.
+So, a lot of the investments have gone into supporting that strategy. John's team is in play, driving
+growth on the lines of what I talked about earlier at large accounts and that strategy has worked for
+us. Saurabh, would you like to add to that?
+Saurabh Goel: Yes. And I think a couple of more things what you've strategically changed is that the hunting team
+has been giving us to actually go after tail accounts, which are long tail, we're sitting with farmers
+and not growing. So, what you've done is, we've asked them to actually focus on those accounts
+where you already have MSAs whether you're doing some work, some SOWs are already in place
+and you're doing some work with them, but those accounts have not grown.
+So, the whole hunting orientation has been to grow these tail accounts, flat accounts which have not
+moved. And that's why you see that, and the focus has been only to open the MHAs, which is must-
+have accounts and very specific named accounts, which are called out in the beginning of the year.
+All the incentives of the hunting team are actually linked to either grow the tail accounts, which are
+assigned to them in the beginning of the year or focus on the must-have accounts, which are again
+listed, agreed in the beginning of the year, so that you have focused hunting strategy rather than
+trying to open a number of accounts.
+Page 16 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Abhishek Shindadkar: That's helpful. So, you know, where I was coming from is that for the past 6 years, 7 years, so we've
+been running almost 14 accounts a year. Last year's Q1 number was roughly 12 accounts, new
+accounts I'm talking of. And this year, we are starting with 6. So, it is what I want to give perspective,
+but really helpful?
+Sudhir Singh: Thanks, Abhishek.
+Moderator: Thank you. We have our next question from the line of Ruchi Burde Mukhija from Elara Capital.
+Please go ahead.
+Ruchi Burde Mukhija: Thank you. My question is building on an earlier question regarding AI, thank you for the details
+that you have shared. Here, I just wanted to get your understanding in terms of the timelines, how
+would you think it will evolve? Do you expect enterprise adoption on this, whether need to start
+earlier and the deflationary pressures will take some time as the maturity of these AI applications
+need to develop before clients start to ask for some concessions from that?
+Sudhir Singh: John, since you talked about AI in your conversation, would you like to take that? And I can layer
+it.
+John Speight: Yes. Could I just have the question repeated. It was a bit garbled for me. Could you repeat, please?
+Moderator: Ms. Ruchi can you use your handset, please and repeat your question.
+Ruchi Burde Mukhija: Here I'm trying to understand in terms of timelines between the revenue incidents versus the
+deflationary pressure from the AI, how that will unfold? Will it be something like this, where revenue
+incidences start earlier with the enterprise adoption and new use cases being experimented, maybe
+for clients to ask for concessions because of the AI evolution in coding, the deflationary plays out
+was a little slight lag. Is that something to think on these line or you think both will evolve in tandem?
+John Speight: I think it will evolve both in tandem. I mean, the thing what we're seeing now with AI is that it's
+actually becoming an amazing productivity play and many of our customers and hence, why we're
+embedding it within all -- not just in the solutions, but in the ways, we work, which will drive that
+productivity -- will actually -- I mean we can deliver more, with less. And that combined with moving
+to a much more outcome orientated structure, where revenue is tied more to actually outcomes and
+deliverables. We see as a positive for us.
+Sudhir Singh: And let me add on to what John said, Ruchi. We expect over the next 3 years to 5 years, our analytics
+service line, our automation service line, our cloud service line to be driving growth for us, and they
+will be driving this growth because analytics is going with an analytics plus AI approach, automation
+is going with an automation plus AI approach. Cloud is going with an AI embedded approach.
+Net-net, we believe for Coforge this is going to be a clear positive. Now if the question is, will AI
+only as a new service line be a great revenue booster. I think, still early to say, but will AI plus our
+existing service lines of analytics, automation and cloud be a great revenue booster and therefore,
+will revenue for Coforge go up overall? The answer is a very solid, resounding yes. Did we answer
+your question, Ruchi?
+Ruchi Burde Mukhija: Yes, absolutely. Thank you very much.
+Page 17 of 18
+Q1 FY’24 earnings call
+July 20, 2023
+Sudhir Singh: Thank you.
+Moderator: Thank you.
+Vikas Jadhav: Yashashree, we can actually close the call, it is already 5 now. Maybe can hand over to Sudhir again.
+Sudhir, your closing comments, please.
+Sudhir Singh: Thanks very much, Vikas. And ladies and gentlemen, thank you very, very much for your time. Late
+evening in India, I really appreciate your time, your interest, your questions and your comments.
+They've always helped us in the past to refine our strategy and to re-pivot ourselves as required.
+Thank you once again. I look forward to speaking with all of you next quarter. Stay safe.
+Moderator: Thank you. On behalf of Coforge Limited, that concludes this conference. Thank you for joining us,
+and you may now disconnect your lines.
+Note: - This transcript has been edited for readability purpose.
+Forward Looking Statements Safe Harbor
+This presentation contains forward-looking statements. In some cases, you can identify these forward-looking statements by the use of words such
+as “outlook,” “believes,” “expects,” “potential,” “continues,” “may,” “will,” “should,” “could,” “seeks,” “predicts,” “intends,” “trends,” “plans,”
+“estimates,” “anticipates” or the negative version of these words or other comparable words. Among other things, the outlook for the full fiscal
+year 2022, the business outlook and quotations from management in this announcement, as well as Coforge’s strategic and operational plans,
+contain forward-looking statements. Coforge may also make written or oral forward-looking statements in its periodic reports to regulators, in its
+annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to
+third parties. Statements that are not historical facts, including statements about Coforge’s beliefs and expectations, are forward-looking statements.
+Forward-looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those
+contained in any forward-looking statement, including but not limited to the following: the performance of the Coforge's clients; the successful
+implementation of its business strategy; its ability to compete effectively; its ability to maintain its pricing, control costs or continue to grow its
+business; the effects of the novel coronavirus (COVID-19) on its business; the continued service of certain of its key employees and management;
+its ability to attract and retain enough highly trained employees; and its involvement in any disputes, legal, regulatory, and other proceedings arising
+out of its business operations. All information provided in this presentation is as of the date of this presentation, and Coforge undertakes no
+obligation to update any forward-looking statement, except as required under applicable law.
+Disclaimer
+This communication and the information contained herein is not an offer to sell securities in the United States or elsewhere. The securities of
+Coforge or any of its subsidiaries and affiliates may not be offered or sold in the United States or to, or for the account or benefit of U.S. person
+(as such term in defined in Regulation S under the U.S. Securities Act of 1933, as amended (the “Securities Act”)) absent registration pursuant to
+the Securities Act, or an exemption from registration. Any public offering of securities to be made in the United States will be made by means of
+a prospectus that may be obtained from the issuer or selling security holder and that will contain detailed information about the issuer and
+management, as well as financial statements. A Registration Statement on Form F-1 relating to certain securities of Coforge has been filed with
+the U.S. Securities and Exchange Commission but has not yet become effective. The Form F-1 Registration Statement and all subsequent
+amendments may be accessed through the SEC’s website at www.sec.gov. Such securities not be sold nor may offers to buy be accepted prior to
+the time the registration statement becomes effective under the Securities Act. Nothing in this communication shall constitute an offer to sell or
+the solicitation of an offer to buy securities in any jurisdiction in which such offer or sale would be unlawful.
+Page 18 of 18

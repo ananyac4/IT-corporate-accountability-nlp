@@ -1,0 +1,683 @@
+Intellect/SEC/2024-25 August 02, 2024
+1. National Stock Exchange of India Limited, Scrip Symbol :
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, INTELLECT
+Bandra Kurla Complex,Bandra (E), Mumbai – 400 051.
+2. BSE Limited, Scrip Code :
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers, 538835
+Dalal Street, Fort, Mumbai – 400 001.
+Dear Sir/Madam,
+Sub: Regulation 30 and 46 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations 2015 – Disclosure of Transcript of the Earnings call
+In accordance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find attached herewith the transcript of the Investor Earnings Call
+held on July 26, 2024 on the unaudited financial results for the quarter ended June 30, 2024.
+The Transcript of the earning call is also available on the website of the Company.
+Kindly take the above information on record.
+Yours truly,
+for Intellect Design Arena Limited
+V V Naresh
+Company Secretary and Compliance Officer
+Encl: As above
+Q1ResultsFY2024-25
+Intellect's Q1 FY25 Financial Results
+Investor Earnings Call Transcript
+PraveenMalik:
+Greetingsandwelcomeeveryone!
+Thank you for joining us today to discuss Intellect Design Arena Limited’s financial results for the
+first quarter of the fiscal year 2024-25 ending 30th June 2024. The investor presentation and press
+release have been sent to you and are available on our website.Ourleadershipteamispresenton
+thiscalltodiscusstheresults.Wehaveitwithustoday,
+MrArunJain,ChairmanandManagingDirector
+MrManishMakan,CEOofiGTB
+MrRajeshSaxena,CEOofiGCB
+MrBaneshPrabhu,CEOofIntellectAI
+Ms.VasudhaSubramaniam,CFO
+Someotherseniormembersoftheintellectmanagementteamwerealsopresentonthecall.
+Now I hand over to Vasudha to take you through the financials and later Mr Arun Jain willgivehis
+comments on the same. ThiswillbefollowedbyaQ&Asession.Yourquestionswillberepliedtoby
+the senior members of our management team. Once the Q&A starts, you can ask a question by
+clickingonraisehandandwewillunmuteyousothateveryonecanlistentoyou.
+One safe harbour, I would like to remind you that anything we say, which refers to our outlookfor
+the future is a forward-looking statement. This must be read in conjunction with the risks the
+companyfaces.
+Withthis,IrequestVasudhatogiveherabriefing.
+OvertoyouVasudha.
+VasudhaSubramaniam:
+Thank you, Praveen. Good evening everyone. I'm happy to review the financial highlights of Q1
+2025 with you. Our total revenue for the quarter was Rs.605 Crs with licence revenue recorded at
+Rs.125 Crs and AMC at Rs.121 Crs. We had a gross margin of 57%. Our EBITDA was Rs.121 Crs at
+20%ofourrevenue.PATwasRs.74.CrsandPBTwasRs.98Crs.
+During the quarter, we have collected Rs.556 Crs and ourcashpositionattheendofJuneendedat
+Rs.813 Crs. And during the quarter, we had won 11 deals and have gone live on 12 digital
+transformation projects. Our DSO as of 30th June is 126 days and excluding GeM, itisactually101
+Q1ResultsFY2024-25
+days. Moving on totheLTMmetriconacomparativebasis,ourtotalrevenueforthelast12months
+was Rs.2318 Crs with licence revenue at Rs.458 Crs and AMC at Rs.463 Crs. our EBITDA crossed
+Rs.500 Crs which is 22% of revenue, our collections during the period crossed Rs.2300 Crsandour
+PBT for the periodwasRs.418Crs.Soduringthisperiod,wehadwon52dealsandwehadgonelive
+on56digitaltransformationprojects.
+ArunJain:
+MentionedthatwehaveexcludedGemfromthis.
+VasudhaSubramaniam:
+Yes. So when I say comparable basis we have excluded GEM in this. Now talking about the
+composition of the currenciesandtherevenue,USDisat37%followedbyINRwhichisrepresented
+at26%,CAD-8%,GBPis14%,Euro6%andothersconstitute9%.
+Now togivemorecolouraboutthenewDealWinsforthequarter,wehad3newdealwinsinNorth
+America, one with Vancity, Canada’s largest Community Credit union. The second is with an
+insurance company and the third is again with a wholesale insurance brokerage Company. So we
+will hear more about it from the CEOs. There were three new deal wins in India and Bangladesh,
+one with an Indian public sector insurance company. Second is the major one, which is a leading
+financial institution and a global investment management firm that jointly created a strategic
+alliance for wealth and the third is the Stock Exchange in Bangladesh. In ANZ we had a couple of
+new deals and in the Middle EastinJordan,wehadonedeal.Talkingabouttheaccolades,wewere
+rankednumberonebyIBSinretailcorebanking,transactionbankingandretaillending.
+This is again another accolade and the analysts have reviewed us – Datos and Celent and others.
+Talking about the pipeline, we have crossed Rs.8500 Crs during the quarter, which is in fact more
+than 100 million for the quarter, I would say. And we have on the destiny deals wehaveabout86
+destiny deals withanaveragesizeofaboutRs.52Crsandthedestinydealsareincreasingfrom73in
+Q1 to 84 last quarter to 86 in this quarter. Out of the 86 new deals, 23 deals haveavalueofmore
+than Rs.50 Crs, 28 are in the range of Rs.30 to Rs.50 Crs and 35 are in the range of Rs.20 to Rs.30
+Crs.LetmehanditovertoAruntotalkaboutPurpleFabric.
+ArunJain:
+Welcome to all of you. So,IwilltalkaboutPurpleFabriclater.Letmejustcommentonthebusiness
+results first. So I think we finished our quarter on Rs.600 Crs plusrevenue,afifthquarterwhenwe
+cross Rs.600 Crs as revenue and I think our journey all the time in last few years, are Rs.100 Crs
+eachtime,Rs.500CrsRs.600Crs.
+Now the journey we are waiting forisRs.700Crs.SothisperiodofRs.600CrshasresultsafterGeM
+going away in the Q3 FY24, but still we can sustain the water above the Rs.600 Crs number. Our
+Q1ResultsFY2024-25
+focus is to gettoRs.700Crs.Sowearepreparingtheorganisationfor700Crsperquarterandthat's
+fortheentireeMACH.aiandPurpleFabricwhichIwasshowingtheslidewilldrivetowardsthat.
+In the journey of Rs.600 Crs to Rs.700 Crs. I would say the winteringperiodforushasgoneslightly
+longer. This quarterwecouldhavemovedawayfromthewinteringseason,Butbecauseonedealof
+30 Crs plus has been postponed in the last week of June. This dealwasalmoston.Itissigned-the
+MSA but has notbeenexecutedbecausethebank’sfinancialbudgetlimitsareoverandtheywillbe
+signing this deal in the next financial year starting January, which is our Q4 quarter. With that, we
+couldhavemanagedalltheexpectationsoftheinvestorfromaquarter-to-quarterperspective.
+But overall, ourtractionisextremelyhighrightnow.Asofnow,ourcostsarealsoaroundRs.480Crs
+range and that is the range which will be maintained in the next fewquarters,sothenewrevenue
+that is getting generated 80% of it will translate into the margin of the organisation. So that's an
+important point which you mentioned all the time that how margin improvement will be
+happening. On aspecificbasistodaythisquartermaybe.Itwillnotshowtherightnumberbecause
+of the single deal of Rs.30 Crs which could have come to the margin itself. If you add that the
+margincouldhavebeenbetter.
+During this quarter, we wonverysignificantdeals.SosometimesyoumaynotknowtheIntensityof
+this deal wins, when we win in Canada or when we, win in the US or when we win in Australia. I
+would like to invite Rajesh to say - when we say Vancity deal, we published a press release, but
+what does it meantocomeintotheentryintotheCanadianmarket,aCreditUnionmarketwhichis
+run by an over 30 to 40-year-old system to enter a new player in a market. So what went behind
+winningthisdeal?WhatisthefuturisticviewofwinningsuchdealsinCanadaVancityitself,Rajesh?
+RajeshSaxena:
+Thank you, Arun. I hope you can hearme.SoletmejusttalkalittlebitaboutVancity.Vancityisthe
+largest community Credit Union, based out of Vancouver, which isthewesternzoneofCanadaand
+it is the largest credit union in Canada, and this is a deal that, wehavebeenfollowingthroughfor
+the last 18 months. And this deal is very significant because first of all, the deal is about a Digital
+Engagement Platform for retail, SME and subsequently also for the Commercial Bank. So it's a
+complete digital experience, a transforming experience deal. This is a deal which will bewherewe
+will be doing the full managed services on Azure cloud. So that's thecontoursofthedeal.Butwhy
+this deal is significant because, in the credit union space in Canada, there are a couple of vendors
+who are the providers of this digital engagement platform or lending platform and core banking
+platform. Winning this deal from one of those existing providers who had some time back tied up
+with the Backbase and that implementation failed for them, is a very significant milestone for us.
+Vancity is aleaderinthisspaceandthereforethereisalotofbuzzinthecreditunionspacethatwe
+have a couple of leads which have come up after our announcement of Vancity. We have now
+started going into the implementation part of this. So this along with the footprint that we have
+from a GTB perspective in Canada makes us a full scale – starting from credit union space all the
+Q1ResultsFY2024-25
+way to tier one Banks, a full Space where we will have our products in themarket.Sothat'sabout
+Vancity. But let metalkspecificallymoreaboutNorthAmerica.Ithinkacoupleofquarter’sbackwe
+had talked about at least from a GCB perspective. We had talked about Europe as our strategic
+inroad andIthinkoverthelastcoupleofquarterswehavedemonstratedthatwehavebeenableto
+build a goodmomentuminourEuropemarket.WhenwelookatEurope,weareseeingaverygood
+pipeline being developed in Europe and you will see the results over the next couple of coming
+quarters.
+After Europe, we decided that we will get into Canada from a GCB perspective leveraging a GTB
+footprint and that's what we have been doing for the last couple of quarters. I havebeeninNorth
+America for the last 5 weeks, spending time predominantly in the US. Some of you mayhaveread
+it, we have justannouncedthatwehavehiredJaninewho’sgoingtobeleadingourGCBbusinessin
+the US market based out of North America. She and I spent a lot of time meeting prospects,
+consultants, partners, etc. to understand the contours of this market and deciding what to be a
+strategy to enter into the US market. The US market as you know is highly regulated, a tough
+market, but also from a TAM and a SAM perspective, a very huge market. So we are verypositive.
+We arelookingforwardtothenextcoupleofquartersintoourU.S.marketentry.AlongwithJanine,
+we are putting the team of people with Janine, some of them we arehiringfromtheUStogetthe
+US experience, and a few we will be transferring from India. So weareputtingateamofpeopleto
+go after the USmarketandweshouldseesomemomentumbeingbuiltupinourUSmarket.Janine
+comes from a very strong domain expertise. She has worked with Santander and PNC Bank.Sowe
+are looking forward to working with her as we take our journey back. So that was a high-level
+commentary about how GCB has moved from Europe as a strategy, went to Canada and now
+entering the USandyouwillhearinthenextcoupleofquartersandyearsaboutourprogressinthe
+USmarket.Arunbacktoyou.
+ArunJain:
+Thank you,Rajesh.Ithasbeenalmost90dayssincewemetonthe9thofMaywhenwe announced
+the result is not over 90 days. I think all of us are ontheroad,somostofthemanagementteamis
+on the road in various countries obviously which resulted in travel costs going up, but otherwise,I
+was on the road. I visited eight countries during this period. We met close to 70 people from the
+customer side, and the partner side, conducting multiple meetings ineachcountry.Theeventswill
+happen in iGTB OxfordinLondonandthenfollowedbyMoney20/20.Ithinkwehaveneverbeenso
+busy in the last eight years and generated close to 120 leads almost two leads per day arecoming
+up our way. So we organised a workshop in eMACH.ai with 300 people in Chennai in April. It was
+that picture of the attendees of the workshop you saw at the beginning of the presentation. The
+entire magic of eMACH.ai is surfacing. At this point, I just want to invite Manish to see how it is
+panning out for him in winning the deals in Australia and these are allthedifficultmarkets.Rajesh
+talkedabouttheUSmarket.Manishovertoyou.
+Q1ResultsFY2024-25
+ManishMakan:
+Thanks, Vasudha, and Arun thanks for giving the brief before this. I have been sharing in the
+previous quarters also, that abest-sellingproductoncorporatetreasurycontinuestohelpuswinin
+the marketplace. So we closedtwomoredealsinAustraliainthisquarter,whichisprimarilytohelp
+banks to help the corporates raise better deposits, get them better investment products and get
+them better manage their liquidity better. So two big deals wins in Australia after the previous
+quarter, we had two deals, one in Australia and one in the US around liquidity. So liquidity as the
+flagship product continues to help us. Create that deepening the gap betweenusandanyoneelse.
+Because everyone else tries to extend that out from a core banking I can also imitate and do this.
+We built the real competency around this, and today we have about 54 banks worldwide, which
+leverage this capability to extend this, bringing this efficiency to the balance sheet for the
+corporates as wellasforthebanks.Sothat'sbeenverysuccessful.WealsoclosedtwodealsonDTB
+in the Middle East, both the product and the market are flagships forus.Sowecontinuetowinon
+DTB in the Middle East. Like Arun said the amount of time all of us were on theroad,wehavegot
+across North America, several good opportunitieswhicharematuring.Inthenexttwoquarters,we
+will share a number of them. Unfortunately, onedealwherewegotsignaturesontheMSA,it'sjust
+the last signature they had to postpone their budget spend from starting in September - the
+program which they were going to sign in June to start in September. Now it starts in January and
+they will sign in January. Everything was done on that. So that's a significant one like Arun said,
+Rs.30 Crs which got deferred. The deal is won. So we should show this in our Q4 from that
+perspective. In Europe also we have got good momentum in the UK and France going right now,
+Australia opening up and there's been a bigfocusondevelopingAsiaequally.SoofwhatArunsaid,
+two deals a quarter, even Asia, which has not been very strong for uswasverygoodlookingandit
+has good potential for us in the coming couple of quarters where we will show good results from
+there. So across the board, in allmarketsrightnow,activityisatanall-timehigh.Theopportunities
+are what we call in a P4 stage number of these things are there, howacrossthenexttwoquarters
+webringthatin.Ithinkthat'swheretheteamisfocused.Thankyou.
+ArunJain:
+Yeah. So coming to the next area IntellectAI. I have been posting a message on Purple Fabric daily
+on LinkedIn. So I reached up to 4 messages such as on Purple Fabric Imagine, Purple Fabric DIMS,
+Purple Fabric Expert Agent,PurpleFabricTraid,andtwomoreareleft.Sointhisslide,wearesaying
+that AI is a hot product and so much generative AI is there. Our teams, our research teams had
+looked at this problem very differently and they looked at each persona – what is required for a
+product manager to lookatinAI?,whatisCIOlookingforinAI?,andwhatoperationsmanagersare
+looking for AI? and what compliance manager is looking for AI? So based on all four personas we
+designedthem,oneofthemostcomprehensiveAIproductsinthemarketplacewherewesignedup
+with all five consulting firms from Accenture, EY, KPMG, Deloitte and PwC. The beauty of this
+product is it is a comprehensive Enterprise Connected intelligence platform. And it is using a
+Q1ResultsFY2024-25
+different set of technologies. And, it is giving a choice to the customer to decide the t kind ofLLM
+model one wants to use. Now, Banesh will tell you how many workshops andbootcampswehave
+done in the last 90 days from May to now. Almost every day there aretwoorthreebootcampsor
+webinars happening, which is driving a huge amount of Lead generation. So over to Banesh on
+carryingforwardthisconversation.
+BaneshPrabhu:
+Thanks, Arun. I think Arun explained the overallPurpleFabric.IntellectAIhasbeenworkingaloton
+AI initiatives for a long time right now. I think whatwehavedoneiswearenowabletoimplement
+AI using allthelargelanguagemodels,theLLM’sandtheLLM’sareevolvingjustabouteverycouple
+of weeks, and we see upgrades taking place by all the LLM’s providers. I think what our platform
+provides for a financial institution is the ability to govern AI initiatives.Therearebillionsofdollars’
+worth of money that is being put into AI by most financial institutions. All companies across the
+board are spending an enormous amount of money on AI, I think while it's onahypecycle.Ithink
+very realistically the time has come for a significant change to transform operations and financial
+institutions using AI. I think the tractionissignificantandwedidaboutoveradozendifferenttypes
+of boot camps. Some of them are multiple discussions with certain clients and I think they are
+building a very deep pipeline of actually helping the clients implement AI initiatives with
+governance, control of data, with control of security. At the same time, the different people and
+different personas in an organisation can make a difference in how they can capture business
+outcomes fromdifferentAIusecasesthatweareputtingtogether.Wehaveover55documentedAI
+use cases, another 80 odd that we are looking at right now. Now if I look at the quarter, our AI
+platform, is at the heart of our insurance business, so Purple Fabric is what we are sort of
+positioned as the name of this platform. Purple Fabric along with eMACH.ai for insurance. Last
+quarter we did four deals. In this first quarter, we have done two deals. Two more deals were
+signed but they just didn't makethecut-offforthe30thofJune.Imustremindyouthatallofthese
+deals use a combination of eMACH and AI, and also all of them are subscription deals. So from a
+financial perspective,youwillhavetoseethatthesearelonger-term.Youknowsubscriptiontypeof
+calculations on the financials. I'm also happy to say that our wealth andcapitalmarketsbusiness,I
+think Vasudha touched on you know two deals, but I just totalkalittlebitmoreaboutit.Thisisan
+existing client that's doing the first implementation in Bangladesh of a commodity derivative
+exchange for which we are providing our brokerage platform called Capital Alpha. We are
+implementing that for a very large Commodity Exchange setup in Bangladesh. The second is very
+exciting. It's the largest company in India joint venture with one of the largest asset managers
+around the world. The asset managermanagesover10trillioninassetsundermanagement.Ithink
+we are seeing a phenomenal increase in wealth generation across the world and more and more
+people are talking to us about how wecanimplementoureMACHwealthsolutionalongwithwhat
+we used to call embedded AI. But it uses a combination ofPurpleFabricandtheeMACHsuitethat
+we have to implement these wealth and capital market mandates that we won. We won three
+Q1ResultsFY2024-25
+others. I think thecontractsareinprogresswe youknowtherehasbeenconfirmationthatwehave
+won them. One of them is the largest investment manager in Saudi. The other one of the largest
+private banks in India, not the largest but one of the largest, and also we wonthemandateofone
+of the largest global multinationals that wants to scale up their wealth business. So I think the
+wealth and capital markets have a fantastic pipeline to look at. The eMACH resonates, the AI
+embedded resonates and I think over a periodoftimethatcombinationofeMACHandAI,whichis
+eMACH.aipositionforthefuture. Thanksall.
+ArunJain:
+Thank you, Banesh. So Italkedaboutitinthelasttwoyearsbackwhenwewerelookingatpartners
+and distribution strategy. I think this year we started the journey by making our applications
+partner-ready. And eMACH.ai plays a critical role in being a partner-ready system. So from an
+investor perspective, what does the eMACH.ai mean? Why are we so excited internally? and how
+do you simplify the language of eMACH.ai are the elements for the typical investor. Because for
+technologists it’s a huge excitementbecauseit'sanopenfinanceplatform.SotodaythewordOpen
+Finance platform which, we call it first principle thinking, which means weaskthequestionofwhy
+the bankexists. Itisbecauseeventshappenedinthelifeoffinanceandanyoftheircustomers.Soif
+we design a system which is based on the First Principle Thinking from events in the life ofaretail
+customer or wealth or SME or a corporate customer and then look at the services the bank
+provides, and which gets connected to other applications which are through APIs on a cloud and
+make it personalised headless and provide intelligence to it. It removes a lot of complexity which
+the bank has built over a period of time. They can wire the entire application based on customer
+desirability and that's why Rajesh when we were selected in Canadafoundthatdigitalexperiences
+if it is based on first principle thinking, we are mapping customer desirability to the business
+outcome. So we call it organising the thinking space, expanding the performance space and
+impacting the business outcome. So this is where we can put 329 decompositions of all banking
+business in just a single book where all the elements of the banking havebeenputontothesingle
+bankingchart.
+Now this so once we put this chat in front of the customer, he has a choice to put on the entire
+chart where and what his needs are. So wearenotsellingthefullproducts.Wearesellingwhathe
+needs. And if he needs portfolio management only in the wealth management system, we can
+provide portfolio management. If he requires only the Relationship Managerofficebecausehehas
+an existing Avaloq install we can give him the RM office. Or this can be extended to the existing
+system and coexistence is possible in existing applications. That is what we can disrupt and that
+makes my GSI (Global System Integrator), very interested in our technology. We have conducted
+almost one session every week for each of our global SI on eMACH.ai. Because then they can use
+my specific set of microservices to include in their value propositions which they are offering to
+their current customers by doing andacceleratingtheirjourney.Sowhenthebudgetsareless,they
+Q1ResultsFY2024-25
+can expand that space substantiallybecausethereare329microservices,500pluseventsand1700
+APIs.
+Along withthat,webuiltupiTurmeric,whichIexplainedearlier.Itisacompletelycodelessplatform
+for composability and solving four key issues of transformation. For any transformation, you need
+integration, UX, workflow and data. Now all of it is wired and comes from a single platform,
+reducing the cycle time for delivery to half as well as number of defects to less than 10%, as well
+and almost 80% of defects are not there because they are codeless platforms and combined with
+Purple Fabric to build intelligence agents along with the operational process, it is a truly partner
+ready technology. We took some longer time to get to partners. In 2022, you were questioning
+why we don’t go to partners. We wanted to ensure that they have the right toolkit and right
+methods to get into the partnership model. The new leads, whichhavecomenormally,weusedto
+add some 50 leads per quarter. This time we added 120 leads in a single quarter because most of
+the additionalleadscamefromourpartnershipnetwork.WeareclosetotheRs.600Crsfunnelwith
+the partners which we are working on. Some of the detailed conversations are happening where
+partners are getting certified themselves on iTurmeric or PurpleFabricandgoingtogatherinafew
+deals over this period. We are seeing this as a very disruptive technology. The opportunity going
+forward is significantly large. Because of that though the first quarter result is not in line with the
+expectation of the industry because 30 Crs slip on the contract. But 15% growth is whatwetalked
+about during last quarter, we are fully intact on that number. So that is what the current state of
+business is. So at this point, I just want to leave for questions and answers and I have seen more
+than 200 people join in this investor conference. So we can have a good conversation basedonan
+understandingofwhatwearedoingineMACH.aiinthistechnologyspace.
+PraveenMalik:
+Thanks, Arun. Now the forum is open for the Q&A. In case you wanttoaskaquestion,pleaseclick
+on the raise your hand. I repeat, please click, raise your hand and wewillunmuteyouandyoucan
+askthequestions.Now,first,wehaveMrSamirDosani.MrSamirDosani,pleaseunmuteyourself.
+SamirDosani:
+Canyouhearme?
+PraveenMalik:
+Yes,Samir.Pleasegoahead.
+SamirDosani:
+So, a couple of questions. When Rajesh is ontheUSbusiness,youaretryingtoforayintotheUSas
+the geography. If you can just highlight like which are the areas that we are targeting? And how's
+the competitive intensity? Because it'sverydifficulttosellbusinessbankingsoftwareintheUS.We
+Q1ResultsFY2024-25
+have seen it in other players. So what is the competitive intensity where when do you think there
+willbeinitialsignsofsomeprogresshereandwhetheritwillrequireanyinvestmentsonyourpart?
+The second question is for Vasudha. When you look at your funnel and deal wins, they have been
+phenomenal. But when you look at your last 12months'revenuegrowth,obviouslyexcludingGeM
+also has seen some deceleration. Right? We have come down to 12%. So do you think this can
+accelerate given your deal wins and whether you hold your guidance on revenue? And thethirdis
+from GenAI. Very simply, if you can just indicate the number of projects like in some way can you
+give us some metrictoquantitativelytrackthatthisisthenumberofprojectsthatyouhaveworked
+on versus you know last quarter this was the number of places we have worked on?Sowecantry
+that.Sothesearethe3questions.
+RajeshSaxena:
+Sure, Icantakethefirstquestion.Itisaverygoodquestion.SoIthinkfromaUSperspective,asyou
+rightly said the US is a competitive market. It is also a highlyregulatedmarketwhereyoucanhave
+federal requirements, state-level requirements, etc. So you need to make sure that your platforms
+are certified andattested.However,havingsaidthatthemarketopportunityisverylarge.Andwhat
+are market study has indicated to us is that there are a lot of legacies and what we bring to the
+table eMACH.aicandisrupttheUSmarketifwegetouracttogether.Sothere'sopportunityishuge.
+And so that the landscape starts from a strategy perspective, I would say that's competitive
+information. So I wouldn’t liketodiscussitonthiscall,butenoughtosaythatweareintheprocess
+of identifying what would be the segment and the key products that we will take to that segment
+and discussing them internally, debating the GTM strategy for that. So over the next couple of
+quarters, we should have that in place and we will go into the market. It's also importantforusto
+put together a team of people. So there issomeamountofinvestmentsthatwearemakingfroma
+USteamperspective.IalsosaidwewouldbetransferringsomeofourpeoplefromIndia.Sothereis
+some amount of investment which we will be doing. Both in terms of team as well as in terms of
+baking up a platform ready for the US market. And just a little bit more colour around the US
+market, what we areseeingisthatsomeofourIndiancompetitorsandpeerscanenterthismarket.
+So with that and our architecture and the eMACH.ai that we bring to the table, we believe that if
+wegetouracttogetherwecanreallydisruptthemarket.
+VasudhaSubramaniam:
+Let me takeupthesecondpartofthequestionandArunmightaddon.Yes,trueitislike12%inthe
+first quarter. Andaswesaid,thisisthefirstquarterandwealwayswanttobemeasuredonayearly
+basis, not on a quarterly basis. We still stick to the guidance of 15% excluding GeM and we are
+highlyhopefulthatitwillhappen.
+And it so happened that, asBaneshmentioned,therewereacoupleofdealsforwhichthecontract
+got signed off post the cut-off date and for which we could not accrue the revenue in Q1. It so
+Q1ResultsFY2024-25
+happened and there are some other deals with the high value that we could not accrue this part
+and which got deferred. So we are still hopeful of the strong pipeline that we emphasise and that
+we'llbeabletomeetuptotheguidance.
+SamirDosani:
+So I'm just tracking the last 12 month revenue not here on Q-o-Q. So I think thatistheprediction,
+I'msurethatiswhatonehastotrack
+ArunJain:
+That'sright
+SamirDosani:
+Ok.AndontheGenAIlevel?
+ArunJain:
+Banesh,howmanyprojectsyouareworkingon?
+BaneshPrabhu:
+So just to get this right, we track our pipeline in a platform across all ourproductlines.OurPurple
+FabricpipelinetodayhasalmostfinishedandwhenIlastlookedatit,ithasgotabout35discussions
+in progress. Remember, AI is ataveryearlystage.Sowehaveaverylargepipelinebuilding.Wecall
+itPurpleFabricasyoujustheardfromArun.AndIthinkthatpipelinewillbelookedatlikeanyother
+pipeline discussion wewouldhaveifwehaveaGenAI.It'snotjustaGenAI.It'smorethanjustGen
+AI.
+SamirDosani:
+So,35projectscurrently?Howmuchwasitlike6monthsago?
+BaneshPrabhu:
+35discussionsareinprogresswithvariousclients.
+SamirDosani:
+Sixmonthsback.Sixmonthsback,howmuchthenumberwasissomethingwecanmention.
+BaneshPrabhu
+The platform has onlyjustbeendone.SoIwouldsaythispipelinehasbeenbuiltoverthelast4to5
+months where we have used Purple Fabric to be able to get people to use Gen AI. We have been
+working on the LLM for many years. We have been investing in it, but the LLM has made a
+differenceinwhichAIismatched.
+Q1ResultsFY2024-25
+SamirDosani:
+Got it. I am sorry if I'm allowed to follow up. So, does this investment in the US have that
+impactable margin improvement trajectory or it was already built in, you can comment on that
+Vasudha.Thanks.
+ArunJain:
+That's what we are currently discussing. Let me be in a board meeting also, what kind of new
+numbers to be put in if additional investment is required or not. We are seeing that based on the
+more traction and winning we are able to articulate how many additional salespeople were
+required. So it's not about technology investment. More investment will be required in
+go-to-marketinvestments.
+SamirDosani:
+Ok. Fair to say it will be higher gross margins or it will initially have somelowermarginsthantheir
+business.Doyouthink?
+ArunJain:
+It will be a lower margin. In the beginning, Purple Fabric requires investment.Therevenuewillnot
+be front-loaded but back-loaded in Purple Fabric where subscription-based revenues are there. So
+surethatisonepointwhichistobeclarified.
+SamirDosani:
+Sure.Thanksforthat.
+PraveenMalik:
+Next, we have Mr Rahul Jain from Dolat Capital. Rahul. Please unmute yourself. Rahul, are you
+there?
+RahulJain:
+Yeah.HopeI'maudible.
+PraveenMalik:
+Yeah,Rahul.Pleasegoon.
+RahulJain:
+Yeah, so basically I have a couple of questions. One question is what I haveobservedfromthelast
+couple of quarters is that the growth in our implementation revenue has not been pretty much
+catching up with the growth that we are observing in the licence revenue. So is there any specific
+Q1ResultsFY2024-25
+reason why this trajectory has gone down from 6% to 7% or does it include any L1 or L2 services
+relatedtoGeMorwhichprobablyhasanypercolationimpactthere?
+ArunJain:
+SoIthink,withtheCodelessplatform,ourimplementationrevenueisexpectedtocomedown.That
+is not the most profitable business for us. The implementation business weweredoing.-Wewant
+to get it done with the partners. So that is the intentional approach which is being looked at from
+the perspective of creating more efficiency. This growth of implementation may not be that high
+andwewouldliketopushlicenceandSaaSrevenuemore.
+RahulJain:
+And when yousaythatalsobecausetherearepartners.Soisthereanumberthatwecouldsaythat
+the number of deals that are going to the third party versus implementation versus let's say year
+backortwoyearsback,anydatathatyoucouldshare?
+ArunJain:
+It's too early right now. As of now, we are not saying that we have won too many deals with the
+partner. We have won two to three deals while working with the partners. So that data is not
+sufficienttobeshared.Whenitisready,wewillshareitwithyou.
+RahulJain:
+During the quarter, we have also observed that the software expenses have, I mean the maincost
+of services, increased during the quarter. Is it more because of the many things that you spoke
+about, the lot of action that you did but eventually did not culminate into revenue? Or these are
+generalinvestmentsthathavegoneintothequarter?
+ArunJain:
+SD cost has gone up, so we acknowledge that SD cost has gone up for two reasons. One is a
+generative AI. Some of the investments have gone and the consumption of the cloud has been
+baked into this. Some of the bundle cost with a cloud cost,alsogotembeddedintoit.Sotheseare
+two areas which are there. And the third is the Rs.30 Crs investment. The deal, which was there
+almost too close, got postponed by the financial constraint ofourclient.Butalltheinitialworkhas
+beensetupforthat.ThesearethreereasonsforourSDcosttogoup.
+RahulJain:
+Right and any input on the ideal tax rate that you are expecting for this year and next year that
+wouldbeafill?
+Q1ResultsFY2024-25
+VasudhaSubramaniam:
+Wecantakeitas24%,Rahul.
+RahulJain:
+ForFY25?
+VasudhaSubramaniam:
+Yes
+RahulJain:
+OK.Thankyou.That'sit,frommyside.
+PraveenMalik:
+Thank you, Rahul. Please click on Raiseyourhand.PleaseclickonRaiseyourhandincaseyouwant
+toaskaquestion.Next,wehaveMrMehulPanjwanifrom40cents.
+MehulPanjwani:
+Yeah.AmIaudible,Sir?
+PraveenMalik:
+Yeah,Pleasegoon.
+MehulPanjwani:
+Thank you so much for the opportunity. This is not a question, but a request to the entire
+management team. Because, you know, we are doing so much higher-end work and we have very
+promising products and we are focused on disrupting quite a lot oftraditionalbankingtechnology.
+So I request that as shareholders, we should know what is there in our product that is going to
+disrupt the market. Because you know just in yourintroductionyoumentionedthatwearehereto
+disrupt the American banking software market. So I request that we can have a coupleofhoursof
+session where we only talk about technology and not financials. So that we know where our
+company is going. Right now, for a layman, it is very difficult tounderstandthatanybodycanclaim
+that I am going tobuildadisruptiveproduct.BecauseIhavebeenfollowingthiscompanyforalong
+time and have been trying to understand a lot and I also have a technology background. I was
+working in the IT industry but still, I am not able to figure out anything. I will justgobywhateverI
+Google and you know whatever I can make sense out of. But if you can, you know if you have 2
+hours of sessions for our fellow shareholders, whoever is interested, to demonstrate that this is
+what traditional banks do and this is what our software will do for them. Then we also can beour
+champions,throughournetworketc.butmoreimportantly,understandourproducts.
+Q1ResultsFY2024-25
+ArunJain:
+OK. Thank you for this advice. We should do it. Malik, we should organise a two-hour session for
+the people. I would like to have two sessions, one on eMACH and another on Purple Fabric, two
+hoursforboth
+ArunJain:
+Inthenextonemonth.
+PraveenMalik:
+Sure.
+MehulPanjwani:
+Thankyousomuch,ArunSir.Iappreciateit.
+ArunJain:
+Secondly, If you really want to experience the power of Purple fabric in two days’ time we can
+conduct a session on boot camp where you can put the application wiring for a use case by a
+salesperson. Notevenatechnologyperson.AsalespersonwasabletobuildupaPurpleFabricextra
+agent in two days of boot camp. So that's the simplification of the disruption. For certain people,
+we are organising a boot camp and purple fabric on the 29th and 30th of August. But for the
+individuals, that is for the companies, we will organise the boot camp. So sometimeswecanseeif
+you register and are willing to look at it, time to be spent on two days of understandingwhatAIis
+goingtodisruptthemarketandwhatitmeans.
+MehulPanjwani:
+Definitely, Sir. I would be looking forward and eager to attend this kind of boot camp. Because
+everybody is talking about AI. But I don't know if a handful of companies will be doing actual AI
+work.
+ArunJain:
+That's right. And because there's so much noise there, how to find the voice from the noise is a
+challengeformostoftheinvestors.
+MehulPanjwani:
+Yeah. Absolutely. So I will look forward to this two-hour session first and then obviously also boot
+campaswell.
+ArunJain:
+Q1ResultsFY2024-25
+Thankyou.
+MehulPanjwani:
+IwillrequestMrMalikaswelltosendamailoutafterthemeeting.Thankyousomuch.
+PraveenMalik:
+Sure. Thank you, Mehul. Next, we have Mr Vivek Kumar from Best Pal. Vivek, please unmute
+yourself.
+VivekKumar:
+AmIaudible?
+PraveenMalik:
+Yeah,Vivek,pleasegoon.
+VivekKumar:
+I know I am asking a quantitative question. But leavethisyear,ifItake3to4years,wewillgoback
+to our 20% because youhavebeeninvestingalotofeMACHbefore.IfyoucomefromyourInvestor
+Day 1-2, which is exactly where you explained how the company is going to pan outandwhatyou
+are going to do with your products and you’re across products across continents, across countries
+and acrosslikeyouareintoinsurancelikenowyouhaveAIanddifferentbusinessverticals.Sowhen
+canwecounton20%tobetakenovera3to4-yearperiod?Butit'sapurelyquantitativereason
+ArunJain:
+Definitely. I think 15% we are looking for this year. 20% isdesignedforupsanddownswillhappen.
+There could be 25%, they could be 15%, and there would be 20%. So 20% is that organisation is
+designed for and designed for long term20%andnotonetime20%.Thatiswhytheseinvestments
+are required in a technology company like ours, a multi-product company, a multi-geography
+company. Because of ensuring that we can sustain this growth over the next 5 years or not?
+Otherwise, we end upacquiringthecompaniesandaggregatingthecompanies.That'snotwhatwe
+want.It'sapureorganiccompany.
+VivekKumar:
+And second one is on your partnerships andifyoucangodeeperlikeyouhaveexplainedclearlyon
+the three verticals by the three vertical heads. So similarly on partnership how it is shaping up
+because we have started and how is the distribution? You remember in the last two con-calls you
+were saying our next one to two years is about DDD, which is Distribution, Distribution,
+Distribution.Socanyoutellusmoreabouthowitisshapingupandhowconfidentyouare?
+Q1ResultsFY2024-25
+ArunJain:
+The confidence is that distribution partners have started chasing us.Earlierwewerechasingthem.
+So reverse flow has happened. It started to happen. Weneedtodemonstratetothemthatthereis
+the money for them. If we make $1, they, they can make $2 from us. Thentheyareinthegame.If
+our technologies are not able to help them make $2, we need to demonstrate to them that inthe
+next few years, they can build up their own practices of 10 Million, 20, 30, and 40 Million Dollars
+practices around eMACH.ai and that's the process of building confidence, we are going through.
+And that's the way Rajesh, Manish and I have been travelling. And meeting each partner, ranging
+from senior executives, CEOs, and business heads of the country to explain what eMACH.ai is and
+how it is disruptive. The question Mehul asked, is the same question we need to explain face to
+face. It cannot be explained on a Zoom call. So that's what we are in the process of doing it. And
+that process will continue for another two more quarters and then we get into a few deals to
+execute. One deal we executed with one of the large partners. It is going liveinthePhilippines.So
+which is a very good success story. One success story of winning the deal and making the client
+successfulspeaksalotofvolumesandthepartnershipgame.
+VivekKumar:
+Let'ssay,inthenextfewquartersoftheyear,wewillbehavingmuchbetter
+ArunJain:
+Yeah. Then the acceleration will happen. Only after two to three quarters, we will see the
+acceleration.
+PraveenMalik:
+OK. Thank you, Vivek. In case anybody, wants to ask a question. Please click on Raise your hand.
+Next, we have Mr. Jayaprakash Parekh. Jayaprakash, please unmute yourself. Looks like Mr.
+Jayaprakash is not there. Now Mehul wants to ask the question again. Yes, Mehul, pleaseaskyour
+questiononceagain.YouwanttohavesomemorequestionsIbelieve.
+MehulPanjwani:
+Yes. I have unmuted myself. Thank you so much, Arun Sir, Onequestionfromthefollow-uponthe
+earlier question you were answering. How many partners do we haveandcanyoujustsharesome
+detailsaboutwhothepartnersare?
+ArunJain:
+Q1ResultsFY2024-25
+We have all five partners, Accenture, PwC, EY, KPMG and Deloitte in consulting partnership. In
+global system integration, we are working with HCL, Coforge, Tech Mahindra, Wipro, L&T,
+Hexaware,andPersistent.
+MehulPanjwani:
+OK. So one follow-up question on this. Which deals we havewonarethroughwhichpartnersofar,
+becausewehavewonveryfewdealsright?That'swhatIunderstand.
+ArunJain:
+Yeah, we just want to keep it confidential which may disturb the confidentiality equation with the
+partner.
+MehulPanjwani:
+OK. And any particular reason why we do not have TCS and Infosys as partners? Is it becausethey
+havetheirbankingproduct?
+ArunJain:
+That'sRight.
+MehulPanjwani:
+OK.Thankyousomuch,Sir.
+ArunJain:
+OK,Praveen.It'salmostontime.
+VasudhaSubramaniam:
+Heseemstohaveloggedoff.
+ArunJain:
+OK.Pleasegoaheadaskingthequestion.Unmuteyourself.
+PraveenMalik:
+Vipin.
+ArunJain:
+Yeah,please.
+PraveenMalik:
+MrVipinAbrahim,youarethere?MrVipinAbrahim.
+Q1ResultsFY2024-25
+VipinAbrahim:
+I want to ask this question that the revenue of 15% which is mentioned based on the reported
+numbersoflastyearorafteradjustingthegovernmentcontract?
+VasudhaSubramaniam:
+Afteradjustingthegovernmentcontract.
+VipinAbrahim:
+Ohalright,thankyou.
+VasudhaSubramaniam:
+Welcome.
+PraveenMalik:
+Thankyou,Vipin.Arun,MrVivekKumarwantstoaskonemorequestion.Canwe?
+ArunJain:
+Yeah,sure.Justonemore.Wehaveanotherfourminutestogo.
+PraveenMalik:
+Yeah.OK.Vivekcanaskthequestionagainandunmuteyourself.
+VivekKumar:
+So, just continuing on the partnerships, so if wethinkthattheypayoffandwhatpercentageofour
+deals will be through partnership in 2 to 3 years like or4yearswhatever,Idon'tknowbecauselike
+when will we feel that this is done and wearethiswehavesucceededinourdistributionandwhat
+percentageofdealswouldgotothepartnerslikethat?
+ArunJain:
+Ourtargetisthatcloseto20%dealshouldgotothepartners.
+VivekKumar:
+OK.Sowehaveonlytwominutesleft.SoIhaveonemorequestion.CanIaskSir?
+ArunJain:
+Yeah,sure.Continue.
+VivekKumar:
+Q1ResultsFY2024-25
+A few quarters back, you said there are three wide movements. This is BaaS and GCB digital, the
+core banking and insurance. People spokeaboutthelasttwo,buttheinitialBaaSthing.Anyupdate
+fromManishJi?
+ManishMakan:
+WedidonedealintheUSlastquarter.Withafairlylargetop20USbank.Sothatitworkedwell.
+VivekKumar:
+Oh,OK.AreyoufindingsuccessinthatintheUSmarket?
+ArunJain:
+Yes. I think we launched the BaaS in the US market. Mainly Manish, the BaaS, we have launched
+initiallyintheUSmarketbecausethat'samoretechnology-savvymarket.
+VivekKumar:
+Oh.Thankyou,Sir.Thankyouverymuch.
+PraveenMalik:
+Thanks, Vivek. Arun, we have alastquestionfromMrRohitBalakrishnanfromithoughtPMS.Rohit,
+pleaseunmuteyourselfandaskaquestion.
+RohitBalakrishnan:
+Yes,Sir.Goodevening.AmIaudible?
+PraveenMalik:
+Yeah.Pleasegoahead.
+RohitBalakrishnan:
+Sorry, I was on mute. Good evening, Sir. Goodevening,everybody.Soveryencouragingtohearthe
+commentary on what you are seeing in terms of new leads and the kind of traction that you are
+getting. From not immediately, not in this year or not in this quarter or next twoorthreequarters
+or like two to three years out, What you have been trying to do, I think is you are trying to invest
+ahead of the curve. But given the business model, as you have also mentioned in the past,
+incremental margins are going to be very high at some point in time. So I just wanted to
+understand, how far are we from that inflection point where what to20to22%marginswherewe
+can get go beyond that and get to maybe closer to 30% or even 30% and beyond. Many of the
+companies that are there in this space, even in Indialisted,havethatkindofmarginsandyouhave
+Q1ResultsFY2024-25
+also talked about that these kinds of margins are not like not unachievable.Sojustwantedtohear
+yourperspective,howfararewefromthatkindofmargin?
+ArunJain:
+We cannot specify a timeframe atthispointbecauseit'sacontinuousinvestmentinthisarea.Right
+now, our market share is more important than our marginshare.However,forourbusinessmodel,
+if we compare it with our competitors, the potential margin could be 40% when we reduce
+investment. So, increasing the margin to 40% is not a big issue. The key question is whether we
+want to reduce investment or continue investing to achieve global leadership. Themainconcernis
+whether the partnership network we are building will start paying off. If the 12 partners we have
+identified start delivering results quarter by quarter, the margin could reach 30% or more in a
+shorter period, possibly within the next six to eight quarters. As a managementteam,weexpectit
+toreach30%insixtoeightquarters,butmarketconditionswilldictatetheactualtimeline.
+RohitBalakrishnan:
+That's very helpful. I thinkthat'sprettymuchit.That'sitfrommyside.Thankyouverymuchandall
+theverybest.
+PraveenMalik:
+Thanks,Rohit.Arun,thatisallwehave.
+ArunJain:
+Yeah.Thankyouverymuch.
+PraveenMalik:
+And don't have any further questions or time is also over. So thank you very much everybody for
+participating in the call. In case you have any follow-upquestions,pleasedowritetous.Thankyou
+verymuchandthankthemanagementteamalso.Thankyouverymuch.Youcanlogoffnow.
+------------------------------------------------------------------------------------------------------------------------------------

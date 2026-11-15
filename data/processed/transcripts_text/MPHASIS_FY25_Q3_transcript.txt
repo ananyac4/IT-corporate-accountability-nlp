@@ -1,0 +1,834 @@
+“Mphasis Limited
+Q3 FY 2025 Earnings Conference Call”
+January 24, 2025
+MANAGEMENT: MR. NITIN RAKESH – CHIEF EXECUTIVE OFFICER –
+MPHASIS LIMITED
+MR. ARAVIND VISWANATHAN – CHIEF FINANCIAL
+OFFICER – MPHASIS LIMITED
+MR. VINAY KALINGARA – HEAD INVESTOR
+RELATIONS – MPHASIS LIMITED
+Page 1 of 22
+Mphasis Limited
+January 24, 2025
+Moderator Good morning, ladies and gentlemen, and thanks for joining the Mphasis Q3
+FY2025 Earnings Conference Call. I am Dorvin, your moderator for the day. We
+have with us today Mr. Nitin Rakesh, CEO of Mphasis; Mr. Aravind Viswanathan,
+CFO; and Mr. Vinay Kalingara, Head of Investor Relations.
+As a reminder, there is a webcast link in the call invite mail that Mphasis
+management team will be referring to today. The same presentation is also
+available on the Mphasis website www.mphasis.com, in the Investors section
+under Financial and Filing as well as on both the BSE and NSE websites. Request
+you to have the presentation handy.
+As a reminder, all participant lines will be in the listen only mode. And there will
+be an opportunity for you to ask questions after the presentation concludes. Should
+you need assistance during the conference call, please signal an operator by
+pressing ‘*’ then ‘0’ on your touchtone phone. Please note that this conference is
+being recorded.
+Before we begin, I would like to state that some of the statements made in today's
+presentation may be forward-looking in nature and may involve certain risks and
+uncertainties. A detailed statement in this regard is available in the Q3 results
+release that was sent out to all of you earlier. I now hand the floor over to Mr. Nitin
+Rakesh to begin the proceedings of this call. Thank you, and over to you, Nitin.
+Nitin Rakesh Thank you, Dorvin, and thanks everyone for joining us today. Hope you had a great
+start to 2025. We appreciate your interest in Mphasis.
+As our AI thesis is starting to play out, over the past few years, we've spoken about
+Savings-Led TransformationTM, AI platforms such as Mphasis NeoZetaTM and
+NeoCruxTM as well as Agentic AI.
+We are now implementing many AI projects that are fast-moving beyond pilot or
+POC stage. It is starting to scale and accelerating primarily due to paradigm shifts
+based on the following few factors.
+Ability to supersize deals, because we can now bundle ADM, AMS and IMS
+together with Savings-Led TransformationTM and also presenting vendor
+consolidation opportunities using the same approach.
+Second, we are able to augment AI with human capabilities, which changes the
+ROI economics of many deals. Clients are able to achieve quicker transformations
+which leads to unlocking of modernization opportunities, for example, that were
+previously prohibitive for clients to undertake.
+Our ability to compete and win in more opportunities leading to an expansion of
+our total addressable market is also helping pipeline expansion.
+Page 2 of 22
+Mphasis Limited
+January 24, 2025
+And finally, the infusion of platforms and productivity gains offered earns us a seat
+at the transformation table. The infusion of platform-led approach is increasingly
+table stakes for many programs especially around modernization, ADM and AMS
+deals.
+We have multiple implementations for large scale financial services customers.
+Mphasis NeoZetaTM platform accelerates relearning productivity much faster and
+more broadly than was previously possible, completing relearning in a matter of
+days versus weeks. NeoCruxTM on the other hand is an integral part of all
+NeoZetaTM pilots to do forward engineering from relearned business rules, data
+dictionaries and business capabilities.
+We've completed two implementations with nine more in the works. We've seen
+productivity gains of 30% to 60% across different phases of the SDLC, including
+improvement in code quality, generating unit test cases and code documentation,
+thereby accelerating implementation and reducing project risks. Our clients who
+have signed up for this exciting journey are spread across all our target industry
+verticals.
+As called out in the last quarter, there is significant visibility in pipeline growth
+and we are increasing the number of AI Ops deals. I'd like to highlight a few things
+on the TCV chart.
+BFS pipeline is up 58% YoY and non-BFS pipeline is up 44% YoY. Large deals
+pipeline is up 49% sequentially. Significantly increased traction in AI archetypes
+including AI Ops and modernization, including Kore. We have over 20 large deals
+where NeoZetaTM and NeoCruxTM are in play as well.
+Q3 saw a high share of proactive deal wins as we stayed focused on deal making.
+TCV closure for the quarter was $351 million, which is the highest in the past six
+quarters. We have five large deals in Q3 FY25 and 11 large deals for YTD FY25
+as well. TCV wins are across verticals, client pyramid and archetypes. There is
+also an increasing pace of conversion of TCV to revenue and we continue to be
+structurally forward-leaning, making investments where we expect demand.
+In addition to Q3 TCV wins, we have closed an additional $100 million deal in the
+BFS vertical in January of 2025. This will reflect in the Q4 FY25 TCV wins.
+A few of the large deals that we won in Q3.
+A large wireless network operator in the US selected Mphasis to provide scalable
+and differentiated multi-year services across design, experience and quality
+engineering. Mphasis leveraged its strong capabilities in diverse areas like UX,
+research and quality engineering.
+Page 3 of 22
+Mphasis Limited
+January 24, 2025
+Second, a technology major engaged Mphasis to contribute to digital experience
+innovations, architecture and the technical roadmap. The client engaged us because
+of our strong capability to support their future projects in AI and Salesforce/
+Agentforce integration with their existing systems. Third, a large BFS client
+engaged Mphasis for application development and cloud transformation across
+product lines and business lines. Just a few examples of the large deals we signed
+in this quarter.
+We have also made significant investment in GTM, including talent acquisition,
+and we appointed Head of our Strategic Engagements team Mike Meyer as we
+announced earlier during Q3. Mike will spearhead strategic deals in collaboration
+with various business units, enhancing overall growth, alignment and
+effectiveness. He's also responsible for pipeline development along with the end-
+to-end sales cycle management to optimize market opportunities for high-value
+contracts.
+In addition, we also inaugurated a Cyber Fusion Center in Bangalore which is a
+state-of-the-art facility representing significant milestone in our commitment to
+enhancing cybersecurity solutions for global clients across industries. The center
+is providing 24/7 advanced threat detection, incident response and continuous
+threat monitoring, leveraging cutting-edge AI, ML and automation capabilities.
+This will not only improve our efficiency in responding to cyber threats by over
+50%, but also reduce the attack surface by 45%, ensuring high visibility of threat
+landscapes across Information Technology (IT) and Operational Technology (OT)
+platforms.
+Going to performance by segments, we continue to push for revenue growth which
+is anchored in our strong client mining model and tech-led offerings. Our Q3
+revenue came in at $419 million on the spot basis, with a growth of 0.2%
+sequentially and 4.6% YoY in constant currency terms. Our Direct business
+accounted for about 96% of our overall revenue in the quarter. We expect the pace
+of revenue and deal conversions to remain strong, propelled by the Savings-Led
+TransformationTM themes I just talked about.
+Our Direct revenue for the quarter increased by 0.2% sequentially and by 5.1%
+year-over-year in Q3 FY25 in constant currency terms. Our growth momentum in
+Direct continues despite the seasonality impact in Q3.
+For the quarter, our anchor geography US, grew by 0.6% sequentially and 6.3%
+YoY in Direct. EMEA region declined sequentially by 5% in constant currency
+terms, following primarily the seasonality impacts. Rest of the world grew 3.3%
+sequentially and 14% YoY in constant currency terms. Our core service line,
+Enterprise Apps constitutes about 72% of revenue, and the revenue contribution
+Page 4 of 22
+Mphasis Limited
+January 24, 2025
+from this service line continues to grow. We grew about 0.7% sequentially in CC
+terms in Direct Apps. The BPO segment grew 0.4% sequentially and 3.7% on a
+YoY basis as projects continue to ramp up and we see continued uptick in our
+mortgage business as well.
+Going to performance by vertical, our BFS and TMT verticals continued the
+growth momentum. At an overall company level, BFS was up 1.6% sequentially
+and 8.6% year-over-year in Q3 FY25 and specifically in Direct, BFS was up 1.8%
+sequentially and 9.5% year-over-year. BFS growth has largely been driven by
+wallet share gains in existing accounts and strong execution in new account wins,
+including the accounts that were opened in the recent few quarters. Insurance
+vertical grew 4.4% sequentially. TMT vertical grew 2.9% sequentially with Direct
+TMT growth at 15.7% YoY, driven by continued deal wins and conversion of
+recent large deal wins to revenue.
+Our client pyramid continues to improve across the board. Sequentially, we've
+added one client in the $75Mn+ plus range and two clients in the $20Mn+ and
+$10Mn+ categories, respectively. One of the new BFS clients we signed last year
+has already ramped up to a $20Mn+ account. Also on a quarterly annualized basis,
+we have a BFS client crossing $100Mn+ as well.
+New accounts in TMT are also showing good traction. With the recent large wins
+in the last three quarters, we ramped up a high-tech account to approximately
+$50Mn annual revenue run-rate account. Top 10 accounts declined 0.8%
+sequentially and 11 to 30 accounts grew 0.6% sequentially. On an LTM basis, 11
+to 30 accounts grew at 3.1% YoY.
+Coming to our financial metrics, we delivered to our philosophy of maintaining
+margin in the stated band while making investments for growth. Despite the
+seasonality impact, our EBIT margin remained stable at 15.3%. Reported operating
+profit for the quarter grew 0.2% sequentially and 9.7% year-over-year. EPS of
+INR22.6 for this quarter represents a 1% sequential growth and a 14.1% year-over-
+year growth. Operating cash flow generation continues to be strong at $55Mn for
+the quarter, 110% of net income. DSO of 72 days improved one day sequentially,
+aided by better collections.
+Summarizing our Q3'25 performance, we are seeing broad-based pipeline growth
+driven by large deal opportunities. We've had traction in the AI archetypes
+including AI Ops modernization, continued high share of proactive deals as we've
+been calling out. Improvement in TCV closures across the verticals and continuing
+to gain across the client pyramid with our tech-led, account focused strategy. The
+growth has definitely been led by BFS and TMT verticals and execution rigor
+delivered stable margins within the target band of 14.6% to 16%.
+Page 5 of 22
+Mphasis Limited
+January 24, 2025
+Coming to the outlook for the remainder of the year, few key messages. We
+continue to execute in an environment steadily moving in the right direction,
+focusing on the micro as the AI-led opportunities play out. The macro continues to
+turn in a favourable direction for BFS while there are still some things to be sorted
+through. We see some recovery in discretionary spend continuing while there are
+signs of uptick visible in the mortgage business despite the uncertainties. We've
+seen visible momentum in pipeline conversions and expect to be above industry
+growth for the full year, gaining from improving TCV to revenue conversion and
+strong TCV wins while at the same time targeting sustainable margin within the
+current band of 14.6% to 16%.
+On that note, let's open the call for questions, operator.
+Moderator Certainly, sir. Thank you very much. We have the first question from the line of
+Sudheer Guntupalli from Kotak Mahindra AMC. Please go ahead.
+Sudheer Guntupalli Nitin, thanks for the opportunity. Good morning. So, to remain above industry
+average growth for FY25 and industry average can be broadly assumed to be in the
+range of around 4.5% to 5%, so we should be able to clock 3%, 3.5% kind of
+growth or thereabouts in March. So, what gives us the confidence on that run rate
+apart from the deal wins? My question is broadly is there any other leakages that
+you're worried about? Or the portfolio can be assumed to be largely stable with
+incremental TCV to revenue conversion becoming faster?
+Nitin Rakesh So, Sudheer, I think the math is the math. You've done the math already. I think
+we do expect Q4 to be, I would say, the best quarter in the last three years from a
+sequential growth perspective. And I think you've already displayed some of the
+math skills. From the point of view of the portfolio, I think we are fairly forward-
+leaning, as I mentioned, to making sure that the pipeline continues to convert to
+TCV. We've seen, a six-quarter high in TCV in this quarter. In addition, we've
+signed a large deal already in Q4 within the first two weeks. So that actually gives
+us some boost to converting some of that into in-quarter revenue as well. So, all
+things put together, puts and takes, there's always going to be portfolio approach.
+At this point in time, I think we are fairly comfortable with where we stand
+especially as it relates to the remainder of the year. As we get into FY26, we'll
+probably give you more color. There is always work to be done, whether it's in
+some client segments, some verticals, some geographies. We called some of those
+things out in the script as well. But more importantly, I think staying very focused
+on conversion of both pipeline to TCV and TCV to revenue.
+Sudheer Guntupalli Got it, Nitin. And the sharp decline in Logistics vertical that we are seeing this
+quarter, is this one client led, or this is more broad-based and industry vertical
+Page 6 of 22
+Mphasis Limited
+January 24, 2025
+specific? And a related question is, any update on the logistics client where there
+is a bit of speculation that we may have lost this client and so on?
+Nitin Rakesh So, Sudheer, firstly, this is not linked. The decline you're seeing is not linked to
+any one customer. Some of it was expected but it's not just one customer led. I
+don't think it is constructive to over-index the conversation on “a customer”. As I
+said, right, we are aware of all the speculation and the rumours. It's very difficult
+to address each one of those, especially unfounded, or ability to name customers
+and discuss them gets very limiting from a management standpoint, given the
+broader context of competitive intensity, customer relationship, confidentiality
+contracts and so on and so forth. So, take it for what we are giving you: which is
+the ability to drive growth through the remainder of the year, the ability to focus
+on pipeline and conversion and the confirmation that the decline you're referring
+to in Q3 is not linked to any one single large decline. Again, if you triangulate it,
+you have all looked at the numbers. If that was the case, the US would have had a
+bigger decline than Europe. Just to give you some context. So, I think sometimes
+it's good to triangulate data points versus focusing on the narratives that you hear
+from the market or from our competitors.
+Sudheer Guntupalli Got it, Nitin. And just last question, what might be the impact of furloughs this
+quarter, if you can call out?
+Aravind Viswanathan So, it's pretty similar to what we experienced last year. The number is around 2%
+is what you can consider as the furlough impact for the quarter.
+Sudheer Guntupalli Sure, Aravind. And most of it is expected to reverse in the March quarter. Or are
+you seeing any peculiar impact of extended furloughs or something of that sort?
+Nitin Rakesh There are two parts to that answer. Firstly, I mean, the nature of the business is
+such that there is no automatic reversal of furlough in the following quarter. So,
+we have to make sure that we continue to work at a client level and at an account
+level to recover as much as we can recover back because there's a logical reason
+for that year-end action, right? You look at budgets getting closed at the end of the
+year and that also leads to certain action in Q3. Seasonality comes from furloughs
+and some of those actions. Because if reversal was automatic, then almost every
+peer of ours would report growth in Q4. And you know that's not the case. So, we
+are expecting to recover a portion of it back for sure. I would say a good healthy
+portion of it back. We are not seeing any material extension of the furlough into
+Q4. We probably saw some of that over the last two years. This year seems to be
+a little bit better, and hence that's also going into the confidence that I gave you on
+our Q4 performance.
+Sudheer Guntupalli Thanks, Nitin and Aravind. All the very best for the future.
+Page 7 of 22
+Mphasis Limited
+January 24, 2025
+Moderator Thank you. We have the next question from the line of Nitin Padmanabhan from
+Investec. Please go ahead.
+Nitin Padmanabhan Hi, good morning. Congrats on the solid deal wins. Nitin, two questions for you
+and one for Aravind. So, one is that I think your peer basically talked about how
+they've had to pass on a lot of AI-led productivity benefits to a very large customer.
+Are you seeing that and how are you thinking about that in terms of how much
+you'll be able to relatively retain? So that's one.
+The second is, I think if I look at the portfolio looks like BFSI, TMT, all of those
+are leaning towards high single digit year-on-year growth rates. But the only drag
+is from a Logistics and Transportation perspective. Now here, if you think about
+it, is the current quarter a more furlough driven impact and do you expect that to
+come back? And second, when you look at the deal pipeline and the order book
+within that vertical you see things improve? So those are the two questions for you,
+Nitin. And there's one for Aravind which I will ask later.
+Nitin Rakesh Yeah, you get to Aravind once I'm done because otherwise I'll forget my questions.
+I think the first question around AI-led productivity, It's a fairly nuanced answer
+because if the expectation is to implement it in a current portfolio where you're
+either doing a large dev program or a large run program and you have to protect
+your turf, then you obviously have to be fairly sharp about how much of that can
+you retain and how much of that you have to give back. But I think if you move
+the conversation away from just efficiency and cost savings to a Savings-Led
+TransformationTM approach, then the ability to bundle either a multi-tower, or AD
+with AMS, or run with change, for example, you take on an existing application
+portfolio with a very strong modernization story linked to it, then I think you have
+the ability to not only protect margins but actually grow your wallet share. And
+that's kind of what we are seeing.
+I can't comment on what somebody else said in terms of what they had to do. But
+in our case, we are not seeing this as any major headwind to either wallet share or
+margin. In fact, where we need to be, we will be very forward-leaning on
+supersizing deals using this. And that's what I called out in the commentary. A
+little bit of that definitely is playing out in the fact that pipeline is up 50% YoY
+because we are able to bundle a larger construct because that provides efficiency,
+certainty of outcome and rapid deployment of some of these solutions as the three
+key levers besides just cost. If the focus is going to be over-indexed on just cost
+saving, then it'll be very hard to convince the customer why they can't take all of
+that back into their P&L. So that's kind of on the first one. I'm happy to take more
+questions on that if you have.
+Page 8 of 22
+Mphasis Limited
+January 24, 2025
+On the second item, I think the pipeline is actually very, very broad-based. Some
+of our largest deals are spread very well across all the verticals including Logistics
+& Transportation. So, we do expect good deal activity. I don't think this is a very
+large furlough component. Some of it may be in there. This is definitely more a
+question of certain client-related project items or in some cases year-end related
+budgeting issues. But we do expect uptick in dealmaking in that vertical. I think
+the ‘Others’ vertical has also been contributing to a decline a little bit. It's been a
+little patchy in Healthcare. We had a couple of good quarters and then there were
+certain other payer-related headwinds that came in. So there's work to be done for
+us in Healthcare as well. And again, from a pipeline standpoint, from a deal closure
+standpoint, I think there is good activity in that vertical also. So I think, as I
+mentioned, a little bit more consistency needed across segments. That's very much
+the focus. But good news is, there's visibility in the pipeline very much there for
+all the verticals that need some work.
+Nitin Padmanabhan Perfect. That's helpful. Aravind, is there any one-off within the D&A line item?
+There's a marked increase this quarter and any specifics on revenue from tsQs that
+could accrue in the next quarter?
+Aravind Viswanathan So, there are no one timers per se, right? Typically, some marketing events that
+we've done and spends around that, that has come through. But I think if you see a
+three, four quarter trend, it kind of oscillates a little bit. So I don't think there is
+nothing much to read into it.
+Nitin Padmanabhan I was referring to the depreciation amount.
+Aravind Viswanathan So, on the depreciation side, as you know, we had won a deal last quarter on one
+of the large telcos. And as part of that deal, it was a consolidation deal, for which
+there was a money paid for rebadging employees and as part of that while the
+accounting followed M&A accounting, there is no goodwill or assets taken over.
+The entire amount paid is amortized into the P&L as depreciation of intangibles.
+And that is the amount that has kind of come in. I expect that it will normalize. But
+you have other transactions that we do, and we will have to see how that comes.
+But it is largely driven on the back of a new deal that we announced in October.
+On tsQs, we're not giving details on breakout.
+Nitin Padmanabhan Should we take this as a steady state?
+Aravind Viswanathan Actually, it will oscillate, right? I don't want to get into a quarter-wise forecast on
+this. But as we do deals like these, because we won another deal which we have
+talked about this quarter also as part of the consolidation. So maybe the previous
+one will little bit taper down and the new one will have an impact. So, I would say
+Page 9 of 22
+Mphasis Limited
+January 24, 2025
+that right now you may not see a very big difference in Q4 vis-a-vis Q3 on that line
+item.
+Nitin Rakesh So, Nitin, what Aravind is explaining is the accounting treatment. But from a
+philosophy standpoint, wherever we see an opportunity to do tail consolidation or
+take on contracts that might be with non-strategic vendors or that gives us an
+opportunity to structure a large five-year deal, we would actually do that even if
+that means that we have to structure a transaction where it works for both the
+customer and us. So, some of these will continue to be one-offs that you will see
+primarily driven by the fact that we see opportunity, we take it and we invest in the
+business and with the customer. And that's how we are getting these clients to
+progress through the client pyramid as well.
+Nitin Padmanabhan But would we need to worry about headwinds to margins with these transactions
+or it should be accretive over its life cycle? How should we think about it?
+Nitin Rakesh These are highly accretive deals if you look at the nature of the transactions, the
+tenure and the profitability. So, you don't need to worry so much about the
+accounting impact-related headwinds. Otherwise, we'd have called it out and you
+should have seen that -- you should have seen that in Q3 and in our guidance for
+Q4. I don't think that's the case.
+Nitin Padmanabhan Yeah, sure. Perfect. Thank you so much and all the very best.
+Moderator Thank you. The next question is from the line of Abhishek Kumar from JM
+Financial Limited. Please go ahead.
+Abhishek Kumar Yeah. Hi, good morning. Two questions, Nitin, both on TCV. First, you said in the
+presentation that TCV to revenue conversion is improving. Now two parts here.
+One, what was happening earlier? Was it just the slow conversion that was
+impacting the headline growth number or was it slightly elevated leakage because
+of mortgage and some of the other stressed top 10 accounts? And second, what has
+changed that is giving you the confidence that TCV to revenue conversion will be
+better going forward?
+Nitin Rakesh Both great questions. There was definitely churn in the business. I mean, we've
+talked about at peak what the contribution from mortgage was to at bottom what
+the contribution was. And there was a pretty big swing within four or five quarters.
+That stabilized definitely at the end of 2023 when we called for a bottoming in the
+business. Now this is the fourth quarter where we've seen sequential growth. I think
+we need a little bit more consistency in that number from a quarter-on-quarter
+perspective, which is what we are all focused on.
+From what has changed, I think some of the uncertainties that at a macro level
+started getting addressed, whether it was peaking of the interest rate cycle, middle
+Page 10 of 22
+Mphasis Limited
+January 24, 2025
+of 2024, it was clear that cycle has peaked. But it took another three months till
+September for the cuts to start. Between September and December, we had 100
+basis point cut that definitely had some uptick to not only volumes, but more
+importantly confidence in the cycle and the soft landing. Secondly, if you look at
+the outcome of the elections, there is some degree of certainty on the fact that the
+tax cuts will get definitely extended which means that enterprises can now plan
+budgets with that assumption in mind versus an uncertainty around how that goes
+and where that goes. That definitely leads to higher enterprise confidence when it
+comes to committing to larger programs.
+The issue earlier was, they would commit to a program, but it was one step forward,
+one step backward because the data points were so commingled and confusing that
+it was hard for them to take a two-year, three-year view as to whether they can
+commit that kind of budget for that duration. So, there was a very high scrutiny on
+projects and spends. Still high scrutiny, it's not that there's free money available,
+but at the same time, there is more confidence and the ability to commit to some
+of these larger programs has definitely upticked in the last, three months or so. So
+that's kind of where we are seeing the business and the approach and the confidence
+arriving from.
+And that also if you can see we've closed $450Mn in the last three months,
+including the January deal. That's a six-quarter high, probably more than the last
+two quarters put together. Pipeline is up. In addition to these big closures, pipeline
+has actually not just inched up, but it's actually jumped up to a number where we
+are 50% higher. It's a record number. 23% sequential growth in pipeline is not
+something that I've seen often in the business. Obviously, we've been investing in
+the large deal framework. We've talked about adding a new leader and very much,
+and as I said, forward-leaning on it, purely based on the qualification of the deals
+in the pipe, as well as the ability to continue to originate deals as well.
+So, all put together, environment looks to be improving further from where we
+were definitely this time last year. There was a little bit of a tentativeness in the
+recovery. And obviously, for the first two quarters of calendar '24, there was a fair
+amount of scepticism around whether the recovery will take shape. We've seen that
+across the industry now in the last two, three quarters. So, I think it's just a
+continuation of that trend.
+Abhishek Kumar Great. Just a follow-up on what you said towards the end. You've hired a new
+leader, you're looking at some of the large deals and we just discussed some of the
+rebadging, etc. So is that a conscious strategy to go after these consolidation deals,
+those sort of $100Mn+ kind of consolidation deals which we were probably not
+participating as much, given higher exposure to apps, etc. Is that a conscious
+Page 11 of 22
+Mphasis Limited
+January 24, 2025
+strategy that has changed recently and therefore we should expect slightly more
+larger deals going forward?
+Nitin Rakesh The answer is, this is very much a deliberate effort to balance risk reward as we
+look for opportunities and deals. And the reason I say that is that just because we
+are doing these consolidation deals which require some element of structuring or
+investment, doesn't mean that we are throwing caution to the wind and doing deals
+that shouldn't be done right. So, I just want to make sure that I articulate that very
+openly. Of course, we've focused on large deals. We've been reporting the number
+of large deals, for over five years now. We used to do one to two a quarter. We are
+now between three and five a quarter. Average deal size has gone up slowly but
+surely. We had a mega large deal quarter about six quarters ago. So this is very
+much a deliberate attempt at building muscle that we think is required. And by the
+way, not only is it required to get scale, but there's an opportunity to use the
+capabilities that we've been invested in. And I talked a fair bit about that in the
+script as well. So, I think this is very much a deliberate conscious attempt.
+Unfortunately, in business, you can't really have a subconscious confidence-driven
+winning strategy. So, we are focused very much on consciously driving growth
+through this.
+Abhishek Kumar Great. That's helpful. Thank you and good luck.
+Moderator Thank you. The next question is from the line of Vibhor Singhal from Nuvama
+Equities. Please go ahead.
+Vibhor Singhal Yeah, hi, thanks for taking my question. Nitin, just want to delve a bit more on the
+Logistics vertical. I know we've delved a lot on it already. I mean, it stands out as
+a sharp contrast to all the other verticals which actually reported quite handsome
+growth in this quarter. So, what ails this vertical, particularly if you can delve a bit
+more on this? Is it that the vertical itself is facing tech spends which are coming
+lower? Is it some clients who are actually ramping down or is it loss of wallet share
+or something like that? And can you provide some trajectory as to when do you
+think this vertical could bottom out for us in the coming quarters?
+Nitin Rakesh So, let me first break down the vertical for you. It is called Logistics and
+Transportation because it has a combination of Logistics, Airlines, Railroads in
+there. Logistics isn't just what you think it is. There is a supply chain element to it.
+There are shipping companies in there, airlines is well understood. It's a new
+vertical we created over the last two and a half years. We've announced multiple
+wins in that area, including the recently won AWS Industry Partner of the Year
+award for Airlines in 2024 that was handed to us at the re:Invent. And then of
+course there's the Railroads element. So, if you look at all of these three have a
+different dynamic and a growth trajectory. The Airline business has grown well for
+Page 12 of 22
+Mphasis Limited
+January 24, 2025
+us. Obviously it's a very small base. We expect that to become a much more
+meaningful portion of this business over the next 18 to 24 months. A large number
+of deals and the activities that we are talking about actually do sit there. Same with
+some of the other segments of this vertical. The decline, as I mentioned, is not
+related only to one large customer or any one single customer. It's a combination
+of things that happened. And again, as I mentioned, there are seasonality factors at
+play, not just the cyclicality of the business. The non-airline business is also
+something that is exposed highly to global macro and supply chain headwinds.
+There is definitely work to be done there. And again, not every customer in every
+segment will grow at the same pace, either on a sequential basis or on an annual
+basis. So, this is kind of the puts and takes that we are dealing with. Fairly focused
+on driving growth through deal wins and of course making sure that we continue
+to protect what we can with existing customers as well as acquiring new customers.
+Vibhor Singhal And any timeline that you could provide that when you think with the effort that
+we are making in terms of Airlines and other sub segments when this vertical could
+bottom out for us, we could start seeing positive sequential growth in this quarter?
+Any kind of a subjective direction itself also would be helpful.
+Nitin Rakesh So, Vibhor, I can give you an answer, but the answer can change within like one
+deal being signed up, right. This is not a vertical, the size of Banking for us. So,
+the shape of the vertical can change very, very quickly. So, I think what I will tell
+you is, the portfolio visibility that we've given you for Q4 assumes a certain set of
+actions. That could change as we announced or as we try to close deals, and we
+announced activities there. So instead of giving you a timeline by which this will
+bottom out, I would just tell you that we'll continue to update you as we progress
+our actions because there are some really interesting actions that we're trying to
+execute.
+Vibhor Singhal Got it. That was helpful. Also, just to quickly pick your brain on the Insurance
+vertical, how do you see the outlook for that vertical going forward? I think BFS,
+I think we've spoken a bit about that. I think that's quite clear. On the Insurance
+any key puts and takes that you would probably want to share? The growth has
+been quite good through this year, in fact, through the last six quarters. Do you
+expect the momentum to continue?
+Nitin Rakesh Again, we started talking about stabilization in that about a year ago and we've
+seen a pretty decent growth in that business sequentially this quarter. Some of it is
+linked to new client acquisition and expansion of our wallet share in that business.
+That business obviously is across both sides of the Atlantic. So, there is a UK,
+European element and then there's obviously a US element. I think at this point it
+looks like that it will continue to give us sequential improvement. We have
+Page 13 of 22
+Mphasis Limited
+January 24, 2025
+visibility into existing clients where we won wallet share and deals that will
+continue to convert. So, I mean, from the point of view of leading the growth, I
+think it'll still probably be led by Banking and TMT, but Insurance definitely is a
+contributor to growth from an overall company standpoint as we go over the next
+few quarters. And again, caveat that with the fact that deal activity can change all
+of that pretty quickly, right? So that's the focus on from a pipeline conversion
+standpoint.
+Vibhor Singhal No, got it. That's really helpful. I think the deal conversions have been quite good
+and fingers crossed that that continues to change the momentum for us.
+Vibhor Singhal Great. Thanks for taking my questions and I wish you all the best.
+Moderator Thank you. We have the next question from the line of Sandeep Shah from Equirus
+Securities. Please go ahead.
+Sandeep Shah Yeah, thanks. Thanks for the opportunity. Nitin, just wanted to understand, any
+client conversation in the Insurance segment because of the California fires? Do
+you believe the growth momentum can disrupt going forward?
+Nitin Rakesh I think it's still a little bit early days. We have not at this point seen that
+conversation reach our offices or desks or interactions. I think it's a very
+complicated state as well as a federal subject. Maybe some clarity will emerge now
+that the administration is in place. There's definitely going to be some impact on
+some large carriers, especially that cover home and auto because both of those will
+take an impact. But I think there is probably a realization that there is a dollar limit
+to that given the backstop that was given by the government in California. So, at
+this point, nothing to call out. We'll keep watching it. I don't think the incidents are
+behind us yet because there seems to be some more activity this week. So, I think
+nothing to call out on that front. We probably will know more about it as they
+report their current quarter earnings and make some disclosures. On the flip side,
+though, I think it gives us an opportunity to sharpen our pencils and go to them
+with some propositions. So that's something that we've already started to think
+about.
+Sandeep Shah Okay. And in terms of large deals, with a conscious effort to increase, is it fair to
+assume that these large deals will also be at a company average or there could be
+some investment which may lead to some compromise on the margins going
+forward?
+Nitin Rakesh Very, very good question. I think the stance that we've taken is, and we've talked
+about it for the last, I would say, a few quarters, maybe even few years is we
+continue to prioritize growth and hold the margin steady which means, if we have
+the ability to drive operational efficiencies, we'd love to invest that back into
+Page 14 of 22
+Mphasis Limited
+January 24, 2025
+growth. Growth can come from, I mean, investment requirement is in three or four
+different buckets. First one is definitely capability. We've been investing, we've
+actually upped our investment in capability, competency, as we built these AI
+platforms over the last few years, especially over the last 18 months. Second
+investment required is in GTM which, for example, setting up the large deals team,
+expanding our coverage on accounts, going from just the top 10 to the next 20
+accounts, expanding into newer verticals and newer geographies. All of that
+requires investment in GTM. And the third investment is at a deal level, within a
+large deal construct, what investment is required and how much of that can be
+absorbed. And that's why I think Aravind was explaining earlier, as we've looked
+at some of these large deals, we felt we could absorb that level of investment
+without disrupting our overall margin profile. So, we do expect these deals to
+obviously be either at or above the overall company average if we have to hold our
+margins steady. So, I think that's the approach and the philosophy with which we
+are approaching the market. Again, the ability to use discontiguous opportunities
+using some of these platforms gives us confidence that we have line of sight to
+what's the art of the possible, what's the size of the prize is. Of course, competitive
+intensity in the business is always high. There are peers who are in a way punting
+the savings percentages in the outer years to get into the deal in the earlier years.
+We have to just be very careful that we have the level of confidence that we can
+actually execute to those programs. And I think given that we've been executing
+these large deals over the last few years already, I think we do have a pretty good
+idea what the guardrails should look like.
+Sandeep Shah Okay. And just a last book-keeping question. The 9th January deal which we have
+signed with tsQs Inc., is it the deal construct like M&A or the deal construct is
+similar to what we have signed in EDZ and that may keep the amortization cost
+higher for a foreseeable future?
+Aravind Viswanathan It will be identical, Sandeep, to EDZ. It is another vendor consolidation deal, right,
+with people take over. So, it will be identical to that. And again, at a deal level,
+these are, I would say, accretive to the company margins, even post the
+amortization. So that's the way you should look at that.
+Sandeep Shah Okay. So, amortization line as per you, Aravind, may not materially decline in the
+fourth quarter, but may come down starting next financial year?
+Aravind Viswanathan Yes. Unless we win more deals which necessitates such line items to come through.
+Sandeep Shah Okay, thanks. And I will come back in the queue.
+Moderator The next question is from the line of Rishi Jhunjhunwala from IIFL Institutional
+Equities. Please go ahead.
+Page 15 of 22
+Mphasis Limited
+January 24, 2025
+Rishi Jhunjhunwala Yeah, thanks for the opportunity. Nitin, if we look at, say, our revenues over the
+past three years, including the down-cycle of FY24, we are up 5%. If we look at
+headcount during the same period, it's down 15%. And even in the last one year
+now, as of 3Q YoY basis, our revenues are growing 5%, our headcount is down.
+Just wanted to understand, and you've talked a lot about the contribution of AI into
+some of the deals that we are winning. I just wanted to understand how much the
+non-linearity is getting played out in the new business that we are doing and
+whether is it fair to assume that even going forward, for the revenue growth that
+we might achieve, the non-linearity is potentially going to expand and as a result
+could be a margin lever.
+Nitin Rakesh So, Rishi, great question. I was waiting for someone to ask the question because I
+knew this was going to be an item for discussion. If I look at the metrics you shared,
+especially over the last 12 months, I think there are three components to it that you
+should think about when it comes to revenue to headcount correlation. The very
+first component very evidently reported is utilization. We were running at a lower-
+than-industry utilization because of the infusion of pyramid. We've talked about
+construction of the pyramid in '22-'23. That doesn't happen in one or two quarters.
+It actually takes multiple quarters to do. So, the shape of the pyramid definitely
+changed and that meant that we had to actually lower our utilization. And now
+we've been eating into that utilization over the last four quarters. Still work to do.
+We'll probably see some infusion again at the bottom of the pyramid. We'll
+continue to work on those actions based on the rolling 90-day headcount
+requirement plan that we run. Second element of the headcount revenue correlation
+is onsite versus offshore. If you see in the same period, onshore headcount has
+actually gone up at a billable level. And that's because as we do some of these deals
+that have been talked about, they start onshore, and then we transition them over a
+period of one or two or three quarters. And that I think has distorted a little bit of
+the revenue to headcount correlation purely for the last four quarters. Nothing
+alarming because in the end the thesis will always be 30-70, 20-80. That's the
+reason why clients look for savings. Our ability to infuse right-shoring with tech is
+important. We've already talked about centres outside of India that don't count in
+the offshore locations, so that's all sitting in there. Third element of that is the AI
+or non-linearity that we talked about. We are definitely seeing some of that,
+especially in areas that require AI-led Ops, for example, production support,
+enhancements, QA, the ability to drive 30%, 40% of the manual effort is definitely
+driving conversations. Again, I mention the fact that not all of that has to be in a
+T&M construct. So, when we do some of these in a managed outcome basis, even
+in the mortgage business, we have the ability to drive efficiency using some of the
+same constructs. That is starting to play out. It's a little bit early days for that, but
+Page 16 of 22
+Mphasis Limited
+January 24, 2025
+it's definitely very much in that equation in the last four quarters and will probably
+be more in the equation over the next four quarters because some of the deals we've
+sold very recently will require us to strengthen that muscle. In the longer run, the
+correlation between revenue growth and headcount growth will not go away, but
+it won't be as high as it used to be in the last 10 years.
+Rishi Jhunjhunwala Understood. And just one confirmation. You made a comment earlier in the call
+that 4Q could potentially be the strongest 4Q you have seen from a QoQ growth
+perspective in the last three years. I'm just confirming the last three years, you
+mean 4Q FY23/4/5, because 4Q FY22 was 4.3%?
+Nitin Rakesh Yes, you're right. That was the previous peak. Since then, is what I meant when I
+said last three years.
+Rishi Jhunjhunwala Yeah, just wanted to confirm. Thank you.
+Nitin Rakesh Yeah, absolutely. Thank you
+Moderator The next question is from the line of Dipesh Mehta from Emkay Global. Please go
+ahead.
+Dipesh Mehta A couple of questions. First about the $100Mn deal which we subsequently
+announced in the current quarter. If you can provide some more detail about the
+contour of the deal in terms of whether it is existing client, new client, vertical. If
+you can share whatever additional detail you can share.
+Second question is about the top 20 clients. Considering because now budget cycle
+is getting finalized and if one wants to get confidence about growth considering
+the concentration which we have, are we seeing any, let's say, signs of concern area
+in any of the top 20 clients which can lead to, let's say, issues and derail growth
+momentum which we likely to see in Q4, entering into FY26? And last question
+is, we give new-gen TCV numbers. Surprisingly, it fell below 50% this quarter,
+which we have not seen in at least recent past. If you can provide, because the way
+we are suggesting deal construct kind of thing, then these components would be
+higher. Surprisingly, in Q3, that number is the lowest which we have ever seen
+kind of thing. Thank you.
+Nitin Rakesh Sure. So, I think the first one is around the new deal in Q4. It is in the Banking
+domain, and it is a new customer. And the nature of work is application and
+infrastructure transformation using public and private cloud. That's the deal, the
+execution timelines are pretty clear, well defined and it's definitely a 2025 calendar
+year execution initiation as well. It's a multi-year deal. Second question was, do
+we see any clients in the top 20 that can contribute to growth, if I'm understanding
+correctly, right?
+Dipesh Mehta Yeah, it is reverse, whether it can create headwinds?
+Page 17 of 22
+Mphasis Limited
+January 24, 2025
+Nitin Rakesh Headwinds. Again, it's very difficult to call a client in the top 20. Again, you can
+ask that question with a different context of top 10 or verticals. So, I think puts and
+takes will always be there. There are always clients that are declining sequentially
+or YoY. Our effort is to make sure that the net positives are higher than the net
+negative. So, from that perspective, the top 5, top 10, top 20 anyways is a dynamic
+list. It's not the same static list. There are clients in the top 10 today that were not
+in the top 10 a year or two ago and that's very much the focus from a pyramid
+growth standpoint. So, nothing to really call out at this point. We will continue to
+monitor the portfolio both at a geo, vertical and a client segment level and report
+it. And the third question was around new-gen. It's a good question. We've been a
+little bit conservative in taking some of these vendor consolidation opportunities
+and not reporting them as new-gen and that's what's driving the lower percentage.
+Because the large deal that Aravind talked about that we've done with an existing
+customer with a consolidation play, we so far have not applied any new-gen or AI
+muscle to it. So that's something that we will do during execution. But from a
+reporting standpoint that's probably what's distorting the new gen percentage.
+There's definitely going to be infusion of tech-led capability besides just right-
+shoring to make sure that the deal is executed for what we committed to the
+customer
+Dipesh Mehta Just harping more on the top 20 which I said, it is more from the growth
+perspective. Let's say, we will see good momentum picking up for us in Q4. If any
+of those issues again crop up, we will see deceleration considering we have fairly
+high concentration in top 5, top 10, top 20 and that's why I try to get sense do you
+see, let's say, considering puts and take which we know in the portfolio of top 20
+clients, can provide any big headwind to our growth acceleration momentum,
+which we have started to see?
+Nitin Rakesh So, Dipesh, again, difficult to give you. I mean, I really don't have a way to
+calibrate as to what the exact response should be, except tell you that there will be
+hotspot accounts. There are hotspot accounts in the top 10, top 20, because as I
+mentioned, not every account, not every vertical will grow at the same pace
+consistently. We will take a portfolio approach and continue to report it. We
+definitely have work to do where we think we can plug some of these headwinds.
+There are two ways to grow. One is everything grows. Other is you grow around
+all the issues that you have. So, we try to do both of them and wherever possible
+look for opportunities to grow around issues as well. And we've done that in the
+past. You looked at our concentration to one large customer five years ago used to
+be almost 26%, 28%. We are down to 2%. We've also looked at concentration or
+risk coming out of the mortgage business. So, we've grown around that as well. So,
+I think we'll continue to just apply the same playbooks that we know how to and
+Page 18 of 22
+Mphasis Limited
+January 24, 2025
+in a way, the lead indicators will always be pipeline, pipeline to TCV, TCV to
+growth.
+Dipesh Mehta Understand. Thank you.
+Moderator Thank you. The next question is from the line of Shradha from AMSEC. Please go
+ahead.
+Shradha Agrawal Yeah. Hi, Nitin. Two questions from my side. (not audible).
+Nitin Rakesh Shradha, your voice was breaking. Can you please repeat the question?
+Shradha Agrawal Yeah. So we've been operating at 74%, 75% utilization since last two, three
+quarters. So how do we read the trajectory of utilization from here onwards?
+Aravind Viswanathan So I think we've had a sharp improvement in utilization over the last four quarters,
+right. I think it is safe to say that we would be around similar levels. But I think
+one of the points that we've at least been very focused on, right, pivoting towards
+growth. And I think a lot of our supply chain is determined by how the growth
+materializes. Now, if you really look at even the data that we share, you've seen a
+sharper increase in on-site over the last three, four years and naturally that lends
+itself to a better blended utilization because on-site always operates at higher
+utilization. So I would say that directionally I don't see a major shift in utilization
+from where we are. But utilization, supply chain are frankly input parameters to
+manage demand, right? And if there is a change in the nature of demand which we
+don't see currently, but if there is, things will change, but otherwise it should be
+along similar lines.
+Shradha Agrawal Right. And just couple of questions from me…..(not audible)
+Moderator Sorry to interrupt, Shradha, but your line seems to be breaking in between once
+again. Maybe request you to please move to an area with better network or
+reception?
+Nitin Rakesh Or if you don't mind just send that question on the chat window. I'm sure there is
+one way to do that.
+Moderator Thank you. The next question is from the line of Manik Taneja from Axis Capital.
+Please go ahead.
+Manik Taneja Hi. Thank you for the opportunity and congratulations for the steady performance.
+Nitin, while you mentioned about the fact that we should probably see the
+correlation between revenue growth and headcount reduce going forward, it will
+be great to understand your thoughts as to do you think some of these transitions
+towards almost like a platform business can drive margin gains for us given in the
+past we've seen the industry compete the way the margin gets back to customers?
+That's question number one. The second question, with the way that you see
+Page 19 of 22
+Mphasis Limited
+January 24, 2025
+demand playing out across different industry segments, do you think our
+concentration or proportion of business coming in from Banking once again grows
+in the foreseeable future given the way one is seeing industry demand progress?
+Nitin Rakesh So, I think the first question let me take that one. I'm not sure second one I
+understand, but let's take the first one around transition to the platform model. I
+think that is in a way the North Star. Question is, as you rightly said that industry
+has competed away the gains from this model back to the customer. There are two
+issues that we are very, very watchful of. Change management at the client level.
+Will the client buying behaviour change from buying predominantly capacity-
+driven contracts? Second change, management behaviour will always be around
+competitive intensity, the ability to construct deals that actually give you some lift
+and some benefit. Early days, I think we are in the first innings of a baseball game,
+so to speak. This will play out over the next few years definitely. All I can tell you
+is there are existing instances of at least a handful of companies that have managed
+to transition from a pure services or a solutions business to a platform-based
+services business. We are very focused on learning the best practices and making
+sure that, as we invest in some of the platforms, we will definitely take a
+commercial approach that is value-accretive to the customer to begin with, but
+most importantly also highly gives us a degree of differentiation and stickiness that
+helps us beyond just looking at short-term margin lifts. So I think again, early days.
+This is a topic that will continue to be discussed over the next few quarters. We are
+again very deliberately and consciously driving a whole set of actions around it,
+and we'll continue to keep you updated. If you don't mind, can you repeat the
+second question, please? BFSI growth I understand, but...
+Manik Taneja Sure. So, my second question was that in the post-pandemic demand upswing, we
+saw the proportion of revenue that we get from Banking go up given the strong
+spending in that segment. Do you see that once again inch up in the foreseeable
+future given the way you are seeing demand patterns play?
+Nitin Rakesh Manik, short answer is, we will take the growth where we can find it, in the short
+run because there is only one colour of currency. If you look at our longer-term
+trajectory, let's take, a five-year, seven year view as well. Banking used to be 50%
+of revenue and it's still very much 50% of revenue at an overall company level,
+give or take a percent here or there. So I think the portfolio diversification approach
+of building the other enterprise verticals definitely has given us good rewards in
+the last three or four years. And TMT is a great example. The approach to very
+short term will always be over-index on opportunity and deal making. And the
+approach to long term is to continue to look at portfolio across verticals,
+geographies, and services. So, I wouldn't worry too much about getting
+overexposed. I think there is tremendous opportunity and by the way, this is
+Page 20 of 22
+Mphasis Limited
+January 24, 2025
+without the upside risk to business growth if the interest rate cycle truly plays out
+in some shape or form. And this is the first time we've seen in, I think, the history
+of financial markets that at least I've been following where after 100 bps cut, the
+10-year has gone the other way. So, I think we have suffered a little bit in the last
+couple of years. We'll take the benefits in the very short run, and we'll continue to
+focus on driving in our core vertical the right to win and expand as much as we can
+with existing clients, new clients, new geographies in the BFSI segment.
+Manik Taneja Sure. Thank you and all the best for the future.
+Moderator Thank you. The next question is from the line of Abhishek Shindadkr from Incred
+Capital. Please go ahead
+Abhishek Shindadkr Hi, thanks for the opportunity and accommodating me. Nitin, just one question on
+the headcount. Now, how should we read the decline in the headcount and
+corresponding change in the next-gen services TCV? So, it seems like a strategy
+to focus on managed services deal. Now, are we kind of planning headcount for
+the potential rebadging of employees that can happen associated with this kind of
+deals or it is the change of a pyramid where we are moving from the middle layer
+to more freshers and that's what is a reflection of it? Thank you.
+Nitin Rakesh Yeah, I think I addressed the headcount issue that Rishi had asked. I don't have
+anything new to add except tell you that you can't plan for a rebadge deal until the
+deal happens. If it happens, you work, you plan around it and you see how to
+optimize your current pyramid and your current deliverable to the customer. So, I
+think the short answer is that we will continue to do headcount forecasting on a
+rolling 90-day basis, look at how the demand environment looks like across
+locations and skill sets and then try to meet that with either internal utilization or
+external fulfilment. And that's very much an operational rigor that is well built into
+the company and will continue to get optimized as we grow the business.
+Abhishek Shindadkr Thanks. And just a follow-up question to it. As we move more towards managed
+services deal, has anything changed in terms of the revenue recognition for the
+managed services deals? Last year, we had heard of taking transition timelines up
+to six months. Anything changed on that count would be helpful. Thank you.
+Nitin Rakesh Yeah, I think the revenue acceleration from TCV definitely has improved which
+means the transition timelines are not as long right now. When it comes to managed
+services, it's a combination of right-shoring and effort elimination as I mentioned
+earlier. So that will definitely play out into the aspect of the non-linearity in
+headcount to revenue correlation. Beyond that I think we will report and explain
+these numbers as we go forward. But we are looking actively for opportunities
+where effort elimination is very much part of the thesis of constructing a solution
+and large deal around it.
+Page 21 of 22
+Mphasis Limited
+January 24, 2025
+Abhishek Shindadkr Great. That is very helpful. Thank you for taking my question and best wishes for
+the next year as well.
+Moderator Thank you. Ladies and gentlemen, we will take that as a last question for today. I
+would now like to hand the conference over to Mr. Nitin Rakesh for closing
+comments. Over to you, sir.
+Nitin Rakesh Thank you very much. And on behalf of Mphasis, that concludes this conference
+call. If you have any further questions, please reach out to our Investor Relations
+team. And we thank you for your interest and look forward to speaking to you
+again in three months.
+Moderator Thank you. Ladies and gentlemen, on behalf of Mphasis Limited, that concludes
+this conference. If you have any further questions, please reach out to the Mphasis
+Investor Relations team at investor.relations@mphasis.com. Thank you all for
+joining us. You may now disconnect your lines.
+Page 22 of 22

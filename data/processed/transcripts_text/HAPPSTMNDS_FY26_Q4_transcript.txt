@@ -1,0 +1,982 @@
+Happiest Minds Technologies Limited
+Regd. Office: #53/1-4, Hosur Main Road, Madivala,
+Bengaluru-560068, Karnataka, India
+CIN of the Co. L72900KA2011PLC057931
+P: +91 80 6196 0300, F: +91 80 6196 0700
+Website: www.happiestminds.com
+Email: investors@happiestminds.com
+June 02, 2026
+Listing Compliance & Legal Regulatory Listing & Compliance
+BSE Limited National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers Exchange Plaza, Bandra Kurla Complex
+Dalal Street, Mumbai 400 001 Bandra East, Mumbai 400 051
+Stock Code: 543227 & 975101 Stock Code: HAPPSTMNDS
+Dear Sir/Madam,
+Sub: Transcript of Earnings Call held on May 29, 2026
+Pursuant to Regulation 30 read with Para A of Part A of Schedule III of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the Earnings Call held
+on May 29, 2026, post announcement of financial results of the Company for the quarter and financial
+year ended as on March 31, 2026. The transcript is also uploaded on the Company’s website
+(https://www.happiestminds.com/investors).
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For Happiest Minds Technologies Limited
+Praveen Kumar Darshankar
+Company Secretary & Compliance Officer
+Membership No. F6706
+“Happiest Minds Technologies Limited
+Q4 FY’26 Earnings Conference Call”
+May 29, 2026
+Management: Mr. Joseph Anantharaju – Co-Chairman and Chief Executive Officer
+Mr. Venkatraman Narayanan – Managing Director
+Mr. Ram Mohan – Chief Executive Officer, Infrastructure
+Management and Securities Services (IMSS)
+Mr. Sridhar Mantha –Chief Executive Officer, Generative AI Business
+Services (GBS)
+Mr. Anand Balakrishnan – Chief Financial Officer
+Mr. Praveen Darshankar – Company Secretary and Compliance
+Officer
+Ms. Priyanka Sharma – Head of Investor Relations
+Moderator: Mr. Vinesh Vala – HDFC Securities Limited
+Moderator: Ladies and gentlemen, good day, and welcome to Happiest Minds
+Technologies Limited Q4 FY26 Earnings Conference Call hosted by
+HDFC Securities Limited. As a reminder, all participant lines will be in
+the listen-only mode and there will be an opportunity for you to ask
+Page 1 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+questions after the presentation concludes. Should you need
+assistance during this conference, please signal an operator by pressing
+star and then zero on your touchtone phone. Please note that this
+conference is being recorded.
+I now hand the conference over to Mr. Vinesh Vala from HDFC
+Securities Limited. Thank you, and over to you, Mr. Vala.
+Vinesh Vala: Good morning, ladies and gentlemen. Thank you for joining us today
+on the Q4 Earnings Call of Happiest Minds Technologies Limited. On
+behalf of HDFC Securities, I would like to thank the management of
+Happiest Minds for giving us the opportunity to host this call.
+Today, we have with us Mr. Joseph Anantharaju, Co-Chairman and CEO;
+Mr. Venkatraman Narayanan, Managing Director; Mr. Ram Mohan,
+CEO, Infrastructure Management and Security Services Business; Mr.
+Sridhar Mantha, CEO, Generative AI Business Services; Mr. Praveen
+Darshankar, Company Secretary and Compliance Officer; Mr. Anand
+Balakrishnan, CFO; Ms. Priyanka Sharma, Head, Investor Relations.
+I will now hand over to Priyanka Sharma for the safe harbor statement
+and to take the proceedings forward. Thank you, and over to you,
+Priyanka.
+Priyanka Sharma: Thank you, Vinesh. Good morning to all participants on the call, and
+welcome to the Conference Call to discuss the financial results for the
+fourth quarter and year ended March 31, 2026. I'm Priyanka Sharma,
+Head of Investor Relations. We hope you have had an opportunity to
+review the earnings release issued yesterday.
+Now let me quickly walk you through the agenda for today's call. Joseph
+will begin by sharing his perspectives on the business environment, our
+strategic priorities and overall business performance. Sridhar will touch
+Page 2 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+upon our enterprise AI platform, AI-led transformation initiatives and
+progress around Gen AI-led engagements and capabilities. Thereafter,
+Mr. Venkat will walk you through the financial and operational
+performance for the quarter and full year, followed by our outlook for
+FY27.
+Following the management's commentary, we'll open the floor for
+questions. Before we begin, let me read the safe harbor statement.
+During this call, we may make forward-looking statements. These
+statements reflect the environment we see as of today and involve risks
+and uncertainties that could cause actual results to differ materially.
+We do not undertake any obligation to update these statements
+periodically. With that, let me now hand it over to Joseph.
+Joseph Anantharaju: Thank you, Priyanka. Good morning, everyone, and thank you for
+joining us today. FY26 was an important year for Happiest Minds
+Technologies from both a business and strategic standpoint.
+We delivered healthy growth, sustained strong profitability, improved
+utilization, crossed 300 active customers, took several platforms to
+market and further strengthened our positioning as an AI-first digital
+engineering partner. FY26 also marked 15 years since the founding of
+Happiest Minds, a proud milestone, giving us an opportunity to reflect
+on the journey so far and more importantly, the opportunities ahead.
+Let me start with a quick view on the market. The year continued to be
+shaped by a mixed macroeconomic environment. While discretionary
+spending remains selective in some of the traditional areas, we saw
+increasing momentum and budget allocation in AI-led business
+transformation, modernization, automation of internal processes and
+productivity-focused programs.
+Page 3 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+AI and GenAI are now central to most customer conversations, and this
+is translating into Happiest Minds being viewed as a strategic partner,
+strong customer engagement, robust pipeline growth and improving
+conversion visibility. There also has been increasing discussion around
+platform companies entering the services arena. Our view remains
+clear. We see this as a positive structural shift for the industry and for
+Happiest Minds.
+Historically, when platform companies such as SAP and Microsoft
+expanded into services, it spurred further demand and created
+significantly larger opportunities for the broader IT services ecosystem.
+Platform providers often generate demand through co-innovation and
+partnership programs and have traditionally relied on partners for scale
+and execution.
+Turning to performance. FY26 revenues crossed INR2,315 crores,
+representing a year-on-year growth of 12.3% in INR terms, while the
+constant currency growth for the year came in at 9.2%, which is among
+the higher growth rates in the industry. EBITDA margins remained
+within our guided range of 20% to 22% despite continued investments
+in AI capabilities, platforms, sales expansion and future-ready talent.
+From a customer standpoint, we ended FY26 with 306 active
+customers, including 51 additions during the year, reflecting the
+success of our enhanced strategy. We also continue to deepen
+engagement across large enterprise accounts and today serve over $91
+billion corporations globally.
+Importantly, during Q4, we saw a record pipeline growth of 27%, which
+gives us increasing confidence in our FY27 outlook. Based on this
+momentum, the Board has reconfirmed FY27 growth guidance of
+12.5%, while we continue to remain aspirational about a 15% growth
+trajectory. This is reflected in the planned headcount of 1,050 for FY27
+Page 4 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+with the bulk of hiring taking place in the generative AI business unit
+and the analytics and AI CoE.
+Over the last few quarters, we have spoken about our early
+investments around GenAI and our broader AI-first strategy, which
+Sridhar will expound further on. During FY26, we saw this translate
+more meaningfully into scaled engagements, customer adoption and
+stronger pipeline momentum.
+Enterprises today are increasingly looking for partners who can help
+them move AI initiatives from experimentation towards measurable
+business outcomes, and that is where Happiest Minds is seeing strong
+relevance.
+Based on our internal innovation initiatives and experience
+implementing AI strategies for our customers, we recently announced
+the launch of our enterprise AI platform. The platform is designed to
+help enterprises accelerate AI adoption in a secure, scalable and
+enterprise-ready manner while reducing execution complexity and
+implementation risk.
+The overall momentum buildup was also reflected in several strategic
+wins during the quarter, including engagements such as a U.S.-based
+insurance and financial service provider for product engineering
+services, a global warehouse automation leader for engineering and
+security applications and a European health care software company for
+modernization of its hospital management platform.
+Sridhar will talk a little bit about some of our experiences in the AI
+space. From a vertical perspective, growth during the year was led by
+BFSI and Healthcare and Life Sciences, both of which continue to see
+strong momentum driven by AI-led transformation, digital engineering
+and modernization programs.
+Page 5 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+Retail and travel, media and entertainment verticals also delivered
+steady growth during the year, while industrial remained stable. We
+are additionally seeing signs of revival in the education sector, driven
+by GenAI adoption, which we are capitalizing on with our Eduweave
+platform repeatable solutions.
+Geographically, the U.S. remained the largest market with healthy
+momentum across AI-led transformation and modernization programs,
+while India, Europe and the rest of the world all showed good growth
+during the year.
+We also strengthened our leadership team during the quarter with the
+addition of Prathamesh Kulkarni as Executive Vice President to lead our
+BFSI, Healthcare and Life Sciences and Retail CPG verticals. We have
+Suresh Chettur, who joined us as the Digital First Automation CoE Head;
+Siddharth Dhandapani to spearhead our GCC business; and Samarjeet
+Singh as Vice President of our newly launched SAP Center of Excellence.
+Overall, we are entering FY27 with stronger strategic positioning, a
+strong pipeline, healthy order book and momentum across customers
+and markets. We believe the convergence of AI, engineering,
+modernization and automation is expanding the digital transformation
+opportunity and Happiest Minds remains well-positioned to participate
+meaningfully and take advantage of the opportunities offered by this
+evolving landscape.
+With that, let me hand it over to Sridhar to share more details on our
+AI-first strategy and the enterprise AI platform. Sridhar, over to you.
+Sridhar Mantha: Thank you very much, Joseph, and good morning, everyone. Over the
+last year, of course, as all of us are observing, enterprises have moved
+decisively from AI experimentation towards scale deployment.
+Page 6 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+The challenge today is not access to the AI models or the quality of the
+AI models, but integrating AI securely into the enterprise workflows
+and driving measurable operational outcomes. That's precisely where
+our enterprise AI platform is focused.
+The platform brings together intelligent agents out of the box, and
+orchestration capabilities with all the agents that exist as well as get
+developed, governance framework for security and guardrails and
+reusable engineering components into a completely unified enterprise-
+ready architecture.
+We are leveraging our experience in building multiple AI solutions for
+customers and our repeatable solutions experience over the last
+several years to create a customizable platform for our clients across
+multiple verticals.
+We are seeing increasing traction across AI-assisted software
+engineering, AI-led modernization, intelligent automation,
+infrastructure optimization, leveraging AI and AI workflows within
+cybersecurity operations and enterprise copilots.
+We are also working on merging hybrid coding paradigm, combining
+the coding agents with the human developers, creating a meaningful
+opportunity for enterprises to modernize complex legacy
+environments in a more efficient and lower-risk manner while driving
+productivity improvements.
+As shared last quarter through our AI-first strategy, we continue to add
+more generative AI and Agentic AI use cases that have moved beyond
+prototypes, as Joseph mentioned, into scaled customer engagements
+with several demonstrating replicable sales potential across customer
+accounts and industry verticals. And today, we have 50 use cases
+identified and already implemented.
+Page 7 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+We are also increasingly embedding Agentic AI frameworks into
+enterprise workflows where autonomous and semi-autonomous
+systems can improve operational efficiency while maintaining
+governance and human oversight. I'll give a quick view about 3 new
+wins we started working as well as delivered in some scenarios we had
+last quarter that illustrate the kind of projects that we are currently
+working in the AI space.
+We won a project from a bottling company in Africa, where we had to
+also create necessary digital infrastructure so that we can actually
+leverage AI in terms of IoT enabling their coolers and then creating the
+Agentic AI solution, addressing asset performance optimization.
+The solution basically analyzes the efficiency of all their coolers and
+makes the necessary recommendations like reallocation of some
+coolers, which in turn saves money through effective utilization. So this
+is an example where a customer wants to leverage AI, but we have to
+actually create the necessary digital infrastructure as IoT sensors,
+etcetera, for their hardware devices and coolers.
+The second example I would like to talk about is for a large automobile
+company in India, we are actually creating an Agentic infrastructure
+because a lot of times, before we actually start creating Agentic
+solutions, we need to actually rely upon the enterprise systems for data
+and information so that the agents on the top can actually leverage that
+information to create more intelligent applications.
+So we actually are creating MCP servers wrapping their 900 APIs so that
+new Agentic AI solutions can be developed. So this is an example where
+creating the necessary Agentic infrastructure for the new Agentic
+solutions to be further developed.
+Page 8 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+The third and last example I want to talk about is for one of the largest
+CPG companies, and they want to create a marketing survey
+application for a new product they were planning to launch. And
+traditional software development methods require 6 months to build
+such an application, and they were under tremendous time pressure
+because the product has to be launched quickly so that in the malls,
+people can actually test the products and all the survey information can
+be entered through application, etcetera.
+We leveraged our Relay Build, which is an Agentic SDLC tool that can
+significantly accelerate the software development by using Claude
+agents and other technologies. So we won this project because we are
+able to actually complete the project in 3 months and deliver to the
+customer. These are 3 distinct examples of various kinds of AI projects
+in terms of Agentic infrastructure, digital infrastructure as well as
+complex AI solution.
+And also in line with our AI first strategy, we'll continue to invest across
+AI capabilities within the organization as well as platforms,
+accelerators. And of course, the most important one is the talent. And
+as part of this effort, we are in the progress of building a dedicated
+1,000 AI and generative AI focused team by end of FY27 to support
+growing customers' demand to build generative AI solutions.
+Of course, in terms of the AI productivity, we are targeting towards all
+of our workforce to be trained. And of course, we already started
+adopting various AI productivity tools with multiple client projects and
+our goal is to reach 90% of all our engineers, testers and all service
+delivery personnel will be trained and will start using effectively AI tools
+in the productivity space by 90% by the end of FY27.
+Page 9 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+So overall, our focus remains clear, helping enterprises to deploy AI
+safely, responsibly and at scale while delivering measurable business
+outcomes. With that, I now hand it over to Venkat.
+Venkatraman N: Thank you, Sridhar. Good morning, everyone. What I'll do in the next
+few minutes is give you a highlight of our financial and operational
+performance for the quarter and the year that ended on March 31,
+2026. Starting with our fourth quarter performance. Our revenues in
+constant currency grew 0.5% sequentially and 6.4% year-over-year.
+Operating revenues for the quarter were INR604 crores, a sequential
+growth of 2.8% and approximately 11% year-over-year. Total income,
+which is operating income plus other income was INR621 crores, a
+sequential growth of 3.1% and 9% sequentially and year-over-year. It's
+pertinent to note here that we have grown every quarter since our IPO
+and most importantly, on a profitable basis.
+As you will all be aware, the last quarter was one of fluctuations, be it
+currency, geopolitical situations or technology changes. However, I'm
+happy to say that we have managed to navigate these very well and
+continue to grow.
+Here, I would be remiss if I did not say that our industry has also pulled
+it off decently well. With the fourth quarter behind us and almost 2
+months into the new year, we are now looking forward to the new year
+with optimism and vigor. We are putting all our energy and focus into
+meeting our guided growth of 12.5% in constant currency for the next
+year.
+Operating margin for the quarter remained stable at INR106 crores and
+17.5% of revenue. Investments made in GBS, our AI-first strategy and
+our new sales engine have helped deepen our existing customer
+relationships while helping open many new doors. The GBS unit now
+Page 10 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+contributes almost 3.3% of our revenues while improving on its
+profitability metrics.
+At the risk of repetition, I should mention that GBS is our AI innovation
+engine, while AI and AI-led services are now a dominant part of our
+overall business. To make this amply clear, in the coming months, we'll
+be reporting on a metric that is revenue from AI-led services.
+We will also, in the coming months, begin reporting on pricing models,
+which reflect our AI-first approach and AI-led business as distinct from
+what we call out today under contracts model, namely revenue split by
+time and materials or fixed price. This is a much needed clarification as
+markets tend to mix these 2 distinct terms.
+Turning to some of the operational metrics. We continue to maintain
+strong utilization, numbers, and we are at about 81% compared to
+77.4% in the previous year in the same quarter. PAT for the quarter at
+INR61 crores has shown a significant improvement over the previous
+year and the previous quarter.
+However, to be consistent with what I have been talking about until
+now, our adjusted PAT, which is PAT adjusted for exceptional items and
+intangibles was INR72 crores, and it stood at 11.5% of our total income,
+showing growth both sequentially and year-over-year. On working
+capital, DSO increased marginally to 94 days from the 92 that we were
+earlier on, and we should bring that back through accelerated post-
+quarter collections.
+Coming to the full year performance, operating revenue was INR2,315
+crores, representing a year-over-year growth of 12.3%. Growth in
+constant currency came in at 9.2%, slightly below our guidance that we
+had made for the year of 10%, primarily driven by a delay in the right-
+shifting of a couple of our Arttha license deals. This also impacted our
+Page 11 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+fourth quarter growth. Efforts are underway to close these right-
+shifted deals in the first quarter of the current year.
+Total income for the year stood at INR2,400 crores, which I must say
+has a nice ring to it as a number. Growth on this count was 11%.
+Operating margin was 17.4% versus 17.3% in the previous year and at
+INR401 crores, it has grown 12.3%. So the 17.4% and thereabouts has
+been largely in line with previous year.
+While I spoke about our growth guidance for FY27, our expectations on
+operating margin, though we are not calling it as a guidance, is to
+improve the same by about 100 basis points. That means about 17.5%
+to 18.5% on operating margin is what we are seeking to achieve.
+We will be driving this on the back of improved utilization, execution
+discipline and efficiencies that come from integrating acquired entities
+while continuing to make investments in our AI initiatives. Utilization
+for the year remained above 81% compared to the 77% in the previous
+year.
+PAT for the year at INR213 crores has shown a growth of 15% over the
+previous year. I'm not comparing it with the previous quarter because
+we had certain exceptional items. Adjusted PAT came in at INR279
+crores or 11.61%, showing a growth of 9.4% of the previous year.
+From a customer perspective, we ended the year with 306 active
+customers, that is 51 additions during the year. I would like to draw
+attention to our billion dollar clients, which have grown from 82 to 91.
+Very interesting to note that this cohort continues to contribute almost
+58% of our revenue, giving you a good insight into our quality of
+earnings.
+Page 12 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+We ended the year with about 6,500 Happiest Minds, a slight drop from
+the previous year. While attrition has been high at 17%, it is not
+unmanageable. It is within the region that we have been seeing a trend
+over the past couple of quarters.
+From a balance sheet standpoint, we continue to maintain a healthy
+financial position with robust cash flows generation -- generating
+sufficient liquidity and flexibility to continue investing in our strategic
+growth initiatives. Our return on capital employed has improved to
+22% compared to the 21% in the last year.
+As I look ahead into FY27, our focus remains on sustaining growth
+momentum through AI-led transformation opportunities and
+enterprise modernization programs, while continuing disciplined
+execution and strategic investments in AI capabilities, platforms, sales
+capacity and future-ready talent. Our growth guidance for FY27 is
+supported by a healthy and improving pipeline, traction in AI-led
+opportunities and customer engagements. Overall, I believe we are
+entering FY27 on a strong footing.
+Before I conclude, I'm happy to share that our Board has announced a
+final dividend of INR3.65 per share, which, when approved by the
+shareholders, will take the total dividend for the year to INR6.40 per
+share. Thank you for listening to us patiently.
+I will now request the moderator to open the call for questions.
+Moderator: Thank you. First question comes from the line of Aditi Patil with ICICI
+Securities.
+Aditi Patil: Hello, thank you for the opportunity. My first question is on the Q4
+revenue growth. While you mentioned that there were -- there was a
+right shifting of Arttha licenses in Q4. Was there any other reason for a
+Page 13 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+softer growth like in high-tech vertical, we see a sharp Q-o-Q decline in
+both Q3 and Q4. So if you can help me on this?
+Venkatraman N: Sure. Aditi, yes, go ahead, Joseph.
+Joseph Anantharaju: Yes. So if you look at the Q4 growth, we did 0.5% quarter-on-quarter at
+constant currency and INR growth was 2.8%. And for the year, constant
+currency was 9.2%, slightly short, maybe tad bit short of the 10% that
+we had projected at the beginning of the year. And INR was 12.3% year-
+on-year.
+Now if you just get down to a couple of verticals that did well and a
+couple where we saw a little bit of a drop. BFSI continues to do well,
+whether you look at a quarter-on-quarter growth or year-on-year
+growth, the bets that we made on PureSoftware and Aureus is paying
+off. And so that's one.
+Second is if you look at EdTech, from a Q4 perspective, there was a
+good growth of 8.4% quarter-on-quarter. And we are seeing in a couple
+of accounts where we had the challenge, we are seeing traction back
+in those accounts. We're also seeing our Eduweave platform getting
+traction. We have a couple of customers already for this platform, and
+there are quite a few prospects.
+Now as far as Hi-Tech is concerned, there was -- a big reason was for
+one of our customers who's based out of Canada and who has
+operations in China, we were developing a completely new product for
+them, a mixture of an automated cooking system and on the hardware
+and backed up by low-code, no-code platform that was AI-driven. And
+this got completed.
+The customer is trying to take it to market and there's a pause in the
+engagement. And the drop in that revenue, it was a pretty sizable
+Page 14 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+account for us. That's what's resulted in the drop in Hi-Tech. I can
+almost link it back to one customer.
+Now health care grew 12.8% year-on-year. But for the quarter, there
+was a dip of 5%, and that's because one of the customers in the pharma
+space, there was an engagement that also included some license
+revenue that got completed in Q3. And therefore, in Q4, we had that
+thing.
+But overall, I would say BFSI and health care continue to show good
+resilience, as I pointed out in my talking points. We also see retail and
+CPG having good traction. EdTech already talked about, we see
+budding shoots and Eduweave should lead to growth. GenAI is driving
+a fair bit of interest in this segment. Aditi?
+Moderator: We have lost the line of Ms. Aditi.
+Vinesh Vala: Yes, operator, Vinesh here. So I will go ahead with the question.
+Moderator: Yes, please go ahead.
+Vinesh Vala: Yes. So sir, on our AI-first initiatives, how does the AI-first initiative
+fundamentally differs from the company's previous digital engineering
+approach? And what specific changes in the operating model or service
+delivery or client engagement have we implemented since its loan?
+Joseph Anantharaju: Sure. So let me take the first question -- first part of the question and
+I'll let Sridhar talk about some of the initiatives and some of the work
+we're doing in the AI space. So we started the company as a digital
+native company, Vinesh. And I would say a lot of the work we did was
+around data, cloud, customer user experience.
+But one thing that was common was data all along. And even in our
+initial years, we did quite a bit of AI work with the customers, but it was
+Page 15 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+more of the traditional legacy AI, right? And 3, 4 years back with GenAI
+with the announcement of Copilot and seeing the prospects for this
+technology or this trend, we started generative AI business unit. And
+we've seen very good traction in generative AI business unit.
+And what we are seeing is that -- and what we are also evangelizing to
+customers and guiding them is that any initiative they take up now, any
+platform that they build, they should look at how does AI become a
+central part of this. And it could -- a lot of it would be digitization or
+digital engineering or transformation.
+And for those who have not really fully realized the benefits of digital
+transformation, the advantage is now they can do it with AI at the
+central part of it. So that is the overall thought process behind the AI
+first strategy, which has multiple elements.
+I'll talk -- I'll let Sridhar talk about some of the things that we're doing
+on multiple fronts from an AI perspective and also a little bit about how
+the legacy AI/ML ops and generative AI, how we view them. So Sridhar,
+over to you.
+Sridhar Mantha: Thanks, Joseph, Vinesh. There are 2 sides. Of course, AI is an integral
+part of -- or classically AI has been integral part of our digital positioning
+as well as the capabilities historically, as Joseph shared. However, as
+you could see from the examples that we are illustrating, customers to
+take the advantage of the AI, there's a lot that happens behind the
+scenes that could be even sometimes creating the digital
+infrastructure.
+I did talk about even creating the IoT sensors kind of infrastructure
+before leveraging AI. And sometimes it could be -- you need to have
+the data or AI infrastructure, I have taken the automobile example,
+Page 16 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+right? So think about it more like the tip of the iceberg when it comes
+to the AI solutions.
+However, the reason for us to actually go heavily on the AI first as a
+strategy is not what we build for the customers, but also how we build
+for the customers. That's where the AI productivity tools for the entire
+service delivery come into the picture, be it engineering, testing,
+infrastructure management or cybersecurity, all the services that we
+are delivering historically and we continue to deliver is being
+significantly impacted by the AI.
+So that way, from the talent as well as our offerings, right, be it the AI-
+centric offerings or leveraging the AI for other kinds of work that the
+customer requires. All those pieces already are various programs that
+we have in the organization. I already shared some kind of the 3 goals
+I mentioned, right, which is 90% of -- when we started the digital
+initiative, we had the goal of doing the digital work only and eventually,
+we reached approximately 95%, 96% as a company.
+Very similarly, when it comes to leveraging the AI productivity tools at
+varying levels, be it Agentic or AI augmented, we want to hit 90% plus
+by end of the year. So fundamentally, it is changing every service
+offering that we are having, right? That's the reason why we wanted to
+take it as an AI-first initiative that has an impact on our learning
+function, right, project managers and how we price our customers,
+more focus on the outcome-based models.
+And then, of course, our offerings also integrated with AI. And that
+allows us also to start looking at certain tools I mentioned Relay Build
+and of course, the most important flagship solution is enterprise AI
+platform.
+Page 17 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+Vinesh Vala: Yes, sir. Got it. Thanks for the elaborate answer. So, one more thing
+right now, all the companies are announcing the partnership, so how
+are we looking at a partnership with some of the players in order to
+scale this AI-led capability?
+Sridhar Mantha: Thanks, Vinesh. Actually, I missed that part as part of telling. There
+were 2 new -- of course, historically, we do have strong partnerships
+with Microsoft as well as with AWS. However, in the last quarter itself,
+we did establish with 2 interesting companies, of course. One is
+Anthropic. When they started a formal partnership program, we
+became one of the early partners for them.
+So we closed a partnership with Anthropic in the last quarter. The
+second one, which is much more interesting is a young startup called
+UnifyApps. They actually are -- they have a product which actually can
+connect the data side of the enterprise environment all the way up to
+the AI, right?
+We created a 360-degree partnership with them. And we work very
+collaboratively with them in terms of taking out-of-the-box AI-based
+solution with low-code, no-code way of developing agents on the top
+of it. So that way, we are looking at the industry giants.
+Historically, Microsoft, AWS, we already did have. Anthropic, we
+established already in the last quarter. And in emerging startups that
+are transforming the enterprises like UnifyApps, we established a
+partnership also in the last quarter. So 2 new partnerships in the last
+quarter, Vinesh, Anthropic and UnifyApps.
+Moderator: Next question comes from the line of Aditi Patil with ICICI Securities.
+Aditi Patil: Yes, thank you. So, I wanted to -- I had 2 questions on the GBS business
+unit. While the revenue growth this quarter, like it has grown
+Page 18 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+sequentially, but there is a drop in the segmental margins. Can you
+share the reason for this drop? And also in terms of the AI platform,
+what kind -- I mean, apart from Arttha, what other platforms are
+already being adopted by customers? And if you can share some
+metrics of the platform adoption?
+Venkatraman N: So Aditi, let me take the first one on the margins, and I'll hand it over
+to Sridhar and Joseph for the second. See, as far as GBS business unit is
+concerned, it contributes about 3.3% of our total company's revenues.
+It's actually nothing but an AI center of innovation if you really look at
+it because if you look at this concept of AI-led services or AI-induced
+services, that number is much, much larger.
+But what we do in GBS is the AI -- it's an AI center of innovation. We
+started it to take a lead in all that thing we do in AI, created it as a BU.
+And like I've been saying in the past, we have dedicated people to it
+about 200 people. But the large part of AI is now becoming -- it's going
+into various other parts of the business.
+So while there is this concept of BU and BU profitability, the intent at
+GBS is to make sure that we create solutions and tools, which are ahead
+of time, focused on customer needs and that kind of a thing. So it's not
+profitability.
+The profitability tends to get captured in the larger PDES and the IMSS
+area work. But just to give you a case in point, conversion of Arttha
+Banking or inducing it with AI is something that's happening. The entire
+revenue of Arttha Banking sits inside BFSI and it gets attributed to
+PDES.
+Something that we do in ELAIRA or ELLIPSE, our platforms on the
+security and the customer support standpoint, that gets counted as
+part of IMSS, which is another BU. But without GBS giving you the tech
+Page 19 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+direction and the direction on the innovation and where the markets
+are headed, we are not going to be able to do that.
+So what we are trying to do is over a period of time, GBS becomes a
+horizontal, they supply and -- they will serve the entire company with
+the AI capabilities that are built. So as a BU, the first order of preference
+is to make sure that the people deployed in that unit, they are
+completely used across the company.
+But at the same time, they stand for a certain element of revenue. And
+let me not say profitability, but at least to make sure that it makes
+economic sense for having that team. Does that make sense, Aditi?
+Aditi Patil: Okay. Yes, it makes sense. Understood.
+Venkatraman N: Over to you, Sridhar.
+Sridhar Mantha: Yes. So Aditi, in terms of the, of course, the platforms that we are
+building, I'll put them into 3 buckets, Aditi. One is the AI productivity. I
+mentioned something called Relay Build, right? We have something
+called Agent Hub.
+So the idea is like when the engineering teams are like looking at the
+requirements, how can we generate near 100% code, right, from the
+specifications directly. That's what the Relay Build addresses. And
+today, we are -- I already did talk about one customer, right, which is a
+large CPG. And also within our internal projects in a lot of places, we
+are using it.
+The other one is Agent Hub where enterprise quality guardrails can be
+put on these coding agents because we are seeing a lot of these news
+articles on coding agents removing the production database or turning
+rogue, etcetera, right? So checks and balances, guardrails, etcetera. So
+that at least are controlled.
+Page 20 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+So those are more on the AI productivity side. And on the service
+delivery side, of course, one example, ELAIRA was mentioned by
+Venkat, and that is predominantly on the customer support side,
+complete AI-based solution that we have, which is a little bit skewed
+towards the pharma industry, but it's applicable to other verticals, too.
+And another one on the cybersecurity space, again, falls broadly under
+our IMSS umbrella is SecAIGenie, which is actually on the cybersecurity
+side. So a lot of the issues are text-based and complete AI solution that
+can analyze and identify what kind of security threats can be there.
+And the last category is the vertical solutions. Joseph did talk about the
+Eduweave, right, which is actually a collection of multiple AI use cases
+for the education institutions along with the digital infrastructure so
+that any academic institution can leverage. One example out of all AI
+use cases we have is student engagement.
+So leveraging the video analytics, image analytics and everything, how
+well the students are engaged in the platforms, so the multiple AI use
+cases in the education space, and we have insurance in a box, right?
+Again, a lot of AI use cases, along with the complete insurance
+workflows as part of it, Arttha anyhow on the banking side, we have.
+And all this experience is what made us to come up with an enterprise
+AI platform that can be highly customizable for each of the verticals for
+us to start rapidly creating vertical-oriented solution. So these are some
+examples of the various AI solutions. Apart from that, we do have
+bioinformatics solution, multi-omic solution, etcetera, which are,
+again, very AI-focused and a little bit narrower than the solutions I
+mentioned.
+Aditi Patil: Okay. Got it. Do you -- can you share some adoption metrics for these
+platforms? Or they are still in the initial stage?
+Page 21 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+Sridhar Mantha: So in terms of the adoption, like the AI productivity, of course,
+naturally, you can assume as well as understand that the adoption is
+extremely much higher because these are not vertical solutions, pretty
+much every software development project we can use, right? So that
+way, the Relay Build, which is on the AI product side, at this point, we
+already have 40% adoption within our internal projects and the
+customer projects and everywhere.
+And from there, like, of course, they'll keep adopting more. And
+ELAIRA, for example, right, is actually a companion solution for our
+well-established ELLIPSE platform, right, which actually can allow
+complete infra AIOps kind of solution. So that way, like we have ELLIPSE
+very well adopted with a lot of our projects and ELAIRA is being
+adopted in those places for the customer support.
+Aditi Patil: Okay. Okay. Got it. I had a couple of more questions on the guidance.
+So revenue guidance of 12.5% is very assuring. Can you help me
+understand how much of it is due to the deals we have already won?
+And how much is contingent on the higher probability of pipeline
+conversion?
+Joseph Anantharaju: It's a mixture of both, Aditi. The approach we took is to do a grounds-
+up revenue plan. In March, we had each of the industry groups and the
+IMSS and Generative AI business unit to come up with their plans. And
+we also had the centers of excellence come up with independent plans
+to make sure that it's all aligned.
+And just before this Board meeting last week and the week before last,
+we did a stress test of the Q1 and Q2 guidance because if you can meet
+the first half yearly numbers, it gives much higher level of confidence
+that we'll be able to meet the annual plan. And we've built the plan for
+15%, whereas we've kind of -- the revenue plan, but the P&L has been
+built on 12.5%. So that is a little bit of cushion.
+Page 22 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+And as we've said, our pipeline has grown by 27% quarter-on-quarter,
+this is a mixture of NN and opportunities in our existing business. As
+you know, our repeat business is 92% that varies between 92% to 94%
+depending on the quarter.
+So that gives quite a bit of solace, right, having that stability and the
+good thing about the pipeline also is there are several large deals that
+are cutting across quarters and across years, which gives a little bit
+more of stability and cushion to the overall projection. I've already
+talked about the vertical outlook that we have.
+So based on all -- and we've talked about how we're getting a lot of
+traction and success in the AI-first strategy. So all of these factors have
+contributed to giving us the confidence for the 12.5% guidance that we
+provided.
+Aditi Patil: Okay. Got it. And on the margin side, what would be the planned
+headwinds in terms of like investments on sales and marketing or AI
+capability building and the annual wage increments, if you can...
+Venkatraman N: Yes. So Aditi, we have called that out in the press release yesterday.
+See, we did have tailwinds and headwinds last year, thanks to the way
+the foreign currency moved in our favor. We have also had currency
+losses because of the forwards that we have taken. So quite a few
+moving parts. But despite that, our focus will be to maintain and
+protect the 17.5...
+Aditi Patil: Okay. I was asking from FY27 point of view, would we be -- would our
+sales and marketing investments and AI investments would be higher
+in FY27 versus FY26?
+Joseph Anantharaju: I think Venkat has dropped off. So let me take that, Aditi. I think there
+would be a little bit of increase in the sales headcount and cost because
+Page 23 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+there were some open positions that took time to fill up last year that
+are seeing people come on board right now.
+And we also had to do a little bit of a shift because when we moved
+from hybrid BDMs to client partners or account managers for existing
+accounts and hired a new set of NN BDMs, we also found that some of
+the people that we had were not fitting into that pure client partner
+profile that can grow accounts into large customers. So those shifts are
+taking place.
+On AI, we'll continue investing, whether it's on the platforms, Sridhar
+talked about many platforms that we are building. All of them have well
+detailed GTM and positioning behind them and even capability building
+because we feel quite confident that the business will come because as
+we speak from an AI and generative AI perspective -- GBS, we do have
+money sitting on the table.
+So we don't look at this as really being headwinds. It could be
+transitory. And that's why what Venkat said that we will make sure that
+we operate in the guided EBITDA margin and operating margin of
+between 17.5% to 18.5% is what we are targeting in FY27.
+Venkatraman N: Sorry, did I get cut off somewhere in between..
+Joseph Anantharaju: You were cut off and I addressed that question.
+Venkatraman N: Yes, thank you. And we have covered this in our press release, 17.5%
+to 18.5% is what we are trying to maintain while balancing out all the
+headwinds and tailwinds on the expenditure and revenue front. But
+investments will continue, and we'll obviously prioritize that if it comes
+to a question of where to deploy money.
+Aditi Patil: Okay, got it, thank you.
+Page 24 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+Moderator: Thank you, the next question comes from the line of Dipesh Mehta
+from Emkay Global.
+Dipesh Mehta: A couple of question, but just want to understand the guidance part.
+We expect revenue growth to accelerate into FY27. What gives us
+confidence? Can you provide some sense about, let's say, deal TCV,
+ACV related pipeline I heard you said, but pipeline obviously need to
+get converted and then revenue ramp-up need to happen. So if you can
+give some more detail and which vertical you expect to lead the
+growth?
+Venkatraman N: Dipesh, shall I -- I'll quickly cover the TCV, ACV question and then hand
+it over to Joseph. See, we have traditionally not been giving TCV, ACV
+because there is no one standard formula adopted by the industry. I'm
+not making a statement that it's not something that is possible, not
+possible, but we have stayed away from giving that.
+But that said, we are pulling that together, and we'll hopefully, in time,
+be able to share that. But the larger thing is you should see the way we
+build our business numbers. One is based on repeatable business, the
+extent of new business that is expected to come in from the pipeline.
+When we are talking about pipeline, it is new business, existing new
+and new, new. And then you have the existing business, which is
+growing at a certain clip, forming part of a large percentage, 93%, 94%
+of the total business. You put that together, that's how we build up our
+business plan.
+So we -- it was on the same basis that we have been reporting over the
+last 4, 5 years. While we are getting our numbers together, the TCV,
+large deal value. These are all something that makes possibly sense in
+the large kind of an environment -- large company environment. But at
+Page 25 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+our size of 300 million, it's all about focused execution on the current
+pipeline and the opportunities, Dipesh. Over to you, Joseph.
+Dipesh Mehta: I understand -- yes, yes, sorry
+Joseph Anantharaju: Yes, sorry, just to add to that, Dipesh, I'll break it up into 3 sections,
+right? Some of the deals that we've closed. I'll just give you a high-level
+view, right, with one of a pre-owned company that's in the warehouse
+and logistics solutions space. We've just signed a deal to take over all
+of their applications and infrastructure.
+It's a 3-year deal that's around $12 million to $15 million, right? And we
+are in discussion to sign up for taking over their technology as well,
+right, the engineering arm. And that will -- it's a very active
+conversation. Again, over 3 years, it will be $8 million to $10 million,
+right?
+Now for a large insurance provider in Southeast Asia, we -- during the
+year, we won a couple of new contracts or deals. It's an existing
+customer where we've been able to grow the account. It's a $10
+million-plus account, right? We've been able to grow 40% year-on-year
+and got 2 large programs from them. And we're in discussion for a
+couple of more such programs.
+Again, with a large CPG company, we've won a 5-year deal to help them
+with some of their marketing experience with a company in the -- that
+provides Agentic AI platform. We've done a 360-degree partnership
+where we are their implementation arm and it's already a multimillion
+dollar engagement.
+So that's on what we've won. But in terms of pipeline as well, right, we
+have several large deals, both NN and EN, as I mentioned earlier, that
+are quite large and cutting across multiple years. That's the pipeline
+Page 26 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+part of it. And if you look at some of the initiatives that we had, right,
+we had talked about a PE initiative. And as we speak, we are the
+preferred partner for 4 PE firms.
+And I did give you some of the wins that I talked about our pipeline I
+talked about is coming from these PE companies. We have talked about
+GCC strategy, and we brought on board, as I mentioned in my talking
+points, we brought on board a head for that, who's putting a strategy
+that we will be implementing, and we should get traction over there.
+The large account strategy, we we've created 2 business units, one
+under Rohit Mathur, which has Hi-Tech industrial manufacturing and
+EdTech and the other one with Prathamesh, who came on board 4
+months, 5 months back that has retail CPG, BFSI and health care.
+Both are very seasoned leaders who've grown large accounts. So they
+will be leading the industry groups and the client partners to make sure
+that the foundation we laid for a large account strategy last year, we'll
+be able to take it to the next level. And the goal is to create multiple
+large accounts.
+And this year, maybe create 1 or 2, $20 million account, but at least lay
+foundation for multiple of these accounts. Another area that we
+thought where we're leaving money was on the SAP front, and we'll
+take up very specific areas over there. We're not going to boil the
+ocean. So we brought a very seasoned leader on board to lead that
+practice.
+So if you just look at all of this, there's so much -- and we have all of our
+platforms that Sridhar talked about where we're getting good traction.
+So this is what has given us the confidence, right, that we'll be able to
+hit this revenue growth that we've guided.
+Page 27 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+Moderator: Thank you. Next question comes from the line of Kuber with Axis
+Securities.
+Kuber: Thank you for taking my question. Thank you for the opportunity. Two
+questions from my end. So I would like to know about your acquisitions.
+I mean, historically, we have done a lot of acquisitions, right? So how
+these acquisitions are going to get benefited to us in the future? And
+when we talk about 12.3% of top line growth, could be a mix of -- if you
+can share some mix of inorganic as well as organic growth?
+And the second question is on AI. So everyone is talking about AI and
+uplifting their platforms as well. How different are we from those
+players? If you can just share some thoughts on that?
+Venkatraman N: I'll just address the question on organic, inorganic. Whatever we have
+put out there, 12.5% is organic first. There's no question of inorganic
+because there's nothing in the pipeline as of now. Whatever
+acquisitions we had done in the past have been integrated 1.5 years
+back. I too covered that. So it's completely part of our company.
+So we are, in fact, our plan for next year considers some of the
+efficiencies that are coming on account of the integration that we are
+talking about. So we have progressed far deep into integration. And
+even if you're looking from a regulatory standpoint, the company
+should not be in existence post a couple of months. So the number of
+12.5% is completely organic. Joseph?
+Joseph Anantharaju: So thanks, Venkat. Just adding to that, Kuber. If you look at it last 1.5
+years, whether that's me, Sridhar, Ram, Rohit, Prathamesh, we've been
+meeting all of these customers, whether it's from Puresoftware, Aureus
+and from the earlier acquisitions as well. And the planning and the
+cross-selling, all of that is being carried out by us out here.
+Page 28 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+And we are also, at the same time, leveraging some of the capabilities
+that the people in Puresoftware and Aureus brought to the table in
+some of the other customers that we have, whether it's in the
+insurance space or in the banking space or even in the health care
+space. So it's a totally integrated unit now.
+And as Venkat pointed out, the 12.5% is purely organic that we
+projected. If we do an acquisition, that will be on top of it. We are quite
+clear internally. In terms of AI, I'll attempt -- I'll give my point of view,
+and then I'll let Sridhar also jump in. So if you really look at it, Kuber, I
+think Happiest Minds is the only company that has a separate business
+unit for generative AI.
+And what that allows us to do is to just focus on the space, Sridhar,
+Praveen, RP and the team to focus on this space, develop depth in AI
+and generative AI, work closely with analytics and the DPA CoE, which
+have become kind of overlapping or extensions of the generative AI
+business unit because there's so much of -- if you look at automation,
+right, business process automation, there's a lot of Agentic AI coming
+in there.
+If you look at analytics, CoE, data is the underlying need for doing
+anything on AI. And so we are able to put this integrated story with GBS
+leading the way with the depth they bring to the table. The second
+thing I would talk about is the repeatable solutions that we are looking
+at and the platforms.
+I think the number of repeatable solutions that we have and Sridhar
+talked about quite a few of them, brings a lot of value to the table. On
+the SDLC front, we've created a separate center of excellence for
+making sure that we keep -- we saw that the change -- the pace of
+change was just too fast.
+Page 29 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+And very often, for us to advise the customer or to make pivots
+internally in terms of what to use, what not to use, we felt that having
+a separate center of excellence that would focus on these productivity
+tools, whether it's Cloud Code, Copilot, Gemini, all of the others Cursor
+and just keep track of the changes, how customers are adopting it, so
+we can we can distill all of these learnings go back to customers as well
+as to implement it internally. That, again, I think, is something that I
+don't think too many companies have done.
+So given our size, I think we are putting quite a bit of investment. We're
+making a lot of progress on multiple fronts. Our whole AI-first strategy
+has been -- has got multiple elements to it, including internal adoption
+of AI tools, which we can then be leveraged to advise customers. And I
+think that's what we are bringing to the table as a value proposition to
+our customers. Anything you want to add, Sridhar and start?
+Sridhar Mantha: Sure. The only point I want to add there, Kuber is, of course, there is
+always an excitement by multiple IT services companies to keep coming
+with the platforms, right? And that's where how we differentiate and
+why clients actually like what we are coming up with is.
+One of the strategic decisions we have taken is we didn't want to build
+a broader enterprise AI platform 2 years back because everything is in
+total flux, right? At that point, I'm saying any platform, clients are not
+in a position to believe they themselves don't know what this
+technology is.
+So what we did is we wanted to wait so that we gain sufficient
+experience, some of the examples Joseph shared, right, in terms of our
+repeatable solutions. And all the knowledge and experience that we
+gained is what prompted us to start thinking about as well as start
+developing and creating the enterprise AI platform.
+Page 30 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+The rest, we were actually using our existing experience with AI, for
+example, ELLIPSE understanding and experience, we enhanced and
+moved into ELAIRA kind of solution. So that's how we created multiple
+point solutions and now is the time for us to create a broader
+enterprise AI platform after 2 to 3 years of experience with generative
+AI.
+Moderator: Thank you. The next question comes from the line of Siddhant Sarraf,
+an Individual Investor.
+Siddhant Sarraf: Thank you for the opportunity. So, my question is a little naive, I would
+say. From a long-term governance perspective, could management
+provide some color on succession planning and development of the
+next line of leadership considering substantial promoter holding of
+around 32%?
+Joseph Anantharaju: Sure. So from -- one of the things that some of us in the founding team
+found a little surprising is that in 2012, just a year after we had started
+the company, Ashok had initiated a succession planning discussion.
+And he said we just started the company.
+So it's become, I would say, annual exercise that we have not missed a
+single year where we take all the senior and next level roles, and we
+look at the people playing those roles, what are they going to be ready
+for next and have discussion on who could be a potential successor,
+what is the areas that can be considered for development?
+And then what are the programs that are available or that we can avail
+of and this gets discussed with the Board as well. Last year, we also
+included Hogan Assessments to get a different view of these leaders
+and had that reviewed by the Board again.
+Page 31 of 32
+Happiest Minds Technologies Limited
+May 29, 2026
+And born out of this have been multiple development programs,
+including having some of our leaders attend IIM, Bangalore, ISB for
+specific training programs. We've started some training programs or
+development programs, that was not training, development programs
+internally. And we feel very confident in the kind of succession planning
+that we've done.
+At the same time, as I mentioned, we've got a few leaders externally
+because we also believe that getting some of some leaders from
+outside brings in fresh ideas and challenge some of the ways of doing
+things. So this is the approach we've taken to succession planning, and
+it's all been done with involvement, active involvement and inputs from
+the Board.
+Moderator: Thank you. Ladies and gentlemen, due to time constraints, we have
+reached the end of question-and-answer session. I now hand the
+conference over to Priyanka Sharma for closing comments.
+Priyanka Sharma: Thank you, everyone, for joining us today. We would also like to
+sincerely thank HDFC Securities for hosting this call on our behalf. We
+appreciate your continued engagement and support. Should you have
+any further queries, please feel free to reach out to the Investor
+Relations team at ir@happiestminds.com Thank you once again, and
+have a great day ahead.
+Moderator: Thank you. On behalf of HDFC Securities Limited, that concludes this
+conference. Thank you for joining us. You may now disconnect your
+lines.
+Please note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings.
+Page 32 of 32
