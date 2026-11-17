@@ -1,4 +1,4 @@
-ticker,quarter_key,revenue_growth_cc_pct,ebit_margin_pct,source_url,source_page,notes
+﻿ticker,quarter_key,revenue_growth_cc_pct,ebit_margin_pct,source_url,source_page,notes
 INFY,FY23_Q1,,,,,
 INFY,FY23_Q2,,,,,
 INFY,FY23_Q3,,,,,
@@ -150,23 +150,23 @@ MPHASIS,FY26_Q2,,,,,
 MPHASIS,FY26_Q3,,,,,
 MPHASIS,FY26_Q4,,,,,
 MPHASIS,FY27_Q1,,,,,
-OFSS,FY23_Q1,,,,,
-OFSS,FY23_Q2,,,,,
-OFSS,FY23_Q3,,,,,
-OFSS,FY23_Q4,,,,,
-OFSS,FY24_Q1,,,,,
-OFSS,FY24_Q2,,,,,
-OFSS,FY24_Q3,,,,,
-OFSS,FY24_Q4,,,,,
-OFSS,FY25_Q1,,,,,
-OFSS,FY25_Q2,,,,,
-OFSS,FY25_Q3,,,,,
-OFSS,FY25_Q4,,,,,
-OFSS,FY26_Q1,,,,,
-OFSS,FY26_Q2,,,,,
-OFSS,FY26_Q3,,,,,
-OFSS,FY26_Q4,,,,,
-OFSS,FY27_Q1,,,,,
+OFSS,FY23_Q1,,45.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=0.0%; not entered as constant-currency growth. Source file=OFSS_FY23_Q1_financial_report.pdf.
+OFSS,FY23_Q2,,39.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=7.0%; not entered as constant-currency growth. Source file=OFSS_FY23_Q2_financial_report.pdf.
+OFSS,FY23_Q3,,40.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=14.0%; not entered as constant-currency growth. Source file=OFSS_FY23_Q3_financial_report.pdf.
+OFSS,FY23_Q4,,43.0,,5.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=15.0%; not entered as constant-currency growth. Source file=OFSS_FY23_Q4_financial_report.pdf.
+OFSS,FY24_Q1,,42.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=4.0%; not entered as constant-currency growth. Source file=OFSS_FY24_Q1_financial_report.pdf.
+OFSS,FY24_Q2,,37.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=5.0%; not entered as constant-currency growth. Source file=OFSS_FY24_Q2_financial_report.pdf.
+OFSS,FY24_Q3,,46.0,,5.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=26.0%; not entered as constant-currency growth. Source file=OFSS_FY24_Q3_financial_report.pdf.
+OFSS,FY24_Q4,,43.0,,6.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=12.0%; not entered as constant-currency growth. Source file=OFSS_FY24_Q4_financial_report.pdf.
+OFSS,FY25_Q1,,47.0,,5.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=19.0%; not entered as constant-currency growth. Source file=OFSS_FY25_Q1_financial_report.pdf.
+OFSS,FY25_Q2,,43.0,,5.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=16.0%; not entered as constant-currency growth. Source file=OFSS_FY25_Q2_financial_report.pdf.
+OFSS,FY25_Q3,,41.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=6.0%; not entered as constant-currency growth. Source file=OFSS_FY25_Q3_financial_report.pdf.
+OFSS,FY25_Q4,,44.0,,6.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=4.0%; not entered as constant-currency growth. Source file=OFSS_FY25_Q4_financial_report.pdf.
+OFSS,FY26_Q1,,45.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=6.0%; not entered as constant-currency growth. Source file=OFSS_FY26_Q1_financial_report.pdf.
+OFSS,FY26_Q2,,41.0,,3.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=7.0%; not entered as constant-currency growth. Source file=OFSS_FY26_Q2_financial_report.pdf.
+OFSS,FY26_Q3,,41.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=15.0%; not entered as constant-currency growth. Source file=OFSS_FY26_Q3_financial_report.pdf.
+OFSS,FY26_Q4,,51.0,,6.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=20.0%; not entered as constant-currency growth. Source file=OFSS_FY26_Q4_financial_report.pdf.
+OFSS,FY27_Q1,,60.0,,4.0,Operating margin from OFSS financial-results release (used as EBIT-margin proxy; source labels it operating margin). Reported INR revenue YoY=69.0%; not entered as constant-currency growth. Source file=OFSS_FY27_Q1_financial_report.pdf.
 KPITTECH,FY23_Q1,,,,,
 KPITTECH,FY23_Q2,,,,,
 KPITTECH,FY23_Q3,,,,,
