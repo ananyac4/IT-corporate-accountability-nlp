@@ -1,0 +1,2 @@
+ticker,metric,scored_observations,within_range_count,mean_absolute_midpoint_error,mean_absolute_range_distance,within_range_rate_pct
+INFY,Revenue growth (constant currency),1,1,0.40000000000000036,0.0,100.0

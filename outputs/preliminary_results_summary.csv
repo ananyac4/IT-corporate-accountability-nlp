@@ -1,0 +1,6 @@
+analysis,scope,n,metric,value,interpretation
+transcript_coverage,20 companies; FY23 Q1-FY27 Q1,294,coverage_percentage,86.47,Valid transcript records / expected company-quarter records
+ofss_operating_margin,OFSS quarterly financial-results releases only,17,mean_operating_margin_pct,44.0,Descriptive statistic; reported operating margin used as EBIT-margin proxy
+ofss_operating_margin,OFSS quarterly financial-results releases only,17,median_operating_margin_pct,43.0,Descriptive statistic; not a cross-company finding
+ofss_operating_margin,OFSS quarterly financial-results releases only,17,min_operating_margin_pct,37.0,Descriptive statistic
+ofss_operating_margin,OFSS quarterly financial-results releases only,17,max_operating_margin_pct,60.0,Descriptive statistic; investigate exceptional quarters

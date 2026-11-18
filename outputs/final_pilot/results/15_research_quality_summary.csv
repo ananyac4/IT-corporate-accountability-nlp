@@ -1,0 +1,9 @@
+measure,value,interpretation
+Transcript records,24,Coverage records in the pilot
+Available transcripts,24,Expected target: 24
+Candidate statements,3387,Automated candidate pool; not all are verified findings
+Explicitly verified management statements,846,verified_speaker_role=MANAGEMENT and review_decision=INCLUDE
+Included explanation candidates,339,Requires semantic review before claiming recurrence
+Included communication candidates,367,Explicit INCLUDE only
+Financial actual rows,15,Only the supplied BSOFT and Persistent financial files
+Scorable guidance observations,1,"Verified source, target match, numerical range and actual"

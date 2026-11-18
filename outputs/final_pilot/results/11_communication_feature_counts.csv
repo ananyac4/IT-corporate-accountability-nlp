@@ -1,0 +1,7 @@
+ticker,classification,statement_count,feature
+INFY,Cautious / uncertain,19,communication_certainty
+INFY,Confident / assertive,7,communication_certainty
+INFY,Mixed / qualified,12,communication_certainty
+INFY,Neutral / forward-looking,1,communication_certainty
+INFY,High / quantified,17,communication_specificity
+INFY,Low / qualitative,22,communication_specificity

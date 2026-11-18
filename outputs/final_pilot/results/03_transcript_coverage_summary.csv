@@ -1,0 +1,4 @@
+ticker,expected_quarters,available_transcripts,total_characters,coverage_pct
+BSOFT,8,8,443217,100.0
+INFY,8,8,629803,100.0
+PERSISTENT,8,8,483570,100.0

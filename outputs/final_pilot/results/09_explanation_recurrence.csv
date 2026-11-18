@@ -1,0 +1,10 @@
+ticker,theme,candidate_statements,quarters_observed,quarters
+BSOFT,Other operating / financial explanation,118,8,FY23_Q1; FY23_Q2; FY23_Q3; FY23_Q4; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Attrition / talent / hiring,67,8,FY23_Q1; FY23_Q2; FY23_Q3; FY23_Q4; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Client-specific / portfolio changes,42,8,FY23_Q1; FY23_Q2; FY23_Q3; FY23_Q4; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Deal pipeline / ramp-up / decision cycles,26,8,FY23_Q1; FY23_Q2; FY23_Q3; FY23_Q4; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Currency / forex,8,7,FY23_Q1; FY23_Q3; FY23_Q4; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Seasonality / furloughs,28,6,FY23_Q2; FY23_Q3; FY24_Q1; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Demand / macroeconomic uncertainty,24,6,FY23_Q1; FY23_Q2; FY23_Q4; FY24_Q1; FY24_Q3; FY24_Q4
+BSOFT,Utilization / delivery capacity,17,6,FY23_Q1; FY23_Q2; FY23_Q4; FY24_Q2; FY24_Q3; FY24_Q4
+BSOFT,Investment / capability building,9,4,FY23_Q1; FY24_Q2; FY24_Q3; FY24_Q4
