@@ -1,0 +1,15 @@
+FINANCIAL ACTUALS CONSOLIDATION SUMMARY
+Run date: 2026-11-18 14:03:24
+Review queue rows: 12104
+Verified rows exported: 0
+Rows remaining unverified/pending: 12104
+Verified rows with non-numeric reviewed_value: 0
+Possible duplicate observations flagged: 0
+
+VERIFIED ROWS BY METRIC
+No verified rows yet.
+
+Verified dataset: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_actuals_verified.csv
+Pending review file: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_actuals_not_yet_verified.csv
+Only rows explicitly marked VERIFIED with complete audit fields are exported.
+Possible duplicate observations are flagged, not deleted.

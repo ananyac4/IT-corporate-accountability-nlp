@@ -1,0 +1,58 @@
+
+FINANCIAL REPORT CORPUS AUDIT SUMMARY
+====================================================================
+
+PDF FILES
+--------------------------------------------------------------------
+PDF files found: 281
+Readable PDFs: 281
+Unreadable PDFs: 0
+
+ENCRYPTION
+--------------------------------------------------------------------
+Encrypted PDFs: 10
+Successfully opened with empty password: 10
+
+COMPANY IDENTIFICATION
+--------------------------------------------------------------------
+Expected companies: 20
+Companies identified: 20
+Files with unidentified company: 0
+
+QUARTER IDENTIFICATION
+--------------------------------------------------------------------
+Expected quarters: 17
+Files with identified quarter: 281
+Files with unidentified quarter: 0
+
+EXPECTED COVERAGE
+--------------------------------------------------------------------
+Expected company-quarter combinations: 340
+Present combinations: 281
+Missing combinations: 59
+Duplicate company-quarter combinations: 0
+
+DUPLICATE FILE HASHES
+--------------------------------------------------------------------
+Files involved in identical-hash groups: 6
+
+MANUAL REVIEW
+--------------------------------------------------------------------
+Files requiring manual review: 0
+
+OUTPUT FILES
+--------------------------------------------------------------------
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_pdf_audit.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_quarter_coverage.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_duplicates.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_duplicate_hashes.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_review_required.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_missing_quarters.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_corpus_audit_summary.txt
+
+IMPORTANT
+--------------------------------------------------------------------
+Quarter coverage is based on filenames, not verified PDF contents.
+Identical hashes and incorrectly labelled reports require
+additional document-level verification.
+====================================================================

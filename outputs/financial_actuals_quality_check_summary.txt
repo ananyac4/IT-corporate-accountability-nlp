@@ -1,0 +1,26 @@
+SCRIPT 26 V2: FINANCIAL ACTUALS QUALITY SCREEN
+==========================================================
+Input candidates: 1,101
+Candidates for sample audit (not verified): 1,098
+Rows requiring review: 3
+Possible duplicate rows (retained): 403
+Companies: 19
+Observation quarters: 17
+BY METRIC:
+REVENUE: 246
+EBITDA_MARGIN: 219
+EBIT_MARGIN: 178
+PAT_MARGIN: 142
+REVENUE_GROWTH: 122
+PAT_NET_PROFIT: 87
+OPERATING_MARGIN: 46
+EBITDA: 35
+EBIT: 26
+
+IMPORTANT:
+- CANDIDATE_FOR_SAMPLE_AUDIT is not a verified financial actual.
+- MEDIUM mapping confidence is not promoted to HIGH.
+- Possible duplicates are retained and flagged; they are not deleted.
+- Monetary values with unspecified scale remain candidates but require normalization review.
+Checked data: data\processed\financial_actuals_quality_checked.csv
+Exceptions: data\processed\financial_actuals_quality_exceptions.csv

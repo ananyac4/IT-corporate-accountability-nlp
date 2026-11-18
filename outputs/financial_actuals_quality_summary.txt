@@ -1,0 +1,32 @@
+FINANCIAL ACTUALS DATA QUALITY SUMMARY
+Run date: 2026-11-18 14:03:39
+Verified dataset rows read: 0
+Companies represented: 0
+Company-quarter combinations represented: 0
+Unique metric categories: 0
+Rows with at least one quality issue: 0
+Rows in possible duplicate observation groups: 0
+Missing company-quarter combinations (of 340 expected): 340
+Numeric values not parseable by simple numeric conversion: 0
+
+QUALITY ISSUE COUNTS
+blank_ticker: 0
+blank_quarter: 0
+blank_metric: 0
+blank_value: 0
+blank_unit: 0
+invalid_period_basis: 0
+blank_source_filename: 0
+blank_pdf_page: 0
+blank_source_evidence: 0
+not_marked_verified: 0
+non_numeric_value: 0
+
+OUTPUTS
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_actuals_quality_by_company.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_actuals_duplicate_observations.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_actuals_missing_company_quarters.csv
+
+Interpretation: These checks identify structural issues; they do not prove
+that values are economically correct or comparable across companies.
+Check metric definitions, currency, units, consolidation basis and period basis.

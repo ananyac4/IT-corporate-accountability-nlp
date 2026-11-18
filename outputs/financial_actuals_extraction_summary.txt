@@ -1,0 +1,41 @@
+SCRIPT 24: AUTOMATED FINANCIAL STATEMENT EXTRACTION
+==============================================================
+Run timestamp: 2026-11-18 14:13:57.518454
+Input page rows: 7,874
+Pages with non-empty text scanned: 7,717
+Candidate records: 7,110
+High-confidence single-value candidates: 180
+Review-queue candidates: 6,930
+Processing errors: 0
+
+CANDIDATES BY METRIC
+------------------------------
+REVENUE: 2,724
+PAT_NET_PROFIT: 1,159
+EBITDA: 735
+EBIT: 570
+PBT: 488
+REVENUE_GROWTH: 399
+EBITDA_MARGIN: 252
+EBIT_MARGIN: 221
+PAT_MARGIN: 162
+TOTAL_ASSETS: 124
+OPERATING_INCOME: 96
+OPERATING_MARGIN: 74
+OPERATING_CASH_FLOW: 65
+TOTAL_EQUITY_LIABILITIES: 41
+
+IMPORTANT LIMITATIONS
+------------------------------
+1. These are machine-extracted candidates, not fully verified financial actuals.
+2. Multi-column financial table rows are routed to review; column positions are not guessed.
+3. Confidence scores are heuristic and must be calibrated against a representative sample.
+4. Currency, scale and period-basis detection may be ambiguous when headings are on other pages.
+5. Standalone and consolidated statements may coexist; inspect source context before combining.
+6. This script does not overwrite the existing manual-review or verified datasets.
+
+OUTPUT FILES
+------------------------------
+data\processed\financial_actuals_auto_extracted.csv
+data\processed\financial_actuals_auto_review.csv
+data\processed\financial_actuals_extraction_errors.csv

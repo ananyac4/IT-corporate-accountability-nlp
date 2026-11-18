@@ -1,0 +1,28 @@
+SCRIPT 25 V4: HIGH-PRECISION FINANCIAL HIGHLIGHT CANDIDATE EXTRACTION
+============================================================================
+Input page rows: 7,874
+Pages with text: 7,717
+Filename/verified-quarter mismatches: 3
+Period rule: verified_quarter when present; otherwise filename_quarter.
+Extracted candidates: 1,101
+Contextual review rows: 13,011
+Companies represented: 19
+Report quarters represented: 17
+Metric counts:
+  EBIT: 26
+  EBITDA: 35
+  EBITDA_MARGIN: 219
+  EBIT_MARGIN: 178
+  OPERATING_MARGIN: 46
+  PAT_MARGIN: 142
+  PAT_NET_PROFIT: 87
+  REVENUE: 246
+  REVENUE_GROWTH: 122
+
+LIMITATIONS:
+- All output rows are candidates, not independently verified actuals.
+- Obvious TCV, deal, client-count, headcount and segment-revenue contexts are excluded.
+- Multi-column table alignment is not inferred.
+- Currency, scale, consolidated/standalone and adjusted/reported basis require validation.
+Mapped output: data\processed\financial_actuals_period_mapped.csv
+Review output: data\processed\financial_actuals_period_mapping_review.csv

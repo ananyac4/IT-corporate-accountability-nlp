@@ -1,0 +1,31 @@
+FINANCIAL REPORT TEXT EXTRACTION SUMMARY
+Run date: 2026-11-18 13:49:15
+
+PDF files found: 281
+Files with extractable text: 281
+Files with no extractable text: 0
+Files with read/decryption errors: 0
+Total PDF pages: 7874
+Pages with extractable text: 7717
+Total extracted text characters: 6753543
+
+Encrypted PDFs: 10
+Encrypted PDFs opened with empty password: 10
+Files with unidentified filename pattern: 0
+Files in identical-content groups: 6
+Identical-content groups: 3
+
+Rows marked include_in_analysis=True: 278
+Rows with known content-quarter verification: 4
+
+IMPORTANT NOTES
+TEXT_EXTRACTED means text was extracted; it does not prove the report period or financial figures are correct.
+Most reporting quarters still require checking against the PDF contents.
+Known mislabelled duplicate copies are excluded from analysis by default.
+No source PDFs were renamed, deleted or modified.
+No OCR was performed. Image-only pages may contain no extractable text.
+
+OUTPUT FILES
+C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_report_text.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_report_page_text.csv
+C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_report_text_extraction_summary.txt

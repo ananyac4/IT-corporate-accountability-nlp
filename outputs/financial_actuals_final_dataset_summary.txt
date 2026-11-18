@@ -1,0 +1,48 @@
+SCRIPT 27 V2: FINANCIAL RESEARCH CANDIDATE DATASET
+==============================================================
+Candidate observations retained: 1,101
+Companies represented: 19
+Quarters represented: 17
+Candidates for sample audit: 1,098
+Rows requiring review: 3
+Possible duplicate rows retained: 403
+Metric counts:
+REVENUE: 246
+EBITDA_MARGIN: 219
+EBIT_MARGIN: 178
+PAT_MARGIN: 142
+REVENUE_GROWTH: 122
+PAT_NET_PROFIT: 87
+OPERATING_MARGIN: 46
+EBITDA: 35
+EBIT: 26
+
+Coverage by company:
+BSOFT: 16/17 (94.12%)
+COFORGE: 10/17 (58.82%)
+CYIENT: 16/17 (94.12%)
+HAPPSTMNDS: 14/17 (82.35%)
+HCLTECH: 7/17 (41.18%)
+INFY: 0/17 (0.00%)
+INTELLECT: 2/17 (11.76%)
+KPITTECH: 14/17 (82.35%)
+LTIM: 6/17 (35.29%)
+MASTEK: 13/17 (76.47%)
+MPHASIS: 6/17 (35.29%)
+NEWGEN: 4/17 (23.53%)
+OFSS: 7/17 (41.18%)
+PERSISTENT: 8/17 (47.06%)
+SONATSOFTW: 10/17 (58.82%)
+TATAELXSI: 11/17 (64.71%)
+TCS: 10/17 (58.82%)
+TECHM: 6/17 (35.29%)
+WIPRO: 7/17 (41.18%)
+ZENSARTECH: 11/17 (64.71%)
+
+IMPORTANT:
+This is an exploratory research-candidate dataset, not a verified financial actuals dataset.
+All rows have verified_actual=False until independently supported by source review.
+Do not combine different currencies, scales, consolidated/standalone bases, or adjusted/reported definitions.
+Dataset: data\processed\financial_actuals_research_dataset.csv
+Company coverage: outputs\financial_actuals_final_coverage_by_company.csv
+Quarter coverage: outputs\financial_actuals_final_coverage_by_quarter.csv

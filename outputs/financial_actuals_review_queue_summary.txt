@@ -1,0 +1,39 @@
+FINANCIAL ACTUALS REVIEW QUEUE SUMMARY
+Run date: 2026-11-18 13:52:03
+Candidate input: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_metric_candidates.csv
+
+Candidate rows read: 13561
+Review queue rows created: 13561
+Numeric candidates prioritized (P1): 7865
+Context candidates (P2): 5696
+Excluded duplicate candidates: 0
+Pre-existing actuals template rows copied as blank review rows: 338
+
+QUEUE COUNTS BY METRIC
+REVENUE: 6331
+PAT_NET_PROFIT: 2117
+EBITDA: 1399
+EBIT: 1148
+REVENUE_GROWTH: 995
+ORDER_BOOK: 553
+CASH_FLOW: 423
+OPERATING_MARGIN: 420
+GROSS_MARGIN: 175
+
+REVIEW RULES
+1. Open the original PDF named in source_filename.
+2. Find the exact metric and reporting period in the PDF.
+3. Record the exact value and unit; do not infer a value from nearby numbers.
+4. Record the PDF page number and a short source_evidence quotation or table label.
+5. Record the metric definition and period basis (quarter, YTD, or full year).
+6. Distinguish standalone-quarter values from cumulative/YTD values.
+7. Do not combine constant-currency growth with reported-currency growth.
+8. Do not treat EBITDA margin, EBIT margin and operating margin as interchangeable.
+9. Keep unresolved, missing or ambiguous values blank; never replace them with zero.
+10. Only copy reviewed values into the verified actuals dataset.
+
+Review queue: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_actuals_review_queue.csv
+Verified dataset template: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_actuals_verified_template.csv
+Summary: C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_actuals_review_queue_summary.txt
+
+No financial values were automatically verified or calculated.

@@ -1,0 +1,32 @@
+FINANCIAL METRIC CANDIDATE EXTRACTION SUMMARY
+Run date: 2026-11-18 13:51:26
+Input file: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_report_text.csv
+
+Source PDF records read: 281
+Source files excluded by Script 17 duplicate flag: 3
+Files with no extracted text: 0
+Files contributing at least one candidate: 271
+Total candidate rows: 13561
+
+CANDIDATES BY METRIC CATEGORY
+REVENUE: 6331
+PAT_NET_PROFIT: 2117
+EBITDA: 1399
+EBIT: 1148
+REVENUE_GROWTH: 995
+ORDER_BOOK: 553
+CASH_FLOW: 423
+OPERATING_MARGIN: 420
+GROSS_MARGIN: 175
+
+IMPORTANT LIMITATIONS
+- These are keyword-based candidate mentions, not verified financial values.
+- Numeric tokens may include dates, page numbers, table references or unrelated values.
+- Values may be in INR, USD, millions, crores, percentages or other units.
+- A metric label does not guarantee that the adjacent number belongs to that metric.
+- Revenue, EBITDA, EBIT, operating profit and margins must not be treated as interchangeable.
+- Reporting period and fiscal-quarter labels must be checked against the PDF.
+- Rows are marked NOT_REVIEWED; verify every value against its source page before analysis.
+
+Candidate CSV: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_metric_candidates.csv
+Summary: C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_metric_candidate_summary.txt

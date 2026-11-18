@@ -1,0 +1,13 @@
+FINANCIAL REPORT RECOVERY SUMMARY
+============================================================
+Original downloaded records: 281
+Recovery records processed: 281
+Valid local PDFs: 281
+
+RECOVERY STATUS
+------------------------------------------------------------
+recovery_status
+RECOVERED    281
+
+Recovery manifest: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_report_recovery_manifest.csv
+PDF directory: C:\Users\Ananya\IT-corporate-accountability-nlp\data\raw\financial_reports

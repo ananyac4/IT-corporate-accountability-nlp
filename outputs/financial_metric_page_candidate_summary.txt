@@ -1,0 +1,34 @@
+PAGE-LEVEL FINANCIAL METRIC CANDIDATE EXTRACTION SUMMARY
+Run date: 2026-11-18 13:57:29
+Input file: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_report_page_text.csv
+
+Page-level rows read: 7874
+Unique source PDFs seen: 281
+Source PDFs excluded by Script 17 inclusion flag: 3
+Page rows with no extracted text: 156
+Files contributing at least one candidate: 271
+Total page-level candidate rows: 12104
+
+CANDIDATES BY METRIC CATEGORY
+REVENUE_GROWTH: 634
+REVENUE: 5583
+EBITDA: 1399
+EBIT: 1106
+OPERATING_MARGIN: 173
+PAT_NET_PROFIT: 1866
+GROSS_MARGIN: 353
+CASH_FLOW: 509
+ORDER_BOOK: 481
+
+IMPORTANT LIMITATIONS
+- These are page-level keyword matches, not verified financial values.
+- Numeric tokens are shown only as review aids; they may be unrelated to the metric.
+- Each source_pdf_page is the PDF page sequence supplied by Script 17, not necessarily the printed page label.
+- Check reporting period, standalone-quarter versus YTD basis, currency, units and consolidation basis in the PDF.
+- Do not treat revenue, EBITDA, EBIT, operating profit or their margins as interchangeable.
+- All rows remain NOT_VERIFIED until manually checked against the original PDF.
+
+Candidate CSV: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_metric_page_candidates.csv
+Summary: C:\Users\Ananya\IT-corporate-accountability-nlp\outputs\financial_metric_page_candidate_summary.txt
+
+Script 20 completed successfully.

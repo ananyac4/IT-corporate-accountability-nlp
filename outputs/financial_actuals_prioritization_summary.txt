@@ -1,0 +1,34 @@
+FINANCIAL ACTUALS PRIORITIZATION SUMMARY
+Run date: 2026-11-18 14:03:05
+Input rows: 12104
+Output review rows: 12104
+Exact duplicate evidence rows flagged (not removed): 296
+Rows with numeric tokens: 7038
+
+PRIORITY COUNTS
+P1: 3882
+P2: 5766
+P3: 2456
+
+METRIC COUNTS
+REVENUE: 5583
+PAT_NET_PROFIT: 1866
+EBITDA: 1399
+EBIT: 1106
+REVENUE_GROWTH: 634
+CASH_FLOW: 509
+ORDER_BOOK: 481
+GROSS_MARGIN: 353
+OPERATING_MARGIN: 173
+
+REVIEW INSTRUCTIONS
+1. Open source_filename and inspect source_pdf_page.
+2. Confirm the metric label and the exact reported value.
+3. Enter reviewed_value and reviewed_unit exactly as reported.
+4. Set period_basis to QUARTER, YTD, or ANNUAL.
+5. Add a short quotation/table label to source_evidence_checked.
+6. Change review_status to VERIFIED only after checking the PDF.
+7. Leave uncertain records as NOT_VERIFIED; do not guess.
+
+Review queue: C:\Users\Ananya\IT-corporate-accountability-nlp\data\processed\financial_actuals_manual_review.csv
+All candidate rows are retained; duplicate evidence is flagged, not deleted.
