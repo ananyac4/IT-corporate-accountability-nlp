@@ -1,0 +1,218 @@
+=================================================================
+IT CORPORATE ACCOUNTABILITY NLP - PROJECT AUDIT
+=================================================================
+
+1. RAW PDF INVENTORY
+Transcripts: 0 PDF files
+Financial reports: 0 PDF files
+
+2. PROCESSED CSV AUDIT
+
+File: actuals_template.csv
+Rows: 338
+Columns: 7
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'revenue_growth_cc_pct', 'ebit_margin_pct', 'source_url', 'source_page', 'notes']
+Unique companies: 20
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'OFSS', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: actuals_template1.csv
+Rows: 338
+Columns: 7
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'revenue_growth_cc_pct', 'ebit_margin_pct', 'source_url', 'source_page', 'notes']
+Unique companies: 20
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'OFSS', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: candidate_classification_review.csv
+Rows: 14745
+Columns: 8
+Duplicates: 350
+Completely empty rows: 0
+Column names: ['ticker', 'page', 'speaker', 'sentence', 'statement_type', 'refined_guidance_status', 'refined_explanation_tags', 'speaker_role']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: candidate_coverage_summary.csv
+Rows: 19
+Columns: 6
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'candidate_sentence_count', 'transcript_count', 'explanation_candidate_count', 'guidance_candidate_count', 'communication_candidate_count']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: communication_candidates.csv
+Rows: 58037
+Columns: 16
+Duplicates: 18
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: coverage_by_company.csv
+Rows: 6
+Columns: 10
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'company', 'bse_code', 'first_quarter', 'last_quarter', 'n_found', 'n_expected', 'n_missing', 'missing', 'replace_candidate']
+Unique companies: 6
+Company names: ['CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'KPITTECH', 'WIPRO']
+
+File: download_manifest.csv
+Rows: 676
+Columns: 8
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'fy', 'quarter', 'document_type', 'url', 'status', 'bytes', 'detail']
+Unique companies: 20
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'OFSS', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: explanation_candidates.csv
+Rows: 8987
+Columns: 16
+Duplicates: 1
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: explanations_template.csv
+Rows: 0
+Columns: 7
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'theme', 'explanation_text', 'source_url', 'source_page', 'annotator_notes']
+Unique companies: 0
+Company names: []
+
+File: extraction_manifest.csv
+Rows: 295
+Columns: 9
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['filename', 'ticker', 'fy', 'quarter', 'text_file', 'character_count', 'status', 'error', 'text']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: guidance_candidates.csv
+Rows: 14745
+Columns: 16
+Duplicates: 6
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: guidance_template.csv
+Rows: 338
+Columns: 14
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'stated_quarter', 'target_quarter', 'metric', 'guidance_type', 'low_pct', 'high_pct', 'target_pct', 'direction', 'source_sentence', 'source_url', 'source_page', 'notes']
+Unique companies: 20
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'OFSS', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: OFSS_document_manifest.csv
+Rows: 17
+Columns: 8
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'source_file', 'pages', 'financial_year', 'quarter', 'quarterly_table_page', 'management_commentary_blocks', 'financial_extraction_status']
+Unique companies: 1
+Company names: ['OFSS']
+
+File: OFSS_management_commentary.csv
+Rows: 20
+Columns: 8
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'speaker', 'designation_as_printed', 'page', 'statement', 'source_type', 'transcript_equivalent', 'review_status']
+Unique companies: 1
+Company names: ['OFSS']
+
+File: OFSS_quarterly_actuals.csv
+Rows: 17
+Columns: 18
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'financial_year', 'quarter', 'source_file', 'source_page', 'source_type', 'revenue_unit', 'products_revenue_inr_mn', 'services_revenue_inr_mn', 'total_revenue_inr_mn', 'total_revenue_yoy_pct', 'operating_income_inr_mn', 'operating_margin_pct', 'operating_income_yoy_pct', 'net_income_inr_mn', 'net_margin_pct', 'net_income_yoy_pct', 'extraction_status']
+Unique companies: 1
+Company names: ['OFSS']
+
+File: refined_explanation_candidates.csv
+Rows: 0
+Columns: 22
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes', 'sentence_clean', 'statement_type', 'refined_guidance_status', 'refined_explanation_tags', 'speaker_clean', 'speaker_role']
+Unique companies: 0
+Company names: []
+
+File: refined_guidance_candidates.csv
+Rows: 0
+Columns: 22
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes', 'sentence_clean', 'statement_type', 'refined_guidance_status', 'refined_explanation_tags', 'speaker_clean', 'speaker_role']
+Unique companies: 0
+Company names: []
+
+File: research_sentence_candidates.csv
+Rows: 64184
+Columns: 16
+Duplicates: 21
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: speaker_review_summary.csv
+Rows: 19
+Columns: 2
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'UNVERIFIED']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: speaker_roles_template.csv
+Rows: 975
+Columns: 7
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['ticker', 'speaker', 'candidate_rows', 'sample_sentences', 'speaker_role', 'reviewer_verified', 'review_notes']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+Could not read transcript_metadata.csv: No columns to parse from file
+
+File: transcripts_text.csv
+Rows: 295
+Columns: 8
+Duplicates: 0
+Completely empty rows: 0
+Column names: ['filename', 'ticker', 'fy', 'quarter', 'text_file', 'character_count', 'status', 'text']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+File: unverified_guidance_review.csv
+Rows: 3989
+Columns: 22
+Duplicates: 4
+Completely empty rows: 0
+Column names: ['ticker', 'quarter_key', 'filename', 'speaker', 'page', 'module_tags', 'explanation_categories', 'guidance_candidate', 'certainty_term_present', 'uncertainty_term_present', 'specificity_or_numeric_present', 'numeric_value_present', 'sentence', 'review_status', 'reviewer_decision', 'review_notes', 'sentence_clean', 'statement_type', 'refined_guidance_status', 'refined_explanation_tags', 'speaker_clean', 'speaker_role']
+Unique companies: 19
+Company names: ['BSOFT', 'COFORGE', 'CYIENT', 'HAPPSTMNDS', 'HCLTECH', 'INFY', 'INTELLECT', 'KPITTECH', 'LTIM', 'MASTEK', 'MPHASIS', 'NEWGEN', 'PERSISTENT', 'SONATSOFTW', 'TATAELXSI', 'TCS', 'TECHM', 'WIPRO', 'ZENSARTECH']
+
+3. KEY DATASET CHECK
+transcript_metadata.csv: FOUND
+coverage_by_company.csv: FOUND
+actuals_template.csv: FOUND
+guidance_template.csv: FOUND
+explanations_template.csv: FOUND
+OFSS_quarterly_actuals_extracted.csv: NOT FOUND
+OFSS_management_commentary_extracted.csv: NOT FOUND
+OFSS_document_manifest.csv: FOUND

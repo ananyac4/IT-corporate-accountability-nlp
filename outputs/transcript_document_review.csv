@@ -1,0 +1,2 @@
+ticker,quarter_key,filename,text_file,extraction_status,document_classification,file_exists,character_count,word_count,usable_for_coverage,review_reason
+WIPRO,FY23_Q4,WIPRO_FY23_Q4_transcript.pdf,data/processed/transcripts_text/WIPRO_FY23_Q4_transcript.txt,OK,WRONG_DOCUMENT_TYPE,True,0,0,False,Exchange filing cover letter instead of actual earnings-call transcript

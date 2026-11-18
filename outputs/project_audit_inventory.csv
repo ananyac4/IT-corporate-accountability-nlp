@@ -1,0 +1,23 @@
+category,filename,path,size_kb,rows,columns,duplicates
+Processed CSV,actuals_template.csv,data\processed\actuals_template.csv,11.3,338,7,0
+Processed CSV,actuals_template1.csv,data\processed\actuals_template1.csv,7.27,338,7,0
+Processed CSV,candidate_classification_review.csv,data\processed\candidate_classification_review.csv,3213.33,14745,8,350
+Processed CSV,candidate_coverage_summary.csv,data\processed\candidate_coverage_summary.csv,0.69,19,6,0
+Processed CSV,communication_candidates.csv,data\processed\communication_candidates.csv,14459.21,58037,16,18
+Processed CSV,coverage_by_company.csv,data\processed\coverage_by_company.csv,0.88,6,10,0
+Processed CSV,download_manifest.csv,data\processed\download_manifest.csv,144.88,676,8,0
+Processed CSV,explanation_candidates.csv,data\processed\explanation_candidates.csv,2725.28,8987,16,1
+Processed CSV,explanations_template.csv,data\processed\explanations_template.csv,0.08,0,7,0
+Processed CSV,extraction_manifest.csv,data\processed\extraction_manifest.csv,16020.07,295,9,0
+Processed CSV,guidance_candidates.csv,data\processed\guidance_candidates.csv,4131.37,14745,16,6
+Processed CSV,guidance_template.csv,data\processed\guidance_template.csv,16.58,338,14,0
+Processed CSV,OFSS_document_manifest.csv,data\processed\OFSS_document_manifest.csv,1.22,17,8,0
+Processed CSV,OFSS_management_commentary.csv,data\processed\OFSS_management_commentary.csv,49.38,20,8,0
+Processed CSV,OFSS_quarterly_actuals.csv,data\processed\OFSS_quarterly_actuals.csv,3.15,17,18,0
+Processed CSV,refined_explanation_candidates.csv,data\processed\refined_explanation_candidates.csv,0.35,0,22,0
+Processed CSV,refined_guidance_candidates.csv,data\processed\refined_guidance_candidates.csv,0.35,0,22,0
+Processed CSV,research_sentence_candidates.csv,data\processed\research_sentence_candidates.csv,16018.07,64184,16,21
+Processed CSV,speaker_review_summary.csv,data\processed\speaker_review_summary.csv,0.26,19,2,0
+Processed CSV,speaker_roles_template.csv,data\processed\speaker_roles_template.csv,383.45,975,7,0
+Processed CSV,transcripts_text.csv,data\processed\transcripts_text.csv,16019.77,295,8,0
+Processed CSV,unverified_guidance_review.csv,data\processed\unverified_guidance_review.csv,1930.82,3989,22,4
